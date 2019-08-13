@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_3YR_B19063
+product-selection: ACS_10_3YR_B19063|table||||B19063|AGGREGATE+SELF-EMPLOYMENT+INCOME+IN+THE+PAST+12+MONTHS+%28IN+2010+INFLATION-ADJUSTED+DOLLARS%29+FOR+HOUSEHOLDS
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:42:05.540102

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_12_3YR_B15002D
+product-selection: ACS_12_3YR_B15002D|table||||B15002D|SEX+BY+EDUCATIONAL+ATTAINMENT+FOR+THE+POPULATION+25+YEARS+AND+OVER+%28ASIAN+ALONE%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:27:09.867561

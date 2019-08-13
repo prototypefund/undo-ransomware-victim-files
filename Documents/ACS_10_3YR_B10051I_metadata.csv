@@ -1,0 +1,17 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HD01_VD01,Estimate; Total:
+HD02_VD01,Margin of Error; Total:
+HD01_VD02,Estimate; Grandparent responsible for own grandchildren under 18 years:
+HD02_VD02,Margin of Error; Grandparent responsible for own grandchildren under 18 years:
+HD01_VD03,Estimate; Grandparent responsible for own grandchildren under 18 years: - 30 to 59 years
+HD02_VD03,Margin of Error; Grandparent responsible for own grandchildren under 18 years: - 30 to 59 years
+HD01_VD04,Estimate; Grandparent responsible for own grandchildren under 18 years: - 60 years and over
+HD02_VD04,Margin of Error; Grandparent responsible for own grandchildren under 18 years: - 60 years and over
+HD01_VD05,Estimate; Grandparent not responsible for own grandchildren under 18 years:
+HD02_VD05,Margin of Error; Grandparent not responsible for own grandchildren under 18 years:
+HD01_VD06,Estimate; Grandparent not responsible for own grandchildren under 18 years: - 30 to 59 years
+HD02_VD06,Margin of Error; Grandparent not responsible for own grandchildren under 18 years: - 30 to 59 years
+HD01_VD07,Estimate; Grandparent not responsible for own grandchildren under 18 years: - 60 years and over
+HD02_VD07,Margin of Error; Grandparent not responsible for own grandchildren under 18 years: - 60 years and over

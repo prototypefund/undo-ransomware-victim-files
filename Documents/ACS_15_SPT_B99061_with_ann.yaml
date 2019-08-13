@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_15_SPT_B99061
+product-selection: ACS_15_SPT_B99061|table||||B99061|IMPUTATION+OF+PLACE+OF+BIRTH
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:41:34.521038

@@ -1,0 +1,18 @@
+source: commons.wikimedia.org
+file: EDLC-Life time curves.png
+date: 2019-06-13 16:48:31.471245
+text: |
+  {{SVG|physics}}
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=life time calculation of supercapacitors}}
+  |Source         ={{own}}
+  |Author         =[[User:Elcap|Elcap]]
+  |Date           =2013-04-09
+  |Permission     =CC0 1.0 
+  |other_versions =File:Doppelschichtkondensatoren-Lebensdauer.png (German)
+  }}
+  
+  [[Category:Supercapacitors]]
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}

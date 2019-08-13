@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_12_5YR_B08128
+product-selection: ACS_12_5YR_B08128|table||||B08128|MEANS+OF+TRANSPORTATION+TO+WORK+BY+CLASS+OF+WORKER
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:16:48.977124

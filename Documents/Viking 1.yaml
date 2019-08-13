@@ -1,0 +1,41 @@
+source: en.wikipedia.org
+file: Viking 1
+date: 2019-06-15 20:04:19.120403
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/899377073
+---
+source: commons.wikimedia.org
+file: Viking_Aeroshell_-_GPN-2000-001903.jpg
+date: 2019-06-15 20:04:20.954579
+text: |
+  {{Information
+  |Description={{en|1=The Viking aeroshell which protected the lander during its entry into the Martian atmosphere.}}
+  |Source=[http://dayton.hq.nasa.gov/IMAGES/LARGE/GPN-2000-001903.jpg Great Images in NASA] [http://grin.hq.nasa.gov/ABSTRACTS/GPN-2000-001903.html Description]
+  |Date=1973-02-13
+  |Author=NASA
+  |Permission={{PD-USGov-NASA}}
+  |other_versions=
+  }}
+  {{NASA-image|id=GPN-2000-001903|alternateid=L-1973-00531|center=LARC}}
+  
+  [[Category:Great Images in NASA]]
+  [[Category:Viking mission]]
+---
+source: commons.wikimedia.org
+file: Cassini-science-br.jpg
+date: 2019-06-15 20:04:22.576938
+text: |
+  Artist's concept of general relativity experiment. [http://saturn.jpl.nasa.gov/news/press-releases-03/20031002-pr-a.cfm] {{PD-USGov-NASA}}
+  
+  Image courtesy of NASA/JPL-Caltech
+  
+  License [http://www.jpl.nasa.gov/images/policy/]:
+  
+  ''By electing to download the material from this web site the user agrees:
+  # ''that Caltech makes no representations or warranties with respect to ownership of copyrights in the images, and does not represent others who may claim to be authors or owners of copyright of any of the images, and makes no warranties as to the quality of the images. Caltech shall not be responsible for any loss or expenses resulting from the use of the images, and you release and hold Caltech harmless from all liability arising from such use.''
+  # ''to use a credit line in connection with images. Unless otherwise noted in the caption information for an image, the credit line should be "Courtesy NASA/JPL-Caltech."''
+  # ''that the endorsement of any product or service by Caltech, JPL or NASA must not be claimed or implied. ''
+  
+  [[Category:Cassini-Huygens]]
+  [[Category:General relativity]]
+  [[Category:Media missing infobox template]]
+  [[Category:Art from NASA]]

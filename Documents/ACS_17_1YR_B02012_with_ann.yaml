@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_17_1YR_B02012
+product-selection: ACS_17_1YR_B02012|table||||B02012|NATIVE+HAWAIIAN+AND+OTHER+PACIFIC+ISLANDER+ALONE+OR+IN+COMBINATION+WITH+ONE+OR+MORE+OTHER+RACES
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:18:53.701298

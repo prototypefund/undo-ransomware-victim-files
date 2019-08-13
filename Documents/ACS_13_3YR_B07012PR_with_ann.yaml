@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_13_3YR_B07012PR
+product-selection: ACS_13_3YR_B07012PR|table||||B07012PR|GEOGRAPHICAL+MOBILITY+IN+THE+PAST+YEAR+BY+POVERTY+STATUS+IN+THE+PAST+12+MONTHS+FOR+CURRENT+RESIDENCE+IN+PUERTO+RICO
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:22:18.124770

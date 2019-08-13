@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: DEC_10_SF1_P38B
+product-selection: DEC_10_SF1_P38B|table||||P38B|FAMILY+TYPE+BY+PRESENCE+AND+AGE+OF+OWN+CHILDREN+%28BLACK+OR+AFRICAN+AMERICAN+ALONE+HOUSEHOLDER%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:34:25.722231

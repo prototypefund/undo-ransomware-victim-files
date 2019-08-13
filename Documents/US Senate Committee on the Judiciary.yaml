@@ -1,0 +1,38 @@
+source: en.wikipedia.org
+file: United States Senate Committee on the Judiciary
+date: 2019-06-26 21:29:42.674937
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/900745775
+---
+source: commons.wikimedia.org
+file: Sonia_Sotomayor_on_first_day_of_confirmation_hearings.jpg
+date: 2019-06-26 21:29:43.907740
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description=Sonia Sotomayor on the first day of confirmation hearings on July 13, 2009.
+  |Source=http://leahy.senate.gov/images/2009Events/071309Sotomayor/071309Sotomayor1BIG.JPG
+  |Date=2009-07-13
+  |Author=Patrick Leahy Senate staffer
+  |Permission={{PD-USGov-Congress}}
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-Congress}}
+  
+  [[Category:Sonia Sotomayor Supreme Court nomination|20090713]]
+  [[Category:July 2009 in Washington, D.C.]]
+---
+source: commons.wikimedia.org
+file: Lindsey_Graham,_Official_Portrait_2006.jpg
+date: 2019-06-26 21:29:44.540071
+text: |
+  {{Information
+  |Description    ={{en|1=Official portrait of Senator Lindsey Graham of SC.}}
+  |Source         =[http://lgraham.senate.gov/public/index.cfm?FuseAction=AboutSenatorGraham.OfficialPhoto]
+  |Author         =US Senate
+  |Date           =2006-08-01
+  |Permission     ={{PD-USGov-Congress}}
+  |other_versions ={{Image extracted|Lindsey Graham, Official Portrait 2006 (cropped).jpg|2=Lindsey Graham, Official Portrait 2006 (cropped).jpg}}
+  }}
+  [[Category:Official portraits of Lindsey Graham]]

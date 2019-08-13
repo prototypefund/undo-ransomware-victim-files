@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: DEC_00_SF3_P072
+product-selection: DEC_00_SF3_P072|table||||P072|AGGREGATE+SUPPLEMENTAL+SECURITY+INCOME+%28SSI%29+IN+1999+%28DOLLARS%29+FOR+HOUSEHOLDS+%5B1%5D
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:03:35.835561

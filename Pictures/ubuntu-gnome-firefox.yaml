@@ -1,0 +1,44 @@
+source: commons.wikimedia.org
+file: Ubuntu_GNOME_firefox.png
+date: 2019-06-15 14:34:59.019633
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description=6.06 Dapper Drake running firefox
+  |Source={{self-photographed}}
+  |Date=2006-06-09
+  |Author=[[User:Cassini83|Cassini83]]
+  |Permission={{free screenshot}}
+  }}
+  
+  == {{int:license-header}} ==
+  '''[[Mozilla Firefox]] multilicensed:'''
+  {{GPL}}
+  {{LGPL}}
+  {{MPL}}
+  
+  '''[[GNOME]] and [[Nautilus]]:'''
+  {{GPL}}
+  
+  '''Dropline Nuovo icon theme [http://changelogs.ubuntu.com/changelogs/pool/universe/n/nuovo/nuovo_0.5-2/gnome-icon-theme-nuovo.copyright]''' 
+  {{GPL}}
+  
+  '''[[:Image:Books-aj.svg_aj_ashton_01.svg]]:'''
+  {{PD-OpenClipart|http://www.openclipart.org/cgi-bin/navigate/education/books}}
+  
+  '''Wikipedia logo:'''
+  {{Cc-by-sa-3.0}}
+  {{Wikimedia trademark}}
+  
+  
+  '''Text of Wikipedia'''
+  {{Wikipedia-screenshot|bg|logo=no}}
+  
+  '''[[:Image:Barn_Swallow_800.jpg]]:'''
+  {{GFDL|migration=relicense}}
+  
+  '''Photos by [[User:Cassini83]]'''
+  {{PD-self}}
+  
+  [[Category:English screenshots of Ubuntu]]
+  [[Category:Ubuntu 6.06]]

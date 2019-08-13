@@ -1,0 +1,29 @@
+source: commons.wikimedia.org
+file: Cassini-huygens cass schi mov br280.ogv
+date: 2019-06-15 15:50:26.918576
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |description={{en|1=Animation of Cassini-Huygens spacecraft model. 2005 or earlier}}
+  |date=2005
+  |source=NASA 1 MB QuickTime video archived at https://web.archive.org/web/20080522043025/saturn.jpl.nasa.gov/multimedia/videos/movies/cass_schi.mov linked from https://web.archive.org/web/20080522035722/http://saturn.jpl.nasa.gov/multimedia/videos/video-details.cfm?videoID=6
+  
+  {{en|1=Converted from 1 MB QuickTime to Theora OGG video by [[User:84user]] as follows:
+  * <code>ffmpeg2theora-0.26.exe cass_schi.mov --two-pass --videobitrate 280 --output cass_schi_mov_br280.ogv</code>
+  }}
+  |author=NASA
+  |permission=
+  |other_versions=[[File:Cassini-huygens cass schi mov br575.ogv|frame|left|Higher bitrate Theora OGG video]]
+  [[:File:Cassini-huygens anim.gif]] animated GIF
+  [[File:Cassini-huygens cass schi movt2.jpg|frame|left|thumbnail from video at 2 seconds]]
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Videos from Cassini-Huygens]]
+  [[Category:Videos of orbiters (spacecraft)]]
+  [[Category:Ogv videos]]
+  [[Category:Silent videos]]
+  [[Category:Video display resolution 320 x 240]]
+  [[Category:Videos from NASA]]

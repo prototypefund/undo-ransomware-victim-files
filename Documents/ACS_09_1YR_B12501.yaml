@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_09_1YR_B12501
+product-selection: ACS_09_1YR_B12501|table||||B12501|MARRIAGES+IN+THE+LAST+YEAR+BY+SEX+BY+MARITAL+STATUS+FOR+THE+POPULATION+15+YEARS+AND+OVER
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 10:48:29.574941

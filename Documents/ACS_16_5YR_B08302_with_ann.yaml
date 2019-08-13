@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_16_5YR_B08302
+product-selection: ACS_16_5YR_B08302|table||||B08302|TIME+LEAVING+HOME+TO+GO+TO+WORK
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:36:32.347445

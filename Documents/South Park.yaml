@@ -1,0 +1,42 @@
+source: en.wikipedia.org
+file: South Park
+date: 2019-06-26 19:27:34.315937
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/903466481
+---
+source: commons.wikimedia.org
+file: BLACK_SOUL_SINGER_ISAAC_HAYES_PERFORMS_AT_THE_INTERNATIONAL_AMPHITHEATER_IN_CHICAGO_AS_PART_OF_THE_ANNUAL_PUSH_'BLACK..._-_NARA_-_556307.jpg
+date: 2019-06-26 19:27:38.127924
+text: |
+  
+  == {{int:filedesc}} ==
+  {{NARA-image-full
+   | Title                   = BLACK SOUL SINGER ISAAC HAYES PERFORMS AT THE INTERNATIONAL AMPHITHEATER IN CHICAGO AS PART OF THE ANNUAL PUSH 'BLACK EXPO' IN THE FALL OF 1973. THE ANNUAL EVENT SHOWCASES BLACK TALENT EDUCATIONAL OPPORTUNITIES, STARS, ART AND PRODUCTS TO PROVIDE BLACKS WITH AN AWARENESS OF THEIR HERITAGE AND CAPABILITIES, AND HELP THEM TOWARDS A BETTER LIFE
+   | Scope and content       = 
+   | General notes           = 
+   | ARC                     = 556307
+   | Local identifier        = 412-DA-13855
+   | Creator                 = Environmental Protection Agency.	(12/02/1970 - )
+   | Author                  = {{NARA-Author|White, John H., 1945-, Photographer|4002141}}<br />
+   | Place                   = {{NARA-Place|Chicago (Cook county, Illinois, United States, North and Central America) inhabited place|4201352|41.85|-87.65}}<br />
+   | Location                = Still Picture Records Section, Special Media Archives Services Division (NWCS-S), National Archives at College Park, 8601 Adelphi Road, College Park, MD, 20740-6001.
+   | Date                    = 1973-10
+   | Record group            = Record Group 412: Records of the Environmental Protection Agency, 1944 - 2006
+   | Record group ARC        = 708
+   | Series                  = DOCUMERICA: The Environmental Protection Agency's Program to Photographically Document Subjects of Environmental Concern, compiled 1972 - 1977
+   | Series ARC              = 542493
+   | File unit               = 
+   | File unit ARC           = 
+   | Variant control numbers = Agency-Assigned Identifier: 231/55/013855<br />
+  NAIL Control Number: NWDNS-412-DA-13855
+   | TIFF                    =
+   | Other versions          = <gallery>
+  File:BLACK_SOUL_SINGER_ISAAC_HAYES_PERFORMS_AT_THE_INTERNATIONAL_AMPHITHEATER_IN_CHICAGO_AS_PART_OF_THE_ANNUAL_PUSH_'BLACK..._-_NARA_-_556307.tif|.tif
+  File:BLACK_SOUL_SINGER_ISAAC_HAYES_PERFORMS_AT_THE_INTERNATIONAL_AMPHITHEATER_IN_CHICAGO_AS_PART_OF_THE_ANNUAL_PUSH_'BLACK..._-_NARA_-_556307.jpg|.jpg
+  </gallery>
+  }}
+  
+  == {{int:license-header}} ==
+  {{NARA-cooperation}}
+  {{PD-USGov-EPA}}
+  
+  [[Category:Isaac Hayes]]

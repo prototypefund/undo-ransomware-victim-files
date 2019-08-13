@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_05_EST_C17002
+product-selection: ACS_05_EST_C17002|table||||C17002|RATIO+OF+INCOME+IN+THE+PAST+12+MONTHS+TO+POVERTY+LEVEL
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:10:50.944674

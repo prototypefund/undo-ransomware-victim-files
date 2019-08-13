@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_15_5YR_B04005
+product-selection: ACS_15_5YR_B04005|table||||B04005|PEOPLE+REPORTING+MULTIPLE+ANCESTRY
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:49:23.493447

@@ -1,0 +1,17 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HD01_VD02,Estimate; Median earnings in the past 12 months (in 2015 Inflation-adjusted dollars) -- - Total:
+HD02_VD02,Margin of Error; Median earnings in the past 12 months (in 2015 Inflation-adjusted dollars) -- - Total:
+HD01_VD04,Estimate; Median earnings in the past 12 months (in 2015 Inflation-adjusted dollars) -- - Male -- - Total
+HD02_VD04,Margin of Error; Median earnings in the past 12 months (in 2015 Inflation-adjusted dollars) -- - Male -- - Total
+HD01_VD05,"Estimate; Median earnings in the past 12 months (in 2015 Inflation-adjusted dollars) -- - Male -- - Worked full-time, year-round in the past 12 months"
+HD02_VD05,"Margin of Error; Median earnings in the past 12 months (in 2015 Inflation-adjusted dollars) -- - Male -- - Worked full-time, year-round in the past 12 months"
+HD01_VD06,Estimate; Median earnings in the past 12 months (in 2015 Inflation-adjusted dollars) -- - Male -- - Other
+HD02_VD06,Margin of Error; Median earnings in the past 12 months (in 2015 Inflation-adjusted dollars) -- - Male -- - Other
+HD01_VD08,Estimate; Median earnings in the past 12 months (in 2015 Inflation-adjusted dollars) -- - Female -- - Total
+HD02_VD08,Margin of Error; Median earnings in the past 12 months (in 2015 Inflation-adjusted dollars) -- - Female -- - Total
+HD01_VD09,"Estimate; Median earnings in the past 12 months (in 2015 Inflation-adjusted dollars) -- - Female -- - Worked full-time, year-round in the past 12 months"
+HD02_VD09,"Margin of Error; Median earnings in the past 12 months (in 2015 Inflation-adjusted dollars) -- - Female -- - Worked full-time, year-round in the past 12 months"
+HD01_VD10,Estimate; Median earnings in the past 12 months (in 2015 Inflation-adjusted dollars) -- - Female -- - Other
+HD02_VD10,Margin of Error; Median earnings in the past 12 months (in 2015 Inflation-adjusted dollars) -- - Female -- - Other

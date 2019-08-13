@@ -1,0 +1,29 @@
+source: commons.wikimedia.org
+file: Henderson Schriftlogo.PNG
+date: 2019-06-14 14:31:47.393561
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{de|1=Logo}}
+  |Source=http://www.mbgglobal.net/de/media/
+  |Date=
+  |Author=MBG INTERNATIONAL PREMIUM BRANDS GMBH
+  |Permission=
+  |Other versions= 
+  |Other fields=
+  }}
+  {{Convert to SVG|logo|vectordata=http://www.mbgglobal.net/de/media/}}
+  
+  == {{int:license-header}} ==
+  {{PD-textlogo}}
+  {{Trademark}}
+  
+  == {{Original upload log}} ==
+  <div class="delh">
+  {{transferred from|de.wikipedia|Wdwdbot|script ''bot_filetrans.pl (r99M)''}}
+  {{original description|de.wikipedia|Henderson_Schriftlogo.PNG}}
+  * 2017-09-29 09:26:15  [[:de:User:Passwort=HansHans|Passwort=HansHans]] (231485 Bytes) ''<nowiki>{{Information |Beschreibung = Logo |Quelle = http://www.mbgglobal.net/de/media/ |Urheber = MBG INTERNATIONAL PREMIUM BRANDS GMBH |Datum = |Genehmigung = {{Bild-LogoSH}} |Andere Versionen = |Anmerkungen = {{In SVG konvertieren|Logo|Vektordaten=http://ww…</nowiki>''
+  </div>
+  {{User:Wdwdbot/Files uploaded by Wdwdbot}}
+  
+  [[Category:Unidentified logos]]

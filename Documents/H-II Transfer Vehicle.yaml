@@ -1,0 +1,91 @@
+source: en.wikipedia.org
+file: H-II Transfer Vehicle
+date: 2019-06-15 17:21:22.125447
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/895964218
+---
+source: commons.wikimedia.org
+file: H-II_Transfer_Vehicle_diagram.jpg
+date: 2019-06-15 17:21:23.257548
+text: |
+  {{supersededSVG|H-II Transfer Vehicle (HTV).svg}}
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1='''''HTV Specifications'''''<br />
+  HTV is four meters across and about 10 meters long, same size as a sightseeing bus. It consists primarily of three parts:<br />(1) A propulsion module installed at the rear and composed of main engines for orbit change, Reaction Control System (RCS) thrusters for position and attitude control, fuel and oxidizing reagent tanks, and highpressure air tanks;<br />(2) An avionics module installed in the center part, with electronic equipment for guidance control, power supply, and telecommunications data processing; and<br />(3) A logistics carrier that stores supplies.}}
+  |Source=http://www.nasa.gov/mission_pages/station/expeditions/expedition26/index.html [http://www.nasa.gov/pdf/488923main_exp25_26_press_kit.pdf PDF]
+  |Author=NASA
+  |Date=2010-10
+  |Permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:H-II Transfer Vehicle]]
+  [[Category:ISS Expedition 26]]
+---
+source: commons.wikimedia.org
+file: HTV_from_inside_02_-_cropped_and_rotated.jpg
+date: 2019-06-15 17:21:24.020917
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=View of the interior of the newly attached Japanese H-II Transfer Vehicle (HTV) docked to the International Space Station, photographed by an Expedition 20 crew member in the Harmony node. The HTV attachment was completed at 5:26 p.m. on Sept. 17, 2009.}}
+  |date=2009-09-18
+  |source=http://spaceflight.nasa.gov/gallery/images/station/crew-20/html/iss020e041397.html
+  |author=NASA
+  |permission=
+  |other_versions=[[File:HTV from inside 02.jpg|left|thumb]]
+  |other_fields=
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-USGov-NASA}}
+  
+  [[Category:ISS Expedition 20]]
+  [[Category:HTV-1]]
+---
+source: commons.wikimedia.org
+file: ISS-26_HTV-2_Exposed_Pallet_grappled_by_Canadarm2.jpg
+date: 2019-06-15 17:21:25.286916
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=The Japanese Kounotori2 H-II Transfer Vehicle (HTV2), docked to the Earth-facing port of the Harmony node and in the grapple of the Candarm2, is featured in this image photographed by an Expedition 26 crew member on the International Space Station. The thin line of Earth's atmosphere and the blackness of space provide the backdrop for the scene.}}
+  |Source         =http://spaceflight.nasa.gov/gallery/images/station/crew-26/html/iss026e024076.html
+  |Author         =NASA
+  |Date           =2011-02-01
+  |Permission     =
+  |other_versions =
+  }}
+  {{NASA-image|center=JSC|id=ISS026-E-024076}}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:ISS Expedition 26]]
+  [[Category:HTV-2]]
+  [[Category:Canadarm2]]
+  [[Category:Harmony node]]
+---
+source: commons.wikimedia.org
+file: HTV-1_close-up_view.jpg
+date: 2019-06-15 17:21:26.439425
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=A close-up view of a portion of the unpiloted Japanese H-II Transfer Vehicle (HTV) as it arrives at the International Space Station.}}
+  |Source=http://spaceflight.nasa.gov/gallery/images/station/crew-20/html/iss020e040494.html
+  |Author=NASA
+  |Date=2009-09-17
+  |Permission=
+  |other_versions=
+  }}
+  {{NASA-image|id=ISS020-E-040494|center=JSC}}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:HTV-1]]
+  [[Category:Spacecraft propulsion]]

@@ -1,0 +1,20 @@
+source: commons.wikimedia.org
+file: Pfadi Winterthur Logo.png
+date: 2019-06-14 14:33:10.538580
+text: |
+  {{Convert to SVG |1=logo}}
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{de|1=[[:de:Firmenlogo|Logo]]}}
+  |Source=[http://www.handball.ch/de/shl/teams.htm SHV]
+  |Date=2016-12-11
+  |Author=[[:de:Pfadi Winterthur |Pfadi Winterthur ]]
+  |Permission=
+  |Other versions= 
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-textlogo}}
+  {{Trademark}}
+  
+  [[Category:Handball teams of Nationalliga A (Handball)]]

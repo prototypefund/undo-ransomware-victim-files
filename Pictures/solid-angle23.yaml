@@ -1,0 +1,19 @@
+source: commons.wikimedia.org
+file: Solid angle23.png
+date: 2019-06-13 16:32:23.707094
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=The area projected onto a hemisphere through the solid angle}}
+  |Source={{own}}
+  |Author=[[User:Sergio01mendoza|Sergio01mendoza]]
+  |Date=2010-05-03
+  |Permission=
+  |other_versions=
+  }}
+  
+  {{svg|diagram}}
+  
+  == {{int:license-header}} ==
+  {{cc-zero}}
+  [[Category:Solid angle]]

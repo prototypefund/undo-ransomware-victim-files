@@ -1,0 +1,24 @@
+source: commons.wikimedia.org
+file: TSL-Cylindre05.png
+date: 2019-06-13 16:33:18.256978
+text: |
+  {{Convert to SVG|diagram}}
+  
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{fr|1=Cylindre TSL}}
+  {{en|1=HSL cylinder}}
+  |Source         ={{own}}
+  |Author         =[[User:Scsami|Scsami]]
+  |Date           =2011-02-18
+  |Permission     =
+  |other_versions =
+  }}
+  
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}
+  
+  
+  [[Category:HSL]]
+  
+  [[Category:3D representations of color spaces]]

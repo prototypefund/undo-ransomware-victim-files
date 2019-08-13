@@ -1,0 +1,24 @@
+source: en.wikipedia.org
+file: Thom Tillis
+date: 2019-06-26 21:22:36.998487
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/896582685
+---
+source: commons.wikimedia.org
+file: Tillis_NCGA_2012.jpg
+date: 2019-06-26 21:22:38.871750
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Profile picture of N.C. Rep. Thom Tillis.}}
+  |date=2011-02-22
+  |source=http://www.ncleg.net/gascripts/members/viewMember.pl?sChamber=H&nUserID=565
+  |author=North Carolina General Assembly
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-because|The photographer releases the copyright to the North Carolina General Assembly, and the NCGA releases the photo into the public domain. http://www.ncleg.net/Etc/Disclaimer.html}}
+  
+  [[Category:Thom Tillis]]

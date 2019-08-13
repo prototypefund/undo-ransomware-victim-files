@@ -1,0 +1,51 @@
+source: en.wikipedia.org
+file: Lewis Flight Propulsion Laboratory
+date: 2019-06-15 17:52:00.573773
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/873864403
+---
+source: commons.wikimedia.org
+file: GRC_PBS_B-2_Facility_Aerial_View.jpg
+date: 2019-06-15 17:52:01.322460
+text: |
+  {{NRHP|85002802}}
+  {{Information
+  |Description=Image taken from a report regarding J-2X engine testing at Plum Brook. .GRC PBS B-2 Facility Aerial View
+  |Source=http://www.nasa.gov/pdf/174457main_RP-07-20_06-049-E_J-2X_Engine_Testing_at_GRC_Final_Report_Mar_19_2007.pdf
+  |Date={{upload date|2007-05-22}}
+  |Author=USGov-NASA
+  |Permission={{PD-USGov-NASA}}
+  |other_versions=
+  }}
+  {{Object location dec|41.366944|-82.683611|region:US_type:landmark_scale:1500}}<!-- Location from http://en.wikipedia.org/w/index.php?title=National_Register_of_Historic_Places_listings_in_Erie_County,_Ohio&redirect=no&useskin=monobook&oldid=514614493 -->
+  
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Aerial photographs of the Glenn Research Center]]
+  [[Category:Plum Brook Station]]
+  [[Category:National Historic Landmarks in Ohio]]
+  [[Category:National Register of Historic Places in Erie County, Ohio]]
+---
+source: commons.wikimedia.org
+file: Skylab_3_Apollo_Command_Module.JPG
+date: 2019-06-15 17:52:01.890469
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=A piece of [[NASA]] [[:Category:History|history]] landed at the Glenn Research Center's Visitor Center, now located at the Great Lakes Science Center in [[Cleveland]], [[Ohio]]. The Apollo Command Module, used for the Skylab 3 mission in 1973, was moved successfully from Glenn to the Science Center on Tuesday, June 22. The module will be the focal point of the Visitor Center, which includes space and [[:Category:Aeronautics|aeronautics]] [[:Category:Artifact|artifacts]], models and interactive experiences.
+  
+  The move was carefully planned to protect and preserve the module, which weighs 12,800 pounds and is more than 11 feet tall and 13 feet wide. The module is on loan from the Smithsonian’s National Air and Space Museum.}}
+  |Source=[http://www.nasa.gov/multimedia/imagegallery/image_feature_1711.html NASA Image of the Day]
+  |Author=NASA
+  |Date=2010-06-22
+  |Permission=
+  |other_versions=
+  }}
+  
+  [[Category:CSM-117 in the Great Lakes Science Center]]
+  [[Category:2010 in Cleveland]]
+  [[Category:June 2010 in Ohio]]
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}

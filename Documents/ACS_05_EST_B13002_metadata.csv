@@ -1,0 +1,25 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HD01_VD01,Estimate; Total:
+HD02_VD01,Margin of Error; Total:
+HD01_VD02,Estimate; Number of women who had a birth in the past 12 months:
+HD02_VD02,Margin of Error; Number of women who had a birth in the past 12 months:
+HD01_VD03,Estimate; Number of women who had a birth in the past 12 months: - Now married (including spouse absent):
+HD02_VD03,Margin of Error; Number of women who had a birth in the past 12 months: - Now married (including spouse absent):
+HD01_VD04,Estimate; Number of women who had a birth in the past 12 months: - Now married (including spouse absent): - 15 to 19 years old
+HD02_VD04,Margin of Error; Number of women who had a birth in the past 12 months: - Now married (including spouse absent): - 15 to 19 years old
+HD01_VD05,Estimate; Number of women who had a birth in the past 12 months: - Now married (including spouse absent): - 20 to 34 years old
+HD02_VD05,Margin of Error; Number of women who had a birth in the past 12 months: - Now married (including spouse absent): - 20 to 34 years old
+HD01_VD06,Estimate; Number of women who had a birth in the past 12 months: - Now married (including spouse absent): - 35 to 50 years old
+HD02_VD06,Margin of Error; Number of women who had a birth in the past 12 months: - Now married (including spouse absent): - 35 to 50 years old
+HD01_VD07,"Estimate; Number of women who had a birth in the past 12 months: - Unmarried (never married, widowed, and divorced):"
+HD02_VD07,"Margin of Error; Number of women who had a birth in the past 12 months: - Unmarried (never married, widowed, and divorced):"
+HD01_VD08,"Estimate; Number of women who had a birth in the past 12 months: - Unmarried (never married, widowed, and divorced): - 15 to 19 years old"
+HD02_VD08,"Margin of Error; Number of women who had a birth in the past 12 months: - Unmarried (never married, widowed, and divorced): - 15 to 19 years old"
+HD01_VD09,"Estimate; Number of women who had a birth in the past 12 months: - Unmarried (never married, widowed, and divorced): - 20 to 34 years old"
+HD02_VD09,"Margin of Error; Number of women who had a birth in the past 12 months: - Unmarried (never married, widowed, and divorced): - 20 to 34 years old"
+HD01_VD10,"Estimate; Number of women who had a birth in the past 12 months: - Unmarried (never married, widowed, and divorced): - 35 to 50 years old"
+HD02_VD10,"Margin of Error; Number of women who had a birth in the past 12 months: - Unmarried (never married, widowed, and divorced): - 35 to 50 years old"
+HD01_VD11,Estimate; Number of women who did not have a birth in the past 12 months
+HD02_VD11,Margin of Error; Number of women who did not have a birth in the past 12 months

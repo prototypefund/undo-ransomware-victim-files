@@ -1,0 +1,110 @@
+﻿Launch vehicle
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Launch%20vehicle
+Licensed under CC BY-SA 3.0:
+https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+
+
+Russian Soyuz TMA-5 lifts off from the Baikonur Cosmodrome in Kazakhstan heading for the International Space Station
+Launch vehicle
+    • A launch system includes the launch vehicle, launch pad, vehicle assembly and fuelling systems, range safety, and other related infrastructure.
+    • Attempts to reduce per-launch costs have led to reusable launch systems, in which part of the launch vehicle is recovered and reused for another flight.
+    • Most launch vehicles are expendable i.e.
+
+A launch vehicle or carrier rocket is a rocket used to carry a payload from Earth's surface through outer space, either to another surface point (Sub-orbital transportation), or into space (Earth orbit or beyond). A launch system includes the launch vehicle, launch pad, vehicle assembly and fuelling systems, range safety, and other related infrastructure.[not verified in body]
+Suborbital launch vehicles include ballistic missiles, sounding rockets, and various crewed systems designed for space tourism or high-speed transport. Orbital or escape launch vehicles must be much more powerful and typically incorporate two to four rocket stages to provide sufficient delta-v (change in velocity) performance. Various rocket fuels are used, including solid rocket boosters and cryogenic fuels fed to rocket engines.
+Most launch vehicles are expendable i.e. used only once and destroyed or abandoned during the flight. Attempts to reduce per-launch costs have led to reusable launch systems, in which part of the launch vehicle is recovered and reused for another flight. Multiple classes of launch vehicle exist for use with differing launch sites, payload mass, target orbits, price points, etc. Numerous countries have sought to develop indigenous launch vehicles for use in national space programs.
+
+A Saturn V launch vehicle sends Apollo 15 on its way to the Moon.
+Types
+    • The Space Shuttle was a part of a launch vehicle with components used for multiple orbital spaceflights.
+    • Launch vehicles are also characterized by their number of stages.
+    • Other frequently reported characteristics of launch vehicles are the launching nation or space agency and the company or consortium manufacturing and launching the vehicle.
+    • Expendable launch vehicles are designed for one-time use.
+Expendable launch vehicles are designed for one-time use. They usually separate from their payload and disintegrate during atmospheric reentry. In contrast, reusable launch vehicles are designed to be recovered intact and launched again. The Space Shuttle was a part of a launch vehicle with components used for multiple orbital spaceflights.  SpaceX has developed a reusable rocket launching system to successfully bring back a part—the first stage—of their Falcon 9 and launch it again (first successful recovery in 2015 and first successful relaunch in March 2017), With B1046 having flown a total of three flights making it the most flown orbital class booster (with the space shuttles being the only other space craft to have flown more), and Falcon Heavy (first test launch: 6 February 2018) launch vehicles.  A fully reusable VTVL design is planned for all parts of the BFR launch vehicle.  The low-altitude flight test program of an experimental technology-demonstrator launch vehicle began in 2012, with more extensive high-altitude over-water flight testing planned to begin in mid-2013, and continue on each subsequent Falcon 9 flight. Non-rocket spacelaunch alternatives are progressing. In June 2017, Stratolaunch Systems began ground testing the carrier aircraft component of its air launch to orbit system. The Stratolaunch is the world's largest aircraft, weighing 500,000 pounds (230,000 kg) and composed of twin fuselages with an overall wingspan of 385 feet (117 m). The Spanish company Zero 2 Infinity ( 0II∞ ) is developing another launch system concept, the Bloostar, a balloon-borne launcher based on rockoon technology.
+Launch vehicles are often classified by the amount of mass they can carry into a particular orbit. For example, a Proton rocket can lift 22,000 kilograms (49,000 lb) into low Earth orbit (LEO). Launch vehicles are also characterized by their number of stages. Rockets with as many as five stages have been successfully launched, and there have been designs for several single-stage-to-orbit vehicles. Additionally, launch vehicles are very often supplied with boosters supplying high early thrust, normally burning with other engines. Boosters allow the remaining engines to be smaller, reducing the burnout mass of later stages to allow larger payloads.
+Other frequently reported characteristics of launch vehicles are the launching nation or space agency and the company or consortium manufacturing and launching the vehicle. For example, the European Space Agency is responsible for the Ariane V, and the United Launch Alliance manufactures and launches the Delta IV and Atlas V rockets.  Many launch vehicles are considered part of a historical line of vehicles of the same or similar name; e.g., the Atlas V is the latest Atlas rocket.
+By launch platform
+    • Sea: fixed platform (San Marco), mobile platform (Sea Launch), submarine (Shtil', Volna) for converted SLBMs
+    • Air: aircraft (Pegasus, Virgin Galactic LauncherOne, Stratolaunch Systems), balloon (zero2infinity's bloostar, ARCASPACE), JP Aerospace Orbital Ascender, proposal for permanent Buoyant space port.
+Land: spaceport and fixed missile silo (Strela) for converted ICBMs
+Sea: fixed platform (San Marco), mobile platform (Sea Launch), submarine (Shtil', Volna) for converted SLBMs
+Air: aircraft (Pegasus, Virgin Galactic LauncherOne, Stratolaunch Systems), balloon (zero2infinity's bloostar, ARCASPACE), JP Aerospace Orbital Ascender, proposal for permanent Buoyant space port.
+By size
+    • There are many ways to classify the sizes of launch vehicles.
+    • A small-lift launch vehicle is capable of lifting up to 2,000 kg (4,400 lb) of payload into low Earth orbit (LEO).
+    • Similarly the leading European launch service provider, Arianespace, also uses the "heavy-lift" designation for its >20,000 kg (44,000 lb)-to-LEO Ariane 5 launch vehicle
+and "medium-lift" for its array of launch vehicles that lift 2,000 to 20,000 kg (4,400 to 44,100 lb) to LEO, including the Starsem/Arianespace Soyuz ST
+and pre-1999 versions of the Ariane 5.
+    • It refers to its 1,500 kg (3,300 lb) to LEO Vega launch vehicle as "light lift".
+There are many ways to classify the sizes of launch vehicles. The US civilian space agency, NASA, uses a classification scheme
+[citation needed] that was articulated by the Augustine Commission created to review plans for replacing the Space Shuttle:
+A sounding rocket, used to study the atmosphere or perform brief experiments, is only capable of sub-orbital spaceflight and cannot reach orbit.
+A small-lift launch vehicle is capable of lifting up to 2,000 kg (4,400 lb) of payload into low Earth orbit (LEO).
+A medium-lift launch vehicle is capable of lifting 2,000 to 20,000 kg (4,400 to 44,100 lb) of payload into LEO.
+A heavy-lift launch vehicle is capable of lifting 20,000 to 50,000 kg (44,000 to 110,000 lb) of payload into LEO.
+A super-heavy lift vehicle is capable of lifting more than 50,000 kg (110,000 lb) of payload into LEO.
+Similarly the leading European launch service provider, Arianespace, also uses the "heavy-lift" designation for its >20,000 kg (44,000 lb)-to-LEO Ariane 5 launch vehicle
+and "medium-lift" for its array of launch vehicles that lift 2,000 to 20,000 kg (4,400 to 44,100 lb) to LEO, including the Starsem/Arianespace Soyuz ST
+and pre-1999 versions of the Ariane 5.  It refers to its 1,500 kg (3,300 lb) to LEO Vega launch vehicle as "light lift".
+By flight regime
+Suborbital
+    • Suborbital launch vehicles are not capable of taking their payloads to the minimum horizontal speed necessary to achieve low Earth orbit with a perigee less than the Earth's mean radius, which speed is about 7,800 m/s (26,000 ft/s).
+    • Current human-rated suborbital launch vehicles include SpaceShipOne and SpaceShipTwo, among others (see space tourism).
+Suborbital launch vehicles are not capable of taking their payloads to the minimum horizontal speed necessary to achieve low Earth orbit with a perigee less than the Earth's mean radius, which speed is about 7,800 m/s (26,000 ft/s).
+Sounding rockets have long been used for brief, inexpensive unmanned space and microgravity experiments. The first US human spaceflight program, Project Mercury, used a single-stage derivative of the Redstone rocket family to launch its first two astronauts, Alan Shephard and Gus Grissom on suborbital flights, before sending astronauts into orbit on later flights. Current human-rated suborbital launch vehicles include SpaceShipOne and SpaceShipTwo, among others (see space tourism).
+
+Ukrainian launch vehicle Zenit-2 is prepared for launch
+Orbital
+    • This generally results in a launch vehicle that is at least 20 m (66 ft) long.
+    • The delta-v needed for orbital launch from the Earth's surface is greater than the minimum orbital speed; at least 9,300 m/s (31,000 ft/s), because of aerodynamic drag and gravity losses.
+The delta-v needed for orbital launch from the Earth's surface is greater than the minimum orbital speed; at least 9,300 m/s (31,000 ft/s), because of aerodynamic drag and gravity losses.[citation needed] Minimizing air drag requires a reasonably high ballistic coefficient, a ratio of length to diameter greater than ten. This generally results in a launch vehicle that is at least 20 m (66 ft) long. Leaving the atmosphere as early on in the flight as possible provides a velocity loss due to air drag of around 300 m/s (980 ft/s).
+Translunar
+    • For a spacecraft to reach the Moon, Earth escape velocity of 11,200 m/s (37,000 ft/s) is not required, but a velocity close to this places the craft into an Earth orbit with a very high apogee which, if launched at the correct time, takes it to a point where the Moon's gravity will capture it.
+For a spacecraft to reach the Moon, Earth escape velocity of 11,200 m/s (37,000 ft/s) is not required, but a velocity close to this places the craft into an Earth orbit with a very high apogee which, if launched at the correct time, takes it to a point where the Moon's gravity will capture it.
+Interplanetary
+    • Launch vehicles of sufficient size are capable of launching payloads smaller than their orbital capability, to the Moon or beyond.
+Interplanetary flight requires exceeding escape velocity; the excess velocity either adds to the Earth's orbital velocity around the Sun to reach the outer planets or asteroids, or subtracts from it to reach Venus or Mercury, depending on the direction in which the terminal velocity is achieved.
+Launch vehicles of sufficient size are capable of launching payloads smaller than their orbital capability, to the Moon or beyond. Translunar and interplanetary flights are commonly launched with the vehicle's final stage into a temporary parking orbit, to allow spacecraft checkout, and more precise control of the final injection maneuver, rather than being launched directly to terminal velocity.
+Return to launch site
+    • Both the US Space Shuttle—with one of its abort modes—and the Soviet Buran
+had a designed-in capability to return a part of the launch vehicle to the launch site via the mechanism of horizontal-landing of the spaceplane portion of the launch vehicle.
+    • SpaceX has a new super-heavy launch vehicle under development for missions to interplanetary space.
+After 1980, but before the 2010s, two orbital launch vehicles developed the capability to return to the launch site (RTLS).  Both the US Space Shuttle—with one of its abort modes—and the Soviet Buran
+had a designed-in capability to return a part of the launch vehicle to the launch site via the mechanism of horizontal-landing of the spaceplane portion of the launch vehicle.  In both cases, the main vehicle thrust structure and the large propellant tank were expendable, as had been the standard procedure for all orbital launch vehicles flown prior to that time.  Both were subsequently demonstrated on actual orbital nominal flights, although both also had an abort mode during launch that could conceivably allow the crew to land the spaceplane following an off-nominal launch.
+In the 2000s, both SpaceX and Blue Origin have privately developed a set of technologies to support vertical landing of the booster stage of a launch vehicle. 
+After 2010, SpaceX undertook a development program to acquire the ability to bring back and vertically land a part of the Falcon 9 orbital launch vehicle: the first stage.  The first successful landing was done in December 2015, since then several additional rocket stages landed either at a landing pad adjacent to the launch site or on a landing platform at sea, some distance away from the launch site. The Falcon Heavy is similarly designed to reuse the three cores comprising its first stage. On its first flight in February 2018, the two outer cores successfully returned to the launch site landing pads while the center core targeted the landing platform at sea but did not successfully land on it.
+Blue Origin developed similar technologies for bringing back and landing their suborbital New Shepard, and successfully demonstrated return in 2015, and successfully reused the same booster on a second suborbital flight in January 2016  .  By October 2016, Blue had reflown, and landed successfully, that same launch vehicle a total of five times. It must however be noted that the launch trajectories of both vehicles are very different, with New Shepard going straight up and down, whereas Falcon 9 has to cancel substantial horizontal velocity and return from a significant distance downrange. 
+Both Blue Origin and SpaceX also have additional reusable launch vehicles under development.  Blue is developing the first stage of the orbital New Glenn LV to be reusable, with first flight planned for no earlier than 2020. 
+SpaceX has a new super-heavy launch vehicle under development for missions to interplanetary space.  The Big Falcon Rocket (BFR) is designed to support RTLS, vertical-landing and full reuse of both the booster stage and the integrated second-stage/large-spacecraft that are designed for use with the BFR. First launch is expected in the early 2020s.
+Distributed launch
+    • Mission architectures for distributed launch were explored in the 2000s 
+and launch vehicles with integrated distributed launch capability built in began development in 2017, where a fully reusable, integrated second-stage-with-spaceship became a key feature of the BFR launch vehicle design.
+    • Distributed launch is a term for a mission design where multiple launches, potentially of different launch vehicles, with in-space propellant transfer enable space missions that have not been possible with historical space mission design through the 2010s.
+Distributed launch is a term for a mission design where multiple launches, potentially of different launch vehicles, with in-space propellant transfer enable space missions that have not been possible with historical space mission design through the 2010s.
+Mission architectures for distributed launch were explored in the 2000s 
+and launch vehicles with integrated distributed launch capability built in began development in 2017, where a fully reusable, integrated second-stage-with-spaceship became a key feature of the BFR launch vehicle design.  The standard BFR launch architecture for high Earth orbit, cislunar and interplanetary missions is to refuel the BFR spaceship in low Earth orbit to enable the craft to send high-mass payloads on much more energetic missions.
+Regulation
+    • In the US, any rocket launch that is not classified as amateur, and also is not "for and by the government," must be approved by the Federal Aviation Administration's Office of Commercial Space Transportation (FAA/AST), located in Washington, DC.
+    • Under international law, the nationality of the owner of a launch vehicle determines which country is responsible for any damages resulting from that vehicle.
+Under international law, the nationality of the owner of a launch vehicle determines which country is responsible for any damages resulting from that vehicle.[citation needed]
+In the US, any rocket launch that is not classified as amateur, and also is not "for and by the government," must be approved by the Federal Aviation Administration's Office of Commercial Space Transportation (FAA/AST), located in Washington, DC.[citation needed]
+See also
+    • Specific to launch vehicles
+    • List of orbital launch systems
+List of orbital launch systems
+List of missiles
+Specific to launch vehicles
+General links
+References
+External links
+    • S. A. Kamal: The Multi-Stage-Lambert Scheme for Steering a Satellite-Launch Vehicle, Proc.
+    • Time lapse captured from a satellite of a rocket carrying 35 satellites
+    • S. A. Kamal: Ellipse-Orientation Steering: A Control Law for Spacecrafts and Satellite-Launch Vehicles, Space Science and the Challenges of the twenty-First Century, ISPA-SUPARCO Collaborative Seminar, Univ.
+S. A. Kamal, A. Mirza: The Multi-Stage-Q System and the Inverse-Q System for Possible application in SLV, Proc. IBCAST 2005, Volume 3, Control and Simulation, Edited by Hussain SI, Munir A, Kiyani J, Samar R, Khan MA, National Center for Physics, Bhurban, KP, Pakistan, 2006, pp 27–33 Free Full Text
+S. A. Kamal: Incorporating Cross-Range Error in the Lambert Scheme, Proc. 10th National Aeronautical Conf., Edited by Sheikh SR, Khan AM, Pakistan Air Force Academy, Risalpur, KP, Pakistan, 2006, pp 255–263 Free Full Text
+S. A. Kamal: The Multi-Stage-Lambert Scheme for Steering a Satellite-Launch Vehicle, Proc. 12th IEEE INMIC, Edited by Anis MK, Khan MK, Zaidi SJH, Bahria Univ., Karachi, Pakistan, 2008, pp 294–300 (invited paper) Free Full Text
+S. A. Kamal: Incompleteness of Cross-Product Steering and a Mathematical Formulation of Extended-Cross-Product Steering, Proc. IBCAST 2002, Volume 1, Advanced Materials, Computational Fluid Dynamics and Control Engineering, Edited by Hoorani HR, Munir A, Samar R, Zahir S, National Center for Physics, Bhurban, KP, Pakistan, 2003, pp 167–177 Free Full Text
+S. A. Kamal: Dot-Product Steering: A New Control Law for Satellites and Spacecrafts, Proc. IBCAST 2002, Volume 1, Advanced Materials, Computational Fluid Dynamics and Control Engineering, Edited by Hoorani HR, Munir A, Samar R, Zahir S, National Center for Physics, Bhurban, KP, Pakistan, 2003, pp 178–184 Free Full Text
+S. A. Kamal: Ellipse-Orientation Steering: A Control Law for Spacecrafts and Satellite-Launch Vehicles, Space Science and the Challenges of the twenty-First Century, ISPA-SUPARCO Collaborative Seminar, Univ. of Karachi, 2005 (invited paper)
+Time lapse captured from a satellite of a rocket carrying 35 satellites

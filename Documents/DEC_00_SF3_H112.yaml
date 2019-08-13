@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: DEC_00_SF3_H112
+product-selection: DEC_00_SF3_H112|table||||H112|IMPUTATION+OF+MEALS+INCLUDED+IN+RENT+%5B3%5D
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:28:07.021478

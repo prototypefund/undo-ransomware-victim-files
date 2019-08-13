@@ -1,0 +1,18 @@
+source: commons.wikimedia.org
+file: 2-isopropyl-1,3-dioxolane.png
+date: 2019-06-14 14:42:18.245746
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=2-isopropyl-1,3-dioxolane stractural formula}}
+  |Source={{own}}
+  |Author=[[User:Vchorozopoulos|Vchorozopoulos]]
+  |Date=2010-09-05
+  |Permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-chem}}
+  
+  [[Category:Dioxolanes]]{{Convert to SVG|chemical}}

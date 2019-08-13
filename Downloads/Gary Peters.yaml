@@ -1,0 +1,24 @@
+source: en.wikipedia.org
+file: Gary Peters
+date: 2019-06-26 15:29:41.314812
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/903488231
+---
+source: commons.wikimedia.org
+file: Garypeters.jpg
+date: 2019-06-26 15:29:43.174461
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=Official Congressional portrait of Congressman Gary Peters.}}
+  |Source         =Online Guide to House Members and Senators
+  |Author         =Online Guide to House Members and Senators
+  |Date           =
+  |Permission     =
+  |other_versions =
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-Congress}}
+  
+  [[Category:Gary Peters]]
+  [[Category:Members of the 112th United States Congress|Peters, Gary]]

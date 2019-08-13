@@ -1,0 +1,70 @@
+source: en.wikipedia.org
+file: United States Department of the Treasury
+date: 2019-06-26 21:28:04.061978
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/894880419
+---
+source: commons.wikimedia.org
+file: Seal_of_the_United_States_Department_of_the_Treasury_(1789-1968).png
+date: 2019-06-26 21:28:04.889493
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=The former seal of the United States Department of the Treasury, used from 1789 to 1968.}}
+  |date=1789-09-02
+  |source={{derived from|US-DeptOfTheTreasury-Pre1968Seal.jpg}}
+  |author={{attrib|US-DeptOfTheTreasury-Pre1968Seal.jpg}}
+  |permission={{PD-USGov-Treasury}}
+  |other_versions=
+  |other_fields={{Convert to SVG|emblem}}
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-US}}
+  
+  [[Category:Seals of the United States Department of the Treasury]]
+---
+source: commons.wikimedia.org
+file: Treasury_department_official_1907.jpg
+date: 2019-06-26 21:28:05.642712
+text: |
+  {{Information
+  | Description    = US Treasury Department official, surrounded by packages of newly printed currency, counting and wrapping dollar bills. Washington, D.C., 1907.
+  | Source         = [https://www.archives.gov/research_room/research_topics/american_cities/images/american_cities_067.jpg source] {{NARA-image|532295}}
+  | Date           = 1907
+  | Author         = Unnamed Federal Works Agency photographer.
+  | Permission     = {{PD-USGov-Treasury}}
+  | other_versions = 
+  }}
+  
+  == {{int:license-header}} ==
+  {{NARA-image|532295}}
+  {{PD-USGov-Treasury}}
+  
+  == Transwiki details ==
+  Previously uploaded to en:Wikipedia; a Wikipedia description page is/was [http://en.wikipedia.org/w/index.php?title=File%3ATreasury_department_official.jpg here]. All following user names refer to en.wikipedia.
+  * 2005-04-02 09:28 [[:en:User:Darwinek|Darwinek]] 1100×1398× (245597 bytes) ''<nowiki></nowiki>''
+  
+  [[Category:1907 in Washington, D.C.]]
+  [[Category:Men at work in Washington, D.C.]]
+  [[Category:United States Department of the Treasury]]
+  [[Category:1900s interiors|1907]]
+---
+source: commons.wikimedia.org
+file: Organization_of_US_Dept_of_the_Treasury.jpg
+date: 2019-06-26 21:28:06.028001
+text: |
+  {{badjpeg}}
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=Organization of the [[w:United States Department of the Treasury|United States Department of the Treasury]]}}
+  |Source         =http://www.treasury.gov/about/organizational-structure/Pages/default.aspx
+  |Author         =U.S. Dept. of the Treasury
+  |Date           =Screen capture March 8, 2010
+  |Permission     =
+  |other_versions =
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov}}
+  
+  [[Category:United States Department of the Treasury]]

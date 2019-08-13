@@ -1,0 +1,23 @@
+source: commons.wikimedia.org
+file: BspPledgeAlgorithmus.png
+date: 2019-06-13 16:32:38.171752
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{de|1=Verhalten des Pledge-Algorithmus beim Durchwandern eines "G". Dabei werden Drehungen im Gegenuhrzeigersinn positiv, Drehungen im Uhrzeigersinn negativ gezählt.}}
+  |date=2011-10-19
+  |source={{own}}
+  |author=[[User:Zwoelefant|Zwoelefant]]
+  |permission=
+  |other_versions=
+  |other_fields={{SVG|diagram}}
+  }}
+  
+  =={{int:license-header}}==
+  {{self|cc-zero}}
+  
+  
+  
+  [[Category:Mazes]]
+  [[Category:Algorithms]]
+  [[Category:Artificial intelligence]]

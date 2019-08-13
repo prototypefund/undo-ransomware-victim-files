@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_17_1YR_C11016
+product-selection: ACS_17_1YR_C11016|table||||C11016|HOUSEHOLD+TYPE+BY+HOUSEHOLD+SIZE
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 10:43:09.459845

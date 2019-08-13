@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_14_5YR_B25007
+product-selection: ACS_14_5YR_B25007|table||||B25007|TENURE+BY+AGE+OF+HOUSEHOLDER
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:41:42.093109

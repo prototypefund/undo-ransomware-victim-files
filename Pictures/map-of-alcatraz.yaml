@@ -1,0 +1,25 @@
+source: commons.wikimedia.org
+file: Map of Alcatraz.png
+date: 2019-06-13 16:48:55.458673
+text: |
+  {{convert to SVG|architecture}}
+  {{should be SVG|City map}}
+  
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=Map of '''[[:Category:Alcatraz Island|Alcatraz Island]]''' — former prison and present day park, in [[San Francisco Bay]], [[California]].
+  }}
+  |Source=http://www.openstreetmap.org/#map=18/37.82672/-122.42336
+  |Date=2012-08-31
+  |Author=OpenStreetMap contributors
+  |Permission=http://www.openstreetmap.org/copyright map style: https://github.com/gravitystorm/openstreetmap-carto/blob/master/LICENSE.txt
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{free screenshot|license={{ODbL OpenStreetMap}} }} 
+  {{Cc-zero}}
+  
+  [[Category:Maps of Alcatraz Island]]
+  [[Category:Maps of San Francisco Bay|Islands]]
+  [[Category:Maps of San Francisco|Alcatraz]]

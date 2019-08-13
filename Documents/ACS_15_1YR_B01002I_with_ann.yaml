@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_15_1YR_B01002I
+product-selection: ACS_15_1YR_B01002I|table||||B01002I|MEDIAN+AGE+BY+SEX+%28HISPANIC+OR+LATINO%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:44:31.648036

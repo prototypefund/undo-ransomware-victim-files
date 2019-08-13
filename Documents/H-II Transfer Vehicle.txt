@@ -1,0 +1,94 @@
+﻿H-II Transfer Vehicle
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/H-II%20Transfer%20Vehicle
+Licensed under CC BY-SA 3.0:
+https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+
+H-II Transfer Vehicle
+    • The name Kounotori was chosen for the HTV by JAXA because "a white stork carries an image of conveying an important thing (a baby, happiness, and other joyful things), therefore, it precisely expresses the HTV's mission to transport essential materials to the ISS".
+    • The H-II Transfer Vehicle (HTV), also called Kounotori (こうのとり, Kōnotori, "Oriental stork" or "white stork"), is an expendable, automated cargo spacecraft used to resupply the Kibō Japanese Experiment Module (JEM) and the International Space Station (ISS).
+The H-II Transfer Vehicle (HTV), also called Kounotori (こうのとり, Kōnotori, "Oriental stork" or "white stork"), is an expendable, automated cargo spacecraft used to resupply the Kibō Japanese Experiment Module (JEM) and the International Space Station (ISS). The Japan Aerospace Exploration Agency (JAXA) has been working on the design since the early 1990s. The first mission, HTV-1, was originally intended to be launched in 2001. It launched at 17:01 UTC on 10 September 2009 on an H-IIB launch vehicle. The name Kounotori was chosen for the HTV by JAXA because "a white stork carries an image of conveying an important thing (a baby, happiness, and other joyful things), therefore, it precisely expresses the HTV's mission to transport essential materials to the ISS".
+
+Structure
+
+Inside view of the Pressurised Logistics Carrier section of HTV-1.
+
+Canadarm2 removing unpressurised payload from HTV-2.
+
+The four main thrusters. Smaller attitude control thrusters can be seen at the right side of this view of HTV-1.
+Design
+    • The HTV has an external payload bay which is accessed by robotic arm after it has been berthed to the ISS.
+    • The intention of HTV's modularized design was to use different module configuration to match the mission requirement.
+    • The HTV carries about 2400 kg of propellant in four tanks.
+    • After the unloading process is completed, the HTV will be loaded with waste and unberthed.
+The HTV is about 9.8 metres (32 ft) long (including maneuvering thrusters at one end) and 4.4 metres (14 ft) in diameter. Total mass when empty is 10.5 tonnes (11.6 short tons), with a maximum total payload of 6,000 kilograms (13,000 lb; 6.0 t; 6.6 short tons), for a maximum launch weight of 16.5 tonnes (18.2 short tons). 
+The HTV is comparable in function to the Russian Progress, European ATV, commercial Dragon, and commercial Cygnus spacecraft, all of which bring supplies to the ISS. Like the ATV, the HTV carries more than twice the payload of the Progress, but is launched less than half as often. Unlike Progress capsules and ATVs, which use the docking ports automatically, HTVs and American commercial spacecraft approach the ISS in stages, and once they reach their closest parking orbit to the ISS, crew grapple them using the robotic arm Canadarm2 and berth them to an open berthing port on the Harmony module.
+The HTV has an external payload bay which is accessed by robotic arm after it has been berthed to the ISS. New payloads can be moved directly from the HTV to Kibō's exposed facility. Internally, it has eight International Standard Payload Racks (ISPRs) in total which can be unloaded by the crew in a shirt-sleeve environment. After the retirement of NASA's Space Shuttle in 2011, HTVs became the only spacecraft capable of transporting ISPRs to the ISS. The SpaceX Dragon and Orbital Sciences Cygnus can carry resupply cargo bags but not ISPRs.[citation needed]
+The intention of HTV's modularized design was to use different module configuration to match the mission requirement.  However, to reduce the development cost it was decided to fly the mixed PLC/ULC configuration only.
+To control the HTV's attitude and to perform the orbital maneuvers such as rendezvous and reentry, the craft has four 500 N class main thrusters and twenty-eight 110 N class attitude control thrusters. Both use bipropellant, namely monomethylhydrazine (MMH) as fuel and mixed oxides of nitrogen (MON3) as oxidizer.  HTV-1, -2, and -4 use Aerojet's 110 N R-1E, Space Shuttle's vernier engine, and the 500 N based on the Apollo spacecraft's R-4D.  Later HTVs use 500 N class HBT-5 thrusters and 120 N class HBT-1 thrusters made by Japanese manufacturer IHI Aerospace Co., Ltd.  The HTV carries about 2400 kg of propellant in four tanks.
+After the unloading process is completed, the HTV will be loaded with waste and unberthed. The vehicle will then deorbit and be destroyed during reentry, the debris falling into the Pacific Ocean.
+Flights
+    • As of March 2015[update], five subsequent missions are planned—one each year for 2015–2019
+—one fewer total mission than had been planned in August 2013 at the time the fourth HTV mission was underway.
+    • The first vehicle was launched on an H-IIB rocket, a more powerful version of the earlier H-IIA, at 17:01 GMT on 10 September 2009, from Launch Pad 2 of the Yoshinobu Launch Complex at the Tanegashima Space Center.
+Initially seven missions were planned in 2008-2015.  With the extension of ISS project after 2015 through 2020, three more missions are planned, possibly replacing the tenth flight with an improved, cost-reduced version (HTV-X).
+The first vehicle was launched on an H-IIB rocket, a more powerful version of the earlier H-IIA, at 17:01 GMT on 10 September 2009, from Launch Pad 2 of the Yoshinobu Launch Complex at the Tanegashima Space Center.
+As of March 2015[update], five subsequent missions are planned—one each year for 2015–2019
+—one fewer total mission than had been planned in August 2013 at the time the fourth HTV mission was underway.[unreliable source?]
+Planned successor
+HTV-X
+    • Finally the 3rd module by default is a 3.8 m long unpressurised cargo module, essentially a hollow cylinder with shelves it vastly expands the volume of unpressurised cargo which can be stored compared to the storage compartments built in to the outside of the original HTV and it can be optionally replaced with a different mission payload.
+    • To replace the Unpressurized Logistics Carrier (UPLC), Avionics Module, and the Propulsion Module with a new Service Module
+In May 2015, Japan's Ministry of Education, Culture, Sports, Science and Technology announced a  proposal to replace HTV with an improved, cost-reduced version preliminary called HTV-X.
+Proposed concept of HTV-X as of July 2015[update] is:
+To re-use the design of HTV's Pressurized Logistics Carrier (PLC) as much as possible, except adding a side hatch for late access cargo,
+To replace the Unpressurized Logistics Carrier (UPLC), Avionics Module, and the Propulsion Module with a new Service Module
+Instead of loading the unpressurized cargo inside the spacecraft, load them on top of the Service Module.
+Re-using the PLC design will allow minimizing the development cost and risk.  Concentrating the reaction control system (RCS) and the solar panels to the Service Module will allow simplifying the wiring and piping, to reduce the weight and the manufacturing cost.  Loading the unpressurized cargo outside the spacecraft allows larger cargo, only limited by the launch vehicle fairing.  The aim is to cut the cost in half, while keeping or extending the capability of existing HTV.
+The simplification of overall structure will allow the launch mass of HTV-X to be dropped to 15.5 t (planned) from HTV's 16.5 t, while the maximum weight of cargo will be increased to 7.2 t (net weight 5.85 t excluding support structure weight) from HTV's 6.0 t (net 4.0 t).
+In December 2015, the plan to develop HTV-X was approved by the Strategic Headquarters for Space Policy of the Cabinet Office, targeting fiscal year 2021 for the flight of HTV-X1 (Technical Demonstration Vehicle) to be launched by H3 rocket.
+With the agreement of Japan-US Open Platform Partnership Program (JP-US OP3) in December 2015 to extend the cooperation of ISS operation through 2024, Japan will provide its share of ISS operation costs with the form of transportation by HTV-X, and also a possibility to develop a small return capsule.
+The final form of the HTV-X consists of three modules; a lower 3.5 m long pressurised logistics module nearly identical to that of the HTV elongated by 0.2 m and with a side access hatch added to allow late loading while mated to the rocket, a 2.7 m long central Service Module containing all functions and capable of operating independently of the other modules, two arrays of solar panels generate 1 kW of electrical power as opposed to the 200 W generated by the HTV, in addition the Service Module batteries are capable of providing a peak output of 3 kW compared to the 2 kW of the original and a 1 Mbit/s communication link has been added in addition to the original 8 kbit/s link, the main thrusters have been removed and the HTV-X is purely reliant on Reaction Control System (RCS) motors mounted in a ring around the Service Module and selected service module components have been mounted externally on the top of the Service Module sitting beneath an attached unpressurised cargo module to allow for ease of maintenance access in space. Finally the 3rd module by default is a 3.8 m long unpressurised cargo module, essentially a hollow cylinder with shelves it vastly expands the volume of unpressurised cargo which can be stored compared to the storage compartments built in to the outside of the original HTV and it can be optionally replaced with a different mission payload. The HTV-X has a length of 6.2 m or 10 m with the unpressurised cargo module fitted, the payload fairing adaptor and payload dispenser have been widened from 1.7 m to 4.4 m to accommodate replacing of pressurised module with alternate modules, add increased structural strength and to accommodate the side hatch.
+Other payloads being considered to replace the unpressurised cargo module while carrying out ISS resupply missions are an external sensor package, a technology trial of an IDSS airlock with automated station docking as used by the Progress and ATV craft, a trial of rendezvous and docking with a simulated satellite module, a smaller satellite piggybacking the launch to reach ISS orbit, a station return capsule, assembling a beyond earth orbit mission such as lunar lander from smaller modules and acting as a space tug shuttling orbiting unpressurised cargo modules to the ISS allowing stuff such as recyclable materials, excess propellant and spare parts to be stored in orbit for future use rather than discarded.
+Former evolutionary proposals
+HTV-R
+    • In this concept, HTV's pressurized cargo would be replaced by a reentry module capable of returning 1.6 tonnes (1.8 tons) cargo from ISS to Earth.
+As of 2010[update], JAXA was planning to add a return capsule option.  In this concept, HTV's pressurized cargo would be replaced by a reentry module capable of returning 1.6 tonnes (1.8 tons) cargo from ISS to Earth.[needs update]
+Further, conceptual plans in 2012 included a follow-on spacecraft design by 2022 which would accommodate a crew of three and carry up to 400 kilograms (880 lb) of cargo.[needs update]
+Lagrange outpost resupply
+    • As of 2014[update], both JAXA and Mitsubishi conducted studies of a next generation HTV as a possible Japanese contribution to the proposed international manned outpost at Earth-Moon L2.
+    • This variant of HTV was to be launched by H-X Heavy and can carry 1.8 tons of supplies to EML2.
+    • Modifications from the current HTV includes the addition of solar electric paddles and extension of the propellant tank.
+As of 2014[update], both JAXA and Mitsubishi conducted studies of a next generation HTV as a possible Japanese contribution to the proposed international manned outpost at Earth-Moon L2. This variant of HTV was to be launched by H-X Heavy and can carry 1.8 tons of supplies to EML2. Modifications from the current HTV includes the addition of solar electric paddles and extension of the propellant tank.
+Manned variant
+    • A proposal announced in June 2008 suggested combining HTV's propulsion module with a manned capsule for four people.
+A proposal announced in June 2008 suggested combining HTV's propulsion module with a manned capsule for four people.
+Japanese Space Station
+    • A Japanese Space Station has been proposed to be built up from HTV modules.
+    • This method is similar to how the modules in Mir, as well as many modules of the Russian Orbital Segment of the ISS are based on the TKS cargo vehicle design.
+A Japanese Space Station has been proposed to be built up from HTV modules. This method is similar to how the modules in Mir, as well as many modules of the Russian Orbital Segment of the ISS are based on the TKS cargo vehicle design.[citation needed]
+Gallery
+    • HTV-6 grappled to a robotic arm of ISS
+    • HTV-3 near ISS
+    • Kounotori 5 (HTV-5) with Aurora australis
+HTV-3 near ISS
+Kounotori 5 (HTV-5) with Aurora australis
+HTV-6 grappled to a robotic arm of ISS
+See also
+    • Comparison of automated cargo spacecraft
+    • Comparison of space station cargo vehicles
+Comparison of space station cargo vehicles
+Comparison of automated cargo spacecraft
+References
+External links
+    • H-II Transfer Vehicle -Road to the HTV's launch-, JAXA
+    • JAXA
+    • Project overview of H-II Transfer Vehicle., JAXA
+Project overview of H-II Transfer Vehicle., JAXA
+HTV/H-IIB launch Special site, JAXA
+For Future Space Transportation Mission -HTV/H-IIB Promotional Movie on YouTube. JAXA
+H-II Transfer Vehicle -Road to the HTV's launch-, JAXA
+HTV1/H-IIB TF Quick Review on YouTube. JAXA
+H-2B rocket and Kounotori 3D model, Asahi Shinbun
+Japan's space freighter in orbit, BBC News
+

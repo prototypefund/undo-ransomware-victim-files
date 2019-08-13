@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_5YR_B14002
+product-selection: ACS_10_5YR_B14002|table||||B14002|SEX+BY+SCHOOL+ENROLLMENT+BY+LEVEL+OF+SCHOOL+BY+TYPE+OF+SCHOOL+FOR+THE+POPULATION+3+YEARS+AND+OVER
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:04:53.724295

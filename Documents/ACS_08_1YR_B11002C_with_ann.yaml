@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_08_1YR_B11002C
+product-selection: ACS_08_1YR_B11002C|table||||B11002C|HOUSEHOLD+TYPE+BY+RELATIVES+AND+NONRELATIVES+FOR+POPULATION+IN+HOUSEHOLDS+%28AMERICAN+INDIAN+AND+ALASKA+NATIVE+ALONE%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:53:37.898705

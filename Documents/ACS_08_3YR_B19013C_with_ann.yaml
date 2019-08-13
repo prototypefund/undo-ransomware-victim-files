@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_08_3YR_B19013C
+product-selection: ACS_08_3YR_B19013C|table||||B19013C|MEDIAN+HOUSEHOLD+INCOME+IN+THE+PAST+12+MONTHS+%28IN+2008+INFLATION-ADJUSTED+DOLLARS%29+%28AMERICAN+INDIAN+AND+ALASKA+NATIVE+ALONE+HOUSEHOLDER%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:42:27.695461

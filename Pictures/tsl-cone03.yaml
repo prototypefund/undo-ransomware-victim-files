@@ -1,0 +1,23 @@
+source: commons.wikimedia.org
+file: TSL-Cone03.png
+date: 2019-06-13 16:46:36.817205
+text: |
+  {{Convert to SVG|diagram}}
+  
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{fr|1=Cône TSL}}
+  {{en|1=HSL cone}}
+  |Source         ={{own}}
+  |Author         =[[User:Scsami|Scsami]]
+  |Date           =2011-02-17
+  |Permission     =
+  |other_versions =
+  }}
+  
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}
+  
+  
+  [[Category:HSL]]
+  [[Category:Color cones and pyramids]]

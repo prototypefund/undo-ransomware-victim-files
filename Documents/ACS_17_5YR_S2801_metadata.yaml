@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_17_5YR_S2801
+product-selection: ACS_17_5YR_S2801|table||||S2801|TYPES+OF+COMPUTERS+AND+INTERNET+SUBSCRIPTIONS+
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:07:52.760082

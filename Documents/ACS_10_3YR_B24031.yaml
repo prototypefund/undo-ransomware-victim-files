@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_3YR_B24031
+product-selection: ACS_10_3YR_B24031|table||||B24031|INDUSTRY+BY+MEDIAN+EARNINGS+IN+THE+PAST+12+MONTHS+%28IN+2010+INFLATION-ADJUSTED+DOLLARS%29+FOR+THE+CIVILIAN+EMPLOYED+POPULATION+16+YEARS+AND+OVER
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:26:28.716506

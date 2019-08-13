@@ -1,0 +1,28 @@
+source: commons.wikimedia.org
+file: MDA Muscle Walk.png
+date: 2019-06-14 14:40:35.420589
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=MDA Muscle Walk logo.}}
+  |Source=http://www2.mda.org/images/content/pagebuilder/muscle-walk-logo15926.jpg
+  |Date=
+  |Author=[[:en:Muscular Dystrophy Association|Muscular Dystrophy Association]]
+  |Permission=
+  |other_versions=
+  }}
+  {{Convert to SVG|logo}}
+  
+  == {{int:license-header}} ==
+  {{PD-textlogo}}
+  {{Trademark}}
+  
+  == {{Original upload log}} ==
+  {{original description|en.wikipedia|MDA+Muscle+Walk.png}}
+  {| class="wikitable"
+  ! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+  |-
+  | 2013-02-23 05:23 || 1685×483× (186543 bytes) || [[:en:User:Mbrstooge|Mbrstooge]] || ''<nowiki>=={{int:filedesc}}== {{Information |description={{en|1=MDA Muscle Walk logo.}} |date= |source=http://www2.mda.org/images/content/pagebuilder/muscle-walk-logo15926.jpg |author=[[Muscular Dystrophy Association]] |permission={{textlogo}}{{trademark}} |oth...</nowiki>''
+  |}
+  
+  [[Category:Unidentified logos]]

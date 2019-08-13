@@ -1,0 +1,25 @@
+source: en.wikipedia.org
+file: United States congressional delegations from Illinois
+date: 2019-06-26 21:31:24.161670
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/898144223
+---
+source: commons.wikimedia.org
+file: Illinois_Congressional_Districts,_113th_Congress.tif
+date: 2019-06-26 21:31:26.893602
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Map of Congressional Districts in the state of Illinois, reflecting district boundaries current to the 113th United States Congress.}}
+  |date=2014-02-01 22:37:48
+  |source=National Atlas of the United States (http://nationalatlas.gov/printable/congress.html)
+  |author=Department of the Interior
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-USGov}}
+  [[Category:Congressional district maps of Illinois|2013]]
+  [[Category:National Atlas maps of Illinois|2013]]
+  [[Category:Congressional district maps of the 113th Congress|Illinois]]

@@ -1,0 +1,18 @@
+source: commons.wikimedia.org
+file: Superkondensator-Porenmodell-engl.png
+date: 2019-06-13 16:42:13.486876
+text: |
+  {{SVG|circuit}}
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=principle illustration of the electrical bahavior of a poros electrode of a supercapacitor}}
+  |Source         ={{own}}
+  |Author         =[[User:Elcap|Elcap]]
+  |Date           =2013-03-02
+  |Permission     =CC0 1.0
+  |other_versions =Superkondensator-Porenmodell.png
+  }}
+  
+  [[Category:Supercapacitors]]
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}

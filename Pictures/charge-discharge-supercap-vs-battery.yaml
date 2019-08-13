@@ -1,0 +1,18 @@
+source: commons.wikimedia.org
+file: Charge-Discharge-Supercap-vs-Battery.png
+date: 2019-06-13 16:49:11.239769
+text: |
+  {{SVG|graph}}
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=Different charge /discharge behavior of supercapacitors and rechargeable batteries }}
+  |Source         ={{own}}
+  |Author         =[[User:Elcap|Elcap]]
+  |Date           =2013-04-09
+  |Permission     =CC0 1.0
+  |other_versions =File:Lade-Entladekurve-Vergleich-EDLC-Akku.png (German)
+  }}
+  
+  [[Category:Supercapacitors]]
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}

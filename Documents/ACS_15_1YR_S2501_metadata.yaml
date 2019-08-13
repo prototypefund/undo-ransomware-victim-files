@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_15_1YR_S2501
+product-selection: ACS_15_1YR_S2501|table||||S2501|OCCUPANCY+CHARACTERISTICS+
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 10:39:16.129668

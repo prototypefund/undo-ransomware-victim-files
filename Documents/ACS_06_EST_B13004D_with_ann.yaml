@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_06_EST_B13004D
+product-selection: ACS_06_EST_B13004D|table||||B13004D|WOMEN+15+TO+50+YEARS+WHO+HAD+A+BIRTH+IN+THE+PAST+12+MONTHS+BY+MARITAL+STATUS+%28ASIAN+ALONE%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:37:26.920802

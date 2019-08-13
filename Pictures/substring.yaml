@@ -1,0 +1,19 @@
+source: commons.wikimedia.org
+file: Substring.png
+date: 2019-06-13 16:44:45.102505
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=A depiction of a substring within a string}}
+  |date=2018-06-07
+  |source={{own}}
+  |author=[[User:Turbo pencil|Turbo pencil]]
+  |permission=
+  |other versions=
+  }}
+  {{ConvertToSVG|diagram}}
+  
+  =={{int:license-header}}==
+  {{self|cc-zero}}
+  
+  [[Category:Substring]]

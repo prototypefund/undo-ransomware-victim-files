@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: DEC_00_SF3_P140
+product-selection: DEC_00_SF3_P140|table||||P140|IMPUTATION+OF+HOUSEHOLD+INCOME+IN+1999+--+PERCENT+OF+INCOME+IMPUTED+%5B7%5D
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:49:15.600199

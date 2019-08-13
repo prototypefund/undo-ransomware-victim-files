@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: DEC_00_SF4_HCT001
+product-selection: DEC_00_SF4_HCT001|table||||HCT001|URBAN+AND+RURAL+%5B7%5D
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:58:22.498689

@@ -1,0 +1,29 @@
+source: en.wikipedia.org
+file: Parker Solar Probe
+date: 2019-06-15 18:48:07.683688
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/900653582
+---
+source: commons.wikimedia.org
+file: KSC-20180605-PH_GEB01_0116_(41073463690).jpg
+date: 2019-06-15 18:48:10.047319
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  | Description = In the Astrotech processing facility in Titusville, Florida, near NASA's Kennedy Space Center, on Tuesday, June 5, 2018, technicians and engineers perform light bar testing on NASA's Parker Solar Probe. The Parker Solar Probe will launch on a United Launch Alliance Delta IV Heavy rocket from Space Launch Complex 37 at Cape Canaveral Air Force Station in Florida no earlier than Aug. 4, 2018. The mission will perform the closest-ever observations of a star when it travels through the Sun's atmosphere, called the corona. The probe will rely on measurements and imaging to revolutionize our understanding of the corona and the Sun-Earth connection.
+  Photo credit: NASA/Glenn Benson
+  
+  | Source      = [https://www.flickr.com/photos/nasakennedy/41073463690/ KSC-20180605-PH_GEB01_0116]
+  | Date        = 2018-06-05 16:37
+  | Author      = [https://www.flickr.com/people/108488366@N07 NASA Kennedy] from United States
+  
+  NASA/Glenn Benson
+  | Permission  = {{FlinfoExifLicense|Attribution-ShareAlike License|IFD0:Artist|NASA/}}
+  | other_versions=
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-NASA}}
+  {{FlickreviewR|status=passed_changed|author=NASAKennedy|sourceurl=https://flickr.com/photos/108488366@N07/41073463690|reviewdate=2018-06-20 19:33:22|reviewlicense=cc-by-sa-2.0|reviewer=FlickreviewR 2}}
+  [[Category:Parker Solar Probe]]
+  [[Category:Photographs by Glenn Benson]]
+  [[Category:Astrotech facility at Titusville Florida]]

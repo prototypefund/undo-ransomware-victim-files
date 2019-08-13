@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_05_EST_S0101
+product-selection: ACS_05_EST_S0101|table||||S0101|Age+and+Sex
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:10:28.281546

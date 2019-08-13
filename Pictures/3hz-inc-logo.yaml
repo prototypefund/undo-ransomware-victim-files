@@ -1,0 +1,31 @@
+source: commons.wikimedia.org
+file: 3Hz Inc. logo.png
+date: 2019-06-27 13:58:35.226917
+text: |
+  {{BotMoveToCommons|en.wikipedia|2019|May|17}}
+  
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|The logo of 3Hz inc. used in credits}}
+  |Source={{transferred from|en.wikipedia}} Original source: http://3hz.co.jp
+  |Date={{Original upload date|2018-11-11}}
+  |Author={{Original uploader|Joseon Empire|wikipedia|en}}
+  |Permission=
+  |other_versions=
+  }}
+  
+  {{convert to SVG}}
+  
+  == {{int:license-header}} ==
+  {{PD-logo}}
+  {{trademarked}}
+  
+  == {{Original upload log}} ==
+  {{original description|en.wikipedia|3Hz+Inc.+logo.png}}
+  {| class="wikitable filehistory"
+  ! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+  |-
+  | 2018-11-11 14:57 || 480×110× (39874 bytes) || [[:en:User:Joseon Empire|Joseon Empire]] || ''<nowiki>Uploading a non-free logo using [[Wikipedia:File_Upload_Wizard|File Upload Wizard]]</nowiki>''
+  |}
+  
+  [[Category:Logos of companies of Japan]]

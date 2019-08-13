@@ -1,0 +1,18 @@
+source: commons.wikimedia.org
+file: Flow graph for three linear equations.png
+date: 2019-06-13 16:44:38.178431
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Flow graph for three simultaneous equations}}
+  |date=2015-01-10
+  |source={{own}}
+  |author=[[User:Brews ohare|Brews ohare]]
+  |permission=
+  |other versions={{SVG|math}}
+  }}
+  
+  =={{int:license-header}}==
+  {{self|cc-zero}}
+  
+  [[Category:Signal flow graphs]]

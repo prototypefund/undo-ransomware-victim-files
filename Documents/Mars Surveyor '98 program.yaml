@@ -1,0 +1,46 @@
+source: en.wikipedia.org
+file: Mars Surveyor '98 program
+date: 2019-06-15 18:13:37.083996
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/856172572
+---
+source: commons.wikimedia.org
+file: M98patch.png
+date: 2019-06-15 18:13:38.256533
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  | Description    = The [[w:Mars Polar Lander]] mission logo.
+  | Source         = http://mpfwww.jpl.nasa.gov/msp98/lander/fact.html
+  | Date           = uploaded: 15:46, 21 April 2009 (UTC)
+  | Author         = NASA JPL
+  | Permission     = Public Domain
+  | other_versions =
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Mars Polar Lander]]
+  [[Category:Logos and seals of NASA]]
+  [[Category:Logos with transparent background]]
+---
+source: commons.wikimedia.org
+file: Mars_Polar_Lander_undergoes_testing.jpg
+date: 2019-06-15 18:13:39.477062
+text: |
+  == {{int:filedesc}} ==
+  '''Mars Polar Lander undergoes testing in SAEF-2'''
+  
+  {{Information
+  |Description=In the Spacecraft Assembly and Encapsulation Facility-2 (SAEF-2), a KSC technician looks over the Mars Polar Lander before its encapsulation inside the backshell, a protective cover. The solar-powered spacecraft, targeted for launch from Cape Canaveral Air Station aboard a Delta II rocket on Jan. 3, 1999, is designed to touch down on the Martian surface near the northern-most boundary of the south pole in order to study the water cycle there. The lander also will help scientists learn more about climate change and current resources on Mars, studying such things as frost, dust, water vapor and condensates in the Martian atmosphere.
+  |Source=http://science.ksc.nasa.gov/gallery/photos/1998/captions/KSC-98PC-1610.html
+  |Date=1998-10-29
+  |Author=NASA, Image ID: KSC-98PC-1610
+  |Permission=PD
+  |other_versions=
+  }}
+  [[Category:Mars Polar Lander]]
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  [[Category:Spacecraft Assembly and Encapsulation Facility]]
+  [[Category:Vehicle testing]]

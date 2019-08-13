@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_13_3YR_B08505H
+product-selection: ACS_13_3YR_B08505H|table||||B08505H|MEANS+OF+TRANSPORTATION+TO+WORK+FOR+WORKPLACE+GEOGRAPHY+%28WHITE+ALONE%2C+NOT+HISPANIC+OR+LATINO%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:02:06.200805

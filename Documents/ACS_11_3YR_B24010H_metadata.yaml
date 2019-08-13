@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_11_3YR_B24010H
+product-selection: ACS_11_3YR_B24010H|table||||B24010H|SEX+BY+OCCUPATION+FOR+THE+CIVILIAN+EMPLOYED+POPULATION+16+YEARS+AND+OVER+%28WHITE+ALONE%2C+NOT+HISPANIC+OR+LATINO%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 10:56:08.251328

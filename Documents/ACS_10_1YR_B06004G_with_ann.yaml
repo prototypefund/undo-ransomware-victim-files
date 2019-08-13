@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_1YR_B06004G
+product-selection: ACS_10_1YR_B06004G|table||||B06004G|PLACE+OF+BIRTH+%28TWO+OR+MORE+RACES%29+IN+THE+UNITED+STATES
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:31:18.745937

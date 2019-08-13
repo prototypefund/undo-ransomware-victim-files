@@ -1,0 +1,52 @@
+source: en.wikipedia.org
+file: United States Geological Survey
+date: 2019-06-15 19:58:36.651760
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/901160826
+---
+source: commons.wikimedia.org
+file: Mount_Marcy_New_York_USGS_topo_map_1892.jpg
+date: 2019-06-15 19:58:38.704450
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Old United States Geological Survey quad map of the Adirondacks in NY State; image of this topographical quadrangle map retrieved from archive at Old Book Art website.}}
+  |date=1919
+  |source=http://www.gallery.oldbookart.com/main.php?g2_itemId=30598
+  |author=USGS
+  |permission=Public domain, rights and usage information confirmed at: [http://www.oldbookart.com/about/ http://www.oldbookart.com/about/].
+  |other_versions=
+  |other_fields=
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-USGov-USGS}}
+  {{PD-USGov}}
+  
+  [[Category:Maps of the Adirondack Mountains]]
+  [[Category:Topographic maps of New York (state)]]
+  [[Category:United States Geological Survey maps]]
+  [[Category:1892 maps of New York]]
+---
+source: commons.wikimedia.org
+file: Clarence_King.jpg
+date: 2019-06-15 19:58:40.338537
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  | Description = 
+  * {{en|Image of {{w|Clarence King}}, the first director of {{w|United States Geological Survey}}.}}
+  * {{de|Bild von [[:de:Clarence King]].}}
+  | Source      = http://pubs.usgs.gov/circ/c1050/fig09.jpg
+  | Date        =  {{other date|between|1879|1881}}
+  | Author      = {{unknown|Author}}
+  | Permission  = 
+  * {{en|Public Domain by age and work of a U.S. Government agency (United States Geological Survey)}}
+  * {{de|gemeinfrei durch Alter und da es von einer US-amerikanischen Regierungsbehörde (United States Geological Survey) veröffentlicht wurde.}}
+  | other_versions =
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-USGS}}
+  
+  [[Category:Clarence King]]
+  [[Category:History of the United States]]

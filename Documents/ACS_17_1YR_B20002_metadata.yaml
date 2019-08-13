@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_17_1YR_B20002
+product-selection: ACS_17_1YR_B20002|table||||B20002|MEDIAN+EARNINGS+IN+THE+PAST+12+MONTHS+%28IN+2017+INFLATION-ADJUSTED+DOLLARS%29+BY+SEX+FOR+THE+POPULATION+16+YEARS+AND+OVER+WITH+EARNINGS+IN+THE+PAST+12+MONTHS
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:45:09.000969

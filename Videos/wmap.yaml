@@ -1,0 +1,19 @@
+source: commons.wikimedia.org
+file: WMAP.ogv
+date: 2019-06-15 15:53:55.344530
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=Interviews with Dr. Charles Bennett and Dr. Lyman Page about WMAP.}}
+  |Source         =[http://svs.gsfc.nasa.gov/goto?11008 Goddard Multimedia]
+  |Author         =NASA/Goddard Space Flight Center
+  |Date           =2012-06-21
+  |Permission     =
+  |other_versions =
+  }}
+  
+  [[Category:WMAP]]
+  [[Category:Videos from NASA]]
+  [[Category:Charles L. Bennett]]
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}

@@ -1,0 +1,23 @@
+source: en.wikipedia.org
+file: Van Allen Probes
+date: 2019-06-15 20:02:16.954731
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/894093085
+---
+source: commons.wikimedia.org
+file: Van_Allen_Probes_A_and_B.jpg
+date: 2019-06-15 20:02:17.956473
+text: |
+  == {{int:filedesc}} ==
+  {{Uploaded with en.wp UW marker|year=2013|month=06|day=16}}
+  {{Information
+  |Description = {{en|Artist's rendition of Van Van Probes A and B (formerly known as Radiation Belt Storm Probes (RBSP)) in earth orbit.}}
+  |Source = http://www.nasa.gov/mission_pages/rbsp/news/vanallen-probes.html
+  |Date =2012-11-09
+  |Author = NASA / Goddard Space Flight Center
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  {{Check categories|year=2013|month=November|day=2}}
+  [[Category:Van Allen Probes]]

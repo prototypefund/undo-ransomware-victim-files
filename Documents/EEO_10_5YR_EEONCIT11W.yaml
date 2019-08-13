@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: EEO_10_5YR_EEONCIT11W
+product-selection: EEO_10_5YR_EEONCIT11W|table||||EEO-NCIT11W|EEO+11w.+Detailed+Census+Occupation+by+Earnings%2C+Sex%2C+and+Race%2FEthnicity+for+Worksite+Geography%2C+Not+a+Citizen+
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:45:13.273115

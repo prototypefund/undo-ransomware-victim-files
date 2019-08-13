@@ -1,0 +1,26 @@
+source: commons.wikimedia.org
+file: Cour d'or en dollars.png
+date: 2019-06-13 16:37:10.910607
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Historical gold price in USD and inflation adjusted gold price in USD}}{{fr|1=Évolution du cours de l'once d'or de 1960. Cours nominal et cours en dollars corrigé de l'inflation (IPC)}}
+  |date=2012-11-29 20:47:39
+  |source={{own}}
+  |author=[[User:Realterm|Realterm]]
+  |permission=
+  |other_versions=Different languages: English, German [[file:Gold price in USD.png|thumb|left]] [[file:Goldpreis in Dollar.png|thumb|left]]
+  |other_fields=
+  }}
+  {{ConvertToSVG|graph}}
+  
+  == Data ==
+  www.bundesbank.de [http://www.bundesbank.de] for daily gold price London PM fix
+  
+  www.bls.gov [http://www.bls.gov] for Consumer Price Index (CPI-U)
+  
+  =={{int:license-header}}==
+  {{self|cc-zero}}
+  
+  [[Category:Gold price charts (USD)]]
+  [[Category:Gold adjusted charts]]

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_15_5YR_B25109
+product-selection: ACS_15_5YR_B25109|table||||B25109|MEDIAN+VALUE+BY+YEAR+HOUSEHOLDER+MOVED+INTO+UNIT
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 10:50:24.256046

@@ -1,0 +1,18 @@
+source: commons.wikimedia.org
+file: CCRcamphor.png
+date: 2019-06-13 16:32:42.182488
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=Camphor Auxilliary for CCR}}
+  |Source=Aggarwal, V. K.; Winn, C. L. (2004), Accounts of Chemical Research 37: 611, doi:10.1021/ar030045f
+  |Author=selfmade by [[User:mdlevin | mdlevin]]
+  |Date=2011-01-02
+  |Permission=Public Domain
+  |other_versions=
+  }}
+  {{ConvertToSVG|chemical}}
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}
+  
+  [[Category:Johnson-Corey-Chaykovsky reaction]]

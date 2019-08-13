@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: DEC_00_SF3_P120
+product-selection: DEC_00_SF3_P120|table||||P120|IMPUTATION+OF+SENSORY+DISABILITY+FOR+THE+CIVILIAN+NONINSTITUTIONALIZED+POPULATION+5+YEARS+AND+OVER+%5B3%5D
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 15:01:57.338247

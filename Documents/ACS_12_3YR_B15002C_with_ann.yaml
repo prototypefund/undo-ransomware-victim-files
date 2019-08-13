@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_12_3YR_B15002C
+product-selection: ACS_12_3YR_B15002C|table||||B15002C|SEX+BY+EDUCATIONAL+ATTAINMENT+FOR+THE+POPULATION+25+YEARS+AND+OVER+%28AMERICAN+INDIAN+AND+ALASKA+NATIVE+ALONE%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:15:29.028372

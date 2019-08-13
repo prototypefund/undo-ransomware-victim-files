@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_11_1YR_B27004
+product-selection: ACS_11_1YR_B27004|table||||B27004|EMPLOYER-BASED+HEALTH+INSURANCE++BY+SEX+BY+AGE
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:29:55.741145

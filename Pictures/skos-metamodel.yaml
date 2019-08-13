@@ -1,0 +1,25 @@
+source: commons.wikimedia.org
+file: Skos metamodel.png
+date: 2019-06-13 16:39:16.972801
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=An ER metamodel (in UML) of the SKOS specification cannot be taken as accurate the SKOS spec is an all-things-to-all-men spec worthless}}
+  |Source         ={{own}}
+  |Author         =[[User:Ottomachin|Ottomachin]]
+  |Date           =
+  |Permission     =
+  |other_versions =
+  }}
+  {{ConvertToSVG|UML}}
+  
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}
+  {{Check categories|year=2011|month=October|day=16
+  |lang1=en|wiki1=wikipedia|article1=Simple_Knowledge_Organization_System
+  |ncats=1
+  }}
+  
+  [[Category:Semantic Web]]
+  [[Category:Entity-relationship models]]
+  [[Category:Class diagrams]]

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_3YR_B19013
+product-selection: ACS_10_3YR_B19013|table||||B19013|MEDIAN+HOUSEHOLD+INCOME+IN+THE+PAST+12+MONTHS+%28IN+2010+INFLATION-ADJUSTED+DOLLARS%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:00:35.355946

@@ -1,0 +1,29 @@
+source: commons.wikimedia.org
+file: 505 wikipedia image.png
+date: 2019-06-13 16:33:38.486508
+text: |
+  {{Information
+  |Description={{en|Image uploading Practice, created by Greenwood Dias in February 2011}}
+  |Source={{transferred from|en.wikipedia|Cloudbound|CommonsHelper}}
+  |Date={{original upload date|2011-02-23}}
+  |Author={{user at project|Greenwood Dias|wikipedia|en}}
+  |Permission=
+  |other versions={{Should be SVG|graph}}
+  }}
+  
+  == {{int:license-header}} ==
+  {{self|author={{user at project|Greenwood Dias|wikipedia|en}}|Cc-zero}}
+  
+  == {{Original upload log}} ==
+  {{original description|en.wikipedia|505_wikipedia_image.gif}}
+  * 2011-02-23 22:44 [[:en:User:Greenwood Dias|Greenwood Dias]] 1286×729× (60077 bytes) ''<nowiki>Image uploading Practice, created by Greenwood Dias in February 2011</nowiki>''
+  
+  [[Category:Charts]]
+  
+  == {{Original upload log}} ==
+  {| class="wikitable"
+  |-
+  ! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+  |-
+  | {{ISOdate|2012-05-12 23:08:29}} || 1286 × 729 (60077 bytes) || {{User|File Upload Bot (Magnus Manske)}} || ''<nowiki>Transfered from en.wikipedia by [[User:Cloudbound]] using CommonsHelper</nowiki>''
+  |}

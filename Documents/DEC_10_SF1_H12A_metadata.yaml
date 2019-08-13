@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: DEC_10_SF1_H12A
+product-selection: DEC_10_SF1_H12A|table||||H12A|AVERAGE+HOUSEHOLD+SIZE+OF+OCCUPIED+HOUSING+UNITS+BY+TENURE+%28WHITE+ALONE+HOUSEHOLDER%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:30:31.493486

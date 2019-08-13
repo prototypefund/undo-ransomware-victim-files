@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_13_1YR_S0502PR
+product-selection: ACS_13_1YR_S0502PR|table||||S0502PR|SELECTED+CHARACTERISTICS+OF+THE+FOREIGN-BORN+POPULATION+BY+PERIOD+OF+ENTRY+INTO+PUERTO+RICO+
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:23:19.100784

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_14_5YR_B16008
+product-selection: ACS_14_5YR_B16008|table||||B16008|CITIZENSHIP+STATUS+BY+AGE+BY+LANGUAGE+SPOKEN+AT+HOME+AND+ABILITY+TO+SPEAK+ENGLISH+FOR+THE+POPULATION+5+YEARS+AND+OVER
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:51:14.069327

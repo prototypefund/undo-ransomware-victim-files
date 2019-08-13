@@ -1,0 +1,38 @@
+source: commons.wikimedia.org
+file: AeroTurboDomain.PNG
+date: 2019-06-13 16:34:31.939388
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Author=[[w:User:Mkoronowski|Mkoronowski]] ([[w:User talk:Mkoronowski|talk]]) ([[w:Special:ListFiles/Mkoronowski|Uploads]])
+  |Date=2011-04-16
+  |Description=[[w:User:Mkoronowski Mkoronowski]] ([[w:User talk:Mkoronowski talk]]) 04:34, 16 April 2011 (UTC) , martin koronowski, self, mkoronowski@gmail.com, this graphic AeroTurboDomain.PNG was created to be used in conjunction with PhysTurboDomain.PNG
+  [[w:User:Mkoronowski Mkoronowski]] ([[w:User talk:Mkoronowski talk]]) 04:34, 16 April 2011 (UTC)
+  [[w:User:Mkoronowski|Mkoronowski]] ([[w:User talk:Mkoronowski|talk]]) 04:34, 16 April 2011 (UTC) , martin koronowski, self, mkoronowski@gmail.com, this graphic AeroTurboDomain.PNG was created to be used in conjunction with PhysTurboDomain.PNG
+  [[w:User:Mkoronowski|Mkoronowski]] ([[w:User talk:Mkoronowski|talk]]) 04:34, 16 April 2011 (UTC)
+  |Source={{own}}
+  }}
+  {{Convert to SVG|1=physics}}
+  
+  == {{int:license-header}} ==
+  {{Self|1=cc-zero|author={{User at project|Mkoronowski|w|en}}}}
+  
+  == {{Original upload log}} ==
+  {{Original description page|en.wikipedia|AeroTurboDomain.PNG}}
+  {| class="wikitable"
+  ! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+  |-
+  | 2011-04-16 05:32:28 || 913 × 768 || [[w:User:Mkoronowski|Mkoronowski]] || ''<nowiki>~~~~ , {{correct wording, improve graphic |Description = aerodynamic thermodynamic domain of turbomachinery |Source = self-made |Date = ~~~~~ |Author = ~~~~ |Permission = fair use |other_versions = none }} ~~~~</nowiki>''
+  |-
+  | 2011-04-16 05:03:08 || 886 × 744 || [[w:User:Mkoronowski|Mkoronowski]] || ''<nowiki>(~~~~ , {{to increase size and correct info format |Description = graphic for use in centrifugal compressor and turbomachinery |Source = self-made |Date = 2011-04-15 |Author = martin koronowski ~~~ |Permission = fair use |other_versions = }}, ~~~~)</nowiki>''
+  |-
+  | 2011-04-16 05:01:20 || 443 × 373 || [[w:User:Mkoronowski|Mkoronowski]] || ''<nowiki>Reverted to version as of 04:34, 16 April 2011</nowiki>''
+  |-
+  | 2011-04-16 04:43:18 || 886 × 744 || [[w:User:Mkoronowski|Mkoronowski]] || ''<nowiki>~~~~ , corrected spelling, increase size ~~~~</nowiki>''
+  |-
+  | 2011-04-16 04:34:38 || 443 × 373 || [[w:User:Mkoronowski|Mkoronowski]] || ''<nowiki>~~~~ , martin koronowski, self, mkoronowski@gmail.com, this graphic AeroTurboDomain.PNG was created to be used in conjunction with PhysTurboDomain.PNG ~~~~</nowiki>''
+  |-
+  |}
+  
+  {{Uncategorized|year=2017|month=June|day=30}}
+  [[Category:Uploaded with MTC!]]

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: DEC_00_SF4_PCT178
+product-selection: DEC_00_SF4_PCT178|table||||PCT178|IMPUTATION+OF+LANGUAGE+SPOKEN+AT+HOME+FOR+THE+POPULATION+5+YEARS+AND+OVER+%5B7%5D
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:10:09.239264

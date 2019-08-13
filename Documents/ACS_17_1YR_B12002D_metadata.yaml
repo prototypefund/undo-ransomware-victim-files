@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_17_1YR_B12002D
+product-selection: ACS_17_1YR_B12002D|table||||B12002D|SEX+BY+MARITAL+STATUS+FOR+THE+POPULATION+15+YEARS+AND+OVER+%28ASIAN+ALONE%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:31:22.181970

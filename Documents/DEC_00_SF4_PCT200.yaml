@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: DEC_00_SF4_PCT200
+product-selection: DEC_00_SF4_PCT200|table||||PCT200|IMPUTATION+OF+EMPLOYMENT+STATUS+FOR+THE+POPULATION+16+YEARS+AND+OVER+%5B3%5D
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:09:30.773006

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_12_3YR_S0102
+product-selection: ACS_12_3YR_S0102|table||||S0102|POPULATION+60+YEARS+AND+OVER+IN+THE+UNITED+STATES+
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:21:25.427711

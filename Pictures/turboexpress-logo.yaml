@@ -1,0 +1,34 @@
+source: commons.wikimedia.org
+file: TurboExpress Logo.png
+date: 2019-06-14 14:35:10.391747
+text: |
+  {{BotMoveToCommons|en.wikipedia|2019|May|19}}
+  
+  
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|Logo of the NEC TurboExpress Handheld.}}
+  |Source={{transferred from|en.wikipedia}}
+  |Date={{original upload date|2019-01-08}}
+  |Author={{Original uploader|Talkkaris|wikipedia|en}}
+  |Permission=
+  |other_versions=
+  }}
+  
+  {{convert to SVG}}
+  
+  == {{int:license-header}} ==
+  {{PD-textlogo}}
+  {{Trademarked}}
+  
+  == {{Original upload log}} ==
+  {{original description|en.wikipedia|TurboExpress+Logo.png}}
+  {| class="wikitable filehistory"
+  ! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+  |-
+  | 2019-01-10 06:09 || 551×181× (36958 bytes) || [[:en:User:Theo's Little Bot|Theo's Little Bot]] || ''<nowiki>Reduce size of non-free image ([[WP:BOT|BOT]] - [[User:Theo's Little Bot/disable/resizer|disable]])</nowiki>''
+  |-
+  | 2019-01-08 10:04 || 1000×329× (70207 bytes) || [[:en:User:Talkkaris|Talkkaris]] || ''<nowiki>Uploading a non-free logo using [[Wikipedia:File_Upload_Wizard|File Upload Wizard]]</nowiki>''
+  |}
+  
+  [[Category:Video game console logos]]

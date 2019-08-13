@@ -1,0 +1,21 @@
+source: commons.wikimedia.org
+file: FraPort-Logo.png
+date: 2019-06-27 13:55:20.169061
+text: |
+  =={{int:filedesc}}==
+  
+  {{Information
+  |description={{en|1=Logo of Fraport AG}}
+  |date=2012-12-24 21:52:49
+  |source=Datei:FraPort-Logo.svg from German Wikipedia
+  |author={{unknown|author}}
+  |permission=
+  |other_versions=[[File:Fraport logo 2016.svg|thumb|left|current version]]
+  
+  |other_fields={{SVG|logo|vectordata=http://www.fraport.de/content/fraport/de/misc/binaer/investor-relations/geschaeftsberichte/geschaeftsbericht-2015/jcr:content.file/geschaeftsbericht-2015.pdf}}
+  }}
+  =={{int:license-header}}==
+  Lizenz {{Bild-LogoSH}}
+  
+  [[Category:Logos of companies associated with transport in Germany]]
+  [[Category:Fraport]]

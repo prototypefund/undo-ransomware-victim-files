@@ -1,0 +1,19 @@
+source: commons.wikimedia.org
+file: AWSD logo.png
+date: 2019-06-27 13:58:04.073421
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=Athena-Weston School District logo}}
+  |Source         =http://www.athwest.k12.or.us
+  |Author         =Athena-Weston School District
+  |Date           =2016-09-16
+  |Permission     ={{should be SVG|logo}}
+  |other_versions =
+  }}
+  
+  [[Category:School districts in Oregon]]
+  [[Category:Athena, Oregon]]
+  [[Category:Weston, Oregon]]
+  == {{int:license-header}} ==
+  {{PD-textlogo}}{{Trademarked}}

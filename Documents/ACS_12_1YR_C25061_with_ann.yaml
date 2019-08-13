@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_12_1YR_C25061
+product-selection: ACS_12_1YR_C25061|table||||C25061|RENT+ASKED
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:16:55.709164

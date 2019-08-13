@@ -1,0 +1,32 @@
+source: en.wikipedia.org
+file: Financial Crimes Enforcement Network
+date: 2019-06-26 15:20:22.988981
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/902149483
+---
+source: commons.wikimedia.org
+file: FinCEN_organization.jpg
+date: 2019-06-26 15:20:23.733155
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Author=
+  |Date=
+  |Description=
+  This is an organization chart of the Financial Crimes Enforcement Network, an agency of the U.S. Department of the Treasury. It was downloaded from http://fincen.gov/af_organization.html . As a U.S. Government work, it is public domain.
+  |other versions=
+  |Permission=
+  |Source=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-Treasury}}
+  
+  == {{Original upload log}} ==
+  {{Original description page|en.wikipedia|FinCEN+organization.jpg}}
+  {| class="wikitable"
+  ! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+  |-
+  | 2006-06-20 17:31:56 || 666× 432× || [[w:User:PaulHanson|PaulHanson]] || ''<nowiki>This is an organization chart of the Financial Crimes Enforcement Network, an agency of the U.S. Department of the Treasury. It was downloaded from http://fincen.gov/af_organization.html . As a U.S. Government work, it is public domain.</nowiki>''
+  |-
+  |}
+  {{Uncategorized|year=2017|month=June|day=19}}

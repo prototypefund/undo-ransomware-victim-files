@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_08_3YR_S1501
+product-selection: ACS_08_3YR_S1501|table||||S1501|Educational+Attainment
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:49:57.441908

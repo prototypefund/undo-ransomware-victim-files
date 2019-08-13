@@ -1,0 +1,25 @@
+source: en.wikipedia.org
+file: 2000_Grand_Prix_of_Sonoma
+date: 2019-06-27 11:51:43.055274
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/889949069
+---
+source: commons.wikimedia.org
+file: Infineon_(Sears_Point)_with_emphasis_on_Long_track.png
+date: 2019-06-27 11:51:44.080370
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=Track map of [[w:Sonoma Raceway|Sonoma Raceway]].  This PNG version of [[:Image:Infineon (Sears Point) with emphasis on Long track.svg]] is for those with browsers like IE7 that don't support SVG and emphasizes the long configuration.}}
+  |Source={{Own}}
+  |Author=[[User:Will Pittenger|Will Pittenger]]
+  |Date=2008-06-23
+  |Permission=
+  |other_versions=[[Image:Infineon (Sears Point) with emphasis on Long track.svg|thumb|left|SVG Version]][[Image:Infineon (Sears Point) with emphasis on NASCAR track.svg|thumb|left|SVG image of the same track that emphasizes the NASCAR track]][[Image:Infineon (Sears Point) with emphasis on NASCAR track.png|thumb|left|PNG image that emphasizes the NASCAR track]]
+  }}
+  {{Location|38|9|44.5|N|122|27|26.9|W}}
+  
+  
+  =={{int:license-header}}==
+  {{PD-self}}
+  
+  [[Category:Sonoma Raceway circuit maps]]

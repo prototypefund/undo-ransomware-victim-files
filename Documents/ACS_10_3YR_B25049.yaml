@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_3YR_B25049
+product-selection: ACS_10_3YR_B25049|table||||B25049|TENURE+BY+PLUMBING+FACILITIES
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:39:28.726608

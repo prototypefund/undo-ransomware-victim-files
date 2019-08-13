@@ -1,0 +1,20 @@
+source: commons.wikimedia.org
+file: Trigonometric centres.png
+date: 2019-06-13 16:37:24.170582
+text: |
+  {{Convert to SVG|math}}
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=Various [[w:triangle center|centres]] of a scalene triangle (red outline, silver interior). Cyan line is the [[w:Euler line]].}}
+  |Source         ={{retouched picture|origoff=http://en.wikipedia.org/wiki/File:TrigonometricCentres.png|added missing perpendicular, made Euler line cyan|editor=Incnis Mrsi}}
+  |Author         =[[:en:user:Zhieaanm]] (original) / [[User:Incnis Mrsi|Incnis Mrsi]] (retouched)
+  |Date           =2012-09-13
+  |Permission     =
+  |other_versions =[[:en:File:TrigonometricCentres.png]]
+  }}
+  
+  
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}
+  
+  [[Category:Triangle geometry]]

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_13_1YR_C06007
+product-selection: ACS_13_1YR_C06007|table||||C06007|PLACE+OF+BIRTH+BY+LANGUAGE+SPOKEN+AT+HOME+AND+ABILITY+TO+SPEAK+ENGLISH+IN+THE+UNITED+STATES
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:20:27.658198

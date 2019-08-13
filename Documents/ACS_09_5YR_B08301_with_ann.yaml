@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_09_5YR_B08301
+product-selection: ACS_09_5YR_B08301|table||||B08301|MEANS+OF+TRANSPORTATION+TO+WORK
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:45:57.931515

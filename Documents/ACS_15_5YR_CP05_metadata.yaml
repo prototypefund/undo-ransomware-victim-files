@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_15_5YR_CP05
+product-selection: ACS_15_5YR_CP05|table||||CP05|COMPARATIVE+DEMOGRAPHIC+ESTIMATES
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:44:16.158674

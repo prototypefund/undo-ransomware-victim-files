@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_05_EST_B08129
+product-selection: ACS_05_EST_B08129|table||||B08129|AGGREGATE+TRAVEL+TIME+TO+WORK+%28IN+MINUTES%29+OF+WORKERS+BY+CLASS+OF+WORKER
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:55:47.297109

@@ -1,0 +1,30 @@
+source: commons.wikimedia.org
+file: Atlantic-Coast-Line-Railroad-Logo.png
+date: 2019-06-27 13:59:20.919158
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{de|1=Logo der Atlantic Coast Line Railroad}}
+  |Source={{unknown|Source}}
+  |Date=
+  |Author={{unknown|author}}
+  |Permission=
+  |Other versions= 
+  |Other fields= {{Information field|Name=Remarks|Value={{de|1=Schöpfungshöhe gering, jedoch markenrechtlicher Schutz}}}}
+  }}
+  {{Convert to SVG|logo}}
+  
+  == {{int:license-header}} ==
+  {{PD-textlogo}}
+  {{Trademark}}
+  
+  == {{Original upload log}} ==
+  <div class="delh">
+  {{transferred from|de.wikipedia|Wdwdbot|script ''bot_filetrans.pl (r46M)''}}
+  {{original description|de.wikipedia|Atlantic-Coast-Line-Railroad-Logo.png}}
+  * 2006-07-02 21:10:31 [[:de:User:Heralds|Heralds]] (140002 Bytes) ''<nowiki>* Bildbeschreibung: Logo der Atlantic Coast Line Railroad * Sonstiges: Schöpfungshöhe gering == Lizenz == {{Bild-PD-Markenrecht}}</nowiki>''
+  </div>
+  {{User:Wdwdbot/Files uploaded by Wdwdbot}}
+  
+  {{Check categories|year=2016|month=May|day=1}}
+  [[Category:Rail transport companies of the United States]]

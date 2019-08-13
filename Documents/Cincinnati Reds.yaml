@@ -1,0 +1,52 @@
+source: en.wikipedia.org
+file: Cincinnati Reds
+date: 2019-06-26 14:31:44.095620
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/903419008
+---
+source: commons.wikimedia.org
+file: Cincinnati_Reds.jpg
+date: 2019-06-26 14:31:46.130035
+text: |
+  {{Information
+  |Description=Cincinnati Reds, baseball team in 1909
+  |Source={{LOC-image|id=ggbain.03241}}
+  |Date=1909
+  |Author=Bain News Service, publisher
+  |Permission={{PD-Bain}}
+  |other_versions={{PD-US}}
+  }}
+  
+  
+  [[Category:Cincinnati Reds]]
+  [[Category:Black and white photographs of Major League Baseball in the 1900s]]
+  [[Category:1909 in Major League Baseball]]
+  [[Category:Group photographs of baseball teams in the United States]]
+  [[Category:Black and white photographs of groups]]
+  [[Category:Black and white photographs]]
+---
+source: commons.wikimedia.org
+file: Edd_Roush.jpg
+date: 2019-06-26 14:31:46.797799
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|[[:en:Edd Roush|Edd Roush]] of the [[:en:Cincinnati Reds|Cincinnati Reds]] at [[:en:Weeghman Park|Weeghman Park]] in 1919.}}
+  |Source=[http://lcweb2.loc.gov/ammem/ndlpcoop/ichihtml/cdnhome.html]
+  |Date={{circa|1919}}
+  |Author=
+  |Permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-US}}
+  
+  == {{Original upload log}} ==
+  {{original description|en.wikipedia|Edd+Roush+Baseball.jpg}}
+  {| class="wikitable filehistory"
+  ! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+  |-
+  | 2004-08-10 03:18 || 177×316× (11128 bytes) || [[:en:User:Mattingly23|Mattingly23]] || ''<nowiki>[[Edd Roush]]</nowiki>''
+  |}
+  
+  [[Category:Edd Roush]]

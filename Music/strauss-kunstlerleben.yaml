@@ -1,0 +1,20 @@
+source: commons.wikimedia.org
+file: Strauss, Künstlerleben.ogg
+date: 2019-06-15 15:45:06.186271
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1="An Artist's Life" waltz by Strauss}}
+  |Source         ={{Musopen|https://musopen.org/music/43943-klange-im-walzertakt-mit/}}
+  |Author         ={{unknown|author}}
+  |Date           =
+  |Permission     =
+  |other_versions =
+  }}
+  
+  [[Category:Ogg files of music by Johann Strauss II]]
+  [[Category:Künstlerleben]]
+  [[Category:Waltz audio files]]
+  
+  == {{int:license-header}} ==
+  {{Cc-zero}}

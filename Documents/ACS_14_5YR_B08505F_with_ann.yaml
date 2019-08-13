@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_14_5YR_B08505F
+product-selection: ACS_14_5YR_B08505F|table||||B08505F|MEANS+OF+TRANSPORTATION+TO+WORK+FOR+WORKPLACE+GEOGRAPHY+%28SOME+OTHER+RACE+ALONE%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:19:04.341400

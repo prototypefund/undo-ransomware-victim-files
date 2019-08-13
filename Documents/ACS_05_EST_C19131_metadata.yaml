@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_05_EST_C19131
+product-selection: ACS_05_EST_C19131|table||||C19131|FAMILY+TYPE+BY+PRESENCE+OF+OWN+CHILDREN+UNDER+18+YEARS+BY+FAMILY+INCOME+IN+THE+PAST+12+MONTHS+%28IN+2005+INFLATION-ADJUSTED+DOLLARS%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:50:29.582068

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: EEO_10_5YR_EEOALL10WL
+product-selection: EEO_10_5YR_EEOALL10WL|table||||EEO-ALL10W-L|EEO+10w+L.+Detailed+Census+Occupation+by+Industry+%28Educational+Services+61%2C+Health+Care+and+Social+Assistance+62%2C+Arts%2C+Entertainment%2C+and+Recreation+71%2C+Accomodation+and+Food+Services+72%29%2C+Sex%2C+and+Race%2FEthnicity+for+Worksite+Geography%2C+Total+Population+
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:19:12.494456

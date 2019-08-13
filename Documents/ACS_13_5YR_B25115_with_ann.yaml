@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_13_5YR_B25115
+product-selection: ACS_13_5YR_B25115|table||||B25115|TENURE+BY+HOUSEHOLD+TYPE+AND+PRESENCE+AND+AGE+OF+OWN+CHILDREN
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:04:45.333163

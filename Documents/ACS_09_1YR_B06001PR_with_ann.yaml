@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_09_1YR_B06001PR
+product-selection: ACS_09_1YR_B06001PR|table||||B06001PR|PLACE+OF+BIRTH+BY+AGE+IN+PUERTO+RICO
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:43:34.764088

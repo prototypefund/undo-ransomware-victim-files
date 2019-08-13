@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_14_1YR_B28005
+product-selection: ACS_14_1YR_B28005|table||||B28005|AGE+BY+PRESENCE+OF+A+COMPUTER+AND+TYPES+OF+INTERNET+SUBSCRIPTION+IN+HOUSEHOLD
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:43:42.874245

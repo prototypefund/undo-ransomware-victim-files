@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_08_1YR_B24010E
+product-selection: ACS_08_1YR_B24010E|table||||B24010E|SEX+BY+OCCUPATION+FOR+THE+CIVILIAN+EMPLOYED+POPULATION+16+YEARS+AND+OVER+%28NATIVE+HAWAIIAN+AND+OTHER+PACIFIC+ISLANDER+ALONE%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:15:27.504330

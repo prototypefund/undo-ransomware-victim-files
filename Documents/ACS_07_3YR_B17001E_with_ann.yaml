@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_07_3YR_B17001E
+product-selection: ACS_07_3YR_B17001E|table||||B17001E|POVERTY+STATUS+IN+THE+PAST+12+MONTHS+BY+SEX+BY+AGE+%28NATIVE+HAWAIIAN+AND+OTHER+PACIFIC+ISLANDER+ALONE%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:20:11.200970

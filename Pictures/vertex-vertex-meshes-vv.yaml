@@ -1,0 +1,24 @@
+source: commons.wikimedia.org
+file: Vertex-Vertex Meshes (VV).png
+date: 2019-06-13 16:36:55.490544
+text: |
+  {{SVG|math}}
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Describes the VV storage method for polygon meshes.}}
+  |date=2011-10-08
+  |source={{own}}
+  |author=[[User:Wiz3kid|David Dorfman]]
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  
+  This is a corrected image of the following one (created originally by [[User:Rchoetzlein]]): http://en.wikipedia.org/wiki/File:Mesh_vv.jpg
+  
+  =={{int:license-header}}==
+  {{self|cc-zero}}
+  
+  
+  
+  [[Category:Triangulated irregular network]]

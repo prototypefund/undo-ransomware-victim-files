@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_1YR_B07002
+product-selection: ACS_10_1YR_B07002|table||||B07002|MEDIAN+AGE+BY+GEOGRAPHICAL+MOBILITY+IN+THE+PAST+YEAR+FOR+CURRENT+RESIDENCE+IN+THE+UNITED+STATES
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:39:06.191643

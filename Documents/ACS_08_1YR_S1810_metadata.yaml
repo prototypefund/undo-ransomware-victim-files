@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_08_1YR_S1810
+product-selection: ACS_08_1YR_S1810|table||||S1810|Disability+Characteristics
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:54:54.507452

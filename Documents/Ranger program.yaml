@@ -1,0 +1,77 @@
+source: en.wikipedia.org
+file: Ranger program
+date: 2019-06-15 18:56:47.341340
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/857550438
+---
+source: commons.wikimedia.org
+file: Ranger7_PIA02975.jpg
+date: 2019-06-15 18:56:48.787697
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|This is the first image of the {{w|Moon}} from a US spacecraft which was taken by {{w|Ranger 7}} on {{w|July 31}}, {{w|1964}} at 13:09 {{w|UTC}}, about 17 minutes before impact.  The large crater at center right is {{w|Alphonsus crater|Alphonsus}}.
+  
+  }}
+  |Source=Courtesy NASA/JPL-Caltech http://www.jpl.nasa.gov/images/policy/index.cfm & http://nssdc.gsfc.nasa.gov/imgcat/html/object_page/ra7_b001.html
+  |Date=1964-07-31
+  |Author=NASA
+  |Permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  == {{original upload log}} ==
+  {{original description page|en.wikipedia|Ranger7_PIA02975.jpg}}
+  * 2004-06-25 05:57 [[:en:User:Curps|Curps]] 720×707×8 (89216 bytes) ''<nowiki>{{PD-USGov}} Courtesy NASA/JPL-Caltech [http://www.jpl.nasa.gov/images/policy/index.cfm]</nowiki>''
+  
+  [[Category:1964]]
+  [[Category:Mare Nubium]]
+  [[Category:Ranger program]]
+  [[Category:Guericke (crater)]]
+  [[Category:Alphonsus (crater)]]
+  [[Category:Davy (crater)]]
+  [[Category:Lassell (lunar crater)]]
+  [[Category:Alpetragius (crater)]]
+  [[Category:Arzachel (crater)]]
+  [[Category:Tolansky (crater)]]
+---
+source: commons.wikimedia.org
+file: Program_Ranger_organization.jpg
+date: 2019-06-15 18:56:49.323887
+text: |
+  == {{int:filedesc}} ==
+  {{en|Ranger Project Organization (JPL Organization Chart R-5, August 15, 1960)}}
+  {{pl|Schemat organizacyjny Programu Ranger (rysunek organizacyjny JPL, 15 sierpnia, 1960)}}
+  
+  Source: [http://history.nasa.gov/SP-4210/pages/Ch_2.htm#Ch2_Top NASA]
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:1960s diagrams]]
+  [[Category:NASA organizational charts]]
+  [[Category:Historical organizational charts]]
+  [[Category:Ranger program]]
+  [[Category:Media missing infobox template]]
+---
+source: commons.wikimedia.org
+file: Ranger_Block_1_scientific_experiments.jpg
+date: 2019-06-15 18:56:49.681340
+text: |
+  {{svg|technology}}
+  {{Information
+  |Description={{en| MockupScientific Experiments on the Block I Spacecraft}}
+  {{pl|Instrumenty naukowe Rangera Block 1}}
+  |Source=[http://history.nasa.gov/SP-4210/pages/Ch_4.htm RANGER'S LUNAR OBJECTIVES IN DOUBT]
+  |Date=Between June 1960 and August 1961
+  |Author=[http://history.nasa.gov/ NASA History]
+  |Permission={{PD-USGov-NASA}}
+  |other_versions=
+  }}
+  
+  
+  [[Category:Ranger Block 1]]
+  [[Category:Diagrams of spacecraft]]
+  [[Category:1960s diagrams]]

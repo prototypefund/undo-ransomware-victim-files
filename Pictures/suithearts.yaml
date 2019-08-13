@@ -1,0 +1,20 @@
+source: commons.wikimedia.org
+file: SuitHearts.svg
+date: 2019-06-15 14:31:05.326170
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |description={{en|1=Symbol for playing card suit of [[:Category:Hearts (playing cards)|'''hearts''']]}}
+  |source=[http://openclipart.org/ Open Clip Art Library]
+  |date={{upload date|2006-09-22}}
+  |author=Nicu Buculei, edited by [[User:DieBuche]]
+  |other fields={{Igen|U|+|s=}}
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-OpenClipart|http://openclipart.org/clipart/signs_and_symbols/card_figures_-_heart_01.svg}}
+  
+  [[Category:Hearts (suit symbol)]]
+  [[Category:SVG Love hearts]]
+  [[Category:Hearts with transparent background]]
+  [[Category:Red love hearts]]

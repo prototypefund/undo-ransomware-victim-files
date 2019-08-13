@@ -1,0 +1,19 @@
+source: commons.wikimedia.org
+file: Xubuntu_13.04.png
+date: 2019-06-13 15:30:23.034459
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description= Desktop Xubuntu 13.04
+  |Source= Schnappschuss von mein Netbook "Funkneti" 
+  |Date=2013-05-01
+  |Author=[[Benutzer:Funkruf|Funkruf]]
+  |Permission=
+  |other_versions=
+  }}
+  == {{int:license-header}} ==
+  {{free screenshot|license={{GPL}} }} 
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}
+  
+  [[Category:German screenshots of Xubuntu]]

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_11_3YR_B05001PR
+product-selection: ACS_11_3YR_B05001PR|table||||B05001PR|NATIVITY+AND+CITIZENSHIP+STATUS+IN+PUERTO+RICO
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:06:08.797002

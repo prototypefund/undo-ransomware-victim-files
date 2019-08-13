@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_06_EST_C08406
+product-selection: ACS_06_EST_C08406|table||||C08406|SEX+OF+WORKERS+BY+MEANS+OF+TRANSPORTATION+TO+WORK+FOR+WORKPLACE+GEOGRAPHY
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:04:19.703852

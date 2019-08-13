@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_1YR_C21001C
+product-selection: ACS_10_1YR_C21001C|table||||C21001C|SEX+BY+AGE+BY+VETERAN+STATUS+FOR+THE+CIVILIAN+POPULATION+18+YEARS+AND+OVER+%28AMERICAN+INDIAN+AND+ALASKA+NATIVE+ALONE%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:30:47.983000

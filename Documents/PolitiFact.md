@@ -1,0 +1,319 @@
+**From Wikipedia, the free encyclopedia**
+
+https://en.wikipedia.org/wiki/PolitiFact\
+Licensed under CC BY-SA 3.0:\
+https://en.wikipedia.org/wiki/Wikipedia:Text\_of\_Creative\_Commons\_Attribution-ShareAlike\_3.0\_Unported\_License
+
+PolitiFact
+==========
+
+-   *PolitiFact has won several awards, and has been both praised and
+    criticized by independent observers, conservatives and liberals
+    alike.*
+
+-   *Both PolitiFact and PunditFact were funded primarily by the Tampa
+    Bay Times and ad revenues generated on the website until 2018, and
+    the Times continues to sell ads for the site now that it is part of
+    Poynter, a non-profit organization that also owns the newspaper.*
+
+PolitiFact.com is a nonprofit project operated by the Poynter Institute
+in St. Petersburg, Florida, with offices there and in Washington, D.C..
+It began in 2007 as a project of the Tampa Bay Times (then the St.
+Petersburg Times), with reporters and editors from the newspaper and its
+affiliated news media partners reporting on the accuracy of statements
+made by elected officials, candidates, their staffs, lobbyists, interest
+groups and others involved in U.S. politics. Its journalists evaluate
+original statements and publish their findings on the PolitiFact.com
+website, where each statement receives a "Truth-O-Meter" rating. The
+ratings range from "True" for completely accurate statements to "Pants
+on Fire" (from the taunt "Liar, liar, pants on fire") for false and
+ridiculous claims.
+
+PunditFact, a related site that was also created by the Times' editors,
+is devoted to fact-checking claims made by political pundits. Both
+PolitiFact and PunditFact were funded primarily by the Tampa Bay Times
+and ad revenues generated on the website until 2018, and the Times
+continues to sell ads for the site now that it is part of Poynter, a
+non-profit organization that also owns the newspaper. PolitiFact
+increasingly relies on grants from several nonpartisan organizations,
+and in 2017 launched a membership campaign and began accepting donations
+from readers.
+
+In addition to political claims, the site monitors the progress elected
+officials make on their campaign promises, including a "Trump-O-Meter"
+for President Donald Trump and an "Obameter" for President Barack Obama.
+PolitiFact.com's local affiliates review promises by elected officials
+of regional relevance, as evidenced by PolitiFact Tennessee's
+"Haslam-O-Meter" tracking Tennessee Governor Bill Haslam's efforts and
+Wisconsin's "Walk-O-Meter" tracking Wisconsin Governor Scott Walker's
+efforts.
+
+PolitiFact has won several awards, and has been both praised and
+criticized by independent observers, conservatives and liberals alike.
+Both liberal and conservative bias have been alleged at different
+points, and criticisms have been made that PolitiFact attempts to
+fact-check statements that cannot be truly "fact-checked".
+
+History
+=======
+
+-   *In March 2010, the Times and its partner newspaper, The Miami
+    Herald, launched PolitiFact Florida, which focuses on Florida
+    issues.*
+
+-   *In 2014, The Plain Dealer ended its partnership with PolitiFact.com
+    after they reduced their news staff and were unwilling to meet "the
+    required several PolitiFact investigations per week".*
+
+-   *The Knoxville News Sentinel ended its relationship with
+    PolitiFact.com after 2012.*
+
+PolitiFact.com was started in August 2007 by Times Washington Bureau
+Chief Bill Adair, in conjunction with the Congressional Quarterly.
+
+In January 2010, PolitiFact.com expanded to its second newspaper, the
+Cox Enterprises –owned Austin American-Statesman in Austin, Texas; the
+feature, called PolitiFact Texas, covers issues that are relevant to
+Texas and the Austin area.
+
+In March 2010, the Times and its partner newspaper, The Miami Herald,
+launched PolitiFact Florida, which focuses on Florida issues. The Times
+and the Herald share resources on some stories that relate to Florida.
+
+Since then, PolitiFact.com expanded to other papers, such as The Atlanta
+Journal-Constitution, The Providence Journal, Milwaukee Journal
+Sentinel, The Plain Dealer, Richmond Times-Dispatch, the Knoxville News
+Sentinel and The Oregonian.\
+The Knoxville News Sentinel ended its relationship with PolitiFact.com
+after 2012.
+
+In 2013, Adair was named Knight Professor of the Practice of Journalism
+and Public Policy at Duke University, and stepped down as Bureau Chief
+at the Times and as editor at PolitiFact.com. The Tampa Bay Times'
+senior reporter, Alex Leary, succeeded Bill Adair as Bureau Chief on
+July 1, 2013, and Angie Drobnic Holan was appointed editor of PolitiFact
+in October 2013. Adair remains a PolitiFact.com contributing editor.
+
+In 2014, The Plain Dealer ended its partnership with PolitiFact.com
+after they reduced their news staff and were unwilling to meet "the
+required several PolitiFact investigations per week".
+
+The organization was acquired in February 2018 by the Poynter Institute,
+a non-profit journalism education and news media research center that
+also owns the Tampa Bay Times.
+
+"Lie of the Year"
+=================
+
+-   *PolitiFact's 2017 Lie of the Year was Donald Trump's claim that
+    Russian election interference is a "made-up story."*
+
+-   *PolitiFact's 2016 Lie of the Year was "fake news" referring to
+    fabricated news stories including the Pizzagate conspiracy theory.*
+
+-   *PolitiFact's 2015 Lie of the Year was the "various statements" made
+    by 2016 Republican presidential candidate Donald Trump.*
+
+Since 2009, PolitiFact.com has declared one political statement from
+each year to be the "Lie of the Year".
+
+2009
+
+In December 2009, they declared the Lie of the Year to be Sarah Palin's
+assertion that the Patient Protection and Affordable Care Act of 2009
+would lead to government "death panels" that dictated which types of
+patients would receive treatment.
+
+2010
+
+In December 2010, PolitiFact.com dubbed the Lie of the Year to be the
+contention among some opponents of the Patient Protection and Affordable
+Care Act that it represented a "government takeover of healthcare".
+PolitiFact.com argued that this was not the case, since all health care
+and insurance would remain in the hands of private companies.
+
+2011
+
+PolitiFact's Lie of the Year for 2011 was a statement by the Democratic
+Congressional Campaign Committee (DCCC) that a 2011 budget proposal by
+Congressman Paul Ryan, entitled The Path to Prosperity and voted for
+overwhelmingly by Republicans in the House and Senate, meant that
+"Republicans voted to end Medicare". PolitiFact determined that, though
+the Republican plan would make significant changes to Medicare, it would
+not end it. PolitiFact had originally labeled nine similar statements as
+"false" or "pants on fire" since April 2011.
+
+2012
+
+For 2012, PolitiFact chose the claim made by Republican presidential
+candidate Mitt Romney that President Obama "sold Chrysler to Italians
+who are going to build Jeeps in China" at the cost of American jobs.
+(The "Italians" in the quote was a reference to Fiat, who had purchased
+a majority share of Chrysler in 2011 after a U.S. government bailout of
+Chrysler.) PolitiFact had rated the claim "Pants on Fire" in October.
+PolitiFact's assessment quoted a Chrysler spokesman who had said, "Jeep
+has no intention of shifting production of its Jeep models out of North
+America to China." As of 2016, 96.7 percent of Jeeps sold in the U.S
+were assembled in the U.S., with roughly 70 percent North American parts
+content. (The vehicle with the most North American parts content came in
+at 75%).
+
+2013
+
+The 2013 Lie of the Year was President Barack Obama's promise that "If
+you like your health care plan, you can keep it". As evidence,
+PolitiFact cited 4 million cancellation letters sent to American health
+insurance consumers. PolitiFact also noted that in an online poll,
+readers overwhelmingly agreed with the selection. This stands in stark
+contrast to its October 9, 2008 statement that Obama’s “description of
+his plan is accurate, and we rate his statement True.”
+
+2014
+
+PolitiFact's 2014 Lie of the Year was "Exaggerations about Ebola",
+referring to 16 separate statements made by various commentators and
+politicians about the Ebola virus being "easy to catch, that illegal
+immigrants may be carrying the virus across the southern border, that it
+was all part of a government or corporate conspiracy". These claims were
+made in the midst of the Ebola virus epidemic in West Africa when four
+cases were diagnosed in the United States in travelers from West Africa
+and nurses who treated them. PolitiFact wrote, "The claims – all wrong –
+distorted the debate about a serious public health issue."
+
+2015
+
+PolitiFact's 2015 Lie of the Year was the "various statements" made by
+2016 Republican presidential candidate Donald Trump. Politifact found
+that 76% of Trump's statements that they reviewed were rated "Mostly
+False," "False" or "Pants on Fire". Statements that were rated "Pants on
+Fire" included his assertion that the Mexican government sends "the bad
+ones over" the border into the United States, and his claim that he saw
+"thousands and thousands" of people cheering the collapse of the World
+Trade Center on 9/11.
+
+2016
+
+PolitiFact's 2016 Lie of the Year was "fake news" referring to
+fabricated news stories including the Pizzagate conspiracy theory.
+
+2017
+
+PolitiFact's 2017 Lie of the Year was Donald Trump's claim that Russian
+election interference is a "made-up story." The annual poll found 56.36%
+of the 5080 respondents agreed that Trump's "Pants on Fire" statement
+deserved the distinction. Raul Labrador's statement that " Nobody dies
+because they don't have access to health care," and Sean Spicer's
+statement that "\[Trump's audience\] was the largest audience to witness
+an inauguration, period," came in second and third place getting 14.47%
+and 14.25% of the vote respectively. In its article, PolitiFact points
+to multiple occasions where Donald Trump stated that Russia had not
+interfered with the election despite multiple government agencies
+claiming otherwise.
+
+2018
+
+Survivors of the Stoneman Douglas High School shooting were the subject
+of lies that became Politifact's 2018 Lie of the Year. Students
+including Emma González and David Hogg, who became prominent gun control
+activists in the wake of the shooting and helped organize the March for
+our Lives, were the subjects of conspiracy theories that they were
+"crisis actors". The lies were spread on blogs and social media by
+sources including InfoWars.
+
+Reception
+=========
+
+-   *In February 2011, University of Minnesota political science
+    professor Eric Ostermeier analyzed 511 PolitiFact stories issued
+    from January 2010 through January 2011.*
+
+-   *TV critic James Poniewozik at Time characterized PolitiFact as
+    having the "hard-earned and important position as referee in the
+    mudslinging contest—a 'truth vigilante,' as it were", and
+    "PolitiFact is trying to do the right thing here.*
+
+PolitiFact.com was awarded the Pulitzer Prize for National Reporting in
+2009 for "its fact-checking initiative during the 2008 presidential
+campaign that used probing reporters and the power of the World Wide Web
+to examine more than 750 political claims, separating rhetoric from
+truth to enlighten voters".
+
+A Wall Street Journal opinion editorial by Joseph Rago in December 2010
+called PolitiFact "part of a larger journalistic trend that seeks to
+recast all political debates as matters of lies, misinformation and
+'facts,' rather than differences of world view or principles".
+
+TV critic James Poniewozik at Time characterized PolitiFact as having
+the "hard-earned and important position as referee in the mudslinging
+contest—a 'truth vigilante,' as it were", and "PolitiFact is trying to
+do the right thing here. And despite the efforts of partisans to work
+the refs by complaining about various calls they’ve made in the past,
+they’re generally doing a hard, important thing well. They often do it
+better than the rest of the political media, and the political press
+owes them for doing it." Poniewozik also suggested, "they need to
+improve their rating system, to address the irresponsible, the
+unprovable, the dubious. Otherwise, they’re doing exactly what they were
+founded to stop: using language to spread false impressions."
+
+Mark Hemingway of The Weekly Standard criticized all fact-checking
+projects by news organizations, including PolitiFact, the Associated
+Press and the Washington Post, writing that they "aren't about checking
+facts so much as they are about a rearguard action to keep inconvenient
+truths out of the conversation".
+
+In February 2011, University of Minnesota political science professor
+Eric Ostermeier analyzed 511 PolitiFact stories issued from January 2010
+through January 2011. He found that the number of statements analyzed
+from Republicans and from Democrats was comparable, but Republicans have
+been assigned substantially harsher grades, receiving 'false' or 'pants
+on fire' more than three times as often as Democrats. Ostermeier
+suggested that this may indicate a bias in the selection of statements
+to analyze, concluding: "The question is not whether PolitiFact will
+ultimately convert skeptics on the right that they do not have ulterior
+motives in the selection of what statements are rated, but whether the
+organization can give a convincing argument that either a) Republicans
+in fact do lie much more than Democrats, or b) if they do not, that it
+is immaterial that PolitiFact covers political discourse with a frame
+that suggests this is the case." PolitiFact editor Bill Adair responded
+in MinnPost: "Eric Ostermeier's study is particularly timely because
+we've heard a lot of charges this week that we are biased—from liberals
+\[...\] So we're accustomed to hearing strong reactions from people on
+both ends of the political spectrum. We are a news organization and we
+choose which facts to check based on news judgment."
+
+In December 2011, Northeastern University journalism professor Dan
+Kennedy wrote in the Huffington Post that the problem with fact-checking
+projects was "there are only a finite number of statements that can be
+subjected to thumbs-up/thumbs-down fact-checking".
+
+Matt Welch, in the February 2013 issue of Reason magazine, criticized
+PolitiFact and other media fact-checkers for focusing much more on
+statements by politicians about their opponents, rather than statements
+by politicians and government officials about their own policies, thus
+serving as "a check on the exercise of rhetoric" but not "a check on the
+exercise of power".
+
+See also
+========
+
+-   *The Fact Checker*
+
+-   *Fairness and Accuracy in Reporting*
+
+-   *FactCheck.org*
+
+The Fact Checker
+
+Fairness and Accuracy in Reporting
+
+FactCheck.org
+
+References
+==========
+
+External links
+==============
+
+-   *Official website*
+
+Official website

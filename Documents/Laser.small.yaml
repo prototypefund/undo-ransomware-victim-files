@@ -1,0 +1,154 @@
+source: en.wikipedia.org
+file: Laser
+date: 2019-06-15 17:50:53.271614
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/901728887
+---
+source: commons.wikimedia.org
+file: Moon_clementine_lidar.jpg
+date: 2019-06-15 17:50:56.991539
+text: |
+  {{Information
+  |Description=Lidar measurements of lunar topography made by Clementine mission
+  |Source=plotted using GMT and gltm2bpr.tab from PDS superimposed on map from http://solarviews.com/cap/moon/moonmap.htm
+  |Date=2006-10-23
+  |Author=Martin Pauer ([[User:Power|Power]])
+  |Permission=PD
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-self}}
+  
+  [[Category:Topographic maps of the Moon]]
+  [[Category:LIDAR images]]
+---
+source: commons.wikimedia.org
+file: MESSENGER_-_MLA.jpg
+date: 2019-06-15 17:50:58.189704
+text: |
+  {{Information
+  |Description=Mercury Laser Altimeter (MLA) of the MESSENGER spacecraft
+  |Source=http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=2004-030A&ex=5
+  |Date=
+  |Author=
+  |Permission=NASA
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:MESSENGER]]
+  [[Category:Lasers]]
+  [[Category:Taken with Fujifilm FinePix S1 Pro]]
+---
+source: commons.wikimedia.org
+file: Aleksandr_Prokhorov.jpg
+date: 2019-06-15 17:50:58.747036
+text: |
+  {{Information
+  |Description={{en|1=Aleksandr M. Prokhorov}}
+  {{ru|1=Александр Михайлович Прохоров}}
+  |Source=http://nobelprize.org/nobel_prizes/physics/laureates/1964/prokhorov-bio.html
+  |Author=Nobel foundation
+  |Date=1964
+  |Permission={{PD-Sweden-photo}}
+  |other_versions=
+  }}
+  
+  [[Category:Aleksandr Prokhorov]]
+---
+source: commons.wikimedia.org
+file: Diode_laser.jpg
+date: 2019-06-15 17:51:00.276633
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |Description={{en|1=Original caption: "This technology is known as a Tunable Diode Laser (TDL) gas sensor. The heart of the TDL system is a small laser diode (about 2mm square) that produces a narrow and specific wavelength of light tuned to a harmonic frequency of the water vapor molecule in the near infrared band. The light causes the molecule to vibrate and absorb the energy.
+  
+  Once adjusted to the specific frequency of the molecule, the laser is minutely tuned to different wavelengths on either side of the target wavelength. By comparing the light energy being absorbed at the water vapor frequency, to the light energy at the surrounding frequencies, a very precise measurement can be made. Multiple measurements are made every second, making the system quick to respond to variations in the target gas.
+  
+  TDL gas sensing technology is particularly good at detecting low levels of gases at the parts per million or even parts per billion level. With the vast majority of manufactured products relying more and more on gas measurement of some kind, commercial applications for this technique are broad. In every environment from wafer fabrication process control in the semiconductor industry to detecting trace levels of noxious gases in stack emissions, TDLs will be making news in the industrial and environmental monitoring sectors of the economy for years to come."}}
+  |Source=[[:en:Jet Propulsion Laboratory|Jet Propulsion Laboratory]] website: [http://technology.jpl.nasa.gov/gallery/index.cfm?page=imageDetail&ItemID=120&catId=8 http://technology.jpl.nasa.gov/gallery/index.cfm?page=imageDetail&ItemID=120&catId=8] ([https://web.archive.org/web/20041024103348/http://technology.jpl.nasa.gov/gallery/index.cfm?page=imageDetail&ItemID=120&catId=8 archive])
+  |Date=1999-11-04 (Date from the [[:en:IPTC Information Interchange Model|IPTC metadata]] of the original [[:en:Tagged Image File Format|TIFF]] version)
+  |Author=
+  |Permission=
+  |other_versions=
+  }}
+  {{NoCoins}}
+  
+  =={{int:license-header}}==
+  {{PD-USGov-NASA}}
+  
+  =={{original upload log}}==
+  {{original description page|en.wikipedia|Diode_laser.jpg}}
+  * 2005-08-27 16:09 [[:en:User:Deglr6328|Deglr6328]] 3060×2036×8 (1096300 bytes) ''<nowiki>original caption: "This technology is known as a Tunable Diode Laser (TDL) gas sensor. The heart of the TDL system is a small laser diode (about 2mm square) that produces a narrow and specific wavelength of light tuned to a harmonic frequency of the water</nowiki>''
+  
+  [[Category:Laser devices]]
+  [[Category:Diode lasers]]
+---
+source: commons.wikimedia.org
+file: Laser_sizes.jpg
+date: 2019-06-15 17:51:02.657418
+text: |
+  {{Transferred from|en.wikipedia|Maksim}}
+  {{Original description page|en.wikipedia|<!--original file name not indicated-->}}
+  
+  Composite image formed from [http://en.wikipedia.org/wiki/Image:Laser_diode_chip.jpg] and [http://en.wikipedia.org/wiki/Image:NOVA_laser.jpg] showing huge range of sizes of different lasers.
+  
+  {{PD-user-en|Deglr6328}}
+  
+  {| border="1"
+  ! date/time || username || edit summary
+  |----
+  | 20:15, 5 September 2005 || [[:en:User:Deglr6328]] || <nowiki></nowiki>
+  |----
+  | 16:58, 27 August 2005 || [[:en:User:Deglr6328]] || <nowiki>(Composite image formed from [http://en.wikipedia.org/wiki/Image:Laser_diode_chip.jpg] and [http://en.wikipedia.org/wiki/Image:NOVA_laser.jpg] showing huge range of sizes of different lasers.   {PD})</nowiki>
+  |}
+  
+  [[Category:Nova (laser)]]
+  [[Category:Media missing infobox template]]
+---
+source: commons.wikimedia.org
+file: THEL-ACTD.jpg
+date: 2019-06-15 17:51:04.122107
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description= Tactical High Energy Laser / Advanced Concept Technology Demonstrator "..."
+  |Source= {{ID-USMil|329901|Army|url=https://www.army.mil/e2/c/images/2014/01/30/329901/original.jpg}}
+  The original image was uploaded on de.wikipedia as [https://web.archive.org/web/20060718225138/http://de.wikipedia.org:80/wiki/Bild%3ATHEL_shoot2.jpg], from US Army Space & Missile Defense Command 
+  |Date=2005-08-20
+  }}
+  *Description: Tactical High Energy Laser (THEL)
+  *Source: US Army Space & Missile Defense Command
+  *Photographer or draughtsman: unbek.
+  *Date: unbek.
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-Military}}
+  
+  [[Category:Laser weapons]]
+---
+source: commons.wikimedia.org
+file: YAL-1A_Airborne_Laser_unstowed_crop.jpg
+date: 2019-06-15 17:51:04.803253
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+   |Description = {{en|[[YAL-1 Airborne Laser|YAL-1A Airborne Laser]] in flight with the mirror unstowed.}}
+   |Source = {{Cite web |title=Selected ALTB Photos |url=http://www.mda.mil/news/gallery_altb.html |work=Airborne Laser Test Bed |publisher=MDA |accessdate=29 June 2013}}
+   |Date = {{Other date|unknown}}
+   |Author = US Missile Defense Agency
+   |Permission = {{PD-USGov-Military-MDA}}
+   |Other_versions = <gallery>YAL-1A Airborne Laser unstowed.jpg|Original uncropped picture</gallery>
+  }}
+  
+  == {{Assessment}} ==
+  {{Assessments|featured=1|com-nom=YAL-1A Airborne Laser unstowed.jpg|dewiki=1|dewiki-nom=Archiv2013/7#Boeing YAL-1 Airborne Laser – 26. Juli bis 9. August 2013 04:26 Uhr - Pro|enwiki=1|enwiki-nom=BoeingYAL-1}}
+  
+  [[Category:Boeing YAL-1]]
+  [[Category:Featured pictures of aircraft]]
+  [[Category:Featured pictures of the United States]]
+  [[Category:Featured pictures from the United States Armed Forces]]
+  [[Category:Aerial photographs of military aircraft in flight]]
+  [[Category:412th Test Wing (United States Air Force)]]

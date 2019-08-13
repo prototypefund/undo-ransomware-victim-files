@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_09_1YR_C19101D
+product-selection: ACS_09_1YR_C19101D|table||||C19101D|FAMILY+INCOME+IN+THE+PAST+12+MONTHS+%28IN+2009+INFLATION-ADJUSTED+DOLLARS%29+%28ASIAN+ALONE+HOUSEHOLDER%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:06:24.730119

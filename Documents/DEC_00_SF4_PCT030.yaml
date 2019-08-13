@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: DEC_00_SF4_PCT030
+product-selection: DEC_00_SF4_PCT030|table||||PCT030|FAMILY+TYPE+BY+AGE+OF+HOUSEHOLDER+%5B29%5D
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:38:07.631092

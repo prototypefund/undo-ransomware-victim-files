@@ -1,0 +1,20 @@
+source: commons.wikimedia.org
+file: Schéma du fonctionnement théorique du régime parlementaire.png
+date: 2019-06-13 16:32:40.827009
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{fr|1=Cet organigramme décrit, de manière extrêmement synthétique, la théorie du fonctionnement d'un régime parlementaire.}}{{en|1=This diagram describes the theorical organization of a parliamentary system.}}
+  |date=2011-06-07
+  |source={{own}}
+  |author=[[User:Mandrak|Mandrak]]
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  {{ConvertToSVG|diagram}}
+  
+  =={{int:license-header}}==
+  {{self|cc-zero}}
+  
+  [[Category:Politics diagrams]]

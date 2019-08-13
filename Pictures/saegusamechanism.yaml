@@ -1,0 +1,21 @@
+source: commons.wikimedia.org
+file: SaegusaMechanism.png
+date: 2019-06-13 16:41:38.579245
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=mechanism of the saegusa-ito oxidation}}
+  |Source=http://www.chem.harvard.edu/groups/myers/handouts/2_Oxidation.pdf
+  |Author=selfmade by [[User:mdlevin | mdlevin]]
+  |Date=2010-12-21
+  |Permission=Public Domain
+  |other_versions=
+  }}
+  {{Convert to SVG|chemical}}
+  
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}
+  
+  
+  [[Category:Saegusa-Ito oxidation]]
+  [[Category:Reaction mechanisms]]

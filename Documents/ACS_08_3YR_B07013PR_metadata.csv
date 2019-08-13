@@ -1,0 +1,39 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HD01_VD01,Estimate; Total:
+HD02_VD01,Margin of Error; Total:
+HD01_VD03,Estimate; Householder lived in owner-occupied housing units
+HD02_VD03,Margin of Error; Householder lived in owner-occupied housing units
+HD01_VD04,Estimate; Householder lived in renter-occupied housing units
+HD02_VD04,Margin of Error; Householder lived in renter-occupied housing units
+HD01_VD05,Estimate; Same house 1 year ago:
+HD02_VD05,Margin of Error; Same house 1 year ago:
+HD01_VD06,Estimate; Same house 1 year ago: - Householder lived in owner-occupied housing units
+HD02_VD06,Margin of Error; Same house 1 year ago: - Householder lived in owner-occupied housing units
+HD01_VD07,Estimate; Same house 1 year ago: - Householder lived in renter-occupied housing units
+HD02_VD07,Margin of Error; Same house 1 year ago: - Householder lived in renter-occupied housing units
+HD01_VD08,Estimate; Moved within same municipio:
+HD02_VD08,Margin of Error; Moved within same municipio:
+HD01_VD09,Estimate; Moved within same municipio: - Householder lived in owner-occupied housing units
+HD02_VD09,Margin of Error; Moved within same municipio: - Householder lived in owner-occupied housing units
+HD01_VD10,Estimate; Moved within same municipio: - Householder lived in renter-occupied housing units
+HD02_VD10,Margin of Error; Moved within same municipio: - Householder lived in renter-occupied housing units
+HD01_VD11,Estimate; Moved from different municipio:
+HD02_VD11,Margin of Error; Moved from different municipio:
+HD01_VD12,Estimate; Moved from different municipio: - Householder lived in owner-occupied housing units
+HD02_VD12,Margin of Error; Moved from different municipio: - Householder lived in owner-occupied housing units
+HD01_VD13,Estimate; Moved from different municipio: - Householder lived in renter-occupied housing units
+HD02_VD13,Margin of Error; Moved from different municipio: - Householder lived in renter-occupied housing units
+HD01_VD14,Estimate; Moved from the United States:
+HD02_VD14,Margin of Error; Moved from the United States:
+HD01_VD15,Estimate; Moved from the United States: - Householder lived in owner-occupied housing units
+HD02_VD15,Margin of Error; Moved from the United States: - Householder lived in owner-occupied housing units
+HD01_VD16,Estimate; Moved from the United States: - Householder lived in renter-occupied housing units
+HD02_VD16,Margin of Error; Moved from the United States: - Householder lived in renter-occupied housing units
+HD01_VD17,Estimate; Moved from elsewhere:
+HD02_VD17,Margin of Error; Moved from elsewhere:
+HD01_VD18,Estimate; Moved from elsewhere: - Householder lived in owner-occupied housing units
+HD02_VD18,Margin of Error; Moved from elsewhere: - Householder lived in owner-occupied housing units
+HD01_VD19,Estimate; Moved from elsewhere: - Householder lived in renter-occupied housing units
+HD02_VD19,Margin of Error; Moved from elsewhere: - Householder lived in renter-occupied housing units

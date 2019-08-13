@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_07_1YR_B25035
+product-selection: ACS_07_1YR_B25035|table||||B25035|MEDIAN+YEAR+STRUCTURE+BUILT
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:20:05.976920

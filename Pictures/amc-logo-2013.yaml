@@ -1,0 +1,28 @@
+source: commons.wikimedia.org
+file: Amc logo 2013.png
+date: 2019-06-14 14:41:20.793887
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{de|1=Logo von AMC}}
+  |Source=AMC Networks
+  |Date=2013
+  |Author=AMC Networks
+  |Permission=
+  |Other versions= 
+  }}
+  {{Convert to SVG|text logo}}
+  
+  == {{int:license-header}} ==
+  {{PD-textlogo}}
+  {{Trademark}}
+  
+  == {{Original upload log}} ==
+  <div class="delh">
+  {{transferred from|de.wikipedia|Wdwdbot|script ''bot_filetrans.pl''}}
+  {{original description|de.wikipedia|Amc_logo_2013.png}}
+  * 2014-11-04 04:24:28  [[:de:User:Lukeskywalker1978|Lukeskywalker1978]] (145795 Bytes) ''<nowiki>{{Information |Beschreibung = Logo von AMC |Quelle = AMC Networks |Urheber = AMC Networks |Datum = 2013 |Genehmigung = {{Bild-LogoSH}} |Andere Versionen = |Anmerkungen = {{SVG|Logo}} }}</nowiki>''
+  </div>
+  {{User:Wdwdbot/Files uploaded by Wdwdbot}}
+  
+  [[Category:AMC (TV channel)]]

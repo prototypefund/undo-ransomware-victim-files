@@ -1,0 +1,60 @@
+source: en.wikipedia.org
+file: John C. Stennis Space Center
+date: 2019-06-15 17:41:28.856882
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/900120980
+---
+source: commons.wikimedia.org
+file: Aerial_View_SSC_A-1,_A-2_and_B_test_stands_2004.jpg
+date: 2019-06-15 17:41:30.773712
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Author=NASA
+  |Date=2004-04-04
+  |Description=SSC's A-1, A-2 and B test stands were built in the early 1960s to test the first and second stages of the Apollo Saturn V rocket that safely transported Americans to the moon. The A-1 Stand (foreground) will soon test the J-2X engines that will power the rockets to take Americans back to the moon.
+  |other versions=
+  |Permission=
+  |Source=http://www.ssc.nasa.gov/sirs/scripts/getxmlfile.pl?id=SSC-2004-02813
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  == {{Original upload log}} ==
+  {{Original description page|en.wikipedia|Aerial+View+SSC+A-1%2C+A-2+and+B+test+stands+2004.jpg}}
+  {| class="wikitable"
+  ! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+  |-
+  | 2013-10-27 21:18:52 || 3000× 2400× || [[w:User:Ajh1492|Ajh1492]] || ''<nowiki>Uploading a public-domain item using [[Wikipedia:File_Upload_Wizard|File Upload Wizard]]</nowiki>''
+  |-
+  |}
+  
+  [[Category:Aerial photographs of the Stennis Space Center]]
+  [[Category:2004 in Mississippi]]
+---
+source: commons.wikimedia.org
+file: E_Test_Stand_at_SSC.jpg
+date: 2019-06-15 17:41:32.679583
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|The E Test Complex is SSC's versatile, three-stand complex that includes seven separate test cells capable of testing that involves ultra high-pressure gases and cryogenic fluids.}}
+  |Source=http://www.ssc.nasa.gov/sirs/scripts/getxmlfile.pl?id=SSC-2005-00853
+  |Date=2005-04-25
+  |Author=NASA
+  |Permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  == {{Original upload log}} ==
+  {{original description|en.wikipedia|E+Test+Stand+at+SSC.jpg}}
+  {| class="wikitable filehistory"
+  ! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+  |-
+  | 2013-10-27 20:50 || 3000×2400× (4436387 bytes) || [[:en:User:Ajh1492|Ajh1492]] || ''<nowiki>Uploading a public-domain item using [[Wikipedia:File_Upload_Wizard|File Upload Wizard]]</nowiki>''
+  |}
+  
+  [[Category:Stennis Space Center]]

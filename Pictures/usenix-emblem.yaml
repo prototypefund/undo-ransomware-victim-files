@@ -1,0 +1,37 @@
+source: commons.wikimedia.org
+file: USENIX emblem.png
+date: 2019-06-27 14:03:18.133265
+text: |
+  {{Information
+  |description= {{en|Logo for the [[:en:USENIX]] organization.}}
+  |date= 2010-10-16 06:02:47(UTC) (Original uploaded at 2009-03-16 12:11:54)
+  |source= Flatbed scan of logo from a USENIX brochure, originally uploaded on en.wikipedia
+  |author= Original uploaded by [[:en:User:718 Bot|718 Bot]] (Transfered by [[User:Frysch|Frysch]])
+  }}
+  
+  == {{int:filedesc}} ==
+  ; Size: 241×111 pixels.
+  
+  == {{int:license-header}} ==
+  {{PD-textlogo}}
+  {{Convert to SVG|logo}}
+  == History of File:USENIX emblem.gif ==
+  * 2009-02-17T05:30:47Z [[:en:User:Skier Dude|Skier Dude]] ([[:en:User talk:Skier Dude|Talk]] &#x7C; [[:en:Special:Contributions/Skier Dude|contribs]]) (677 bytes) ''(<nowiki>adding [[WP:FURG|FUR]] using [[Wikipedia:FurMe|FurMe]]</nowiki>)''
+  * 2008-12-17T00:32:00Z [[:en:User:718 Bot|718 Bot]] ([[:en:User talk:718 Bot|Talk]] &#x7C; [[:en:Special:Contributions/718 Bot|contribs]]) (221 bytes) ''(<nowiki>Tagging as PNG available</nowiki>)''
+  * 2007-04-23T14:50:15Z [[:en:User:Cydebot|Cydebot]] ([[:en:User talk:Cydebot|Talk]] &#x7C; [[:en:Special:Contributions/Cydebot|contribs]]) (177 bytes) ''(<nowiki>Robot - Renaming non-free template &quot;logo&quot; per [[Wikipedia:Non-free content/templates]].</nowiki>)''
+  * 2005-04-07T15:58:22Z [[:en:User:RJHall|RJHall]] ([[:en:User talk:RJHall|Talk]] &#x7C; [[:en:Special:Contributions/RJHall|contribs]]) ''(<nowiki>Description</nowiki>)''
+  * 2005-04-07T15:57:43Z [[:en:User:RJHall|RJHall]] ([[:en:User talk:RJHall|Talk]] &#x7C; [[:en:Special:Contributions/RJHall|contribs]]) ''(<nowiki>Logo for the USENIX organization.</nowiki>)''
+  * 2005-04-07T15:57:43Z [[:en:User:RJHall|RJHall]] ([[:en:User talk:RJHall|Talk]] &#x7C; [[:en:Special:Contributions/RJHall|contribs]]) (241x111) (12895 bytes)
+  
+  == {{Original upload log}} ==
+  {{original description page|en.wikipedia|USENIX_emblem.png}}
+  
+  Upload date &#x7C; User &#x7C; Bytes &#x7C; Dimensions &#x7C; Comment
+  
+  *2009-03-16 12:11:54 &#x7C; [[:en:User:718 Bot|718 Bot]] &#x7C; 10894 &#x7C; 241&times;111 &#x7C; <small><nowiki>== Summary == {{logo fur | Article           = USENIX | Use               = Org <!-- ADDITIONAL INFORMATION --> | Used for          =  | Owner             =  | Website           =  | History           =  | Commentary        = <!--OVERRIDE FIELDS --> | Des</nowiki></small>
+  
+  <!-- Categories by CommonSense -->
+  
+  [[Category:Awards]]
+  [[Category:Information technology management]]
+  [[Category:USENIX]]

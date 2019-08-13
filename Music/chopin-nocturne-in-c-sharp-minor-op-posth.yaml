@@ -1,0 +1,20 @@
+source: commons.wikimedia.org
+file: Chopin, Nocturne in C-sharp minor, Op. Posth.ogg
+date: 2019-06-15 15:46:52.685874
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|Nocturne No. 20 in C-sharp minor, Op. posth.}}
+  |Source         ={{Musopen|http://musopen.org/music/645/}}
+  |Author         =Composer: {{Creator:Frédéric Chopin}}
+  Recording: Aaron Dunn
+  |Date           =Published circa 1875
+  |Permission     =
+  |other_versions =
+  }}
+  
+  == {{int:license-header}} ==
+  {{Cc-zero}}
+  
+  [[Category:Ogg files of Nocturnes by Frédéric Chopin|Nocturne 20]]
+  [[Category:Compositions in C-sharp minor]]

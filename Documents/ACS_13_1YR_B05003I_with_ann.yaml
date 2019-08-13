@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_13_1YR_B05003I
+product-selection: ACS_13_1YR_B05003I|table||||B05003I|SEX+BY+AGE+BY+NATIVITY+AND+CITIZENSHIP+STATUS+%28HISPANIC+OR+LATINO%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:49:29.205500

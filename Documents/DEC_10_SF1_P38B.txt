@@ -1,0 +1,11 @@
+P38B
+FAMILY TYPE BY PRESENCE AND AGE OF OWN CHILDREN (BLACK OR AFRICAN AMERICAN ALONE HOUSEHOLDER)
+
+Universe: Families with a householder who is Black or African American alone
+
+NOTE: For information on confidentiality protection, nonsampling error, and definitions, see  http://www.census.gov/prod/cen2010/doc/sf1.pdf.
+
+NOTE:  "Families" consist of a householder and one or more other people related to the householder by birth, marriage, or adoption.  They do not include same-sex married couples even if the marriage was performed in a state issuing marriage certificates for same-sex couples.  Same-sex couples are included in the families category if there is at least one additional person related to the householder by birth or adoption.  Responses of "same-sex spouse" were edited during processing to "unmarried partner."
+
+Source: U.S. Census Bureau, 2010 Census.
+

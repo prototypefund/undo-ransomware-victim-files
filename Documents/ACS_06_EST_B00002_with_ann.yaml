@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_06_EST_B00002
+product-selection: ACS_06_EST_B00002|table||||B00002|UNWEIGHTED+SAMPLE+HOUSING+UNITS
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:27:22.891070

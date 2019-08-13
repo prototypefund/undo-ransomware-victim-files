@@ -1,0 +1,25 @@
+source: en.wikipedia.org
+file: Department of Space
+date: 2019-06-15 16:54:30.662003
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/901938674
+---
+source: commons.wikimedia.org
+file: Department_of_Space_(India)_-_organization_chart.jpg
+date: 2019-06-15 16:54:31.417768
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Organization chart showing structure of the Department of Space of the Government of India.}}
+  |date=2014-09-22 20:51:52
+  |source=DoS / ISRO
+  |author=[[User:Engineering Guy|Engineering Guy]]
+  |permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-textlogo}}
+  
+  [[Category:Indian Space Research Organisation]]
+  [[Category:Department of Space (India)]]
+  [[Category:Organizational charts]]

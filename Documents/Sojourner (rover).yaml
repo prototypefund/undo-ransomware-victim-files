@@ -1,0 +1,107 @@
+source: en.wikipedia.org
+file: Sojourner (rover)
+date: 2019-06-15 19:16:33.322438
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/899646299
+---
+source: commons.wikimedia.org
+file: Mars_Pathfinder_rover_after_landing_on_Mars.jpg
+date: 2019-06-15 19:16:34.236155
+text: |
+  {{Information
+  |Description={{en|1=This picture from Mars Pathfinder was taken after the spacecraft landed on July 4, 1997, and shows the Sojourner rover perched on one of three solar panels.}}
+  |Source=http://appel.nasa.gov/2009/01/01/pathfinders-mars-landing-to-reboot-or-not-reboot/ ([http://appel.nasa.gov/wp-content/uploads/sites/2/2009/01/80839_full.jpg image link])
+  |Date=1997-07
+  |Author=NASA/JPL
+  |Permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Mars Pathfinder (rover)]]
+---
+source: commons.wikimedia.org
+file: PIA00645.jpg
+date: 2019-06-15 19:16:34.818075
+text: |
+  {{Information
+  |Description=The image was taken by a camera aboard the Sojourner rover on Sol 4. A rover wheel is at center, and tracks are visible in the soil at top where the cleated wheel passed over the surface.
+  
+  Mars Pathfinder is the second in NASA's Discovery program of low-cost spacecraft with highly focused science goals. The Jet Propulsion Laboratory, Pasadena, CA, developed and manages the Mars Pathfinder mission for NASA's Office of Space Science, Washington, D.C. JPL is an operating division of the California Institute of Technology (Caltech). 
+  |Source=http://photojournal.jpl.nasa.gov/spacecraft/Mars%2BPathfinder%2BRover?start=70
+  |Date=
+  |Author=NASA/JPL 
+  |Permission=Original work of NASA - public domain
+  |other_versions=
+  }}
+  
+  {{PD-USGov-NASA}}
+  
+  [[Category:Mars Pathfinder]]
+  [[Category:Mars Pathfinder (rover)]]
+---
+source: commons.wikimedia.org
+file: PIA00664.jpg
+date: 2019-06-15 19:16:35.172567
+text: |
+  {{Information
+  |Description=Taken from Sojourner's forward camera, this image features a rover's-eye view of the Sagan Memorial Station. Areas of billowing airbags can be seen surrounding the lander, and the rear deployment ramp is seen at center. The rock Barnacle Bill is just to the right of the ramp, and Sojourner's tracks are shown leading away from the spacecraft. The lander's high-gain antenna is at the left of the lander's main electronics array, appearing as a small grey disc.
+  
+  Mars Pathfinder is the second in NASA's Discovery program of low-cost spacecraft with highly focused science goals. The Jet Propulsion Laboratory, Pasadena, CA, developed and manages the Mars Pathfinder mission for NASA's Office of Space Science, Washington, D.C. JPL is an operating division of the California Institute of Technology (Caltech). The Imager for Mars Pathfinder (IMP) was developed by the University of Arizona Lunar and Planetary Laboratory under contract to JPL. Peter Smith is the Principal Investigator. 
+  |Source=http://photojournal.jpl.nasa.gov/spacecraft/Mars%2BPathfinder%2BRover?start=60
+  |Date=
+  |Author=NASA/JPL 
+  |Permission=Original work of NASA - public domain
+  |other_versions=
+  }}
+  
+  {{PD-USGov-NASA}}
+  
+  [[Category:Mars Pathfinder]]
+  [[Category:Mars Pathfinder (rover)]]
+---
+source: commons.wikimedia.org
+file: PIA01551.jpg
+date: 2019-06-15 19:16:35.621845
+text: |
+  {{Information
+  |Description=This 8-image mosaic was acquired during the late afternoon (near 5pm LST, note the long shadows) on Sol 2 as part of the predeploy "insurance panorama" and shows the newly deployed rover sitting on the Martian surface. This color image was generated from images acquired at 530,600, and 750 nm. The insurance panorama was designed as "insurance" against camera failure upon deployment. Had the camera failed, the losslessly-compressed, multispectral insurance panorama would have been the main source of image data from the IMP.
+  
+  However, the camera deployment was successful, leaving the insurance panorama to be downlinked to Earth several weeks later. Ironically enough, the insurance panorama contains some of the best quality image data because of the lossless data compression and relatively dust-free state of the camera and associated lander/rover hardware on Sol 2.
+  
+  Mars Pathfinder is the second in NASA's Discovery program of low-cost spacecraft with highly focused science goals. The Jet Propulsion Laboratory, Pasadena, CA, developed and manages the Mars Pathfinder mission for NASA's Office of Space Science, Washington, D.C. JPL is an operating division of the California Institute of Technology (Caltech). The IMP was developed by the University of Arizona Lunar and Planetary Laboratory under contract to JPL. Peter Smith is the Principal investigator. 
+  |Source=http://photojournal.jpl.nasa.gov/index.html
+  |Date=1999
+  |Author=NASA
+  |Permission=Original work of NASA - public domain
+  |other_versions=
+  }}
+  
+  {{PD-USGov-NASA}}
+  
+  [[Category:Mars Pathfinder]]
+  [[Category:Mars Pathfinder (lander)]]
+  [[Category:Mars Pathfinder (rover)]]
+---
+source: commons.wikimedia.org
+file: Sojourner,_MER,_Phoenix_lander,_and_Curiosity_comparisons,_in_Metric_units.jpg
+date: 2019-06-15 19:16:36.089421
+text: |
+  {{Information
+  |Description={{en|1=A comparison of sizes for the Sojourner rover (Mars Pathfinder), the Mars Exploration Rovers, the Phoenix lander and the Mars Science Laboratory. Figures are in metric units.}}
+  |Source=http://www.nasa.gov/mission_pages/phoenix/images/family.html ([http://www.nasa.gov/images/content/228936main_rover-metric.jpg image link])
+  |Author=NASA/JPL-Caltech
+  |Date=2008
+  |Permission=
+  |other_versions=[[File:Sojourner, MER, Phoenix lander, and Curiosity comparisons, in English units.jpg|thumb|left|100px|English units]]
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Mars rovers comparisons]]
+  [[Category:Illustrations of the Mars Exploration Rovers]]
+  [[Category:Curiosity rover]]
+  [[Category:Illustrations of the Phoenix mission]]
+  [[Category:Mars Pathfinder]]

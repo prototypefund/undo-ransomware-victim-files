@@ -1,0 +1,21 @@
+source: commons.wikimedia.org
+file: Night Visions logo.png
+date: 2019-06-13 16:39:56.233309
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{fr|1=Logo de l'album ''Night Visions'' d'Imagine Dragons}}{{en|1=Logo of Imagine Dragons' album, "Night Visions"}}
+  |date=2013-11-01 12:34:10
+  |source={{own}}
+  |author=[[User:LeJC|LeJC]]
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  {{convert to SVG|logo}}
+  
+  =={{int:license-header}}==
+  {{PD-textlogo}}
+  {{self|cc-zero}}
+  
+  [[Category:Imagine Dragons logos]]

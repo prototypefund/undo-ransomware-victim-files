@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_08_1YR_B23002H
+product-selection: ACS_08_1YR_B23002H|table||||B23002H|SEX+BY+AGE+BY+EMPLOYMENT+STATUS+FOR+THE+POPULATION+16+YEARS+AND+OVER+%28WHITE+ALONE%2C+NOT+HISPANIC+OR+LATINO%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:08:57.462589

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_16_5YR_S1811
+product-selection: ACS_16_5YR_S1811|table||||S1811|SELECTED+ECONOMIC+CHARACTERISTICS+FOR+THE+CIVILIAN+NONINSTITUTIONALIZED+POPULATION+BY+DISABILITY+STATUS+
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:27:00.544807

@@ -1,0 +1,21 @@
+source: en.wikipedia.org
+file: Patriot Act, Title IV
+date: 2019-06-26 20:53:38.422137
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/892699247
+---
+source: commons.wikimedia.org
+file: Us-map.png
+date: 2019-06-26 20:53:39.146073
+text: |
+  {{Information
+  |Description=CIA map of the United States
+  |Source=https://www.cia.gov/cia/publications/factbook/geos/us.html
+  |Date=
+  |Author=CIA World Factbook
+  |Permission=Public Domain, as a work by the US federal government
+  |other_versions=[[:Image:Us-map-Norwegian.png|Norwegian version]]
+  }}
+  
+  {{PD-USGov-CIA-WF}}
+  [[Category:Maps of the United States]]
+  [[Category:CIA World Factbook maps of the United States]]

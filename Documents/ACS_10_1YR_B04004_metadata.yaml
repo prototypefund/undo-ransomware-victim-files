@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_1YR_B04004
+product-selection: ACS_10_1YR_B04004|table||||B04004|PEOPLE+REPORTING+SINGLE+ANCESTRY
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:25:33.735987

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_09_5YR_B99246
+product-selection: ACS_09_5YR_B99246|table||||B99246|IMPUTATION+OF+CLASS+OF+WORKER+FOR+THE+FULL-TIME%2C+YEAR-ROUND+CIVILIAN+EMPLOYED+POPULATION+16+YEARS+AND+OVER
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:17:22.015329

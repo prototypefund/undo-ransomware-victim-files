@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_14_5YR_B99234
+product-selection: ACS_14_5YR_B99234|table||||B99234|IMPUTATION+OF+WEEKS+WORKED+IN+THE+PAST+12+MONTHS+FOR+THE+POPULATION+16+YEARS+AND+OVER
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:58:40.186856

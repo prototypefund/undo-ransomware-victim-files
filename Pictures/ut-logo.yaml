@@ -1,0 +1,22 @@
+source: commons.wikimedia.org
+file: UT logo.png
+date: 2019-06-27 13:58:18.498964
+text: |
+  {{svg|logo}}
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Logo of [[w:Unreal Tournament (upcoming video game)|Unreal Tournament]]}}
+  |date=2014-12-11
+  |source=https://wiki.unrealengine.com/File:UTLogoFinal_Drop.png
+  |author=[http://ryosa.com/ Henrik Ryosa]
+  |permission=
+  |other versions=[[:File:Unreal Tournament (2014 video game) logo.png]]
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-textlogo}}
+  {{Trademarked}}
+  
+  [[Category:Unreal Tournament 4]]
+  [[Category:Logos of free video games]]
+  [[Category:Video game logos]]

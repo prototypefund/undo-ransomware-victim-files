@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_16_5YR_CP02
+product-selection: ACS_16_5YR_CP02|table||||CP02|COMPARATIVE+SOCIAL+CHARACTERISTICS+IN+THE+UNITED+STATES
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:34:20.235040

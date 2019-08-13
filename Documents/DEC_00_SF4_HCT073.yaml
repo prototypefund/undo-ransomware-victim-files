@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: DEC_00_SF4_HCT073
+product-selection: DEC_00_SF4_HCT073|table||||HCT073|AGGREGATE+VALUE+%28DOLLARS%29+FOR+SPECIFIED+OWNER-OCCUPIED+HOUSING+UNITS+BY++MORTGAGE+STATUS+%5B3%5D
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:40:20.152433

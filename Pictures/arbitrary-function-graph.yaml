@@ -1,0 +1,24 @@
+source: commons.wikimedia.org
+file: Arbitrary function graph.png
+date: 2019-06-13 16:51:47.420161
+text: |
+  {{Convert to SVG|graph}}
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=Graph intended to show an arbitrary function (probably a polynomial ?)
+  
+  
+  Image generated with GeoGebra.}}
+  |Source         ={{own}}<br/>
+  ({{original text|nobold=1|1=Self-made}})
+  |Author         =(Johan Falk) ([[User:Itangalo|Itangalo]] ([[User talk:Itangalo|<span class="signature-talk">talk</span>]])).
+  [[User:Itangalo|Itangalo]]
+  |Date           =2013-08-02
+  |Permission     =
+  |other_versions =
+  }}
+  
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}
+  [[Category:Function plots]]
+  [[Category:GeoGebra]]

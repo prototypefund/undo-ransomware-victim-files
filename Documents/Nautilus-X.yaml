@@ -1,0 +1,86 @@
+source: en.wikipedia.org
+file: Nautilus-X
+date: 2019-06-15 18:32:31.542667
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/901641533
+---
+source: commons.wikimedia.org
+file: Nautilus-X_Main_Dimensions.png
+date: 2019-06-15 18:32:32.301674
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=Main dimensions of the Nautilus-X Spacecraft}}
+  {{fr|1=Dimensions principales du vaisseau Nautilus-X}}
+  |Source         =NASA Technology Applications Assessment Team
+  |Author         =Mark L Holderman
+  |Date           =2011-01-26
+  |Permission     =
+  |other_versions =
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Nautilus-X]]
+---
+source: commons.wikimedia.org
+file: Nautilus-X_Extended_duration_explorer.png
+date: 2019-06-15 18:32:32.935115
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=Three dimensional view of the Extended Duration explorer version of Nautilus-X.}}
+  {{fr|1=Vue tridimensionnelle de la version ''Exploration longue durée'' du vaisseau spatial Nautilus-X.}}
+  |Source         =NASA Technology Applications Assessment Team
+  |Author         =Mark L Holderman
+  |Date           =2011-01-26
+  |Permission     =
+  |other_versions =
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Nautilus-X]]
+---
+source: commons.wikimedia.org
+file: Nautilus-X_Extended_duration_explorer_-_frontview.png
+date: 2019-06-15 18:32:33.422277
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=Front view of the Nautilus-X Extended Duration Explorer version}}
+  {{fr|1=Vue frontale de la version ''Exploration longue durée'' du vaisseau spatial Nautilus-X.}}
+  |Source         =NASA Technology Applications Assessment Team
+  |Author         =Mark L Holderman
+  |Date           =
+  |Permission     =
+  |other_versions =
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Nautilus-X]]
+---
+source: commons.wikimedia.org
+file: Nautilus-X_ISS_demo_1.png
+date: 2019-06-15 18:32:33.939606
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=ISS demonstrator of NASA's Nautilus-X's centrifuge.}}
+  {{fr|1=Démonstrateur ISS de la centrifuge du Nautilus-X de la NASA.}}
+  |Source         =NASA Technology Applications Assessment Team
+  |Author         =Mark L Holderman
+  |Date           =2011-01-26
+  |Permission     =
+  |other_versions =
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Nautilus-X]]
+  [[Category:Artificial gravity]]
+  [[Category:Inflatable space habitat]]

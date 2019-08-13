@@ -1,0 +1,60 @@
+source: en.wikipedia.org
+file: Family Portrait (MESSENGER)
+date: 2019-06-15 17:07:26.123612
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/875045789
+---
+source: commons.wikimedia.org
+file: MESSENGER_Solar_System_Family_Portrait.jpg
+date: 2019-06-15 17:07:26.723408
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=NASA's MESSENGER spacecraft has constructed the first portrait of our [[solar system]] by combining 34 images taken by the spacecraft’s Wide Angle Camera. The [[mosaic]], pieced together over a period of a few weeks, comprises all of the planets in the solar system.}}
+  |Source         =[http://www.nasa.gov/multimedia/imagegallery/image_feature_1868.html NASA Image of the Day]
+  |Author         =NASA, Johns Hopkins University Applied Physics Laboratory, Carnegie Institution of Washington
+  |Date           =2010-11-16
+  |Permission     =
+  |other_versions =
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  {{ImageNote|id=1|x=572|y=225|w=42|h=42|dimx=2100|dimy=540|style=2}}
+  [[:en:Jupiter|Jupiter]]
+  {{ImageNoteEnd|id=1}}
+  {{ImageNote|id=2|x=1604|y=396|w=37|h=34|dimx=2100|dimy=540|style=2}}
+  [[:en:Mars|Mars]]
+  {{ImageNoteEnd|id=2}}
+  {{ImageNote|id=3|x=1982|y=254|w=37|h=31|dimx=2100|dimy=540|style=2}}
+  [[:en:Mercury (planet)|Mercury]]
+  {{ImageNoteEnd|id=3}}
+  {{ImageNote|id=4|x=2040|y=252|w=24|h=31|dimx=2100|dimy=540|style=2}}
+  [[:en:Saturn|Saturn]]
+  {{ImageNoteEnd|id=4}}
+  {{ImageNote|id=5|x=8|y=42|w=29|h=34|dimx=2100|dimy=540|style=2}}
+  [[:en:Venus|Venus]]
+  {{ImageNoteEnd|id=5}}
+  {{ImageNote|id=6|x=97|y=45|w=34|h=37|dimx=2100|dimy=540|style=2}}
+  [[:en:Earth|Earth]]
+  {{ImageNoteEnd|id=6}}
+  
+  [[Category:Photos by MESSENGER]]
+---
+source: commons.wikimedia.org
+file: MESSENGER_-_Jupiter_labeled_v2bicubic.png
+date: 2019-06-15 17:07:27.126277
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=Published February 18, 2011, this image acquired by the MESSENGER spacecraft features Jupiter and the Galilean satellites. This image includes the full resolution captured image by the Narrow Angle Camera of the Mercury Dual Imaging System instrument.}}
+  |Source         =http://messenger.jhuapl.edu/gallery/sciencePhotos/image.php?image_id=399 <br>[http://messenger.jhuapl.edu/images/jupiter_labeled_v2bicubic.png Direct link]
+  |Author         =NASA / APL
+  |Date           =2010-11
+  |Permission     =
+  |other_versions =
+  }}
+  
+  [[Category:Photos by MESSENGER]]
+  [[Category:Photos of Jupiter system by spacecraft]]
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}

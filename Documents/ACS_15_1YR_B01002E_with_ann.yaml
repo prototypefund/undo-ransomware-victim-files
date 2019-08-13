@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_15_1YR_B01002E
+product-selection: ACS_15_1YR_B01002E|table||||B01002E|MEDIAN+AGE+BY+SEX+%28NATIVE+HAWAIIAN+AND+OTHER+PACIFIC+ISLANDER+ALONE%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:28:01.516054

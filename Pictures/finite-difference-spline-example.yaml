@@ -1,0 +1,21 @@
+source: commons.wikimedia.org
+file: Finite difference spline example.png
+date: 2019-06-13 16:36:01.556946
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=Example for [[:en:Cubic_Hermite_spline]]}}
+  |Source         ={{own}}
+  |Author         =[[User:Tomruen|Tomruen]]
+  |Date           =2011-03-03
+  |Permission     =
+  |other_versions ={{SVG|math}}
+  }}
+  
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}
+  
+  [[Category:Numerical analysis]]
+  [[Category:Interpolation]]
+  [[Category:Charles Hermite]]
+  [[Category:Splines]]

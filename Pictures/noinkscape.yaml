@@ -1,0 +1,25 @@
+source: commons.wikimedia.org
+file: Noinkscape.png
+date: 2019-06-13 16:44:01.519820
+text: |
+  {{Convert to SVG|1=icon}}
+  
+  == {{int:filedesc}} ==
+  {{Information
+   |description = {{en|1=Symbol instructing editors not to use Inkscape while editing SVG files.}}
+   |source = {{Own based|1=Prohibition sign.svg|2=Inkscape-HIG-mental.svg}}
+   |author = [[User:MB298|MB298]]
+   |date = 2016-03-08
+   |permission =
+   |other versions = <gallery>
+     Anti-Inkscape.svg
+     Inkscape-no.svg
+     </gallery>
+  }}
+  
+  == {{int:license-header}} ==
+  {{Cc-zero}}
+  
+  [[Category:Inkscape icons]]
+  [[Category:Red circle with left slash]]
+  [[Category:Anti vector graphics program logos]]

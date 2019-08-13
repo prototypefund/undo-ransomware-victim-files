@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_09_1YR_S0902
+product-selection: ACS_09_1YR_S0902|table||||S0902|Characteristics+of+Teenagers+15+to+19+Years+Old
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:05:29.854731

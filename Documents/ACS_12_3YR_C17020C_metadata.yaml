@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_12_3YR_C17020C
+product-selection: ACS_12_3YR_C17020C|table||||C17020C|POVERTY+STATUS+IN+THE+PAST+12+MONTHS+BY+AGE+%28AMERICAN+INDIAN+AND+ALASKA+NATIVE+ALONE%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:25:16.565909

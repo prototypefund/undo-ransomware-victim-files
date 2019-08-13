@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_13_1YR_S2401
+product-selection: ACS_13_1YR_S2401|table||||S2401|OCCUPATION+BY+SEX+AND+MEDIAN+EARNINGS+IN+THE+PAST+12+MONTHS+%28IN+2013+INFLATION-ADJUSTED+DOLLARS%29+FOR+THE+CIVILIAN+EMPLOYED+POPULATION+16+YEARS+AND+OVER+
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:27:23.781026

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_13_5YR_B07013PR
+product-selection: ACS_13_5YR_B07013PR|table||||B07013PR|GEOGRAPHICAL+MOBILITY+IN+THE+PAST+YEAR+BY+TENURE+FOR+CURRENT+RESIDENCE+IN+PUERTO+RICO
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 10:51:58.772951

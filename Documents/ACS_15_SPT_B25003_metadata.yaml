@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_15_SPT_B25003
+product-selection: ACS_15_SPT_B25003|table||||B25003|TENURE
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:12:12.816415

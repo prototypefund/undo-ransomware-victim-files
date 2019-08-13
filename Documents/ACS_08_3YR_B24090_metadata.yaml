@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_08_3YR_B24090
+product-selection: ACS_08_3YR_B24090|table||||B24090|SEX+BY+CLASS+OF+WORKER+FOR+THE+FULL-TIME%2C+YEAR-ROUND+CIVILIAN+EMPLOYED+POPULATION+16+YEARS+AND+OVER
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 10:53:09.877631

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_09_5YR_S0802
+product-selection: ACS_09_5YR_S0802|table||||S0802|Means+of+Transportation+to+Work+by+Selected+Characteristics
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:43:13.827291

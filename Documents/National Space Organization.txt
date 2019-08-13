@@ -1,0 +1,84 @@
+﻿National Space Organization
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/National%20Space%20Organization
+Licensed under CC BY-SA 3.0:
+https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+
+National Space Organization
+    • NSPO is involved in the development of space technologies and related research.
+    • The National Space Organization (NSPO, Chinese: 國家太空中心; pinyin: Guójiā Tàikōng Zhōngxīn; Pe̍h-ōe-jī: Kok-ka Thài-khong Tiong-sim; formerly known as the National Space Program Office) is the national civilian space agency of Taiwan under the auspices of the Ministry of Science and Technology.
+
+The National Space Organization (NSPO, Chinese: 國家太空中心; pinyin: Guójiā Tàikōng Zhōngxīn; Pe̍h-ōe-jī: Kok-ka Thài-khong Tiong-sim; formerly known as the National Space Program Office) is the national civilian space agency of Taiwan under the auspices of the Ministry of Science and Technology. NSPO is involved in the development of space technologies and related research.
+Organization
+    • The NSPO is organized as follows:
+    • NSPO headquarters and the main ground control station are in Hsinchu, Taiwan.
+    • Electro-optics Laboratory
+    • Thermal Control Laboratory
+    • Microwave Communication Laboratory
+    • NSPO also has numerous laboratories, such as:
+    • System Simulation Laboratory
+NSPO headquarters and the main ground control station are in Hsinchu, Taiwan. The NSPO is organized as follows:
+NSPO also has numerous laboratories, such as:
+System Simulation Laboratory
+Thermal Control Laboratory
+Microwave Communication Laboratory
+Data Processing Laboratory
+Attitude Determination and Control Laboratory
+Electro-optics Laboratory
+Structure Development Laboratory
+Electrical Power Laboratory
+Multi-layer Insulation (MLI) Laboratory
+Taiwanese rocket launch program
+    • The NSPO developed several suborbital launch vehicles based on the Sky Bow II surface-to-air missile.
+The NSPO developed several suborbital launch vehicles based on the Sky Bow II surface-to-air missile. There have been six to seven launches as of 2010.
+Taiwanese satellite launch vehicle program
+    • Little has been publicly revealed about the specification of the ROC (Taiwan)'s first launch vehicle for small satellites (SLV) (小型發射載具).
+    • The inaugural launch was scheduled to take place during the second phase of the 2004–2018 space project (第二期太空計畫), placing a Taiwanese-made satellite into orbit and after the preparatory launches of 10 to 15 sounding rockets (探空火箭).
+Little has been publicly revealed about the specification of the ROC (Taiwan)'s first launch vehicle for small satellites (SLV) (小型發射載具). It should be able to place a 100 kg payload to a 500–700 km orbit. This SLV will be a major technological improvement based on existing sounding rockets and will consist of four solid propellant stages with two strap-on solid rocket boosters. Therefore, it will be in the same class of the Indian SLV-3. The inaugural launch was scheduled to take place during the second phase of the 2004–2018 space project (第二期太空計畫), placing a Taiwanese-made satellite into orbit and after the preparatory launches of 10 to 15 sounding rockets (探空火箭).
+Taiwanese designed and built satellites
+Formosat (formerly ROCSAT)
+    • Launch was originally planned for 2011, it was launched in 2017.
+    • Formosat-1 (formerly ROCSAT-1): Communications and ionospheric research satellite, launched in January 1999.
+    • 
+The FORMOSAT (福爾摩沙衛星) name derived from Formosa and satellite (formerly ROCSAT (中華衛星) = Republic of China (ROC) + satellite (sat)).
+
+The FORMOSAT (福爾摩沙衛星) name derived from Formosa and satellite (formerly ROCSAT (中華衛星) = Republic of China (ROC) + satellite (sat)).
+Formosat-1 (formerly ROCSAT-1): Communications and ionospheric research satellite, launched in January 1999.
+Formosat-2 (formerly ROCSAT-2): Ionospheric research and surface mapping satellite, launched May 2004.
+Formosat-3/COSMIC: Constellation of six microsatellites to perform GPS occultation studies of the upper atmosphere. Collaborative project with US agencies including NASA, NOAA and the University Corporation for Atmospheric Research, launched in April 2006.
+Formosat-5:  Optical earth observation and magnetic field research as a successor to the Japanese Reimei mission. Cooperation with Japan and Canada. Launch was originally planned for 2011, it was launched in 2017.
+Formosat-6 was a micro satellite project, its development was cancelled.
+Formosat-7 is a planned group of 6 satellites in low inclination orbits to provide meteorology data at low and mid latitudes.
+Others
+    • RISESAT: microsatellite developed by Tohoku University, launched in 2019.
+    • Taiwan provided an instrument.
+    • Arase: JAXA mission to study the inner magnetosphere, launched 2016.
+    • Originally planned for launch in 2003 by a Russian launch vehicle but cancelled due to political pressure from the Russian government.
+YamSat: Series of picosatellites (volume 1000 cubic cm, weight roughly 850 grams) designed to carry out simple short duration spectroscopy missions. Originally planned for launch in 2003 by a Russian launch vehicle but cancelled due to political pressure from the Russian government.
+Arase: JAXA mission to study the inner magnetosphere, launched 2016. Taiwan provided an instrument.
+RISESAT: microsatellite developed by Tohoku University, launched in 2019. Taiwan provided an instrument.
+Planned missions
+    • Collaborative project with US agencies including NASA, NOAA and the University Corporation for Atmospheric Research, launch is planned for 2017 and 2019.
+Formosat-7/Cosmic-2: Constellation of twelve small satellites to perform GPS occultation studies of the upper atmosphere. Collaborative project with US agencies including NASA, NOAA and the University Corporation for Atmospheric Research, launch is planned for 2017 and 2019.
+Developments and long term plans
+    • The first phase of Taiwan's space program involves the development of the human and technological resources required to build and maintain three satellite programs, which is expected to be completed with the launch of Formosat-3/COSMIC by the end of 2005.
+    • Currently, the spacecraft and instrumentation are designed and assembled in Taiwan by local and foreign corporations and shipped to the U.S. for launch by commercial space launch firms.
+The first phase of Taiwan's space program involves the development of the human and technological resources required to build and maintain three satellite programs, which is expected to be completed with the launch of Formosat-3/COSMIC by the end of 2005. Currently, the spacecraft and instrumentation are designed and assembled in Taiwan by local and foreign corporations and shipped to the U.S. for launch by commercial space launch firms. The NSPO, the military, and Chungshan Institute of Science and Technology have also been working on the development of a sounding rocket for upper atmospheric studies.
+The second phase is scheduled to take place between 2006 and 2018. It will involve an emphasis on developing technological integration and miniaturization capabilities required for the development of constellations of microsatellites, as well as encouraging growth in the local aerospace industry.
+Since 2009, NSPO has been working with university research teams in developing innovative technology to improve the overall efficiency of hybrid rockets. Nitrous oxide/HTPB propellant systems were employed with efficiency boosting designs, which resulted in great improvements in hybrid rocket performance using two patented designs. So far, several hybrid rockets have been successfully launched to 10~20 km altitudes, including a demonstration of in-flight stops/restarts. By the end of 2014, they will attempt conducting suborbital experiments to 100~200 km altitude.
+There have been proposals to elevate NSPO's status to that of a national research institute, however such plans were under debate Legislative Yuan as of late 2007.
+In 2019 the Ministry of Science and Technology announced an expected cost of NT$25.1 billion (US$814 million) for the third phase of the National Space Program. The third phase will see at least one satellite launched per year between 2019 and 2028.
+See also
+    • Advanced Rocket Research Center
+    • List of government space agencies
+Advanced Rocket Research Center
+List of government space agencies
+References
+External links
+    • GlobalSecurity article on Taiwan's space program
+    • NSPO website
+    • Encyclopedia Astronautica – Taiwan
+NSPO website
+GlobalSecurity article on Taiwan's space program
+Encyclopedia Astronautica – Taiwan
+

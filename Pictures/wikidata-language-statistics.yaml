@@ -1,0 +1,21 @@
+source: commons.wikimedia.org
+file: Wikidata-language-statistics.png
+date: 2019-06-13 16:44:06.191826
+text: |
+  {{Convert to SVG|graph}}
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    =
+  {{de|1=Statistik zu den wichtigsten Sprachen auf Wikidata}}
+  {{en|1=Statistics about some languages in Wikidata.}}
+  {{fr|1=Graphique représentant les liens, libellés et descriptions en dix langues sur Wikidata.}}
+  |Source         = {{own}}
+  |Author         =[[User:MichaelSchoenitzer|Michael F. Schönitzer]]
+  |Date           =2013-04-06
+  |Permission     = {{self|Cc-zero}}
+  |other_versions =
+  }}
+  [[Category:Work by Michael Schönitzer]]
+  
+  [[Category:Wikidata statistics in 2013]]
+  [[Category:Wikidata statistics in English]]

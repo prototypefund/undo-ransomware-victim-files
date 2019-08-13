@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_09_3YR_B25050
+product-selection: ACS_09_3YR_B25050|table||||B25050|PLUMBING+FACILITIES+BY+OCCUPANTS+PER+ROOM+BY+YEAR+STRUCTURE+BUILT
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:15:32.663373

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_09_1YR_B01002C
+product-selection: ACS_09_1YR_B01002C|table||||B01002C|MEDIAN+AGE+BY+SEX+%28AMERICAN+INDIAN+AND+ALASKA+NATIVE%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:12:10.110464

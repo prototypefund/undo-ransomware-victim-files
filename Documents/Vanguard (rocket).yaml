@@ -1,0 +1,34 @@
+source: en.wikipedia.org
+file: Vanguard (rocket)
+date: 2019-06-15 20:02:29.346035
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/891001039
+---
+source: commons.wikimedia.org
+file: Vanguard_rocket_explodes.jpg
+date: 2019-06-15 20:02:30.230795
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  | description = 
+  {{en|Test of Vanguard launch vehicle for U.S. International Geophysical Year (IGY) program to place satellite in Earth orbit to determine atmospheric density and conduct geodetic measurements. Malfunction in first stage caused vehicle to lose thrust after two seconds and vehicle was destroyed.}}
+  {{de|Vanguard Rakete explodiert kurz nach dem Abheben beim ersten Start am 6. Dezember 1957 in Cape Canaveral.}}
+  | date        = 1957-12-06
+  | source      = [http://grin.hq.nasa.gov/ABSTRACTS/GPN-2001-000008.html Great Images in NASA] ([http://grin.hq.nasa.gov/IMAGES/LARGE/GPN-2001-000008.jpg image link])
+  | author      = U.S. Navy
+  | permission  = 
+  }}
+  {{NASA-image|id=VAN-9|center=HQ|alternateid=GPN-2001-000008}}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-Military-Navy}}
+  
+  [[Category:1957 in Florida]]
+  [[Category:Black and white photographs of Florida]]
+  [[Category:Black and white photographs of the United States in the 1950s]]
+  [[Category:Cape Canaveral Air Force Station]]
+  [[Category:Carrier rocket launches in the United States in the 1950s]]
+  [[Category:Explosions in the United States]]
+  [[Category:Great Images in NASA]]
+  [[Category:Launch towers]]
+  [[Category:Photographs taken on 1957-12-06]]
+  [[Category:TV-3]]

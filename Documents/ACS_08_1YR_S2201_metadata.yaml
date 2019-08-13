@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_08_1YR_S2201
+product-selection: ACS_08_1YR_S2201|table||||S2201|Food+Stamps
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:05:40.988643

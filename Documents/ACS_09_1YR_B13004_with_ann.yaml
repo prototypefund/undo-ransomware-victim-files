@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_09_1YR_B13004
+product-selection: ACS_09_1YR_B13004|table||||B13004|WOMEN+15+TO+50+YEARS+WHO+HAD+A+BIRTH+IN+THE+PAST+12+MONTHS+BY+MARITAL+STATUS+AND+PRESENCE+OF+UNMARRIED+PARTNER
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:26:17.028396

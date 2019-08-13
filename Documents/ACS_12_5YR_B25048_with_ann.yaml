@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_12_5YR_B25048
+product-selection: ACS_12_5YR_B25048|table||||B25048|PLUMBING+FACILITIES+FOR+OCCUPIED+HOUSING+UNITS
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:52:15.468902

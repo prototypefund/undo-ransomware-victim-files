@@ -1,0 +1,29 @@
+source: commons.wikimedia.org
+file: North American Domestic Box Office.png
+date: 2019-06-13 16:33:09.003873
+text: |
+  {{SVG|graph}}
+  =={{int:filedesc}}==
+  {{Information
+  | description  = {{en|1=A chart depicting the cumulative domestic box office gross of ''{{w|Avatar (2009 film)|Avatar}}'' (2009), ''{{w|Avengers: Endgame}}'' (2019), ''{{w|Avengers: Infinity War}}'' (2018), ''{{w|Black Panther (film)|Black Panther}}'' (2018), and ''{{w|Star Wars: The Force Awakens}}'' (2015) over their first 70 days of release respectively, in millions of {{w|United States dollar}}s. The chart illustrates the varying growth trajectories of the five films, which are the five {{w|List of highest-grossing films in the United States and Canada|highest-grossing in North America}}, unadjusted for inflation. ''Star Wars: The Force Awakens'', the highest-grossing film in North America, grossed US$923,001,884 after 70 days. It would end its theatrical run after 165 days with a total gross of US$936,662,225 [https://www.boxofficemojo.com/movies/?page=daily&view=chart&id=starwars7.htm [1<nowiki>]</nowiki>]. ''Avatar'' grossed US$692,904,794 after 70 days. It would end its theatrical run after 234 days with a total gross of US$749,766,139 [https://www.boxofficemojo.com/movies/?page=daily&view=chart&id=avatar.htm [2<nowiki>]</nowiki>]. ''Black Panther'' grossed US$683,628,489 after 70 days. It would end its theatrical run after 175 days with a total gross of US$700,059,566 [https://www.boxofficemojo.com/movies/?page=daily&view=chart&id=marvel2017b.htm [3<nowiki>]</nowiki>]. ''Avengers: Infinity War'' grossed US$673,929,474 after 70 days. It would end its theatrical run after 140 days with a total gross of US$678,815,482 [https://www.boxofficemojo.com/movies/?page=daily&view=chart&id=marvel0518.htm [4<nowiki>]</nowiki>]. All data sourced from {{w|Box Office Mojo}}.}}
+  '''Legend'''
+  {{Legend|#9DC3E6|'''''{{w|Avatar (2009 film)|Avatar}}''''' (2009)|border=1px #ffffff solid}}
+  {{Legend|#A568D2|'''''{{w|Avengers: Endgame}}''''' (2019)|border=1px #ffffff solid}}
+  {{Legend|#C65A11|'''''{{w|Avengers: Infinity War}}''''' (2018)|border=1px #ffffff solid}}
+  {{Legend|#1f4C79|'''''{{w|Black Panther (film)|Black Panther}}''''' (2018)|border=1px #ffffff solid}}
+  {{Legend|#FFD966|'''''{{w|Star Wars: The Force Awakens}}''''' (2015)|border=1px #ffffff solid}}
+  | date         = 2019-05-04
+  | source       = {{Created with Microsoft Excel}}
+  | author       = {{Philip Terry Graham/author|CC0}}
+  }}
+  
+  =={{int:license-header}}==
+  {{self|cc-zero}}
+  
+  [[Category:Avatar (2009 film)]]
+  [[Category:Avengers: Endgame]]
+  [[Category:Avengers: Infinity War]]
+  [[Category:Black Panther (film)]]
+  [[Category:Graphs by Philip Terry Graham]]
+  [[Category:Line charts]]
+  [[Category:Star Wars: The Force Awakens]]

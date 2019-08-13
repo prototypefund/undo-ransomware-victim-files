@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_15_SPL_K202101
+product-selection: ACS_15_SPL_K202101|table||||K202101|VETERAN+STATUS+FOR+THE+CIVILIAN+POPULATION+18+YEARS+AND+OVER+BY+AGE
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:44:27.315995

@@ -1,0 +1,36 @@
+source: en.wikipedia.org
+file: Conscientious objector
+date: 2019-06-26 14:42:15.748287
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/903525931
+---
+source: commons.wikimedia.org
+file: Muhammad_Ali_NYWTS.jpg
+date: 2019-06-26 14:42:17.434427
+text: |
+  {{Assessments|enwiki=1|fawiki=1|enwiki-nom=Float like a bee, sting like a ... wait what?|arwiki=1|valued=1}}
+  
+  == {{int:filedesc}} ==
+  {{Information
+  |Description=
+  {{ar|صورة شمسيَّة لِلمُلاكم الأمريكي الشهير '''[[:ar:محمد علي كلاي|مُحمَّد علي كلاي]]''' سنة 1967م.
+  *نُشرت الصُورة في مجلَّة منبر العالم (وورلد جُرنال تريبيون) والتُقطت بِواسطة إيرا روزنبيرگ.}}
+  {{en|Bust photographic portrait of '''{{C|Muhammad Ali}}''' in 1967.
+  *World Journal Tribune photo by Ira Rosenberg.}}
+  |Source={{LOC-image|id=cph.3c15435|division=pnp}}
+  |Date=1967
+  |Author=Ira Rosenberg
+  |Permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-NYWT&S}}
+  
+  [[Category:Muhammad Ali|1967]]
+  [[Category:Black and white portrait photographs of men of the United States]]
+  [[Category:20th-century black and white portrait photographs of men at bust length]]
+  [[Category:Valued images of people of the United States]]
+  [[Category:Restorations by Chris Woodrich featured on the English Wikipedia]]
+  [[Category:Valued images of sportspeople]]
+  [[Category:Featured pictures on Wikipedia, Arabic]]
+  [[Category:New York World Journal Tribune, 1967]]

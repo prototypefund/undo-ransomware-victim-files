@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_11_5YR_S0103
+product-selection: ACS_11_5YR_S0103|table||||S0103|POPULATION+65+YEARS+AND+OVER+IN+THE+UNITED+STATES+
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:24:12.009300

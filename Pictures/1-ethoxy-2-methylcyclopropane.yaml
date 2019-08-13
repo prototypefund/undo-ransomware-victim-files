@@ -1,0 +1,18 @@
+source: commons.wikimedia.org
+file: 1-ethoxy-2-methylcyclopropane.png
+date: 2019-06-27 13:55:34.991289
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=1-ethoxy-2-methylcyclopropane}}
+  |Source={{own}}
+  |Author=[[User:Vchorozopoulos|Vchorozopoulos]]
+  |Date=2010-09-12
+  |Permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-chem}}
+  
+  [[Category:Cyclopropane derivatives]]{{Convert to SVG|chemical}}

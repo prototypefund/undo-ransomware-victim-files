@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_13_3YR_B22005G
+product-selection: ACS_13_3YR_B22005G|table||||B22005G|RECEIPT+OF+FOOD+STAMPS%2FSNAP+IN+THE+PAST+12+MONTHS+BY+RACE+OF+HOUSEHOLDER+%28TWO+OR+MORE+RACES%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:35:12.252164

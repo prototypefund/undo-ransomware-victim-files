@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_11_1YR_B25104
+product-selection: ACS_11_1YR_B25104|table||||B25104|MONTHLY+HOUSING+COSTS
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:06:18.237091

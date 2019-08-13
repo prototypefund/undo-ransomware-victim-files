@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_11_3YR_B05008
+product-selection: ACS_11_3YR_B05008|table||||B05008|SEX+BY+PLACE+OF+BIRTH+BY+YEAR+OF+ENTRY+FOR+THE+FOREIGN-BORN+POPULATION
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:30:29.364860

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_1YR_B25013
+product-selection: ACS_10_1YR_B25013|table||||B25013|TENURE+BY+EDUCATIONAL+ATTAINMENT+OF+HOUSEHOLDER
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:44:34.236644

@@ -1,0 +1,24 @@
+source: en.wikipedia.org
+file: United States congressional delegations from Wisconsin
+date: 2019-06-26 21:34:02.862093
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/901402911
+---
+source: commons.wikimedia.org
+file: Wisconsin_Congressional_Districts,_113th_Congress.tif
+date: 2019-06-26 21:34:04.573344
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Map of Congressional Districts in the state of Wisconsin, reflecting district boundaries current to the 113th United States Congress.}}
+  |date=2014-02-01 22:39:44
+  |source=National Atlas of the United States (http://nationalatlas.gov/printable/congress.html)
+  |author=Department of the Interior
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-USGov}}
+  
+  [[Category:Congressional district maps of Wisconsin]]

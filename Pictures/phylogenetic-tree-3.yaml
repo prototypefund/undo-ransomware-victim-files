@@ -1,0 +1,26 @@
+source: commons.wikimedia.org
+file: Phylogenetic tree 3.png
+date: 2019-06-13 16:45:58.612692
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Phylogenetic analysis of Trypanosoma ssp. and T. irwini using partial sequence analysis of 18S rDNA and gGADPH}}
+  |date=2011-12-08
+  |source=http://researchrepository.murdoch.edu.au/3410/1/Trypanosoma_irwini.pdf
+  |author=
+  L. M. MCI N N E S*, A. GILLETT, U. M. R Y A N, J. A U S T E N,  R.  S.  F.  C A M P B  E L L,J.  H A N G E R and S. A. REID
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  {{Convert to SVG|biology}}
+  
+  =={{int:license-header}}==
+  {{cc-zero}}
+  
+  {{Check categories|year=2011|month=December|day=9
+  |lang1=en|wiki1=wikipedia|article1=Trypanosoma_irwini
+  |ncats=2
+  }}
+  
+  [[Category:Euglenozoa]]

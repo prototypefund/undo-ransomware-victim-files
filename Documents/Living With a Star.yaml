@@ -1,0 +1,102 @@
+source: en.wikipedia.org
+file: Living With a Star
+date: 2019-06-15 17:57:22.977013
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/891296409
+---
+source: commons.wikimedia.org
+file: Living_with_a_star_LWS_Logo.png
+date: 2019-06-15 17:57:24.017109
+text: |
+  {{supersededSVG}}
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=The Living with a Star LWS logo by NASA.}}
+  |Source         =A [http://www.nasa.gov/pdf/417176main_SDO_Guide_CMR.pdf Guide] to the Mission and Purpose of NASA’s Solar Dynamics Observatory
+  |Author         =NASA
+  |Date           ={{date|2010|02|01}} (date of pdf)
+  |Permission     =
+  |other_versions =
+  }}
+  {{Insignia}}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Living With a Star Program]]
+  [[Category:Logos and seals of NASA]]
+  [[Category:Logos with transparent background]]
+---
+source: commons.wikimedia.org
+file: SDO_first_light.png
+date: 2019-06-15 17:57:25.238818
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|First light image from [[:Category:Solar Dynamics Observatory|Solar Dynamics Observatory]].  "Soon after the instruments opened their doors, the Sun began performing for SDO with this beautiful [[:Category:Prominence|prominence]] eruption. This AIA (Atmospheric Imaging Assembly) data is from March 30, 2010, showing a wavelength band that is centered around 304 Å. This extreme ultraviolet emission line is from singly ionized Helium, or He II, and corresponds to a temperature of approx. 50,000 degrees Celsius." (NASA)}}
+  |Source= Nasa Website, http://sdo.gsfc.nasa.gov/firstlight/
+  |Date= 2010-03-30
+  |Author= NASA
+  |Permission= Public domain
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  [[Category:Prominence]]
+  [[Category:Solar Dynamics Observatory images]]
+---
+source: commons.wikimedia.org
+file: Solar_Dynamics_Observatory.png
+date: 2019-06-15 17:57:26.148988
+text: |
+  Solar Dynamics Observatory
+  
+  Source: http://sdo.gsfc.nasa.gov/sdo_factsheet.pdf
+  
+  {{PD-NASA}}
+  
+  [[Category:Solar Dynamics Observatory]]
+  [[Category:Media missing infobox template]]
+---
+source: commons.wikimedia.org
+file: Van_Allen_Probes_Logo.png
+date: 2019-06-15 17:57:27.068795
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=This is the logo for the Van Allen Probes, formerly known as the Radiation Belt Storm Probes.}}
+  |date=2012-11-09
+  |source=http://www.jhuapl.edu/newscenter/pressreleases/2012/121109_image1.asp
+  |author=NASA
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Van Allen Probes]]
+  [[Category:Logos and seals of NASA]]
+  [[Category:Logos with transparent background]]
+---
+source: commons.wikimedia.org
+file: RBSP_ArrayDeployment.jpg
+date: 2019-06-15 17:57:28.212593
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{fr|1=Les satellites scientifiques de la NASA Radiation Belt Storm Probes déploient leur panneau solaire.}}{{en|1=The identical Radiation Belt Storm Probes will follow similar orbits that will take them through both the inner and outer radiation belts. The highly elliptical orbits range from a minimum altitude of approximately 373 miles (600 kilometers) to a maximum altitude of approximately 23,000 miles (37,000 kilometers).}}
+  |date=2009-06-02
+  |source=http://rbsp.jhuapl.edu/gallery/artRender/pages/artRender_07.php
+  |author=NASA
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-USGov-NASA}}
+  
+  
+  [[Category:Van Allen Probes]]

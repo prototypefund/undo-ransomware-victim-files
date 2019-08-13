@@ -1,0 +1,155 @@
+﻿OSIRIS-REx
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/OSIRIS-REx
+Licensed under CC BY-SA 3.0:
+https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+
+OSIRIS-REx
+    • If successful, OSIRIS-REx will be the first U.S. spacecraft to return samples from an asteroid.
+    • OSIRIS-REx was launched on 8 September 2016, flew past Earth on 22 September 2017, and reached the proximity of Bennu on 3 December 2018, where it began analyzing its surface for a target sample area over the next several months.
+The OSIRIS-REx (Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer) is a NASA asteroid study and sample-return mission. The mission's main goal is to obtain a sample of at least 60 grams (2.1 oz) from 101955 Bennu, a carbonaceous near-Earth asteroid, and return the sample to Earth for a detailed analysis. The material returned is expected to enable scientists to learn more about the formation and evolution of the Solar System, its initial stages of planet formation, and the source of organic compounds that led to the formation of life on Earth.  If successful, OSIRIS-REx will be the first U.S. spacecraft to return samples from an asteroid. The Lidar instrument used aboard the OSIRIS-REx was built by Lockheed  Martin, in conjunction with the Canadian Space Agency.
+OSIRIS-REx was launched on 8 September 2016, flew past Earth on 22 September 2017, and reached the proximity of Bennu on 3 December 2018, where it began analyzing its surface for a target sample area over the next several months. It is expected to return with its sample to Earth on 24 September 2023.
+The cost of the mission is approximately US$800 million not including the Atlas V launch vehicle, which is about US$183.5 million. It is the third planetary science mission selected in the New Frontiers program, after Juno and New Horizons. The principal investigator is Dante Lauretta from the University of Arizona.
+Mission
+    • An asteroid was chosen as the target of study because an asteroid is a 'time capsule' from the birth of our Solar System.
+    • After traveling for approximately two years, the spacecraft rendezvoused with asteroid 101955 Bennu in December 2018 and began 505 days of surface mapping at a distance of approximately 5 km (3.1 mi).
+    • Results of that mapping will be used by the mission team to select the site from which to take a sample of the asteroid's surface.
+Overall management, engineering and navigation for the mission is provided by NASA's Goddard Space Flight Center, while the University of Arizona's Lunar and Planetary Laboratory provides principal science operations and Lockheed Martin Space Systems built the spacecraft and provides mission operations. The science team includes members from the United States, Canada, France, Germany, United Kingdom, and Italy.
+After traveling for approximately two years, the spacecraft rendezvoused with asteroid 101955 Bennu in December 2018 and began 505 days of surface mapping at a distance of approximately 5 km (3.1 mi). Results of that mapping will be used by the mission team to select the site from which to take a sample of the asteroid's surface. Then a close approach (without landing) will be attempted to allow extension of a robotic arm to gather the sample.
+An asteroid was chosen as the target of study because an asteroid is a 'time capsule' from the birth of our Solar System. In particular, 101955 Bennu was selected because of the availability of pristine carbonaceous material, a key element in organic molecules necessary for life as well as representative of matter from before the formation of Earth. Organic molecules, such as amino acids, have previously been found in meteorite and comet samples, indicating that some ingredients necessary for life can be naturally synthesized in outer space.
+Following collection of material (from 60 grams to two kilograms), the sample will be returned to Earth in a 46-kilogram (101 lb) capsule similar to that which returned the samples of comet 81P/Wild on the Stardust spacecraft. The return trip to Earth will be shorter and the capsule will land with a parachute at the Utah Test and Training Range in September 2023 before being transported to the Johnson Space Center for processing in a dedicated research facility.
+Launch
+    • OSIRIS-REx separated from the launch vehicle 55 minutes after ignition.
+    • The launch was on 8 September 2016 at 23:05 UTC on a United Launch Alliance Atlas V 411 from Cape Canaveral Space Launch Complex 41.
+    • The launch was declared "exactly perfect" by the mission's Principal Investigator, with no anomalies worked before or during launch.
+The launch was on 8 September 2016 at 23:05 UTC on a United Launch Alliance Atlas V 411 from Cape Canaveral Space Launch Complex 41. The 411 rocket configuration consists of a RD-180 powered first stage with a single AJ-60A solid fuel booster, and a Centaur upper stage. OSIRIS-REx separated from the launch vehicle 55 minutes after ignition. The launch was declared "exactly perfect" by the mission's Principal Investigator, with no anomalies worked before or during launch.
+Cruise
+    • OSIRIS-REx flew by Earth on 22 September 2017.
+    • The cruise phase lasted until its encounter with Bennu in December 2018, after which it entered its science and sample collection phase.
+OSIRIS-REx entered the cruise phase shortly after separation from the launch vehicle, following successful solar panel deployment, propulsion system initiation, and establishment of a communication link with Earth. Its hyperbolic escape speed from Earth was about 5.41 km/s (3.36 mi/s). On 28 December 2016, the spacecraft successfully performed its first deep space maneuver to change its velocity by 431 m/s (1,550 km/h; 960 mph) using 354 kg (780 lb) of fuel. An additional, smaller firing of its thrusters on 18 January further refined its course for an Earth gravity assist on 22 September 2017. The cruise phase lasted until its encounter with Bennu in December 2018, after which it entered its science and sample collection phase.
+During its cruise phase, OSIRIS-REx was used to search for a class of near-Earth objects known as Earth-Trojan asteroids as it passed through Sun–Earth L4 Lagrange point. Between 9 and 20 February 2017, the OSIRIS-REx team used the spacecraft's MapCam camera to search for the objects, taking about 135 survey images each day for processing by scientists at the University of Arizona. The search was beneficial even though no new trojans were found, as it closely resembled the operation required as the spacecraft approached Bennu, searching for natural satellites and other potential hazards.
+On 12 February 2017, while 673 million km (418 million mi) from Jupiter, the PolyCam instrument aboard OSIRIS-REx successfully imaged the giant planet and three of its moons, Callisto, Io, and Ganymede.
+OSIRIS-REx flew by Earth on 22 September 2017.
+Arrival and survey
+    • On 3 December 2018, NASA affirmed that OSIRIS-REx had matched the speed and orbit of Bennu at a distance of about 19 kilometers (12 mi), effectively reaching the asteroid.
+    • Preliminary spectroscopic surveys of the asteroid's surface by OSIRIS-REx spacecraft, detected the presence of hydrated minerals in the form of clay.
+On 3 December 2018, NASA affirmed that OSIRIS-REx had matched the speed and orbit of Bennu at a distance of about 19 kilometers (12 mi), effectively reaching the asteroid. OSIRIS-REx performed closer passes of the Bennu surface, initially at about 6.5 km (4.0 mi) through December to further refine the shape and orbit of Bennu. Preliminary spectroscopic surveys of the asteroid's surface by OSIRIS-REx spacecraft, detected the presence of hydrated minerals in the form of clay. While researchers suspect that Bennu was too small to host water, the hydroxyl groups may have come from water presence in its parent body before Bennu split off.
+OSIRIS-REx entered orbit around Bennu on 31 December 2018 at about 1.75 km (1.09 mi) to start its extensive remote mapping and sensing campaign for the selection of a sample site. This is the closest distance that any spacecraft has orbited a celestial object, surpassing the Rosetta's orbit of comet 67P/Churyumov–Gerasimenko at 7 km (4.3 mi). At this altitude, it takes the spacecraft 62 hours per orbit. At the end of this detailed survey, the spacecraft will enter a closer orbit with a radius of 1 km (0.62 mi).
+
+Artist's concept of TAGSAM instrument in operation
+Sample acquisition
+    • OSIRIS-REx will then halt the drift away from the asteroid in case it is necessary to return for another sampling attempt.
+    • After the timer expires, the back-away maneuver will initiate a safe departure from the asteroid.
+    • In addition to the bulk sampling mechanism, contact pads on the end of the sampling head will passively collect dust grains smaller than 1 mm, upon contact with the asteroid.
+Rehearsals will be performed before the  sampling event, during which the solar arrays will be raised into a Y-shaped configuration to minimize the chance of dust accumulation during contact and provide more ground clearance in case the spacecraft tips over (up to 45°) during contact. The descent will be very slow to minimize thruster firings prior to contact in order to reduce the likelihood of asteroid surface contamination by unreacted hydrazine propellant. Contact with the surface of Bennu will be detected using accelerometers, and the impact force will be dissipated by a spring in the TAGSAM arm.
+Upon surface contact by the TAGSAM instrument, a burst of nitrogen gas will be released, which will blow regolith particles smaller than 2 cm (0.8 in) into the sampler head at the end of the robotic arm. A five-second timer will limit collection time to mitigate the chance of a collision. After the timer expires, the back-away maneuver will initiate a safe departure from the asteroid.
+OSIRIS-REx will then halt the drift away from the asteroid in case it is necessary to return for another sampling attempt. The spacecraft will use images and spinning maneuvers to verify the sample has been acquired as well as determine its mass and verify it is in excess of the required 60 grams (2.1 oz). In the event of a failed sampling attempt, the spacecraft will return for another try. There is enough nitrogen gas for three attempts.
+In addition to the bulk sampling mechanism, contact pads on the end of the sampling head will passively collect dust grains smaller than 1 mm, upon contact with the asteroid. These pads are made from tiny loops of stainless steel.
+After the sampling attempt, the Sample-Return Capsule (SRC) lid will be opened to allow the sampler head to be stowed. The arm will then be retracted into its launch configuration, and the SRC lid will be closed and latched preparing to return to Earth.
+Curation
+    • On 24 September 2023 the OSIRIS-REx return capsule will re-enter Earth's atmosphere and land under a parachute at the Air Force's Utah Test and Training Range.
+    • The sample material from the asteroid will be distributed to requesting organisations worldwide by ARES.
+    • The sample will be curated at NASA's Astromaterials Research and Exploration Science Directorate (ARES) and at Japan's Extraterrestrial Sample Curation Center.
+On 24 September 2023 the OSIRIS-REx return capsule will re-enter Earth's atmosphere and land under a parachute at the Air Force's Utah Test and Training Range. The sample will be curated at NASA's Astromaterials Research and Exploration Science Directorate (ARES) and at Japan's Extraterrestrial Sample Curation Center. The sample material from the asteroid will be distributed to requesting organisations worldwide by ARES.
+Name
+    • His name was chosen for this mission as asteroid Bennu is a threatening Earth impactor, with an estimated 1-in-1,800 chance of hitting Earth in the year 2170.
+    • Regolith Explorer means that the mission will study the  texture, morphology, geochemistry, and spectral properties of the regolith of asteroid Bennu.
+OSIRIS-REx is an acronym, and each letter or combination of letters relates to part of the project.
+O – Origins
+SI – Spectral Interpretation
+RI – Resource Identification
+S – Security
+REx – Regolith Explorer
+Each of these words was chosen to represent an aspect of this mission. For example, the S, for security means the security of Earth from hazardous NEO. Specfically it refers to better understanding the Yarkovsky Effect, that changes the trajectory of the asteroid. Regolith Explorer means that the mission will study the  texture, morphology, geochemistry, and spectral properties of the regolith of asteroid Bennu.
+When its heritage concept was proposed in the Discovery program in 2004, it was called OSIRIS without the additional REx. This mission is also sometimes called New Frontiers 3, for it being the third of the New Frontiers program missions.
+The acronym OSIRIS was chosen in reference to the ancient mythological Egyptian god Osiris, the underworld lord of the dead. He was classically depicted as a green-skinned man with a pharaoh's beard, partially mummy-wrapped at the legs and wearing a distinctive crown with two large ostrich feathers at either side. Rex means 'king' in Latin. His name was chosen for this mission as asteroid Bennu is a threatening Earth impactor, with an estimated 1-in-1,800 chance of hitting Earth in the year 2170.
+
+Sample-return capsule as seen by StowCam
+Science objectives
+    • Knowing Bennu's physical properties will be critical for future scientists to understand when developing an asteroid impact avoidance mission.
+    • Measure the Yarkovsky effect (a thermal force on the object) on a potentially hazardous asteroid and constrain the asteroid properties that contribute to this effect.
+    • The science objectives of the mission are:
+The science objectives of the mission are:
+Return and analyze a sample of pristine carbonaceous asteroid regolith in an amount sufficient to study the nature, history, and distribution of its constituent minerals and organic compounds.
+Map the global properties, chemistry, and mineralogy of a primitive carbonaceous asteroid to characterize its geologic and dynamic history and provide context for the returned samples.
+Document the texture, morphology, geochemistry, and spectral properties of the regolith at the sampling site in situ at scales down to millimeters.
+Measure the Yarkovsky effect (a thermal force on the object) on a potentially hazardous asteroid and constrain the asteroid properties that contribute to this effect.
+Characterize the integrated global properties of a primitive carbonaceous asteroid to allow for direct comparison with ground-based telescopic data of the entire asteroid population.
+Telescopic observations have helped define the orbit of 101955 Bennu, a near-Earth object with a mean diameter in the range of 480 to 511 meters (1,575 to 1,677 ft). It completes an orbit of the Sun every 436.604 days (1.2 years). This orbit takes it close to the Earth every six years. Although the orbit is reasonably well known, scientists continue to refine it. It is critical to know the orbit of Bennu because recent calculations produced a cumulative probability of 1 in 1410 (or 0.071%) of impact with Earth in the period 2169 to 2199. One of the mission objectives is to refine understanding of non-gravitational effects (such as the Yarkovsky effect) on this orbit, and the implications of those effects for Bennu's collision probability. Knowing Bennu's physical properties will be critical for future scientists to understand when developing an asteroid impact avoidance mission.
+Telescopic observations have revealed some basic properties of Bennu. They indicate that it is very dark and is classified as a B-type asteroid, a sub-type of the carbonaceous C-type asteroids. Such asteroids are considered "primitive", having undergone little geological change from their time of formation.
+Specifications
+    • The capsule with encased samples will be retrieved from Earth's surface and studied, as was done with the Stardust mission.
+Dimensions: Length 2.4 m (8 ft), width 2.4 m (8 ft), height 3.1 m (10.33 ft)
+Width with solar arrays deployed: 6.2 m (20.25 ft)
+Power: Two solar arrays generate 1226–3000 watts, depending on the spacecraft's distance from the Sun. Energy is stored in Li-ion batteries.
+Propulsion system: Based on a hydrazine monopropellant system developed for the Mars Reconnaissance Orbiter, carrying 1,230 kg (2,710 lb) of propellant and helium.
+The Sample-Return Capsule (SRC) will re-enter the Earth's atmosphere for a parachute assisted landing. The capsule with encased samples will be retrieved from Earth's surface and studied, as was done with the Stardust mission.
+Payload
+    • The Planetary Society coordinated a campaign to invite interested persons to have their names or artwork on the mission's spirit of exploration saved on a microchip now carried in the spacecraft.
+    • In addition to its telecommunication equipment, the spacecraft will carry a suite of instruments that will study the asteroid in many wavelengths, as well as image the asteroid, and retrieve a physical sample to return to Earth.
+In addition to its telecommunication equipment, the spacecraft will carry a suite of instruments that will study the asteroid in many wavelengths, as well as image the asteroid, and retrieve a physical sample to return to Earth. The Planetary Society coordinated a campaign to invite interested persons to have their names or artwork on the mission's spirit of exploration saved on a microchip now carried in the spacecraft.
+
+Imaging camera suite
+OCAMS
+    • Together they acquire information on asteroid Bennu by providing global mapping, sample site reconnaissance and characterization, high-resolution imaging, and records of the sample acquisition.
+    • It maps the asteroid in 4 different colors, informs the model of Bennu's shape and provides high resolution imaging of the potential sample sites.
+The OSIRIS-REx Camera Suite (OCAMS) consists of the PolyCam, the MapCam, and the SamCam. Together they acquire information on asteroid Bennu by providing global mapping, sample site reconnaissance and characterization, high-resolution imaging, and records of the sample acquisition.
+PolyCam, an 8-inch (20 cm) telescope, acquires images with increasingly higher resolution as the spacecraft approaches the asteroid.
+MapCam searches for satellites and outgassing plumes. It maps the asteroid in 4 different colors, informs the model of Bennu's shape and provides high resolution imaging of the potential sample sites.
+SamCam continuously documents the sample acquisitions.
+OLA
+    • The data collected by OLA will also be used to develop a control network relative to the center of mass of the asteroid and to enhance and refine gravitational studies of Bennu.
+    • The OSIRIS-REx Laser Altimeter (OLA) is a scanning and LIDAR instrument that will provide high resolution topographical information throughout the mission.
+The OSIRIS-REx Laser Altimeter (OLA) is a scanning and LIDAR instrument that will provide high resolution topographical information throughout the mission. The information received by OLA creates global topographic maps of Bennu, local maps of candidate sample sites, ranging in support of other instruments, and support navigation and gravity analyses.
+OLA scans the surface of Bennu at specific intervals to rapidly map the entire surface of the asteroid to achieve its primary objective of producing local and global topographic maps. The data collected by OLA will also be used to develop a control network relative to the center of mass of the asteroid and to enhance and refine gravitational studies of Bennu.
+OLA has a single common receiver and two complementary transmitter assemblies that enhance the resolution of the information brought back. OLA's high-energy laser transmitter is used for ranging and mapping from 1 to 7.5 km (0.6 to 4.7 mi). The low-energy transmitter is used for ranging and imaging from 0.5 to 1 km (0.3 to 0.6 mi). The repetition rate of these transmitters sets the data acquisition rate of OLA. Laser pulses from both the low and high energy transmitters are directed onto a movable scanning mirror, which is co-aligned with the field of view of the receiver telescope limiting the effects of background solar radiation. Each pulse provides target range, azimuth, elevation, received intensity and a time-tag.
+OLA was funded by the Canadian Space Agency (CSA) and was built by MacDonald, Dettwiler and Associates at Brampton, Ontario, Canada. OLA was delivered for integration with the spacecraft on 17 November 2015.
+
+OVIRS
+OVIRS
+    • The OSIRIS-REx Visible and IR Spectrometer (OVIRS) is a spectrometer, which measures light to provide mineral and organic spectral maps and local spectral information of candidate sample sites.
+    • It also provides full-disc asteroid spectral data, global spectral maps (20 m resolution), and spectra of the sample site (blue to near-infrared, 400–4,300 nm, with a spectral resolution of 7.5–22 nm).
+The OSIRIS-REx Visible and IR Spectrometer (OVIRS) is a spectrometer, which measures light to provide mineral and organic spectral maps and local spectral information of candidate sample sites. It also provides full-disc asteroid spectral data, global spectral maps (20 m resolution), and spectra of the sample site (blue to near-infrared, 400–4,300 nm, with a spectral resolution of 7.5–22 nm). These data will be used in concert with OTES spectra to guide sample-site selection. These spectral ranges and resolving powers are sufficient to provide surface maps of mineralogical and molecular components including carbonates, silicates, sulfates, oxides, adsorbed water and a wide range of organic compounds. It provides at least two spectral samples per resolution element taking full advantage of the spectral resolution.
+
+OTES
+OTES
+    • OTES provides full-disc Bennu spectral data, global spectral maps, and local sample site spectral information used to characterize the global, regional, and local mineralogic composition and thermal emission from the asteroid surface.
+    • The OSIRIS-REx Thermal Emission Spectrometer (OTES) provides mineral and thermal emission spectral maps and local spectral information of candidate sample sites by collecting thermal infrared data from 4–50 µm.
+The OSIRIS-REx Thermal Emission Spectrometer (OTES) provides mineral and thermal emission spectral maps and local spectral information of candidate sample sites by collecting thermal infrared data from 4–50 µm.
+OTES provides full-disc Bennu spectral data, global spectral maps, and local sample site spectral information used to characterize the global, regional, and local mineralogic composition and thermal emission from the asteroid surface. The wavelength range, spectral resolution, and radiometric performance are sufficient to resolve and identify the key vibrational absorption features of silicate, carbonate, sulfate, phosphate, oxide, and hydroxide minerals. OTES is also used to measure the total thermal emission from Bennu in support of the requirement to measure emitted radiation globally. Based on the performance of Mini-TES in the dusty surface environment of Mars, OTES was designed to be resilient to extreme dust contamination on the optical elements.
+REXIS
+    • It complements core OSIRIS-REx mission science.
+The Regolith X-ray Imaging Spectrometer (REXIS) will provide an X-ray spectroscopy map of Bennu to constrain the element abundances. It complements core OSIRIS-REx mission science. REXIS is a collaborative development by four groups within Massachusetts Institute of Technology (MIT) and Harvard University, with the potential to involve more than 100 students throughout the process. REXIS is based on flight heritage hardware, thereby minimizing elements of technical risk, schedule risk, and cost risk.
+REXIS is a coded aperture soft X-ray (0.3–7.5 keV) telescope that images X-ray fluorescence line emission produced by the interaction of solar X-rays and the solar wind with the regolith of Bennu. Images are formed with 21 arcminute resolution (4.3 m spatial resolution at a distance of 700 m). Imaging is achieved by correlating the detected X-ray image with a 64 x 64 element random mask (1.536 mm pixels). REXIS will store each X-ray event data in order to maximize the data storage usage and to minimize the risk. The pixels will be addressed in 64 x 64 bins and the 0.3–7.5 keV range will be covered by five broad bands and 11 narrow line bands. A 24 s resolution time tag will be interleaved with the event data to account for Bennu rotation. Images will be reconstructed on the ground after downlink of the event list. Images are formed simultaneously in 16 energy bands centered on the dominant lines of abundant surface elements from O-K (0.5 keV) to Fe-Kß (7 keV) as well the representative continuum. During orbital phase 5B, a 21-day orbit 700 m from the surface of Bennu, a total of at least 133 events/asteroid pixel/energy band are expected under 2 keV; enough to obtain significant constraints on element abundances at scales larger than 10 m.
+
+TAGSAM arm test before launch
+TAGSAM
+    • OCAMS documents sampling at 1 Hz
+    • Verify bulk sample collection via spacecraft inertia change; surface sample by imaging sampler head
+The sample-return system, called Touch-And-Go Sample Acquisition Mechanism (TAGSAM), consists of a sampler head with an articulated 3.35-meter (11 ft) arm. An on-board nitrogen source will support up to three separate sampling attempts for a minimum total amount of 60 grams (2.1 oz) of sample. The surface contact pads will also collect fine-grained material.
+Highlights of the TAGSAM instrument and technique include:
+Slowly approach surface at 0.2 meters per second (0.66 ft/s)
+Contact within 25 meters (82 ft) of selected location
+OCAMS documents sampling at 1 Hz
+Collect samples in less than five seconds, direct nitrogen (N2) annular jet fluidizes regolith, surface-contact pad captures surface sample
+Verify bulk sample collection via spacecraft inertia change; surface sample by imaging sampler head
+Sampler head stored in Sample-Return Capsule (SRC) and returned to Earth
+OSIRIS-REx II
+    • It was stated that this mission would be both the quickest and least expensive way to get samples from the moons.
+    • OSIRIS-REx II was a 2012 mission concept to replicate the original spacecraft for a double mission, with the second vehicle collecting samples from the two moons of Mars, Phobos and Deimos.
+OSIRIS-REx II was a 2012 mission concept to replicate the original spacecraft for a double mission, with the second vehicle collecting samples from the two moons of Mars, Phobos and Deimos. It was stated that this mission would be both the quickest and least expensive way to get samples from the moons.
+Gallery
+See also
+    • List of asteroids targeted for spacecraft visitation
+Asteroidal water
+Hayabusa
+Hayabusa2
+List of asteroids targeted for spacecraft visitation
+References
+External links
+    • OSIRIS-REx website at the University of Arizona
+    • OSIRIS-REx website at NASA
+    • OSIRIS-REx Mission Archive at the NASA Planetary Data System, Small Bodies Node
+OSIRIS-REx website at NASA
+OSIRIS-REx website at the University of Arizona
+OSIRIS-REx Mission Archive at the NASA Planetary Data System, Small Bodies Node

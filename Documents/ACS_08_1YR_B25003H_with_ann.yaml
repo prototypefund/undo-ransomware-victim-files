@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_08_1YR_B25003H
+product-selection: ACS_08_1YR_B25003H|table||||B25003H|TENURE+%28WHITE+ALONE%2C+NOT+HISPANIC+OR+LATINO+HOUSEHOLDER%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:57:44.290327

@@ -1,0 +1,24 @@
+source: commons.wikimedia.org
+file: Violent Crime in the United States.png
+date: 2019-06-13 16:45:09.144592
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Violent crime in the United States. Source: [http://www.ucrdatatool.gov/Search/Crime/State/StatebyState.cfm]}}
+  |date=2013-05-30
+  |source={{own}}
+  |author=[[User:Delphi234|Delphi234]]
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  {{current|interval=annually}}
+  
+  =={{int:license-header}}==
+  {{self|cc-zero}}
+  
+  {{SVG|graph}}
+  
+  [[Category:Crime statistics]]
+  [[Category:Violent crime rates]]
+  [[Category:Crime in the United States]]

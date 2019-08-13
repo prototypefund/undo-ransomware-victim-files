@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: DEC_00_SF3_PCT076I
+product-selection: DEC_00_SF3_PCT076I|table||||PCT076I|POVERTY+STATUS+IN+1999+OF+RELATED+CHILDREN+UNDER+18+YEARS+BY+FAMILY+TYPE+BY+AGE+%28WHITE+ALONE%2C+NOT+HISPANIC+OR+LATINO%29+%5B29%5D
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:44:04.302446

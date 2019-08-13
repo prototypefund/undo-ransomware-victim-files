@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_17_1YR_B06004IPR
+product-selection: ACS_17_1YR_B06004IPR|table||||B06004IPR|PLACE+OF+BIRTH+%28HISPANIC+OR+LATINO%29+IN+PUERTO+RICO
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:36:02.979164

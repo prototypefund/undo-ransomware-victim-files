@@ -1,0 +1,31 @@
+source: commons.wikimedia.org
+file: Monumento.png
+date: 2019-06-14 14:35:04.889443
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{de|1=Logo [[:de:Monumento (Messe)|Monumento (Messe)]]}}
+  |Source=http://www.monumento-salzburg.at/tl_files/layout/logos/monumento.png
+  |Date=
+  |Author=Messezentrum Salzburg GmbH
+  |Permission=
+  |Other versions= 
+  }}
+  {{Convert to SVG|logo|vectordata=http://www.monumento-salzburg.at/tl_files/media/monumento/Ausstellerinfo_Monumento_2016_de.pdf}}
+  
+  == {{int:license-header}} ==
+  {{PD-textlogo}}
+  {{Trademark}}
+  
+  == {{Original upload log}} ==
+  <div class="delh">
+  {{transferred from|de.wikipedia|Wdwdbot|script ''bot_filetrans.pl''}}
+  {{original description|de.wikipedia|Monumento.png}}
+  * 2014-12-31 10:36:54  [[:de:User:Marlus Gancher|Marlus Gancher]] (394110 Bytes) ''<nowiki>http://www.monumento-salzburg.at/fotos-und-downloads.html?file=tl_files/media/monumento/Pressefotos/logo_monumento_4c.jpg</nowiki>''
+  * 2014-01-18 10:55:35  [[:de:User:Ordercrazy|Ordercrazy]] (6134 Bytes) ''<nowiki>{{Information |Beschreibung = Logo [[Monumento (Messe)]] |Quelle = http://www.monumento-salzburg.at/tl_files/layout/logos/monumento.png |Urheber = Messezentrum Salzburg GmbH |Datum = |Genehmigung = |Andere Versi…</nowiki>''
+  </div>
+  {{User:Wdwdbot/Files uploaded by Wdwdbot}}
+  
+  {{Check categories|year=2015|month=January|day=7}}
+  [[Category:Logos of Austria]]
+  [[Category:Monumento Messe]]

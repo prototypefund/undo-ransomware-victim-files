@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_13_1YR_B05005
+product-selection: ACS_13_1YR_B05005|table||||B05005|YEAR+OF+ENTRY+BY+NATIVITY+AND+CITIZENSHIP+STATUS+IN+THE+UNITED+STATES
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:35:30.980342

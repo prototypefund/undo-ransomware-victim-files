@@ -1,0 +1,18 @@
+source: commons.wikimedia.org
+file: EDLC-Charge-Distribution.png
+date: 2019-06-13 16:46:05.072742
+text: |
+  {{SVG|physics}}
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=distribution of ions in a discharged/charged supercapacitor}}
+  |Source         ={{own}}
+  |Author         =[[User:Elcap|Elcap]]
+  |Date           =2013-04-09
+  |Permission     =CC0 1.0
+  |other_versions =File:Doppelschicht-Speicher-Prinzip.png (German)
+  }}
+  
+  [[Category:Supercapacitors]]
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}

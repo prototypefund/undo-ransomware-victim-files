@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_07_3YR_B25021
+product-selection: ACS_07_3YR_B25021|table||||B25021|MEDIAN+NUMBER+OF+ROOMS+BY+TENURE
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:51:44.672674

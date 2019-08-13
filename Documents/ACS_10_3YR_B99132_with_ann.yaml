@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_3YR_B99132
+product-selection: ACS_10_3YR_B99132|table||||B99132|IMPUTATION+OF+FERTILITY+OF+WOMEN+15+TO+50+YEARS
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:21:00.761403

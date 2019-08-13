@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_13_1YR_B25023
+product-selection: ACS_13_1YR_B25023|table||||B25023|AGGREGATE+NUMBER+OF+ROOMS+BY+VACANCY+STATUS
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:20:28.349095

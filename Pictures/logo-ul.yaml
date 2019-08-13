@@ -1,0 +1,30 @@
+source: commons.wikimedia.org
+file: Logo UL.png
+date: 2019-06-27 14:05:07.168712
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{de|1=Logo der [[:de:Universität Łódź|Universität Łódź]]}}
+  |Source=http://www.uni.lodz.pl/
+  |Date=2008-12-25
+  |Author=http://www.uni.lodz.pl/
+  |Permission=
+  |Other versions= 
+  }}
+  {{Convert to SVG|logo}}
+  
+  == {{int:license-header}} ==
+  {{PD-textlogo}}
+  {{Trademark}}
+  
+  == {{Original upload log}} ==
+  <div class="delh">
+  {{transferred from|de.wikipedia|Wdwdbot|script ''bot_filetrans.pl''}}
+  {{original description|de.wikipedia|Logo_UL.png}}
+  * 2008-12-26 01:40:06  [[:de:User:Foundert|Foundert]] (73267 Bytes) ''<nowiki>{{Information |Beschreibung = Logo der [[Universität Łódź]] |Quelle = http://www.uni.lodz.pl/ |Urheber = http://www.uni.lodz.pl/ |Datum = 25.12.08 |Genehmigung = Logo |Andere Versionen = |Anmerkungen = }} {{Bild-LogoSH}} </nowiki>''
+  </div>
+  {{User:Wdwdbot/Files uploaded by Wdwdbot}}
+  
+  
+  [[Category:Logos of universities and colleges in Poland]]
+  [[Category:University of Łódź]]

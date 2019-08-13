@@ -1,0 +1,19 @@
+source: commons.wikimedia.org
+file: SolarCellProduction-E.PNG
+date: 2019-06-13 16:40:06.632093
+text: |
+  {{Convert to SVG|graph}}
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=Solar cell production by region (data source: PV NEWS, Greentech Media)[http://www.gtmresearch.com/report/pv-news]}}
+  |Source         ={{Santa}}
+  |Author         =[[User:S-kei|S-kei]]
+  |Date           =2011-03-05
+  |Permission     =
+  |other_versions =Japanese: [[:File:SolarCellProduction-J.PNG]]
+  }}
+  
+  [[Category:Photovoltaic power statistics]]
+  [[Category:Photovoltaic power statistics of Japan]]
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}

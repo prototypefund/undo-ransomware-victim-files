@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_06_EST_B25014F
+product-selection: ACS_06_EST_B25014F|table||||B25014F|OCCUPANTS+PER+ROOM+%28SOME+OTHER+RACE+ALONE+HOUSEHOLDER%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:21:20.518703

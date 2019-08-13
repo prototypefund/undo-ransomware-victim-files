@@ -1,0 +1,20 @@
+source: commons.wikimedia.org
+file: Feedback op-amp voltage amplifier.png
+date: 2019-06-13 16:49:30.371502
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=A feedback voltage amplifier using an op amp with finite gain but infinite input impedances}}
+  |date=2014-10-14 06:53:31
+  |source={{own}}
+  |author=[[User:Brews ohare|Brews ohare]]
+  |permission=
+  |other versions=
+  }}
+  
+  =={{int:license-header}}==
+  {{self|cc-zero}}
+  {{svg|circuit}}
+  
+  [[Category:Feedback loops]]
+  [[Category:Op-amp non-inverting amplifiers]]

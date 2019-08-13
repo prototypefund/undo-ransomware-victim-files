@@ -1,0 +1,19 @@
+source: commons.wikimedia.org
+file: Recent Changes Ribbon.png
+date: 2019-06-13 16:35:20.318078
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Shadowed Ribbon for the Recent Changes Barnstar on the English Wikipedia}}
+  |date=2011-12-08
+  |source={{own}}
+  |author=[[User:Achowat|Achowat]]
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  
+  =={{int:license-header}}==
+  {{self|cc-zero}}
+  
+  {{SVG|Wp ribbon}}

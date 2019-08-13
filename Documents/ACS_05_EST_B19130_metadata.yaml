@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_05_EST_B19130
+product-selection: ACS_05_EST_B19130|table||||B19130|AGGREGATE+FAMILY+INCOME+IN+THE+PAST+12+MONTHS+%28IN+2005+INFLATION-ADJUSTED+DOLLARS%29+BY+FAMILY+TYPE+BY+AGE+OF+HOUSEHOLDER
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:16:19.415821

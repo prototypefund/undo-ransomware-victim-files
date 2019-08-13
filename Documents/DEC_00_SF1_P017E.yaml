@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: DEC_00_SF1_P017E
+product-selection: DEC_00_SF1_P017E|table||||P017E|AVERAGE+HOUSEHOLD+SIZE+%28NATIVE+HAWAIIAN+AND+OTHER+PACIFIC+ISLANDER+ALONE+HOUSEHOLDER%29+%5B1%5D
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:49:13.031251

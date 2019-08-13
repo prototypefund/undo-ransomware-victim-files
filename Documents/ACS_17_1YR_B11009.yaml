@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_17_1YR_B11009
+product-selection: ACS_17_1YR_B11009|table||||B11009|UNMARRIED-PARTNER+HOUSEHOLDS+BY+SEX+OF+PARTNER
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 10:45:26.713164

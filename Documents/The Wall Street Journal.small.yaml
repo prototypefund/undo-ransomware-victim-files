@@ -1,0 +1,25 @@
+source: en.wikipedia.org
+file: The Wall Street Journal
+date: 2019-06-26 19:34:28.944997
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/903597798
+---
+source: commons.wikimedia.org
+file: The_Wall_Street_Journal_first_issue.jpg
+date: 2019-06-26 19:34:31.461772
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description= Front page of the first issue of ''[[:en:The Wall Street Journal|The Wall Street Journal]]''
+  |Source= The first issue of ''The Wall Street Journal''[http://www.businessinsider.com/check-out-the-first-issue-of-the-wall-street-journal-july-8-1889-2010-7]
+  |Date= 1889-07-08
+  |Author= [[:en:Dow Jones & Company|Dow Jones & Company]]
+  |Permission= Public domain
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-1923}}
+  
+  [[Category:The Wall Street Journal]]
+  [[Category:Newspaper front pages]]
+  [[Category:Newspapers of the United States, 1889]]

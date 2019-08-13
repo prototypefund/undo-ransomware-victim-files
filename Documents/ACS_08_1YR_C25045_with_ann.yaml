@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_08_1YR_C25045
+product-selection: ACS_08_1YR_C25045|table||||C25045|TENURE+BY+VEHICLES+AVAILABLE
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:24:18.201358

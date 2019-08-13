@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_13_3YR_B08505E
+product-selection: ACS_13_3YR_B08505E|table||||B08505E|MEANS+OF+TRANSPORTATION+TO+WORK+FOR+WORKPLACE+GEOGRAPHY+%28NATIVE+HAWAIIAN+AND+OTHER+PACIFIC+ISLANDER+ALONE%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:48:34.226890

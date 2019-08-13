@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_16_5YR_B15012
+product-selection: ACS_16_5YR_B15012|table||||B15012|TOTAL+FIELDS+OF+BACHELOR%27S+DEGREES+REPORTED
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:14:47.413877

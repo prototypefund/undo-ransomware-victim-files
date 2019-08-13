@@ -1,0 +1,43 @@
+source: en.wikipedia.org
+file: United States military spending
+date: 2019-06-26 21:34:41.898358
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/902535524
+---
+source: commons.wikimedia.org
+file: 2017_Request_Budget_Breakdown_Fig_1.jpg
+date: 2019-06-26 21:34:45.706877
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Describes budget by appropriation/military department per 2016 and the proposed budget for 2017, and the change between these years.}}
+  |date=2016-02-09
+  |source=https://www.defense.gov/News/News-Releases/News-Release-View/Article/652687/department-of-defense-dod-releases-fiscal-year-2017-presidents-budget-proposal
+  |author=Press Operations of the US Department of Defense
+  |permission=
+  |other versions=
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-USGov}}
+  
+  [[Category:Budget of the United States military]]
+  [[Category:United States Department of Defense publications]]
+---
+source: commons.wikimedia.org
+file: 2018_Federal_Budget_Infographic.png
+date: 2019-06-26 21:34:46.187079
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=The revenues and spending in the 2018 United States federal budget, broken down by category and type.}}
+  |date=2019-06-18
+  |source=https://www.cbo.gov/system/files/2019-06/55342-2018-budget.pdf
+  |author=Congressional Budget Office
+  |permission=
+  |other versions=
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-USGov}}
+  
+  [[Category:Official documents of the United States]]

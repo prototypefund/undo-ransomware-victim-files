@@ -1,0 +1,13 @@
+PCT056
+TRAVEL TIME TO WORK FOR WORKERS 16 YEARS AND OVER [15]
+
+Universe: Workers 16 years and over
+
+NOTE: Data based on a sample. For information on confidentiality
+protection, sampling error, nonsampling error, definitions, and
+count corrections see
+http://www.census.gov/prod/cen2000/doc/sf4.pdf
+
+
+
+

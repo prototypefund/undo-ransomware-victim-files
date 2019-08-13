@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_15_1YR_B05012
+product-selection: ACS_15_1YR_B05012|table||||B05012|NATIVITY+IN+THE+UNITED+STATES
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:14:00.567508

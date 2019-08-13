@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_16_1YR_S2802
+product-selection: ACS_16_1YR_S2802|table||||S2802|TYPES+OF+INTERNET+SUBSCRIPTIONS+BY+SELECTED+CHARACTERISTICS+
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:22:59.952604

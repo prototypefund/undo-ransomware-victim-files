@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ECN_2002_US_56A1
+product-selection: ECN_2002_US_56A1|table||||EC0256A1|Administrative+and+Support+and+Waste+Management+and+Remediation+Services%3A+Geographic+Area+Series%3A+Summary+Statistics+for+the+US%2C+States%2C+Metro+and+Micro+Areas%2C+Metro+Divisions%2C+Consolidated+Cities%2C+Counties%2C+and+Places%3A+2002
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:36:05.208669

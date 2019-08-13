@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_12_3YR_C07408PR
+product-selection: ACS_12_3YR_C07408PR|table||||C07408PR|GEOGRAPHICAL+MOBILITY+IN+THE+PAST+YEAR+BY+MARITAL+STATUS+FOR+RESIDENCE+1+YEAR+AGO+IN+PUERTO+RICO
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:40:14.034213

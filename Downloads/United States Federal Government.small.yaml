@@ -1,0 +1,59 @@
+source: en.wikipedia.org
+file: United States Federal Government
+date: 2019-06-15 19:58:02.452386
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/901441784
+---
+source: commons.wikimedia.org
+file: United_States_Capitol_-_west_front.jpg
+date: 2019-06-15 19:58:04.042892
+text: |
+  {{Information
+  |Description={{en|The western front of the [[:en:United States Capitol|United States Capitol]]. The [[:en:Neoclassical architecture|Neoclassical style]] building is in [[:en:Washington, D.C.|Washington, D.C.]], on [[:en:Capitol Hill, Washington, D.C.|Capitol Hill]], at the east end of the [[:en:National Mall|National Mall]]. The Capitol was designated a [[:en:National Historic Landmark|National Historic Landmark]] in 1960.}}
+  |Source=[http://www.aoc.gov/cc/photo-gallery/upload/72350_hr_1997.jpg aoc.gov]
+  |Date=1997
+  |Author=[[:w:Architect of the Capitol|Architect of the Capitol]]
+  |Permission={{PD-USGov-Congress-AOC}}
+  |other_versions={{DerivativeVersions|United States Capitol - west front tilt correct.jpg}}
+  
+  }}
+  {{Location dec|38.889818|-77.01254}}
+  [[Category:Exterior of the United States Capitol]]
+  [[Category:1997 in Washington, D.C.]]
+  {{ImageNote|id=1|x=289|y=784|w=581|h=270|dimx=3000|dimy=1556|style=2}}
+  {{see also cat|United States Capitol - Senate Chamber}}
+  {{de|1=[[:de:United_States_Senate|Senat der Vereinigten Staaten]]
+  {{en|1=[[:en:United States Senate Chamber|US Senate Chamber]]}}}}
+  {{ImageNoteEnd|id=1}}
+  {{ImageNote|id=2|x=555|y=652|w=94|h=120|dimx=3000|dimy=1556|style=2}}
+  Appreciate the [[:en:United_States_Capitol#Flags|flag flying over the Senate]]; this indicates that the Senate is in session.
+  {{ImageNoteEnd|id=2}}
+  {{ImageNote|id=3|x=2198|y=810|w=510|h=225|dimx=3000|dimy=1556|style=2}}
+  {{see also cat|United States Capitol - Senate Chamber}}
+  {{de|1=[[:de:Repräsentantenhaus_der_Vereinigten_Staaten|Repräsentantenhaus der Vereinigten Staaten]]
+  {{en|1=[[:en:United_States_House_of_Representatives |United States House of Representatives]]}}}}
+  {{ImageNoteEnd|id=3}}
+---
+source: commons.wikimedia.org
+file: Diagram_of_the_Federal_Government_and_American_Union_edit.jpg
+date: 2019-06-15 19:58:05.191630
+text: |
+  {{Assessments|enwiki=1|enwiki-nom=Diagram of the Federal Government and American Union}}
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=Print shows the outline of 34 states and 9 territories, a Civil War battle scene, and Liberty holding U.S. flag and sword riding on the back of an eagle, Lincoln and his cabinet (the secretaries linked to images of the Army, Navy, Treasury, Interior, P.O. Dept., and State Department) representing the "Executive" branch, the Senate and the House of Representatives representing the "Legislative" branch, and the Supreme Court representing the "Judicial" branch of the federal government. Also, cameo portraits of "The seven builders and leading spirits of the revolution."
+  }}
+  |Source=Print published by J.T. Pompilly retreived from [http://hdl.loc.gov/loc.pnp/cph.3b35947 Library of Congress]
+  |Author=N. Mendal Shafer, attorney and counseller at law, office no. 5 Masonic Temple, Cincinnati / lith. by Ehrgott, Forbriger & Co
+  |Date=PUBLISHED:  Cin., O[hio] : , c1862 July 15.
+  |Permission=
+  |other_versions=
+  *[[:File:Diagram of the Federal Government and American Union.jpg]]
+  *[[:File:Diagram of the Federal Government and American Union edit 2.jpg]] (Retouched version with original printing errors corrected).
+  }}
+  {{RetouchedPicture|Restoration, cleaned up, removed dirt & other damage, colour levels slightly adjusted. Cropped small amount from right border to centre display|orig=Diagram of the Federal Government and American Union.jpg|editor=Fallschirmjäger}}
+  
+  == {{int:license-header}} ==
+  {{PD-old}}
+  {{PD-us}}
+  
+  [[Category:Diagram of the Federal Government and American Union]]

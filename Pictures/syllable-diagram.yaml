@@ -1,0 +1,25 @@
+source: commons.wikimedia.org
+file: Syllable diagram.png
+date: 2019-06-13 16:39:30.121803
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=phonologic diagram of a speech syllable (&sigma;), split into rime (&rho;), onset (&omega;), nucleus (&nu;), coda (&kappa;) and tone (&tau;)}}
+  {{de|1=Phonologie-Diagramm der Sprechsilbe (&sigma;), unterteilt in Reim (&rho;), Anlaut (&omega;), Kern (&nu;), Auslaut (&kappa;) und Ton (&tau;)}}
+  |Source         =made from scratch
+  |Author         =[[User:Crissov]]
+  |Date           =2010-12-03
+  |Permission     ={{PD-user|Crissov}}
+  |other_versions =[[file:syllable.svg]]
+  }}
+  {{SVG|diagram}}
+  
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}
+  {{Check categories|year=2011|month=March|day=19
+  |lang1=en|wiki1=wikipedia|article1=Syllable
+  |lang2=de|wiki2=wikipedia|article2=Silbe
+  |ncats=1
+  }}
+  
+  [[Category:Syllable]]

@@ -1,0 +1,30 @@
+source: commons.wikimedia.org
+file: Rosebrufordlogo.png
+date: 2019-06-27 13:54:44.019003
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+   |Description    = {{en|1=[[:en:Rose Bruford College|Rose Bruford College]] Theater and Performance }}
+   |Source         = {{own}}
+   |Date           = 2009-09-21 14:25 (UTC)
+   |Author         = [[:en:User:Editor1000|Editor1000]] ([[:en:User talk:Editor1000|talk]])
+   |other_versions = 
+  }}
+  {{Convert to SVG|logo}}
+  
+  == {{int:license-header}} ==
+  {{PD-textlogo}}
+  {{trademark}}
+  
+  == {{Original upload log}} ==
+  
+  {{transferred from|en.wikipedia||FtCG}} {{original description page|en.wikipedia|Rosebrufordlogo.png}}
+  
+  {| class="wikitable"
+  ! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+  |-
+  | 14:25, 21 September 2009 || 232 × 52 (12,409 bytes) || {{uv|Editor1000|w:en:}} || ''<nowiki>({{Information |Description = |Source = I (~~~) created this work entirely by myself. |Date = ~~~~~ |Author = ~~~ |other_versions = }})</nowiki>''
+  |}
+  
+  
+  [[Category:Unidentified logos]]

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_13_3YR_C08122
+product-selection: ACS_13_3YR_C08122|table||||C08122|MEANS+OF+TRANSPORTATION+TO+WORK+BY+POVERTY+STATUS+IN+THE+PAST+12+MONTHS
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:54:43.987350

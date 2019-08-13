@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_16_1YR_B07002PR
+product-selection: ACS_16_1YR_B07002PR|table||||B07002PR|MEDIAN+AGE+BY+GEOGRAPHICAL+MOBILITY+IN+THE+PAST+YEAR+FOR+CURRENT+RESIDENCE+IN+PUERTO+RICO
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:00:39.154792

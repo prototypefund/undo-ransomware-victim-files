@@ -1,0 +1,20 @@
+source: commons.wikimedia.org
+file: Tree multiplier.png
+date: 2019-06-13 16:52:13.231993
+text: |
+  {{Convert to SVG|diagram}}
+  =={{int:filedesc}}==
+  {{Information
+  |description={{fr|1=Tree multiplier}}
+  |date=2013-03-12 15:05:10
+  |source={{own}}
+  |author=[[User:Mewtow|Mewtow]]
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  
+  =={{int:license-header}}==
+  {{self|cc-zero}}
+  
+  [[Category:Digital Multipliers]]

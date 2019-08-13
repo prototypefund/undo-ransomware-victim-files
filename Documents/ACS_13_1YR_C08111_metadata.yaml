@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_13_1YR_C08111
+product-selection: ACS_13_1YR_C08111|table||||C08111|MEANS+OF+TRANSPORTATION+TO+WORK+BY+CITIZENSHIP+STATUS
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:20:38.375267

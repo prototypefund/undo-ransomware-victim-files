@@ -1,0 +1,24 @@
+source: en.wikipedia.org
+file: Debbie Stabenow
+date: 2019-06-26 14:52:52.635338
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/898269008
+---
+source: commons.wikimedia.org
+file: Debbie_Stabenow,_official_portrait.jpg
+date: 2019-06-26 14:52:55.618230
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description=Official portrait of United States Senator {{w|Debbie Stabenow}} (D-MI).
+  |Source=http://stabenow.senate.gov/linkeddocuments/headshot/Flaglg.jpg
+  |Date=2011-01-07
+  |Author=Office of United States Senator Debbie Stabenow
+  |Permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-Congress}}
+  
+  [[Category:Debbie Stabenow in 2011]]
+  [[Category:Members of the 112th United States Congress|Stabenow, Debbie]]

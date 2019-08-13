@@ -1,0 +1,18 @@
+source: commons.wikimedia.org
+file: JCCRintro.png
+date: 2019-06-13 16:40:03.913370
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=Johnson-Corey-Chaykovsky Reaction}}
+  |Source=Corey, E.J.; Chaykovsky, M. (1965), J. Am. Chem. Soc. 87 (6): 1353-1364, doi:DOI:10.1021/10.1021/ja01084a034
+  |Author=selfmade by [[User:mdlevin | mdlevin]]
+  |Date=2011-01-01
+  |Permission=Public Domain
+  |other_versions=
+  }}
+  {{Convert to SVG|chemical}}
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}
+  
+  [[Category:Johnson-Corey-Chaykovsky reaction]]

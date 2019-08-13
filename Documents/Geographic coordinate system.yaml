@@ -1,0 +1,20 @@
+source: en.wikipedia.org
+file: Geographic coordinate system
+date: 2019-06-15 17:14:04.390641
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/901671672
+---
+source: commons.wikimedia.org
+file: FedStats_Lat_long.png
+date: 2019-06-15 17:14:05.244292
+text: |
+  {{Information
+  |Description    ={{en|1=A simple figure showing Latitude and Longitude}}
+  |Source         =https://web.archive.org/web/20140813074310/http://www.fedstats.gov/kids/mapstats/concepts_latlg.html
+  |Author         ={{unknown|author}}
+  |Date           =
+  |Permission     ={{PD-USGov}}
+  |other_versions =[[:File:This is a basic photo showing that latitude lines are horizontal and longitude lines are vertical- 2014-07-25 20-36.jpg]]
+  }}
+  
+  [[Category:Latitudes]]
+  [[Category:Longitudes]]

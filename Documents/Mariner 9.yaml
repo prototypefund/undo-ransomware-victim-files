@@ -1,0 +1,33 @@
+source: en.wikipedia.org
+file: Mariner 9
+date: 2019-06-15 18:08:45.510888
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/871169234
+---
+source: commons.wikimedia.org
+file: Atlas_I-CENTAUR.jpg
+date: 2019-06-15 18:08:46.520909
+text: |
+  {{Information
+  |Description=Launch of Atlas-Centaur carrying Mariner 9 Mars probe
+  |Source=https://www.patrick.af.mil/45SW/PA/MEDIA/multimedia.htm (cropped and converted from TIFF)
+  |Date=1971-05-31
+  |Author=US Air Force
+  |Permission=PD-USGov-Military-Air Force
+  |other_versions=[https://www.patrick.af.mil/45SW/PA/MEDIA/rockets/atlas%20I-CENTAUR.tif uncropped TIFF version]
+  }}
+  
+  {{PD-USGov-Military-Air Force}}
+  
+  [[Category:AC-23]]
+---
+source: commons.wikimedia.org
+file: Mariner8&9_schematics.jpg
+date: 2019-06-15 18:08:47.103854
+text: |
+  == {{int:filedesc}} ==
+  Mariner 8 and 9 schematics
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Mariner 9]]
+  [[Category:Media missing infobox template]]

@@ -1,0 +1,25 @@
+source: en.wikipedia.org
+file: KTRK-TV
+date: 2019-06-26 18:51:32.891352
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/903274599
+---
+source: commons.wikimedia.org
+file: KTRKTVHouston.JPG
+date: 2019-06-26 18:51:34.508164
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|[[:en:KTRK-TV|KTRK-TV]] in [[:en:Houston, Texas|Houston, Texas]]}}
+  |Source={{Own}}
+  |Date=
+  |Author= [[User:WhisperToMe|WhisperToMe]]
+  |Permission=Public domain
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-self}}
+  
+  [[Category:Television networks/stations in Houston]]
+  [[Category:Upper Kirby, Houston]]
+  [[Category:ABC Owned Television Stations]]

@@ -1,0 +1,21 @@
+source: commons.wikimedia.org
+file: Interstate 35 map.png
+date: 2019-06-13 16:32:49.768830
+text: |
+  {{Information
+  |Description=Map of Interstate 35
+  |Source={{own}}
+  |Date=2006-07-15
+  |Author=[[w:User:Stratosphere|Nick Nolte]]
+  |Permission=Own work, all rights released (Public domain)
+  |other_versions=
+  }}
+  
+  {{StratosphereMap}}
+  
+  == Format ==
+  {{Convert to SVG|road map}}
+  
+  
+  [[Category:Road maps of Interstate Highways]]
+  [[Category:Interstate 35]]

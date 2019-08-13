@@ -1,0 +1,28 @@
+source: en.wikipedia.org
+file: List of Gemini astronauts
+date: 2019-06-15 17:52:57.007073
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/895180901
+---
+source: commons.wikimedia.org
+file: Gemini_7_in_orbit_-_GPN-2006-000035.jpg
+date: 2019-06-15 17:52:58.008772
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=This photograph of the Gemini 7 spacecraft was taken from Gemini 6 during rendezvous and station keeping maneuvers at an altitude of approximately 160 miles above the Earth. Gemini 6 and Gemini 7 launched on December 15, 1965 and December 4, 1965, respectively. Walter M. Schirra, Jr. and Thomas P. Stafford on Gemini 6 and Frank Borman and James A. Lovell on Gemini 7 practiced rendezvous and station keeping together for one day in orbit.}}
+  |Source=[http://dayton.hq.nasa.gov/IMAGES/LARGE/GPN-2006-000035.jpg Great Images in NASA] [http://grin.hq.nasa.gov/ABSTRACTS/GPN-2006-000035.html Description]
+  |Date=1965-12-15
+  |Author=NASA
+  |Permission=
+  |other_versions=
+  }}
+  {{NASA-image|id=GPN-2006-000035|alternateid=s65-63194|center=JSC}}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Great Images in NASA]]
+  [[Category:Space rendezvous]]
+  [[Category:Gemini 6]]
+  [[Category:Gemini spacecraft in outer space]]
+  [[Category:Gemini 7]]

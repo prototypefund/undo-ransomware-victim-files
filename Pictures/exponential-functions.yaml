@@ -1,0 +1,18 @@
+source: commons.wikimedia.org
+file: Exponential functions.png
+date: 2019-06-13 16:48:03.213487
+text: |
+  {{Convert to SVG|graph}}
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=Graphs of three exponential functions. Created using [[GeoGebra]].}}
+  |Source         ={{own}}
+  |Author         =[[User:Itangalo|Itangalo]]
+  |Date           =
+  |Permission     =
+  |other_versions =
+  }}
+  
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}
+  [[Category:Exponential functions]]

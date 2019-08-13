@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_SF4_B19055
+product-selection: ACS_10_SF4_B19055|table||||B19055|SOCIAL+SECURITY+INCOME+IN+THE+PAST+12+MONTHS+FOR+HOUSEHOLDS
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:31:59.366324

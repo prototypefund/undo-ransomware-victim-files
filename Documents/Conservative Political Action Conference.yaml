@@ -1,0 +1,52 @@
+source: en.wikipedia.org
+file: Conservative Political Action Conference
+date: 2019-06-26 18:19:38.223027
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/901370808
+---
+source: commons.wikimedia.org
+file: CPACattendeeChart.PNG
+date: 2019-06-26 18:19:39.130112
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    = {{en|1=Created this chart based on the data I gathered here: https://spreadsheets.google.com/ccc?key=0AmEiMVBkov-xdEdncWpWdHpzNmFfNGhLSElBNDRqRlE&hl=en}}
+  |Date           = {{original upload date|2010-09-13}}
+  |Source         = {{own}} 
+  |Author         = [[:en:User:Andrewman327|User:Andrewman327]]
+  |Permission     = 
+  |Other_versions = 
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-user|Andrewman327|en}}
+  
+  == {{Original upload log}} ==
+  
+  {{transferred from|en.wikipedia||ftcg}} {{original description page|en.wikipedia|CPACattendeeChart.PNG}}
+  
+  {| class="wikitable"
+  ! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+  |-
+  | 18:31, 13 September 2010 || 299 × 247 (4,031 bytes) || {{uv|Andrewman327|w:en:}} || ''<nowiki>(Created this chart based on the data I gathered here: https://spreadsheets.google.com/ccc?key=0AmEiMVBkov-xdEdncWpWdHpzNmFfNGhLSElBNDRqRlE&hl=en)</nowiki>''
+  |}
+  
+  {{Check categories|year=2015|month=May|day=12}}
+  [[Category:Conservative Political Action Conference]]
+---
+source: commons.wikimedia.org
+file: George_W._Bush_speaks_at_2008_Conservative_Political_Action_Conference.JPG
+date: 2019-06-26 18:19:40.170286
+text: |
+  {{Information
+  |Description=U.S. President [[George W. Bush]] speaks at the 2008 [[:en:Conservative Political Action Conference|Conservative Political Action Conference]].  To his left is [[:en:Dave Keene|Dave Keene]], Chairman of the [[:en:American Conservative Union|American Conservative Union]].
+  |Source=[http://www.whitehouse.gov/news/releases/2008/02/images/20080208_p020808jb-0158-515h.html White House]
+  |Date=2008-02-08
+  |Author=White House photo by Joyce N. Boghosian
+  |Permission={{PD-USGov-POTUS}}
+  |other_versions=
+  }}
+  
+  [[Category:George W. Bush in 2008]]
+  [[Category:Conservative Political Action Conference 2008]]
+  [[Category:Photographs by Joyce Boghosian]]
+  [[Category:David Keene]]

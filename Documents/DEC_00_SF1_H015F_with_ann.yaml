@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: DEC_00_SF1_H015F
+product-selection: DEC_00_SF1_H015F|table||||H015F|TENURE+BY+HOUSEHOLD+SIZE+%28SOME+OTHER+RACE+ALONE+HOUSEHOLDER%29+%5B17%5D
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:49:18.906786

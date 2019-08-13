@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_08_1YR_S0801
+product-selection: ACS_08_1YR_S0801|table||||S0801|Commuting+Characteristics+by+Sex
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:28:27.617629

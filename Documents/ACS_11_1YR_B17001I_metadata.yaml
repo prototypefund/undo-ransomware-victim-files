@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_11_1YR_B17001I
+product-selection: ACS_11_1YR_B17001I|table||||B17001I|POVERTY+STATUS+IN+THE+PAST+12+MONTHS+BY+SEX+BY+AGE+%28HISPANIC+OR+LATINO%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:58:46.582916

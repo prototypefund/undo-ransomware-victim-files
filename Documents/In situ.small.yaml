@@ -1,0 +1,25 @@
+source: en.wikipedia.org
+file: In situ
+date: 2019-06-15 17:27:25.613781
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/900295842
+---
+source: commons.wikimedia.org
+file: In_situ_carcinoma.jpg
+date: 2019-06-15 17:27:27.405416
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1="In addition to benign tumors, there are in situ tumors and invasive tumors. In situ tumors do not invade the basement membrane, whereas invasive tumors do invade the basement membrane."
+  
+  Diagram of an [[:w:carcinoma in situ|''in situ'' carcinoma]]}}
+  |Source         =[http://training.seer.cancer.gov/disease/cancer/terms.html "Cancer Terms"], SEER Training Modules, National Cancer Institute
+  |Author         =NCI
+  |Date           =2010
+  |Permission     =
+  |other_versions =
+  }}
+  
+  [[Category:Carcinoma in situ]]
+  [[Category:Epithelium]]
+  == {{int:license-header}} ==
+  {{PD-USGov}}

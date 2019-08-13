@@ -1,0 +1,29 @@
+source: en.wikipedia.org
+file: Chabad
+date: 2019-06-26 14:25:33.985233
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/902284059
+---
+source: commons.wikimedia.org
+file: Reagan_receives_menorah_1986.jpg
+date: 2019-06-26 14:25:36.652353
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=President Ronald Reagan accepts Hanukkah Menorah from Jewish organization, "Friends of Lubavitch."}}
+  |Source=https://georgewbush-whitehouse.archives.gov/president/holiday/hanukkah/03.html
+  |Author=White House photo
+  |Date={{date|1984}} (NOTE: file name includes 1986, but that is a mistake.)
+  |Permission=Part of National Archives and Records Administration (NARA), public domain, held by Ronald Reagan Presidential Library.
+  |other versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov}}
+  {{Metadata from image}}
+  
+  [[Category:White House in 1984]]
+  [[Category:Presidents of the United States in Hanukkah celebrations]]
+  [[Category:Hanukiah]]
+  [[Category:Ronald Reagan in 1984]]
+  [[Category:Chabad]]
+  [[Category:Abraham Shemtov]]

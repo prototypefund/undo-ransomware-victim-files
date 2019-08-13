@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: DEC_00_SF1_H010
+product-selection: DEC_00_SF1_H010|table||||H010|TOTAL+POPULATION+IN+OCCUPIED+HOUSING+UNITS%5B1%5D
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:17:08.055198

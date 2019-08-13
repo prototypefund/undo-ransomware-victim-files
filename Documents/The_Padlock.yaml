@@ -1,0 +1,21 @@
+source: en.wikipedia.org
+file: The_Padlock
+date: 2019-06-28 15:12:30.960808
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/893995852
+---
+source: commons.wikimedia.org
+file: Aldridge_as_Mungo.jpg
+date: 2019-06-28 15:12:31.588298
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description= Ira Aldridge, African American actor, in the role of Mungo from ''The Padlock'', 1820s or 1830s.
+  |Source=From the Google Print copy of ''The Cambridge History of American Theatre: Beginnings to 1870''.
+  |Date={{other date|century|19}}
+  |Author={{unknown|author}}
+  |Permission={{PD-1923}}
+  |other_versions=
+  }}
+  
+  [[Category:Ira Aldridge]]
+  [[Category:The Padlock]]

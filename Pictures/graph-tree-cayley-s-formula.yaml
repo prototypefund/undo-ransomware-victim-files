@@ -1,0 +1,24 @@
+source: commons.wikimedia.org
+file: Graph.tree. Cayley's formula.png
+date: 2019-06-13 16:42:46.198472
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{ja|1=ケイリーの公式の証明に関する図}}
+  |Source         =made with Microsoft paint,own work.
+  |Author         =山川数也
+  |Date           =2011-05-01
+  |Permission     =
+  |other_versions =
+  }}
+  {{ConvertToSVG|graph theory}}
+  
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}
+  {{Check categories|year=2011|month=May|day=2
+  |lang1=ja|wiki1=wikipedia|article1=ケイリーの公式
+  |gallery1=Graph theory
+  |ncats=1
+  }}
+  
+  [[Category:Tree diagrams]]

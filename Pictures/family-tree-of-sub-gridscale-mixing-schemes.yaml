@@ -1,0 +1,21 @@
+source: commons.wikimedia.org
+file: Family tree of sub-gridscale mixing schemes.png
+date: 2019-06-14 14:37:40.211465
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=ocean parameterization scheme family tree}}
+  |date=2013-12-12 21:17:01
+  |source={{own}}
+  |author=[[User:Chao Sun at aosc|Chao Sun at aosc]]
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  {{SVG|Tree diagram}}
+  
+  =={{int:license-header}}==
+  {{PD-textlogo}}
+  {{self|cc-by-sa-3.0}}
+  
+  [[Category:Tree diagrams]]

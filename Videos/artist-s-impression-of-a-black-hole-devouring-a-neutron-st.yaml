@@ -1,0 +1,45 @@
+source: commons.wikimedia.org
+file: Artist's impression of a black hole devouring a neutron star (600 kbps).ogv
+date: 2019-06-15 15:54:47.096823
+text: |
+  {{Media of the day|year=2013|month=4|day=5}}
+  =={{int:filedesc}}==
+  {{Information
+  |Description={{en|1=Artist's impression of a black hole devouring a neutron star. This video preserves the original frame rate of 30 and has been downsampled to a bitrate of 600 kbps.}}
+  {{en|1=Command used to convert this file and its output:}}
+  <code><tt>
+  ffmpeg2theora-0.25.exe "135241main_neutronstar4lunch-magic.mov_NASA WebV_Oct3.mpg" --videobitrate 600 --output "135241main_neutronstar4lunch-magic.mov_NASA WebV_Oct3.vbr600.ogv"
+   Input #0, mpegvideo, from '135241main_neutronstar4lunch-magic.mov_NASA WebV_Oct3.mpg':
+    Duration: 00:00:00.32, bitrate: 104857 kb/s
+      Stream #0.0: Video: mpeg1video, yuv420p, 320x240 [PAR 1:1 DAR 4:3], 104857 kb/s, 29.97 tbr, 1200k tbn, 29.97 tbc
+    Pixel Aspect Ratio: 1.00/1   Frame Aspect Ratio: -1.#J/1
+   
+    0:00:00.32 audio: 0kbps video: 585kbps, time elapsed: 00:00:09
+  </tt></code>
+  |Source=http://www.nasa.gov/mpg/135241main_neutronstar4lunch-magic.mov_NASA%20WebV_Oct3.mpg linked from http://www.nasa.gov/mission_pages/swift/bursts/short_burst_oct5.html - converted to OGV by [[User:84user]]
+  |Author=Credit: Dana Berry/NASA<br />
+  {{Creator:Dana Berry}}
+  |Date={{other date|before|2005}}-10-05
+  |Permission=
+  |other_versions=[[File:Artist's impression of a black hole devouring a neutron star (600 kbps).ogv|frame|none|half speed, low bitrate 150 kbps]]
+  {{-}}
+  [[File:Artist's impression of a black hole devouring a neutron star (300 kbps).ogv|frame|none|normal speed, normal bitrate 300 kbps]]
+  {{-}}
+  [[File:Artist's impression of a black hole devouring a neutron star (600 kbps).ogv|frame|none|normal speed, medium bitrate 600 kbps]]
+  {{-}}
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Black holes]]
+  [[Category:Computer generated videos]]
+  [[Category:Gravitational waves]]
+  [[Category:Neutron stars]]
+  [[Category:Ogv videos]]
+  [[Category:Silent videos]]
+  [[Category:Videos from NASA]]
+  [[Category:Videos of celestial mechanics]]
+  [[Category:Videos uploaded by 84user]]
+  [[Category:Video display resolution 320 x 240]]
+  [[Category:Dana Berry]]

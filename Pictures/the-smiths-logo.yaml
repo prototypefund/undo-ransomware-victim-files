@@ -1,0 +1,21 @@
+source: commons.wikimedia.org
+file: The Smiths (Logo).png
+date: 2019-06-14 14:35:41.479620
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=The Smiths Logo}}
+  |Source         ={{own}}
+  |Author         =SunOfErat [http://it.wikipedia.org/wiki/Utente:SunOfErat]
+  |Date           =2011-04-07
+  |Permission     =
+  |other_versions =
+  }}
+  {{Convert to SVG|logo}}
+  
+  {{DEFAULTSORT:Smiths (Logo).png, The}}
+  
+  == {{int:license-header}} ==
+  {{Trademarked}}{{PD-textlogo}}
+  [[Category:Logos of musical groups]]
+  [[Category:The Smiths|Logo]]

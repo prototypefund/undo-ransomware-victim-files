@@ -1,0 +1,27 @@
+source: en.wikipedia.org
+file: United States congressional delegations from Arkansas
+date: 2019-06-26 21:30:44.821381
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/897242542
+---
+source: commons.wikimedia.org
+file: Arkansas_Congressional_Districts,_113th_Congress.tif
+date: 2019-06-26 21:30:46.757359
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Map of Congressional Districts in the state of Arkansas, reflecting district boundaries current to the 113th United States Congress.}}
+  |date=2014-02-01 22:36:56
+  |source=National Atlas of the United States (http://nationalatlas.gov/printable/congress.html)
+  |author=Department of the Interior
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-USGov}}
+  
+  
+  
+  {{Check categories|year=2014|month=February|day=27}}
+  [[Category:Congressional district maps of Arkansas]]

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: PEP_2015_PEPSR6H
+product-selection: PEP_2015_PEPSR6H|table||||PEPSR6H|Annual+Estimates+of+the+Resident+Population+by+Sex%2C+Race%2C+and+Hispanic+Origin+for+the+United+States%2C+States%2C+and+Counties%3A+April+1%2C+2010+to+July+1%2C+2015
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:13:42.599339

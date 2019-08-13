@@ -1,0 +1,21 @@
+source: commons.wikimedia.org
+file: SAT Grid-in mathematics question.png
+date: 2019-06-13 16:35:06.407030
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=An example of a mathematics question on a test like the SAT reasoning test. In this instance, test-takers would be asked to figure out the answer, possibly by guessing, or possibly by using algebra. One might find that x is 3 and y is 11. Accordingly, 55 x 3 => 165, and then 165 + 11 => 176, and so on down the line. So the answer, 14, should be written in the grid-space box. This type of question on the SAT reasoning test has been termed a "grid-in" question.}}
+  |Source         ={{own}}
+  |Author         =[[User:Tomwsulcer|Tomwsulcer]]
+  |Date           =2012-01-06
+  |Permission     =
+  |other_versions =
+  }}
+  {{ConvertToSVG|text}}
+  
+  [[Category:Questions]]
+  [[Category:Integer sequences]]
+  [[Category:SAT test]]
+  [[Category:ACT test]]
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}

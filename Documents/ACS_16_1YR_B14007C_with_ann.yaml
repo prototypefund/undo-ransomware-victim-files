@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_16_1YR_B14007C
+product-selection: ACS_16_1YR_B14007C|table||||B14007C|SCHOOL+ENROLLMENT+BY+DETAILED+LEVEL+OF+SCHOOL+FOR+THE+POPULATION+3+YEARS+AND+OVER+%28AMERICAN+INDIAN+AND+ALASKA+NATIVE+ALONE%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:32:03.823717

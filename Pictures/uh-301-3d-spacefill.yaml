@@ -1,0 +1,31 @@
+source: commons.wikimedia.org
+file: UH-301-3D-spacefill.png
+date: 2019-06-15 12:45:09.471704
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description=Space-filling model of the '''[[w:UH-301|UH-301]]''' molecule, an experimental drug.
+  
+  '''Colour code:'''
+  :{{ColorSample|#505050}} Carbon, C: black<br>
+  :{{ColorSample|#F0F0F0}} Hydrogen, H: white<br>
+  :{{ColorSample|#F51E1E}} Oxygen, O: red<br>
+  :{{ColorSample|#3C50FA}} Nitrogen, N: blue<br>
+  :{{ColorSample|#C8FA00}} Yellow-green: Fluorine, F<br>
+  
+  |date=2011-06-10
+  |source={{own}} {{DS Visualizer}}
+  |author=[[User:Jynto|Jynto]] ([[User talk:Jynto|talk]]) 
+  |other_versions=*[[:File:UH-301-3D-balls.png|Ball-and-stick version]]
+  }}
+  
+  =={{int:license-header}}==
+  {{self|cc-zero}}
+  [[Category:Phenols]]
+  [[Category:Fluoroaromatics]]
+  [[Category:Aminotetralins]]
+  [[Category:Propyl compounds]]
+  [[Category:Serotonin receptor antagonists]]
+  [[Category:Tertiary amines]]
+  [[Category:Images by Jynto]]
+  [[Category:Space-filling models]]

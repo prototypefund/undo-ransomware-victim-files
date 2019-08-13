@@ -1,0 +1,19 @@
+source: commons.wikimedia.org
+file: Thévenin equivalent example with current source.png
+date: 2019-06-13 16:49:55.093678
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Thévenin equivalent example with current source}}
+  |date=2014-11-11 15:23:51
+  |source={{own}}
+  |author=[[User:Vesa Linja-aho|Vesa Linja-aho]]
+  |permission=
+  |other versions=
+  }}
+  
+  =={{int:license-header}}==
+  {{self|cc-zero}}
+  
+  [[Category:Thévenin's theorem]]
+  [[Category:Thévenin equivalent]]{{Convert to SVG|circuit}}

@@ -1,0 +1,310 @@
+source: en.wikipedia.org
+file: Mars Global Surveyor
+date: 2019-06-15 18:11:21.236630
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/884158762
+---
+source: commons.wikimedia.org
+file: Mars_Observer_-_MOC2_cb.jpg
+date: 2019-06-15 18:11:23.175749
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=Mars Observer Camera (MOC) (renamed Mars Orbiter Camera on Mars Global Surveyor) science investigation used 3 instruments: a narrow angle camera that obtained grayscale (black-and-white) high resolution images (typically 1.5 to 12 m per pixel) and red and blue wide angle cameras for context (240 m per pixel) and daily global imaging (7.5 km per pixel). MOC operated in Mars orbit between September 1997 and November 2006. It returned more than 240,000 images spanning portions of 4.8 Martian years.}}
+  {{pl|1= Kamera ang. ''Mars Observer Camera (MOC)'' (przemianowana na ang. ''Mars Orbiter Camera'')  zamontowana na statku kosmicznym [[:pl:Mars Global Surveyor|Mars Global Surveyor]]) wykorzystywała 3 instrumenty: 
+  # Kamerę z [[:pl:Obiektyw długoogniskowy|długoogniskowym obiektywem]], która dostarczała zdjęć czarnobiałych o wysokiej [[:pl:Zdolność rozdzielcza|rozdzielczości]] 1.5 do 12 m na [[:pl:Piksel|piksel]]
+  # Kamerę z [[:pl:Obiektyw szerokokątny|szerokokątnym obiektywem]] obsługującej czerwone spektrum [[:pl:Światło widzialne|światła widzialnego]]
+  # Kamerę z szerokokątnym obiektywem obsługującej niebieskie spektrum światła widzialnego
+  Kamery z szerokokątnym obiektywem posiadały rozdzielczość (240 m na piksel) i w trybie codziennego obrazowania globalnego (7,5 km na piksel). Kamera (MOC) eksploatowana była na orbicie Marsa w okresie od września 1997 do listopada 2006 r. Kamera przekazała   ponad 240.000 zdjęć obejmujących  4,8 lat marsjańskich.}}
+  
+  |Source=http://www.msss.com/all_projects/mgs-mars-orbiter-camera.php
+  |Author=NASA/JPL
+  |Date=
+  |Permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Mars Orbiter Camera (MOC)]]
+---
+source: commons.wikimedia.org
+file: Mars_gullies.800px.jpg
+date: 2019-06-15 18:11:23.765827
+text: |
+  Gullies in Newton Basin in Sirenum Terra, [[Mars (planet)|Mars]].  '''Credit''':  Malin Space Science Systems, MGS, JPL, NASA
+  
+  From: http://antwrp.gsfc.nasa.gov/apod/ap030205.html
+  
+  <!--[[:Image:Mars gullies.550px.jpg|Smaller image]]-->
+  
+  {{PD-USGov-NASA}}
+  
+  [[Category:Newton (Martian crater)]]
+  [[Category:Terra Sirenum]]
+  [[Category:Photos of Mars by the Mars Global Surveyor MOC]]
+  [[Category:Gullies in Phaethontis quadrangle]]
+  [[Category:Astronomy_Picture_of_the_Day]]
+  [[Category:Media missing infobox template]]
+---
+source: commons.wikimedia.org
+file: Mars_topography_(MOLA_dataset)_with_poles_HiRes.jpg
+date: 2019-06-15 18:11:24.212149
+text: |
+  {{LargeImage}}
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Very high resolution topographic shaded relief map of [[:w:Mars|Mars]], based on the [[:w:Mars Orbiter Laser Altimeter|Mars Orbiter Laser Altimeter]] (MOLA) data set from the ''[[:w:Mars Global Surveyor|Mars Global Surveyor]]'' spacecraft. The map has a resolution 0.125° (300 dots per inch) and is shown as a Mercator projection to latitude 70° north and south. The original NASA image has been modified by increasing the font size of the map grid and elevation key labels. Polar regions are added from enlarged crops of PIA02993; the areas from 60° to 75° latitude are in the transverse Mercator projection, and those from 75° to 90° latitude are in the Lambert azimuthal equal-area projection.<br>
+  Some of the features in this image have been annotated in Wikimedia Commons.}}
+  |date=2014-05-19
+  |source=http://mola.gsfc.nasa.gov/images.html and http://photojournal.jpl.nasa.gov/catalog/PIA02993
+  |author=NASA / JPL / USGS
+  |permission=
+  |other_versions=[[File:MOLA map color elevation key.jpg|thumb|left|700px|color elevation key]]{{clear}}<gallery>
+  File:PIA02993 Mars MOLA N. polar crop.jpg|[[:File:PIA02993 Mars MOLA N. polar crop.jpg|Map of the north polar region of Mars]] (2000 × 2000 pixels, 1.45 MB)
+  File:PIA02993 Mars MOLA S. polar crop.jpg|[[:File:PIA02993 Mars MOLA S. polar crop.jpg|Map of the south polar region of Mars]] (2000 × 2000 pixels, 2.2 MB)
+  File:Mars Orbiter Laser Altimeter (MOLA) Globe.jpg|[[:File:Mars Orbiter Laser Altimeter (MOLA) Globe.jpg|Uncropped source map for polar regions]] (11,649 × 5,723 pixels, 10.49 MB)
+  File:Mars topography (MOLA dataset) HiRes.jpg|[[:File:Mars topography (MOLA dataset) HiRes.jpg|Mercator map of Mars without polar regions]] (12,140 × 6,940 pixels, 17.2 MB)</gallery>
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Images by MOLA]]
+  {{ImageNote|id=1|x=7334|y=4284|w=1886|h=1561|dimx=15240|dimy=6912|style=2}}
+  Hellas impact basin
+  {{ImageNoteEnd|id=1}}
+  {{ImageNote|id=2|x=4020|y=4894|w=1124|h=1066|dimx=15240|dimy=6912|style=2}}
+  Argyre impact basin
+  {{ImageNoteEnd|id=2}}
+  {{ImageNote|id=3|x=8458|y=2685|w=838|h=952|dimx=15240|dimy=6912|style=2}}
+  Isidis impact basin
+  {{ImageNoteEnd|id=3}}
+  {{ImageNote|id=4|x=10306|y=2342|w=648|h=876|dimx=15240|dimy=6912|style=2}}
+  Elysium volcanic province
+  {{ImageNoteEnd|id=4}}
+  {{ImageNote|id=6|x=3048|y=3656|w=1334|h=533|dimx=15240|dimy=6912|style=2}}
+  Valles Marineris
+  {{ImageNoteEnd|id=6}}
+  {{ImageNote|id=7|x=7830|y=2913|w=667|h=857|dimx=15240|dimy=6912|style=2}}
+  Syrtis Major (shield volcano)
+  {{ImageNoteEnd|id=7}}
+  {{ImageNote|id=8|x=3296|y=2380|w=2191|h=1923|dimx=15240|dimy=6912|style=2}}
+  prominent outflow channels
+  {{ImageNoteEnd|id=8}}
+  {{ImageNote|id=9|x=11449|y=3732|w=191|h=286|dimx=15240|dimy=6912|style=2}}
+  Apollinaris Mons (shield volcano)
+  {{ImageNoteEnd|id=9}}
+  {{ImageNote|id=10|x=13011|y=1428|w=1010|h=971|dimx=15240|dimy=6912|style=2}}
+  north polar residual ice cap
+  {{ImageNoteEnd|id=10}}
+  {{ImageNote|id=12|x=1372|y=1809|w=1810|h=2437|dimx=15240|dimy=6912|style=2}}
+  Tharsis volcanic province
+  {{ImageNoteEnd|id=12}}
+  {{ImageNote|id=13|x=13240|y=4913|w=476|h=457|dimx=15240|dimy=6912|style=2}}
+  south polar residual ice cap
+  {{ImageNoteEnd|id=13}}
+  {{ImageNote|id=14|x=7334|y=4350|w=2012|h=1392|dimx=15480|dimy=6940|style=2}}
+  Hellas Planitia (impact basin)
+  {{ImageNoteEnd|id=14}}
+  {{ImageNote|id=15|x=4083|y=4736|w=1258|h=1276|dimx=15480|dimy=6940|style=2}}
+  Argyre Planitia (impact basin)
+  {{ImageNoteEnd|id=15}}
+  {{ImageNote|id=16|x=8398|y=2687|w=1006|h=928|dimx=15480|dimy=6940|style=2}}
+  Isidis Planitia (impact basin)
+  {{ImageNoteEnd|id=16}}
+  {{ImageNote|id=17|x=10410|y=2358|w=600|h=812|dimx=15480|dimy=6940|style=2}}
+  Elysium volcanic province
+  {{ImageNoteEnd|id=17}}
+  {{ImageNote|id=18|x=1432|y=1798|w=1838|h=2552|dimx=15480|dimy=6940|style=2}}
+  Tharsis volcanic province
+  {{ImageNoteEnd|id=18}}
+  {{ImageNote|id=21|x=13313|y=1450|w=871|h=851|dimx=15480|dimy=6940|style=2}}
+  north polar residual ice cap
+  {{ImageNoteEnd|id=21}}
+  {{ImageNote|id=24|x=11552|y=3750|w=213|h=232|dimx=15480|dimy=6940|style=2}}
+  Apollinaris Mons (shield volcano)
+  {{ImageNoteEnd|id=24}}
+  {{ImageNote|id=25|x=13468|y=4891|w=503|h=483|dimx=15480|dimy=6940|style=2}}
+  south polar residual ice cap
+  {{ImageNoteEnd|id=25}}
+  {{ImageNote|id=26|x=7934|y=2938|w=619|h=773|dimx=15480|dimy=6940|style=2}}
+  Syrtis Major Planum (shield volcano)
+  {{ImageNoteEnd|id=26}}
+  {{ImageNote|id=27|x=3173|y=3654|w=1258|h=503|dimx=15480|dimy=6940|style=2}}
+  Valles Marineris
+  {{ImageNoteEnd|id=27}}
+  {{ImageNote|id=28|x=3386|y=2416|w=2245|h=1778|dimx=15480|dimy=6940|style=2}}
+  prominent outflow channels (e.g., Kasei Valles, Maja Valles, Shalbatana Vallis, Simud Valles, Tiu Valles, Ares Vallis)
+  {{ImageNoteEnd|id=28}}
+  {{ImageNote|id=29|x=7411|y=4210|w=2002|h=1749|dimx=15400|dimy=6940|style=2}}
+  [[w:Hellas Planitia|Hellas Planitia]] {{en|[[w:impact basin|(impact basin)]]}}
+  {{ImageNoteEnd|id=29}}
+  {{ImageNote|id=30|x=4158|y=4748|w=1155|h=1230|dimx=15400|dimy=6940|style=2}}
+  [[w:Argyre Planitia|Argyre Planitia]] {{en|[[w:impact basin|(impact basin)]]}}
+  {{ImageNoteEnd|id=30}}
+  {{ImageNote|id=31|x=8412|y=2730|w=982|h=827|dimx=15400|dimy=6940|style=2}}
+  [[w:Isidis Planitia|Isidis Planitia]] {{en|[[w:impact basin|(impact basin)]]}}
+  {{ImageNoteEnd|id=31}}
+  {{ImageNote|id=32|x=7950|y=2941|w=616|h=769|dimx=15400|dimy=6940|style=2}}
+  [[w:Syrtis Major Planum|Syrtis Major Planum]] {{en|[[w:shield volcano|(shield volcano)]]}}
+  {{ImageNoteEnd|id=32}}
+  {{ImageNote|id=33|x=10414|y=2345|w=635|h=807|dimx=15400|dimy=6940|style=2}}
+  [[w:Elysium Planitia|Elysium]] {{en|[[w:Elysium (volcanic province)|(volcanic province)]]}}
+  {{ImageNoteEnd|id=33}}
+  {{ImageNote|id=35|x=1463|y=1730|w=1810|h=2538|dimx=15400|dimy=6940|style=2}}
+  [[w:Tharsis|Tharsis]] {{en|(volcanic province)}}
+  {{ImageNoteEnd|id=35}}
+  {{ImageNote|id=37|x=3388|y=2461|w=2252|h=1788|dimx=15400|dimy=6940|style=2}}
+  [[w:Kasei Valles|Kasei Valles]], [[w:Maja Valles|Maja Valles]], [[w:Shalbatana Vallis|Shalbatana Vallis]], [[w:Simud Valles|Simud Valles]], [[w:Tiu Valles|Tiu Valles]], [[w:Ares Vallis|Ares Vallis]] {{en|(prominent [[w:outflow channels|outflow channels]])}}
+  {{ImageNoteEnd|id=37}}
+  {{ImageNote|id=38|x=13302|y=1461|w=789|h=827|dimx=15400|dimy=6940|style=2}}
+  {{en|'''[[w:Martian polar ice caps|North polar residual ice cap]]'''}}
+  {{ImageNoteEnd|id=38}}
+  {{ImageNote|id=39|x=13417|y=4921|w=443|h=423|dimx=15400|dimy=6940|style=2}}
+  {{en|'''[[w:Martian polar ice caps|South polar residual ice cap]]'''}}
+  {{ImageNoteEnd|id=39}}
+  {{ImageNote|id=40|x=11531|y=3710|w=231|h=308|dimx=15400|dimy=6940|style=2}}
+  [[w:Apollinaris Mons|Apollinaris Mons]] {{en|[[w:shield volcano|(shield volcano)]]}}
+  {{ImageNoteEnd|id=40}}
+  {{ImageNote|id=41|x=8759|y=807|w=2079|h=2134|dimx=15400|dimy=6940|style=2}}
+  [[w:Utopia Planitia|Utopia Planitia]] {{en|[[w:impact basin|(impact basin)]]}}
+  {{ImageNoteEnd|id=41}}
+  {{ImageNote|id=42|x=5660|y=692|w=250|h=269|dimx=15400|dimy=6940|style=2}}
+  [[w:Lomonosov (Martian crater)|Lomonosov]] {{en|[[w:impact crater|(impact crater)]]}}
+  {{ImageNoteEnd|id=42}}
+  {{ImageNote|id=43|x=13340|y=2941|w=250|h=269|dimx=15400|dimy=6940|style=2}}
+  [[w:Lomonosov (Martian crater)|Lomonosov]] {{en|[[w:impact crater|(impact crater)]]}}
+  {{ImageNoteEnd|id=43}}
+  {{ImageNote|id=46|x=4466|y=6286|w=327|h=346|dimx=15400|dimy=6940|style=2}}
+  [[w:Phillips (Martian crater)|Phillips]] {{en|[[w:impact crater|(impact crater)]]}}
+  {{ImageNoteEnd|id=46}}
+  {{ImageNote|id=47|x=12628|y=4191|w=250|h=250|dimx=15400|dimy=6940|style=2}}
+  [[w:Phillips (Martian crater)|Phillips]] {{en|[[w:impact crater|(impact crater)]]}}
+  {{ImageNoteEnd|id=47}}
+  {{ImageNote|id=48|x=3042|y=3633|w=2098|h=596|dimx=15400|dimy=6940|style=2}}
+  [[w:Valles Marineris|Valles Marineris]]
+  {{ImageNoteEnd|id=48}}
+  [[Category:Mars (planet)]]
+---
+source: commons.wikimedia.org
+file: Olympus_Mons_aureole_MOLA_zoom_64.jpg
+date: 2019-06-15 18:11:31.235239
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=A colorized topographic map of the martian shield volcano Olympus Mons, together with its surrounding aureole, from the Mars Orbiter Laser Altimeter (MOLA) instrument of the ''Mars Global Surveyor'' spacecraft. Olympus Mons, the largest volcano in the Solar System, lies in the western part of the volcanic province Tharsis. The volcanoes Alba Mons and Pavonis Mons lie just beyond the upper right and lower right corners of the image, respectively.<br><br>
+  Some of the features in this image are annotated in Wikimedia Commons.}}
+  |date=2013-10-16 22:26:49
+  |source=[http://jmars.asu.edu/ JMARS]
+  |author=NASA / JPL-Caltech / Arizona State University
+  |permission=
+  |other_versions=[[File:MOLA map color elevation key.jpg|thumb|left|700px|color elevation key]]
+  |other_fields=
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-USGov-NASA}}
+  
+  {{ImageNote|id=1|x=1727|y=2400|w=178|h=156|dimx=2400|dimy=2600|style=2}}
+  [[w:Biblis Tholus|Biblis Tholus]] {{en|[[w:shield volcano|(shield volcano)]]}}
+  {{ImageNoteEnd|id=1}}
+  {{ImageNote|id=2|x=1936|y=2392|w=117|h=117|dimx=2400|dimy=2600|style=2}}
+  [[w:Ulysses Tholus|Ulysses Tholus]] {{en|[[w:shield volcano|(shield volcano)]]}}
+  {{ImageNoteEnd|id=2}}
+  {{ImageNote|id=3|x=2218|y=1445|w=82|h=69|dimx=2400|dimy=2600|style=2}}
+  [[w:Jovis Tholus|Jovis Tholus]] {{en|[[w:shield volcano|(shield volcano)]]}}
+  {{ImageNoteEnd|id=3}}
+  {{ImageNote|id=4|x=877|y=1116|w=642|h=655|dimx=2400|dimy=2600|style=2}}
+  [[w:Olympus Mons|Olympus Mons]] {{en|[[w:shield volcano|(shield volcano)]]}}
+  {{ImageNoteEnd|id=4}}
+  {{ImageNote|id=5|x=1727|y=1515|w=330|h=846|dimx=2400|dimy=2600|style=2}}
+  [[w:Ulysses Fossae|Ulysses Fossae]]
+  {{ImageNoteEnd|id=5}}
+  {{ImageNote|id=6|x=1619|y=1354|w=187|h=286|dimx=2400|dimy=2600|style=2}}
+  [[w:Sulci Gordii|Sulci Gordii]]
+  {{ImageNoteEnd|id=6}}
+  {{ImageNote|id=7|x=1358|y=1788|w=382|h=438|dimx=2400|dimy=2600|style=2}}
+  [[w:Gigas Sulci|Gigas Sulci]]
+  {{ImageNoteEnd|id=7}}
+  {{ImageNote|id=8|x=1775|y=1224|w=74|h=126|dimx=2400|dimy=2600|style=2}}
+  [[w:Sulci Gordii|Sulci Gordii]]
+  {{ImageNoteEnd|id=8}}
+  {{ImageNote|id=9|x=1410|y=855|w=260|h=321|dimx=2400|dimy=2600|style=2}}
+  Cyane Sulci
+  {{ImageNoteEnd|id=9}}
+  {{ImageNote|id=10|x=1410|y=2322|w=139|h=174|dimx=2400|dimy=2600|style=2}}
+  Gigas Fossae
+  {{ImageNoteEnd|id=10}}
+  {{ImageNote|id=11|x=1319|y=1441|w=35|h=35|dimx=2400|dimy=2600|style=2}}
+  Karzok {{en|[[w:impact crater|(impact crater)]]}}
+  {{ImageNoteEnd|id=11}}
+  {{ImageNote|id=12|x=1215|y=1515|w=35|h=35|dimx=2400|dimy=2600|style=2}}
+  Pangboche {{en|[[w:impact crater|(impact crater)]]}}
+  {{ImageNoteEnd|id=12}}
+  {{ImageNote|id=13|x=108|y=482|w=1272|h=1346|dimx=2400|dimy=2600|style=2}}
+  [[w:Lycus Sulci|Lycus Sulci]]
+  {{ImageNoteEnd|id=13}}
+  {{ImageNote|id=14|x=304|y=2088|w=395|h=508|dimx=2400|dimy=2600|style=2}}
+  Gordii Dorsum
+  {{ImageNoteEnd|id=14}}
+  {{ImageNote|id=15|x=4|y=1124|w=52|h=52|dimx=2400|dimy=2600|style=2}}
+  Tooting {{en|[[w:impact crater|(impact crater)]]}}
+  {{ImageNoteEnd|id=15}}
+  {{ImageNote|id=16|x=595|y=69|w=916|h=504|dimx=2400|dimy=2600|style=2}}
+  [[w:Acheron Fossae|Acheron Fossae]]
+  {{ImageNoteEnd|id=16}}
+  {{ImageNote|id=17|x=1701|y=91|w=651|h=994|dimx=2400|dimy=2600|style=2}}
+  [[w:Cyane Fossae|Cyane Fossae]]
+  {{ImageNoteEnd|id=17}}
+  {{ImageNote|id=18|x=4|y=4|w=712|h=647|dimx=2400|dimy=2600|style=2}}
+  [[w:Amazonis Planitia|Amazonis Planitia]]
+  {{ImageNoteEnd|id=18}}
+  {{ImageNote|id=19|x=4|y=647|w=187|h=1693|dimx=2400|dimy=2600|style=2}}
+  [[w:Amazonis Planitia|Amazonis Planitia]]
+  {{ImageNoteEnd|id=19}}
+  
+  [[Category:Olympus Mons]]
+  [[Category:Images by MOLA]]
+  [[Category:Maps of Tharsis quadrangle]]
+---
+source: commons.wikimedia.org
+file: Nanedi_channel.JPG
+date: 2019-06-15 18:11:32.374260
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=Inner channel in Nanedi Valles, as seen by mgs.  Location is 5 N and 48.4 W}}
+  |Source=http://www.msss.com/mars_images/moc/2_2_98_release/8704/
+  |Author=Jim Secosky modified nasa image.
+  |Date=10/6/09
+  |Permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Nanedi Valles]]
+  [[Category:Photos of Mars by the Mars Global Surveyor MOC]]
+  [[Category:Water on Mars]]
+  [[Category:Valleys and canyons on Mars]]
+  [[Category:Swiss Cheese terrain]]
+---
+source: commons.wikimedia.org
+file: Monolith55103h-crop.jpg
+date: 2019-06-15 18:11:32.853079
+text: |
+  {{Information
+  |Description = {{en|1=The [[:en:Phobos (moon)|Phobos]] Monolith (right of center) as taken by the [[:en:Mars Global Surveyor|Mars Global Surveyor]] (MOC Image 55103) in 1998. It is located near 15°N, 14°W, a few km east of [[:en:Stickney (crater)|Stickney]] crater. It is likely just a boulder.}}
+  |Source = Cropped from [http://ida.wr.usgs.gov/html/orb_0551/55103.html Mars Global Surveyor MOC Image 55103 - Browse Page]
+  *[http://ida.wr.usgs.gov/fullres/divided/orb_0551/55103h.jpg Direct image (8th section from above source page)]
+  *[http://www.bautforum.com/conspiracy-theories/91245-say-aint-so-buzz.html Bad Astronomy forum]
+  |Author = Mars Global Surveyor
+  |Date= 2009-07-28 (creation of cropped image)
+  }}
+  
+  {{PD-USGov-NASA}}
+  
+  [[Category:Photos of Phobos (moon) by MOC]]
+  [[Category:Surface features of moons]]

@@ -1,0 +1,81 @@
+source: en.wikipedia.org
+file: GALEX
+date: 2019-06-15 17:11:26.588289
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/893802619
+---
+source: commons.wikimedia.org
+file: GALEX_Field_of_View.jpg
+date: 2019-06-15 17:11:28.121676
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Field of View Image
+  
+  The Galaxy Evolution Explorer specializes in surveying galaxies in ultraviolet light. Its telescope, 50 centimeters (19.7 inches) in diameter, has a field of view that is much wider than most ground-based and space-based telescopes. This field of view, nearly three times the diameter of the Moon, allowed the Galaxy Evolution Explorer to discover seemingly newborn galaxies in our local universe. The telescope surveyed thousands of galaxies before finding three-dozen of these newborns.}}
+  |date=2004-12-21
+  |source=http://www.galex.caltech.edu/media/glx2004-01r_img07.html
+  |author=NASA/JPL-Caltech
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Astronomical images]]
+  [[Category:GALEX images of galaxies]]
+---
+source: commons.wikimedia.org
+file: A-Mira-Full_down_sampled_and_cropped.jpg
+date: 2019-06-15 17:11:29.368806
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  | Description    ={{en|1=[[w:Mira|Mira A]] is a [[red giant]] [[variable star]] in the [[constellation]] Cetus.  This ultraviolet-wavelength image mosaic, taken by NASA's Galaxy Evolution Explorer, shows a comet-like "tail" stretching 13 [[Light-years]] across space.  The "tail" consists of hydrogen gas blown off of the star, with the material at the furthest end of the "tail" having been emitted about 30,000 years ago.  The tail-like configuration of the emitted material appears to result from Mira's uncommonly high speed relative to the [[Milky Way]] [[galaxy]]'s ambient gas-- about 130 kilometers per second.[[Mira]] itself is seen as a small white dot inside a blue bulb. You could also see many stars and galaxies at the image.}}
+  | Date           = 
+  | Source         = http://www.galex.caltech.edu/media/glx2007-04r_img01.html
+  | Author         = NASA
+  | Permission     = 
+  | Other_versions = [[File:Mira.jpg|thumb|left|300px|Mira.jpg]] [[File:Mira-uv-bow-shock-tail-vertical.jpg|thumb|center|100px|Mira-uv-bow-shock-tail-vertical.jpg]] 
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Mira]]
+  [[Category:GALEX images of stars]]
+---
+source: commons.wikimedia.org
+file: Ultraviolet_image_of_the_Cygnus_Loop_Nebula_crop.jpg
+date: 2019-06-15 17:11:30.369607
+text: |
+  {{Information
+  |Description=
+  {{ar|1=محاليق ساخنة من الغُبار والغاز تلمعُ لمعانًا مُضيئًا في هذه الصُورة فوق البنفسجيَّة لِسديم الحجاب، التُقطت بِواسطة مسبار وكالة ناسا المُسكتشف المُسمَّى إيڤولوشن. يقعُ هذا السديم على بُعد حوالي 1,500 سنة ضوئيَّة، وهو عبارة عن بقايا مُستعرٍّ أعظم، نجم عن انفجارٍ نجميٍّ عملاق حدث مُنذُ ما بين 5,000 و8,000 سنة. يمتدُّ سديم الحجاب بشكلٍ يفوق حجم البدر في سماء الليل، وهو مدسوسٌ إلى جانب إحدى 'أجنحة التِّم' في عُنقُود الحجاب النجمي.  خُيُوطُ الغاز والغُبار المرئيَّة هُنا بِالأشعَّة فوق البنفسجيَّة تسخَّنت بِسبب الصدمة الارتداديَّة المُتولِّدة عن الانفجار النجمي، التي ما تزال تنتشر نحو الخارج بعيدًا عن القلب حيثُ وقع الانفجار الأساسي. يُعتقُ بِأنَّ الانفجار سالِف الذِكر كان لامعًا لِلدرجةٍ تُمكِّنُ المرء رؤيته من على سطح الأرض بِالعين المُجرَّدة.}} 
+  {{en|1=Wispy tendrils of hot dust and gas glow brightly in this ultraviolet image of the Cygnus Loop Nebula, taken by NASA’s Galaxy Evolution Explorer. The nebula lies about 1,500 light-years away, and is a supernova remnant, left over from a massive stellar explosion that occurred 5,000-8,000 years ago. The Cygnus Loop extends more than three times the size of the full moon in the night sky, and is tucked next to one of the 'swan’s wings' in the constellation of Cygnus.  The filaments of gas and dust visible here in ultraviolet light were heated by the shockwave from the supernova, which is still spreading outward from the original explosion. The original supernova would have been bright enough to be seen clearly from Earth with the naked eye.}}
+  |Source={{Derived from|Cygnus Loop Nebula.jpg|display=50}}
+  |date=2012-03-26
+  |author=NASA/JPL-Caltech 
+  |permission={{PD-USGov-NASA}}
+  |other_versions=
+  |other_fields=
+  }}
+  {{Assessments|featured=1|com-nom=Filigree and Shadow.jpg|enwiki=1|fawiki=1|enwiki-nom=Cygnus Loop|arwiki=1}}
+  {{RetouchedPicture|Cropped|editor=mattbuck|orig=Cygnus Loop Nebula.jpg}}
+  == {{Original upload log}} ==
+  This image is a derivative work of the following images:
+  
+  *[[:File:Ultraviolet_image_of_the_Cygnus_Loop_Nebula.jpg]] licensed with PD-USGov-NASA
+  **2012-03-30T03:48:41Z [[User:Dipankan001|Dipankan001]] 6000x6000 (5259473 Bytes) ''<nowiki>Cropped as suggested in COM:FPC</nowiki>''
+  **2012-03-27T13:56:08Z [[User:Dipankan001|Dipankan001]] 6000x6000 (5259473 Bytes) ''<nowiki></nowiki>''
+  
+  {{Uploaded with derivativeFX}}
+  
+  
+  [[Category:GALEX images of nebulae]]
+  [[Category:Veil Nebula]]
+  [[Category:Images modified by mattbuck]]
+  [[Category:Featured pictures of astronomy]]
+  [[Category:Featured pictures from NASA]]
+  [[Category:Featured pictures on Wikipedia, Arabic]]

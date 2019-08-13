@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_3YR_C09008
+product-selection: ACS_10_3YR_C09008|table||||C09008|PRESENCE+OF+UNMARRIED+PARTNER+OF+HOUSEHOLDER+FOR+CHILDREN+UNDER+18+YEARS+IN+HOUSEHOLDS
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:40:18.023078

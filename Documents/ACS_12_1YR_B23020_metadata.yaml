@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_12_1YR_B23020
+product-selection: ACS_12_1YR_B23020|table||||B23020|MEAN+USUAL+HOURS+WORKED+IN+THE+PAST+12+MONTHS+FOR+WORKERS+16+TO+64+YEARS
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:48:31.760961

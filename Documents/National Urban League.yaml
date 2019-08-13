@@ -1,0 +1,47 @@
+source: en.wikipedia.org
+file: National Urban League
+date: 2019-06-26 20:46:10.187455
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/891722384
+---
+source: commons.wikimedia.org
+file: UrbanLeagueHoustonTX.JPG
+date: 2019-06-26 20:46:10.848547
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=Houston Area [[:en:National Urban League|Urban League]] in Downtown Houston}}
+  |Source={{Own}}
+  |Author=[[User:WhisperToMe|WhisperToMe]]
+  |Date=
+  |Permission=Public domain
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-self}}
+  
+  [[Category:Urban League]]
+  [[Category:Buildings in Houston]]
+---
+source: commons.wikimedia.org
+file: National_Urban_League_120_Wall_jeh.JPG
+date: 2019-06-26 20:46:11.635055
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=Looking east at doorway of 120 Wall Street, National Urban League, on a sunny midday.
+  }}
+  |Source={{own}}
+  |Author=[[User:Jim.henderson|Jim.henderson]]
+  |Date=2010-02-06
+  |Permission=
+  |other_versions=
+  }}
+  {{Location|40|42.274|0|N|74|0.38|0|W|alt:0_source:exif_heading:E}}
+  
+  == {{int:license-header}} ==
+  {{cc-zero}}
+  
+  [[Category:120 Wall Street]]
+  [[Category:Urban League]]
+  [[Category:Entrances]]

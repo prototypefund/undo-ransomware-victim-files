@@ -1,0 +1,91 @@
+source: en.wikipedia.org
+file: Lunar Orbiter program
+date: 2019-06-15 17:58:58.488355
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/882813867
+---
+source: commons.wikimedia.org
+file: Lunar_orbiter_1_(large).jpg
+date: 2019-06-15 17:58:59.263416
+text: |
+  {{Information
+  |Description= Lunar orbiter 1 (large). 
+  |Source=NSSDC NASA PD image
+  |Date=
+  |Author=User [[:en:User:Rotem Dan|Rotem Dan]] on [http://en.wikipedia.org en.wikipedia]
+  |Permission={{PD-USGov-NASA}}
+  |other_versions=
+  Originally from [http://en.wikipedia.org en.wikipedia]; description page is (was) [[:en:Image:Lunar orbiter 1 (large).jpg|here]]
+  <nowiki>* 16:22, 19 June 2003 [[:en:User:Rotem Dan|Rotem Dan]] 750×416 (34,401 bytes) <span class="comment">(Lunar orbiter 1 (large). NSSDC NASA PD image)</span>
+  </nowiki>
+  }}
+  
+  (Uploaded using [http://tools.wikimedia.de/~magnus/commonshelper.php CommonsHelper] or [http://tools.wikimedia.de/~magnus/pushforcommons.php PushForCommons])
+  [[Category:Lunar Orbiter program]]
+---
+source: commons.wikimedia.org
+file: Lunar_Orbiter_diagram.png
+date: 2019-06-15 17:58:59.852690
+text: |
+  {{Information
+  |Description={{en|Lunar Orbiter Diagram (NASA)}}
+  |Source=Downloaded from NASA Headquarters History website.
+  * {{transferred from|en.wikipedia|TheDJ|CommonsHelper}}
+  |Date=
+  |Author=NASA
+  |Permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  == {{original upload log}} ==
+  {{original description page|en.wikipedia|Lunar_Orbiter_diagram.png}}
+  * 2004-07-08 18:04 [[:en:User:Reubenbarton|Reubenbarton]] 587×400× (44128 bytes) ''<nowiki>Lunar Orbiter Diagram (NASA)</nowiki>''
+  
+  [[Category:Lunar Orbiter program]]
+---
+source: commons.wikimedia.org
+file: Lunar_Orbiter_camera_(large).jpg
+date: 2019-06-15 17:59:00.306042
+text: |
+  {{Information
+  |Description={{en|Lunar Orbiter camera (large).}}
+  |Source=http://nssdc.gsfc.nasa.gov/planetary/image/lo_camera.jpg NSSDC NASA PD image
+  * {{transferred from|en.wikipedia|TheDJ|CommonsHelper}}
+  |Date=
+  |Author=NASA
+  |Permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  == {{original upload log}} ==
+  {{original description page|en.wikipedia|Lunar_Orbiter_camera_%28large%29.jpg}}
+  * 2003-06-19 16:31 [[:en:User:Rotem Dan|Rotem Dan]] 768×604× (157446 bytes) ''<nowiki>Lunar Orbiter camera (large). NSSDC NASA PD image</nowiki>''
+  
+  [[Category:Lunar Orbiter program]]
+---
+source: commons.wikimedia.org
+file: Comparison_between_original_and_LOIRP_result.jpg
+date: 2019-06-15 17:59:01.357949
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=This is a comparison of an original image (top) made by Lunar Orbiter 1 in 1966 and a digitally processed version (bottom) released by NASA in 2008. The cleanup work is being done as part of the Lunar Orbiter Image Recovery Project (LOIRP).}}
+  |Source=[[:Image:First View of Earth from Moon - reprocessed.png]] and [[:Image:First View of Earth from Moon.jpg]]
+  |Author=NASA (compositing by [[User:TheDJ]])
+  |Date=2008-11-17 (original 1966-08-23)
+  |Permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Photos of Earth by Lunar Orbiter spacecraft]]
+  [[Category:Lunar Orbiter Image Recovery Project]]
+  [[Category:Before and after]]
+  [[Category:Compositing]]

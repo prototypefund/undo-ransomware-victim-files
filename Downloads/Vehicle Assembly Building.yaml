@@ -1,0 +1,127 @@
+source: en.wikipedia.org
+file: Vehicle Assembly Building
+date: 2019-06-15 20:02:42.057504
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/900306084
+---
+source: commons.wikimedia.org
+file: VABConstruction.jpg
+date: 2019-06-15 20:02:43.704432
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=Complex 39 reflection shot of the Vehicle Assembly Building (VAB) under construction with the Launch Control Center (LCC) and Service Towers as seen from across the Turning Basin.}}
+  |Source=[http://grin.hq.nasa.gov/IMAGES/LARGE/GPN-2000-000957.jpg Great Images in NASA] [http://grin.hq.nasa.gov/ABSTRACTS/GPN-2000-000957.html Description]
+  |Date={{taken on|1965-01-05}}
+  |Author=NASA
+  |Permission={{PD-USGov-NASA}}
+  |other_versions=
+  }}
+  {{NASA-image|id=GPN-2000-000957|alternateid=65C-0125|center=KSC}}
+  
+  == {{Original upload log}} ==
+  {{transferred from|pl.wikipedia}} {{original description page|pl.wikipedia|VABConstruction.jpg}}
+  {| class="wikitable"
+  ! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}}
+  |-
+  | 07:01, 5 September 2005 || 640 × 488 (377,393 bytes) || {{uv|Leafnode|w:pl:}}
+  |}
+  
+  
+  [[Category:1965 in Florida]]
+  [[Category:Construction of NASA facilities]]
+  [[Category:Great Images in NASA]]
+  [[Category:January 1965 in the United States]]
+  [[Category:Launch Control Center]]
+  [[Category:Mobile Launcher Platforms (NASA)]]
+  [[Category:Vehicle Assembly Building]]
+---
+source: commons.wikimedia.org
+file: Space_Shuttle_Discovery_lowered_toward_external_tank_and_solid_rocket_boosters_(STS-124).jpg
+date: 2019-06-15 20:02:44.913735
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=A crane lowers the [[Space Shuttle Discovery|Space Shuttle ''Discovery'']] ([[STS-124]]) toward the [[W:external tank|external tank]] and [[W:Space Shuttle Solid Rocket Booster|solid rocket boosters]] in high bay 3 of the [[Vehicle Assembly Building]] at [[W:Kennedy Space Center|Kennedy Space Center]].}}
+  |Source=NASA web site; description,[http://www.nasa.gov/50th/favpic/discoveryBooster.html] high resolution image.[http://www.nasa.gov/images/content/261183main_15_DiscoveryDescending_full.jpg]
+  * A crop of: http://mediaarchive.ksc.nasa.gov/detail.cfm?mediaid=35754
+  |Author=NASA
+  |Date=2008-04-26
+  |Permission=
+  |other_versions=
+  }}
+  {{retouched|Cropped}}
+  {{NASA-image|id=KSC-08PD-1046|center=KSC}}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:STS-124]]
+  [[Category:Space Shuttle orbiters in the Vehicle Assembly Building]]
+  [[Category:Cranes (machines)]]
+  [[Category:Space Shuttle external tanks]]
+  [[Category:Space Shuttle Solid Rocket Boosters]]
+---
+source: commons.wikimedia.org
+file: VAB_aerial_1977.jpg
+date: 2019-06-15 20:02:45.462131
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  | description = 
+  {{en|Aerial view of Kennedy Space Center's Vehicle Assembly Building, with vertical U.S. flag and the emblem of the 1976 bicentennial celebrations [[File:United States Bicentennial star 1976 (no text).svg|30px]] (which remained in place until 1998[http://www-pao.ksc.nasa.gov/kscpao/release/1998/93-98.htm]).}}
+  {{es|Vista aerea del VAB en 1977.}}
+  {{NRHP|99001642}}
+  | date        = 1977-04-06
+  | source      = [http://images.ksc.nasa.gov/photos/1977/captions/KSC-377C-0082.41.html Kennedy Space Center Photo Archive] ([http://images.ksc.nasa.gov/photos/1977/medium/KSC-377C-0082.41.jpg image link])
+  | author      = NASA
+  | permission  = 
+  }}
+  {{Object location dec|28.585556|-80.651389|region:US_type:landmark_scale:1500}}<!-- Location from http://en.wikipedia.org/w/index.php?title=National_Register_of_Historic_Places_listings_in_Brevard_County,_Florida&redirect=no&useskin=monobook&oldid=510466461 -->
+  {{NASA-image|id=KSC-377C-0082.41|center=KSC}}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:6 April]]
+  [[Category:1977 in Florida]]
+  [[Category:1977 photographs]]
+  [[Category:Aerial photographs of buildings]]
+  [[Category:April 1977 in the United States]]
+  [[Category:United States Bicentennial]]
+  [[Category:Aerial photographs of the Vehicle Assembly Building]]
+  [[Category:Aerial photographs of the Kennedy Space Center]]
+---
+source: commons.wikimedia.org
+file: Vehicle_Assembly_Building_damage_from_Hurricane_Frances_night_view.jpg
+date: 2019-06-15 20:02:45.955541
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  | description = 
+  {{en|Xenon lights on the ground near the [[w:Vehicle Assembly Building|Vehicle Assembly Building]] (VAB) bathe the south wall in light, allowing workers on scaffolds (center and upper right near the NASA logo) to cover the holes with corrugated steel so the facility can be returned to performing operational activities. The VAB lost 820 panels from the south wall during [[w:Hurricane Frances|Hurricane Frances]], and 25 additional panels during [[w:Hurricane Jeanne|Hurricane Jeanne]].}}
+  {{el|Νυκτερινή επισκευή του Κτηρίου Συναρμολόγησης Οχημάτων μετά τις καταστροφές από τον τυφώνα Φράνσις. ΝΑΣΑ Διαστημικό κέντρο Κένεντι.}}
+  | date        = {{taken on|2004-09-30}}
+  | source      = [http://mediaarchive.ksc.nasa.gov/detail.cfm?mediaid=23907 Kennedy Space Center Media Gallery] ([http://www-pao.ksc.nasa.gov/images/large/04pd2025.jpg image link])
+  | author      = NASA
+  | permission  = 
+  }}
+  {{NASA-image|id=KSC-04PD-2025|center=KSC}}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  == {{Original upload log}} ==
+  {{transferred from|en.wikipedia}} {{original description page|en.wikipedia|Vehicle_Assembly_Building_damage_from_Hurricane_Frances_night_view.jpg}}
+  {| class="wikitable"
+  ! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}}
+  |-
+  | 02:26, 2 October 2004 || 3,008 × 2,000 (423,123 bytes) || {{uv|Ke4roh|w:en:}}
+  |}
+  
+  [[Category:2004 in Florida]]
+  [[Category:September 2004 in the United States]]
+  [[Category:Structures in the United States at night]]
+  [[Category:Effects of Hurricane Frances in Florida]]
+  [[Category:Effects of Hurricane Jeanne in Florida]]
+  [[Category:Night in Brevard County, Florida]]
+  [[Category:Vehicle Assembly Building]]

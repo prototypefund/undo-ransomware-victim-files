@@ -1,0 +1,63 @@
+source: en.wikipedia.org
+file: Deep Space Network
+date: 2019-06-15 16:51:41.839818
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/896432014
+---
+source: commons.wikimedia.org
+file: Deep-space-op.jpg
+date: 2019-06-15 16:51:42.901722
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=This is an image of the primary space flight operations room at the Jet Propulsion Laboratories, in Pasadena, California.  The DSN ([[:en:Deep Space Network|Deep Space Network]]) is maintained and operated by the Jet Propulsion Laboratories.}}
+  |Source=This image can be found here on NASA's site: http://www2.jpl.nasa.gov/galileo/mission/mission-op-data-images.htm
+  https://timeandnavigation.si.edu/multimedia-asset/deep-space-operations-control-room
+  |Date=1993-11-11
+  |Author=NASA/JPL-Caltech
+  |Permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  == {{original upload log}} ==
+  {{transferred from|en.wikipedia|Sreejithk2000|CommonsHelper}} {{original description page|en.wikipedia|Deep-space-op.jpg}}
+  * 2004-02-13 03:44 [[:en:User:Sennheiser|Sennheiser]] 200×201× (54549 bytes) ''<nowiki></nowiki>''
+  
+  [[Category:Deep Space Network]]
+---
+source: commons.wikimedia.org
+file: Goldstone_DSN_antenna.jpg
+date: 2019-06-15 16:51:43.651974
+text: |
+  Sunset shot of the 70{{nbsp}}m antenna at Goldstone, California.
+  
+  The [[w:Goldstone Deep Space Communications Complex|Goldstone Deep Space Communications Complex]], located in the [[w:Mojave Desert|Mojave Desert]] in California, is one of three complexes which comprise [[w:NASA|NASA]]'s [[w:Deep Space Network|Deep Space Network]] (DSN). The DSN provides radio communications for all of NASA's interplanetary spacecraft and is also utilized for radio astronomy and radar observations of the solar system and the universe.
+  
+  From http://deepspace.jpl.nasa.gov/dsn/gallery/goldstone6.html
+  
+  {{PD-USGov-NASA}}
+  
+  [[Category:DSS 14]]
+  [[Category:Sunsets of California]]
+  [[Category:Media missing infobox template]]
+---
+source: commons.wikimedia.org
+file: Illustration_of_Juno_spacecraft_at_Jupiter_(PIA19639).jpg
+date: 2019-06-15 16:51:45.276684
+text: |
+  {{Information
+  |Description={{en|1=This artist's rendering shows NASA's Juno spacecraft making one of its close passes over Jupiter.}}
+  |Source=http://photojournal.jpl.nasa.gov/catalog/PIA19639
+  |Date=2015
+  |Author=NASA/JPL-Caltech
+  |Permission=
+  |other_versions=
+  }}
+  {{NASA-image|center=JPL|id=PIA19639}}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Juno (spacecraft)]]

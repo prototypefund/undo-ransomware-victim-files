@@ -1,0 +1,21 @@
+source: commons.wikimedia.org
+file: Rail map scotland 2014.png
+date: 2019-06-13 16:41:19.569664
+text: |
+  {{Convert to SVG |1=transport map }}
+  
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Map of the rail routes of Scotland in 2018, shown in red }}
+  |date=2014-08-20 18:32:35
+  |source={{own}}
+  |author=[[User:Cnbrb|Cnbrb]]
+  |permission=
+  |other_versions=
+  }}
+  {{OpenStreetMap}}
+  
+  =={{int:license-header}}==
+  {{self|cc-zero}}
+  
+  [[Category:Rail transport maps of Scotland]]

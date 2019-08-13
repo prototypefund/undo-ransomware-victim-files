@@ -1,0 +1,23 @@
+source: commons.wikimedia.org
+file: Sofia Metro-Map-en.png
+date: 2019-06-13 16:32:12.462183
+text: |
+  {{Convert to SVG|transport map}}
+  
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Map of Sofia Metro as of June 2012, with planned lines}}
+  |date=2012-06-29
+  |source={{own}}
+  |author=[[User:Stoyan89|Stoyan89]]
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  
+  English language version of [[:File:Sofia_Metro-Map.png]]
+  
+  =={{int:license-header}}==
+  {{self|cc-zero}}
+  
+  [[Category:Sofia metro maps]]

@@ -1,0 +1,272 @@
+﻿Bundle of principal parts
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Bundle_of_principal_parts
+Licensed under CC BY-SA 3.0:
+https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+
+Bundle of principal parts
+    • 
+  
+    
+      
+        0
+        →
+        
+          
+            S
+            y
+            m
+          
+          
+            n
+          
+        
+        (
+        
+          Ω
+          
+            X
+          
+        
+        )
+        ⊗
+        L
+        →
+        
+          P
+          
+            n
+          
+        
+        (
+        L
+        )
+        →
+        
+          P
+          
+            n
+            −
+            1
+          
+        
+        (
+        L
+        )
+        →
+        0.
+In algebraic geometry, given a line bundle L on a smooth variety X, the bundle of n-th order principal parts of L is a vector bundle of rank n + 1 that, roughly, parametrizes n-th order Taylor expansions of sections of L.
+Precisely, let I be the ideal sheaf defining the diagonal embedding 
+  
+    
+      
+        X
+        ↪
+        X
+        ×
+        X
+      
+    
+    {\displaystyle X\hookrightarrow X\times X}
+  
+
+ and 
+  
+    
+      
+        p
+        ,
+        q
+        :
+        V
+        (
+        
+          I
+          
+            n
+            +
+            1
+          
+        
+        )
+        →
+        X
+      
+    
+    {\displaystyle p,q:V(I^{n+1})\to X}
+  
+
+ the restrictions of projections 
+  
+    
+      
+        X
+        ×
+        X
+        →
+        X
+      
+    
+    {\displaystyle X\times X\to X}
+  
+
+ to 
+  
+    
+      
+        V
+        (
+        
+          I
+          
+            n
+            +
+            1
+          
+        
+        )
+        ⊂
+        X
+        ×
+        X
+      
+    
+    {\displaystyle V(I^{n+1})\subset X\times X}
+  
+
+. Then the bundle of n-th order principal parts is
+
+  
+    
+      
+        
+          P
+          
+            n
+          
+        
+        (
+        L
+        )
+        =
+        
+          p
+          
+            ∗
+          
+        
+        
+          q
+          
+            ∗
+          
+        
+        L
+        .
+      
+    
+    {\displaystyle P^{n}(L)=p_{*}q^{*}L.}
+  
+
+
+Then 
+  
+    
+      
+        
+          P
+          
+            0
+          
+        
+        (
+        L
+        )
+        =
+        L
+      
+    
+    {\displaystyle P^{0}(L)=L}
+  
+
+ and there is a natural exact sequence of vector bundles
+
+  
+    
+      
+        0
+        →
+        
+          
+            S
+            y
+            m
+          
+          
+            n
+          
+        
+        (
+        
+          Ω
+          
+            X
+          
+        
+        )
+        ⊗
+        L
+        →
+        
+          P
+          
+            n
+          
+        
+        (
+        L
+        )
+        →
+        
+          P
+          
+            n
+            −
+            1
+          
+        
+        (
+        L
+        )
+        →
+        0.
+      
+    
+    {\displaystyle 0\to \mathrm {Sym} ^{n}(\Omega _{X})\otimes L\to P^{n}(L)\to P^{n-1}(L)\to 0.}
+  
+
+
+where 
+  
+    
+      
+        
+          Ω
+          
+            X
+          
+        
+      
+    
+    {\displaystyle \Omega _{X}}
+  
+
+ is the sheaf of differential one-forms on X.
+See also
+    • Linear system of divisors (bundles of principal parts can be used to study the oscillating behaviors of a linear system.)
+Linear system of divisors (bundles of principal parts can be used to study the oscillating behaviors of a linear system.)
+Jet (mathematics) (a closely related notion)
+References
+    • ), Berlin, New York: Springer-Verlag, ISBN 978-3-540-62046-4, MR 1644323.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+William Fulton. (1998), Intersection theory, Ergebnisse der Mathematik und ihrer Grenzgebiete. 3. Folge., 2 (2nd ed.), Berlin, New York: Springer-Verlag, ISBN 978-3-540-62046-4, MR 1644323.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+Appendix II of Exp II of Berthelot, Pierre; Alexandre Grothendieck; Luc Illusie, eds. (1971). Séminaire de Géométrie Algébrique du Bois Marie - 1966-67 - Théorie des intersections et théorème de Riemann-Roch - (SGA 6) (Lecture notes in mathematics 225) (in French). Berlin; New York: Springer-Verlag. xii+700. doi:10.1007/BFb0066283. ISBN 978-3-540-05647-8. MR 0354655.

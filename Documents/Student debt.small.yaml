@@ -1,0 +1,59 @@
+source: en.wikipedia.org
+file: Student debt
+date: 2019-06-26 21:17:10.506660
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/903182783
+---
+source: commons.wikimedia.org
+file: Student_loan_debt.png
+date: 2019-06-26 21:17:11.523133
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{fr|1=Dette étudiante américaine. Image créée par le gouvernement fédéral américain. Obtenu grâce à https://fred.stlouisfed.org/graph/?id=SLOAS,#0}}
+  |date=2016-12-21
+  |source=FRED https://fred.stlouisfed.org/graph/?id=SLOAS,#0
+  |author=[[File:Wikideas.jpeg|20px|link=User:Wikideas1|Wikideas1]] [[:en:User:Wikideas1|Wikideas1]] ([[:en:User talk:Kcida10|talk]]) ([[:en:Special:ListFiles/Wikideas1|Uploads]])
+  |permission=
+  |other versions=
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-USGov}}
+  
+  == {{Original upload log}} ==
+  {{original description page|en.wikipedia|Student_loan_debt.png}}
+  * 2017-01-21 18:17 [[:en:User:Farcaster|Farcaster]] 834×435× (40942 bytes) ''<nowiki>Add % GDP line</nowiki>''
+  * 2016-12-21 07:51 [[:en:User:Wikideas1|Wikideas1]] 1172×472× (47806 bytes) ''<nowiki>{{Information | Description = Student_loan_debt | Source = FRED https://fred.stlouisfed.org/graph/?id=SLOAS,#0 | Date = 21 December 16 | Author = [[File:Wikideas.jpeg|20px|link=User:Wikideas1|Wikideas1]] [[User:Wikideas1...</nowiki>''
+  
+  [[Category:Debt in the United States]]
+  [[Category:Debt-to-GDP ratio of the United States]]
+  [[Category:Student loans]]
+  [[Category:FRED graphs]]
+---
+source: commons.wikimedia.org
+file: U.S._Student_Loan_Debt_Distribution_Q4_2012.png
+date: 2019-06-26 21:17:12.040233
+text: |
+  {{delete|reason=Does not appear to be a free image. [https://web.archive.org/web/20130408181303/http://www.newyorkfed.org/newsevents/mediaadvisory/2013/Lee022813.pdf Image source] is a New York Federal Reserve Bank presentation. [https://www.newyorkfed.org/privacy/termsofuse NYFRB terms of use] specify "you may reproduce any information contained on the Bank's website if the reproduced information is not used for private gain".|subpage=File:U.S. Student Loan Debt Distribution Q4 2012.png|year=2019|month=May|day=17}}
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|U.S. Student Loan Debt Distribution Q4 2012}}
+  |Source=http://www.newyorkfed.org/studentloandebt/
+  |Date=2013-02
+  |Author=Federal Reserve Bank of NY
+  |Permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-Federal Reserve}}
+  
+  == {{Original upload log}} ==
+  {{original description|en.wikipedia|U.S.+Student+Loan+Debt+Distribution+Q4+2012.png}}
+  {| class="wikitable"
+  ! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+  |-
+  | 2014-07-02 15:42 || 960×720× (91808 bytes) || [[:en:User:Farcaster|Farcaster]] || ''<nowiki>Uploading a public-domain item using [[Wikipedia:File_Upload_Wizard|File Upload Wizard]]</nowiki>''
+  |}
+  
+  [[Category:student loans]]

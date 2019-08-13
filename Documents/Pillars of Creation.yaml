@@ -1,0 +1,66 @@
+source: en.wikipedia.org
+file: Pillars of Creation
+date: 2019-06-15 18:48:38.103106
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/891035619
+---
+source: commons.wikimedia.org
+file: Eagle_nebula_pillars.jpg
+date: 2019-06-15 18:48:38.875991
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description = [[:nl:Afbeelding:Aderlaarsnevel.jpg]] Star forming pillars in the Eagle Nebula, as seen by the [[Hubble Space Telescope]]'s [[Wide Field and Planetary Camera 2|WFPC2]]. The picture is composed of 32 different images from four separate cameras in this instrument. The photograph was made with light emitted by different elements in the cloud and appears as a different colour in the composite image: green for hydrogen, red for singly-ionized sulphur and blue for double-ionized oxygen atoms. The missing part at the top right is because one of the four cameras has a magnified view of its portion, which allows astronomers to see finer detail. The images from this camera were scaled down in size to match those from the other three cameras. Further information at: Credit: NASA, Jeff Hester, and Paul Scowen (Arizona State University)
+  |Source      = http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/34/image/a
+  |Date        =  {{other date|circa|2003}} ( HST image is from [http://www.nasa.gov/content/goddard/hubble-goes-high-definition-to-revisit-iconic-pillars-of-creation/#.VNBpqixixAN 1995])
+  |Author      = Credit: NASA, Jeff Hester, and Paul Scowen (Arizona State University)
+  |Permission  = 
+  |other_versions = {{DerivativeVersions|1=Eagle nebula pillars complete.jpg |2=EvolutionSystèmeSolaire-fragment1.png}}
+  <gallery>
+  Eagle nebula pillars 2014.jpg|[[:File:Eagle nebula pillars 2014.jpg|2015 HST visible light image, low resolution]] (1,227 × 1,280 pixels, 1.77 MB)
+  Pillars 2014 HST denoise 0.6 12.jpg|[[:File:Pillars 2014 HST denoise 0.6 12.jpg|2015 HST visible light image, medium resolution]] (4,100 × 4,276 pixels, 14.58 MB)
+  Pillars of creation 2014 HST WFC3-UVIS full-res denoised.jpg|[[:File:Pillars of creation 2014 HST WFC3-UVIS full-res denoised.jpg|2015 HST visible light image, full resolution]] (6,780 × 7,071 pixels, 44.76 MB; best viewed with one of the large-image browsers)
+  New view of the Pillars of Creation — infrared Heic1501b.jpg|[[:File:New view of the Pillars of Creation — infrared Heic1501b.jpg|2015 HST infrared image]] (3,249 × 3,045 pixels, 5.8 MB)
+  </gallery>
+  }}
+  
+  {{Assessments|fawiki=1|enwiki=1}}
+  
+  == {{int:license-header}} ==
+  {{PD-Hubble}}
+  
+  [[Category:Pillars of Creation]]
+  [[Category:Hubble images of nebulae]]
+  [[Category:Iconic photographs]]
+  [[Category:Astronomy Picture of the Day]]
+---
+source: commons.wikimedia.org
+file: Eagle_Nebula_4xHubble_WikiSky.jpg
+date: 2019-06-15 18:48:40.166165
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=Four [[:en:Hubble Space Telescope]]'s images of [[:en:Eagle Nebula]]}}
+  |Source=[[:en:WikiSky]]'s snapshot tool - [http://server1.sky-map.org/snapshot?img_size=&img_res=&ra=18.315587693727927&de=-13.811001822857047&angle=0.307567053235201&projection=tan&rotation=0.0&survey=DSS2&img_id=605%3A1293%3A60506%3A60523%3A208%3Aall&width=2000&height=1800&img_borders=605%3A1293%3A60506%3A60523&interpolation=bicubic2&jpeg_quality=0.95&max_preview_size=800&show_params=1&mouse_action=move]
+  |Author=[[:en:NASA]], [[:en:STScI]], [[:en:WikiSky]]
+  |Date=2008-08-24
+  |Permission=PD-HUBBLE
+  |other_versions=[[Image:Eagle nebula pillars.jpg|100px]] [[Image:Eaglefairy hst big.jpg|100px]] [[Image:NGC 6611 Hubble WikiSky.jpg|100px]] [[Image:Eagle Nebula (North-East part) Hubble WikiSky.jpg|100px]] 
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-Hubble}}
+  
+  [[Category:Eagle Nebula]]
+  [[Category:Hubble images of nebulae]]
+  {{ImageNote|id=1|x=108|y=328|w=742|h=445|dimx=2000|dimy=1800|style=2}}
+  The “Fairy”, from [[:File:Eaglefairy hst big.jpg|Eaglefairy hst big.jpg]]
+  {{ImageNoteEnd|id=1}}
+  {{ImageNote|id=2|x=958|y=838|w=291|h=388|dimx=2000|dimy=1800|style=2}}
+  The “Pillars of Creation”, from [[:File:Eagle nebula pillars.jpg|Eagle nebula pillars.jpg]]
+  {{ImageNoteEnd|id=2}}
+  {{ImageNote|id=3|x=1156|y=577|w=420|h=421|dimx=2000|dimy=1800|style=2}}
+  From [[:File:NGC 6611 Hubble WikiSky.jpg|NGC 6611 Hubble WikiSky.jpg]]
+  {{ImageNoteEnd|id=3}}
+  {{ImageNote|id=4|x=1541|y=84|w=447|h=418|dimx=2000|dimy=1800|style=2}}
+  From [[:File:Eagle Nebula (North-East part) Hubble WikiSky.jpg|Eagle Nebula (North-East part) Hubble WikiSky.jpg]]
+  {{ImageNoteEnd|id=4}}

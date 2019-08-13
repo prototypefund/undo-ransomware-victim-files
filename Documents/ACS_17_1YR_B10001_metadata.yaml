@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_17_1YR_B10001
+product-selection: ACS_17_1YR_B10001|table||||B10001|GRANDCHILDREN+UNDER+18+YEARS+LIVING+WITH+A+GRANDPARENT+HOUSEHOLDER+BY+AGE+OF+GRANDCHILD
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:51:43.326761

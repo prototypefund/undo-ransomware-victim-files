@@ -1,0 +1,19 @@
+source: commons.wikimedia.org
+file: Xsd_entity-relationship_model.png
+date: 2019-06-13 15:14:09.971492
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=a UML class model of the elements and the relationships between them, from the W3C XML schema (.xsd)}}
+  |Source         ={{own}}
+  |Author         =[[User:Ottomachin|Ottomachin]]
+  |Date           =2011-06-23
+  |Permission     =
+  |other_versions =
+  }}
+  
+  [[Category:Data structures]]
+  [[Category:XML]]
+  [[Category:Data modeling]]
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}

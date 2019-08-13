@@ -1,0 +1,30 @@
+source: en.wikipedia.org
+file: Richard F. Pettigrew
+date: 2019-06-26 21:03:14.890802
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/892298112
+---
+source: commons.wikimedia.org
+file: RFPettigrew.jpg
+date: 2019-06-26 21:03:15.704718
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|Richard F. Pettigrew.}}
+  |Source={{LOC-image|id=ggbain.05072}}
+  |Date=1913-06-10
+  |Author=Bain News Service, publisher
+  |Permission=
+  |other_versions=
+  <gallery>
+  R.F. Pettigrew LCCN2014685066.tif|<div style="text-align:center">tif<br>5,097 × 4,165</div>
+  </gallery>
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-Bain}}
+  
+  == {{Original upload log}} ==
+  {{original description page|en.wikipedia|RFPettigrew.jpg}}
+  * 2008-01-05 17:56 [[:en:User:Ari Publican|Ari Publican]] 652×706× (55698 bytes) ''<nowiki>http://hdl.loc.gov/loc.pnp/ggbain.05072</nowiki>''
+  
+  [[Category:Richard F. Pettigrew]]

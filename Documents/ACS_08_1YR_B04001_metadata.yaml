@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_08_1YR_B04001
+product-selection: ACS_08_1YR_B04001|table||||B04001|FIRST+ANCESTRY+REPORTED
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:07:20.761679

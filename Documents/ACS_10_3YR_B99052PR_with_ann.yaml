@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_3YR_B99052PR
+product-selection: ACS_10_3YR_B99052PR|table||||B99052PR|IMPUTATION+OF+YEAR+OF+ENTRY+FOR+POPULATION+BORN+OUTSIDE+PUERTO+RICO
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:13:32.445174

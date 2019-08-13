@@ -1,0 +1,32 @@
+source: en.wikipedia.org
+file: Brooklyn College
+date: 2019-06-26 14:15:31.473810
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/902909084
+---
+source: commons.wikimedia.org
+file: ItzhakPerlmanWhitehouse2.jpg
+date: 2019-06-26 14:15:35.520174
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{LangSwitch
+  |de=''Itzhak Perlman spielt während des White House State Dinners zu Ehren Queen Elizabeth II. am 7. Mai 2007''
+  |en=''Violinist Itzhak Perlman plays during the entertainment portion of the White House State Dinner in honor on Her Majesty Queen Elizabeth II, Monday evening, May 7, 2007, in the East Room at the White House.''
+  |es=''Itzhak Perlman toca durante la cena en la Casa Blanca en honor del la reina Elizabeth II. el 7 de 05 2007.''
+  }}
+  |Source=[http://www.whitehouse.gov/news/releases/2007/05/images/20070507_p050707sc-1032-1-515h.html The White House]
+  |Date=2007-05-07
+  |Author=[http://www.shealahcraighead.com/ Shealah Craighead] (United States Federal Government)
+  |Permission=
+  |other_versions=[[File:ItzhakPerlman2007.jpg|tump|200px]]
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov}}
+  
+  [[Category:Itzhak Perlman]]
+  [[Category:Music in 2007]]
+  [[Category:State dinners]]
+  [[Category:Musical performance in the White House]]
+  [[Category:Photographs by Shealah Craighead|20070507]]
+  [[Category:Music performances in the White House]]

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_12_1YR_C23004
+product-selection: ACS_12_1YR_C23004|table||||C23004|WORK+STATUS+IN+THE+PAST+12+MONTHS+BY+EMPLOYMENT+STATUS+FOR+THE+CIVILIAN+POPULATION+65+YEARS+AND+OVER
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:02:41.559972

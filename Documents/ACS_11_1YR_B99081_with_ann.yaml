@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_11_1YR_B99081
+product-selection: ACS_11_1YR_B99081|table||||B99081|IMPUTATION+OF+PLACE+OF+WORK
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 10:57:46.628261

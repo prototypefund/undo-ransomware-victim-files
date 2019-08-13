@@ -1,0 +1,31 @@
+source: en.wikipedia.org
+file: 1887_Canadian_federal_election
+date: 2019-06-28 16:17:10.174837
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/903731976
+---
+source: commons.wikimedia.org
+file: Chambre_des_Communes_1887.png
+date: 2019-06-28 16:17:11.043123
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description=[[File:Legende graphes Chambre des communes.png|right|400px|Légende]]
+  {{en|[[:fr:Canadian House of Commons|Canadian House of Commons]] composition in 1887. Each square represents one member.}}
+  {{fr|Composition de la [[:fr:Chambre des communes du Canada|Chambre des communes du Canada]] en 1887. Chaque carré représente un député.}}
+  |Source={{transferred from|fr.wikipedia|}}, originaly from [[w:en:Image:Cdn1887.PNG|en:Wikipedia]]
+  |Date={{original upload date|2006-09-15}}
+  |Author={{user at project|Digging.holes|wikipedia|fr}}
+  |Permission=
+  |other_versions=
+  }}
+  {{location dec|45.4251|-75.6998|type:landmark_region:CA}}
+  
+  == {{int:license-header}} ==
+  {{PD-user-en|MS123}}
+  
+  == {{original upload log}} ==
+  {{original description page|fr.wikipedia|Cdn1887.PNG}}
+  * 2006-09-15 07:21 [[:fr:User:Digging.holes|Digging.holes]] 239×210× (780 bytes) ''<nowiki>Source : [http://en.wikipedia.org/wiki/Image:Cdn1887.PNG en:Wikipedia] {{Domaine public}}</nowiki>''
+  
+  [[Category:Composition of the House of Commons of Canada]]
+  [[Category:Canadian federal election, 1887]]

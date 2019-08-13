@@ -1,0 +1,22 @@
+source: commons.wikimedia.org
+file: Abancay-bandera.png
+date: 2019-06-27 14:04:59.818551
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{es|Esta imagen representa a la bandera de Abancay que lleva, el escudo de Abancay}}
+  |Source=Imagen abancay-glag.png
+  |Date=
+  |Author=Percy Triveño
+  |Permission=Licencia Libre de GNU, edite la imagen pues tube que borrar algunos fondos
+  |other_versions=
+  }}
+  == {{int:license-header}} ==
+  {{PD-ineligible}}
+  {{insignia}}
+  {{easy-border|flag}}
+  {{Convert to SVG|flag}}
+  
+  
+  [[Category:Abancay]]
+  [[Category:Flags of cities in Peru]]

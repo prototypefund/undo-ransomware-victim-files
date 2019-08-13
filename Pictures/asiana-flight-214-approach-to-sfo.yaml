@@ -1,0 +1,24 @@
+source: commons.wikimedia.org
+file: Asiana Flight 214 Approach to SFO.png
+date: 2019-06-13 16:45:23.561318
+text: |
+  {{Convert to SVG|graph}}
+  == {{int:filedesc}} ==
+  {{Information
+  |description={{en|1=Asiana flight 214 final approach glide paths on July{{nbsp}}[http://flightaware.com/live/flight/AAR214/history/20130703/0730Z/RKSI/KSF 3],{{nbsp}}[http://flightaware.com/live/flight/AAR214/history/20130704/0730Z/RKSI/KSF 4],{{nbsp}}[http://flightaware.com/live/flight/AAR214/history/20130705/0730Z/RKSI/KSF 5],{{nbsp}}and{{nbsp}}[http://flightaware.com/live/flight/AAR214/history/20130706/0730Z/RKSI/KSF 6], 2013. All were the same type of aircraft. Three landed on 28L, while the July 5 flight used 28R. The July 6 flight struck the seawall before landing.{{references}} }}
+  {{zh|1=2013年7月3、4、5、6日，韩亚航空214号班机最后进场滑行路径。全为同类型飞机。三次位于28L，7月5日使用28R。7月6日，航班降落前坠于海堤。}}
+  |date=2013-07-11
+  |source={{own}}, data from {{w|FlightAware}}.
+  |author=[[User:Apteva|Apteva]]
+  |permission=
+  |other_versions=<gallery>
+  File:Asiana Flight 214 Final Approach to SFO-3.png|Final 3 nmi.
+  File:Asiana Flight 214 Final Approach to SFO-2.png|Final 2 nmi.
+  </gallery>
+  |other_fields=
+  }}
+  
+  == {{int:license-header}} ==
+  {{self|cc-zero}}
+  
+  [[Category:Asiana Airlines Flight 214]]

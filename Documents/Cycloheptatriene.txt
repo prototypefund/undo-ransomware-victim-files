@@ -1,0 +1,36 @@
+﻿Cycloheptatriene
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Cycloheptatriene
+Licensed under CC BY-SA 3.0:
+https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+
+Cycloheptatriene
+    • Cycloheptatriene is not aromatic, as reflected by the nonplanarity of the methylene bridge (-CH2-) with respect to the other atoms; however the related tropylium is.
+    • Cycloheptatriene (CHT) is an organic compound with the formula C7H8.
+    • This colourless liquid has been of recurring theoretical interest in organic chemistry.
+    • It is a ligand in organometallic chemistry and as a building block in organic synthesis.
+Cycloheptatriene (CHT) is an organic compound with the formula C7H8. This colourless liquid has been of recurring theoretical interest in organic chemistry. It is a ligand in organometallic chemistry and as a building block in organic synthesis.  Cycloheptatriene is not aromatic, as reflected by the nonplanarity of the methylene bridge (-CH2-) with respect to the other atoms; however the related tropylium is.
+Synthesis
+    • Albert Ladenburg first generated cycloheptatriene in 1881 by the decomposition of tropine.
+    • Cycloheptatriene can be obtained in the laboratory by photochemical reaction of benzene with diazomethane or the pyrolysis of the adduct of cyclohexene and dichlorocarbene.
+    • A related classic synthesis for a cycloheptatriene derivatives, the Buchner ring enlargement, starts with the reaction of benzene with ethyl diazoacetate to give the corresponding norcaradiene carboxylic acid, which at high temperatures rearranges with ring expansion to the cycloheptatriene carboxylic acid ethyl ester.
+Albert Ladenburg first generated cycloheptatriene in 1881 by the decomposition of tropine.  The structure was finally proven by the synthesis of Richard Willstätter in 1901. This synthesis started from cycloheptanone and established the seven membered ring structure of the compound.
+Cycloheptatriene can be obtained in the laboratory by photochemical reaction of benzene with diazomethane or the pyrolysis of the adduct of cyclohexene and dichlorocarbene.  A related classic synthesis for a cycloheptatriene derivatives, the Buchner ring enlargement, starts with the reaction of benzene with ethyl diazoacetate to give the corresponding norcaradiene carboxylic acid, which at high temperatures rearranges with ring expansion to the cycloheptatriene carboxylic acid ethyl ester.
+Reactions
+    • Removal of a hydride ion from the methylene bridge gives the planar and aromatic cycloheptatriene cation, also called the tropylium ion.
+    • Cyclooctatetraene and cycloheptatriene are used as a triplet quencher for rhodamine 6G dye lasers.
+    • Many metal complexes of cycloheptatriene are known, including Cr(CO)3(C7H8)
+ and  cycloheptatrienemolybdenum tricarbonyl.
+Removal of a hydride ion from the methylene bridge gives the planar and aromatic cycloheptatriene cation, also called the tropylium ion. A practical route to this cation employs PCl5 as the oxidant.  CHT behaves as a diene in Diels–Alder reactions. Many metal complexes of cycloheptatriene are known, including Cr(CO)3(C7H8)
+ and  cycloheptatrienemolybdenum tricarbonyl.
+Structure of Mo(C7H8)(CO)3.
+Cyclooctatetraene and cycloheptatriene are used as a triplet quencher for rhodamine 6G dye lasers.
+See also
+    • Benzene
+    • Cyclooctatetraene
+Cyclopentadiene
+Cyclooctatetraene
+Benzene
+References
+External links
+

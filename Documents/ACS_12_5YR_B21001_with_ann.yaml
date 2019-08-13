@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_12_5YR_B21001
+product-selection: ACS_12_5YR_B21001|table||||B21001|SEX+BY+AGE+BY+VETERAN+STATUS+FOR+THE+CIVILIAN+POPULATION+18+YEARS+AND+OVER
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:37:58.544950

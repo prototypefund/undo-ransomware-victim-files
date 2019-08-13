@@ -1,0 +1,24 @@
+source: en.wikipedia.org
+file: STEREO
+date: 2019-06-15 19:07:29.926704
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/897432199
+---
+source: commons.wikimedia.org
+file: Stereo_mission.jpg
+date: 2019-06-15 19:07:31.198180
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=Overview of one of STEREO's two probes.}}
+  |Source         =NASA
+  |Author         =NASA
+  |Date           =
+  |Permission     =
+  |other_versions =
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  {{Check categories|year=2017|month=February|day=4}}
+  [[Category:STEREO]]

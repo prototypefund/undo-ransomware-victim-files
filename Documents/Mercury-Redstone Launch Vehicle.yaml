@@ -1,0 +1,27 @@
+source: en.wikipedia.org
+file: Mercury-Redstone Launch Vehicle
+date: 2019-06-15 18:14:57.909761
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/900341229
+---
+source: commons.wikimedia.org
+file: Redstone-jupiterc-mercuryredstone-compared.jpg
+date: 2019-06-15 18:14:59.287556
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=A comparison illustration of the Redstone ballistic missile and the Jupiter-C and Mercury-Redstone launch vehicles. The Redstone was a high-accuracy, liquid-fueled, tactical ballistic missile. The Jupiter-C was a modification of the Redstone missile originally developed as a nose-cone re-entry test vehicle for the Jupiter intermediate range ballistic missile program.  A slightly altered version, the Juno I, successfully launched the first American satellite, Explorer 1, into orbit on January 31, 1958. The Mercury-Redstone was the launch vehicle for Project Mercury's sub-orbital flights; it carried the first American into space, astronaut Alan Shepard, in his Mercury spacecraft Freedom 7 on May 5, 1961.}}
+  |Source=Marshall Space Flight Center's Marshall Image Exchange, http://mix.msfc.nasa.gov/abstracts.php?p=1650.
+  |Author=NASA
+  |Date=1961
+  |Permission=
+  |other_versions=
+  }}
+  {{NASA-image|center=MSFC|id=MSFC-0102552}}
+  
+  [[Category:Mercury-Redstone mission]]
+  [[Category:PGM-11 Redstone]]
+  [[Category:Jupiter C]]
+  [[Category:Rocket comparisons]]
+  [[Category:Spaceflight diagrams]]
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}

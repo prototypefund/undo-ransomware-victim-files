@@ -1,0 +1,42 @@
+source: en.wikipedia.org
+file: STS-31
+date: 2019-06-15 19:08:18.168908
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/893888652
+---
+source: commons.wikimedia.org
+file: STS-31_Launch_-_GPN-2000-000684.jpg
+date: 2019-06-15 19:08:19.375364
+text: |
+  {{Information
+  |Description={{en|1=The Space Shuttle Columbia on Pad 39A during the picture-perfect ascent of sister ship Discovery after lift off of STS-31. This was the first time since January 1986 that there was a Shuttle on each pad, which are separated by 1.6 miles. Discovery, carrying a five-member crew and the Hubble Space Telescope, lifted off at 8:34 a.m. EDT, April 24. Columbia, with its Astro-1 observatory, is scheduled for launch in May.}}
+  |Source=[http://dayton.hq.nasa.gov/IMAGES/LARGE/GPN-2000-000684.jpg Great Images in NASA] [http://grin.hq.nasa.gov/ABSTRACTS/GPN-2000-000684.html Description]
+  |Date=1990-04-24
+  |Author=NASA/photographer unknown
+  |Permission={{PD-USGov-NASA}}
+  |other_versions={{Image extracted|STS31 carries Hubble to orbit edit.jpg}}
+  }}
+  {{NASA-image|id=GPN-2000-000684|alternateid=90PC-0610|center=KSC}}
+  
+  [[Category:Great Images in NASA]]
+  [[Category:Launch of STS-31]]
+---
+source: commons.wikimedia.org
+file: 1990_s31_IMAX_view_of_HST_in_payload_bay.jpg
+date: 2019-06-15 19:08:21.185787
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=Wide-angle IMAX still showing the Hubble Space Telescope in the payload bay of Discovery.}}
+  |Source=NASA
+  |Author=NASA/IMAX/exploitcorporations
+  |Date=1990-04-25
+  |Permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:STS-31]]
+  
+  [[Category:Canadarm]]

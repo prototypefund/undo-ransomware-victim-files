@@ -1,0 +1,25 @@
+source: commons.wikimedia.org
+file: R-Butan-2-ol-3D-balls.png
+date: 2019-06-13 15:03:47.274710
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description=Ball-and-stick model of the '''[[w:2-Butanol|butan-2-ol]]''' molecule, an important industrial chemical. Also known as '''2-butanol''' and '''sec-butanol'''. It is a [[w:Chirality (chemistry)|chiral]] molecule, and this image shows the R isomer.
+  
+  '''Colour code:'''
+  :{{ColorSample|#505050}} Carbon, C: black<br>
+  :{{ColorSample|#F0F0F0}} Hydrogen, H: white<br>
+  :{{ColorSample|#F51E1E}} Oxygen, O: red<br>
+  |date=2011-01-22
+  |source={{own}} {{DS Visualizer}}
+  |author=[[User:Jynto|Jynto]] ([[User talk:Jynto|talk]]) 
+  |other_versions=*[[:File:R-Butan-2-ol-3D-spacefill.png|Space-filling version]]
+  *[[:File:S-Butan-2-ol-3D-balls.png|S isomer, ball-and-stick version]]
+  *[[:File:S-Butan-2-ol-3D-spacefill.png|S isomer, space-filling version]]
+  }}
+  
+  =={{int:license-header}}==
+  {{self|cc-zero}}
+  
+  [[Category:Butan-2-ol]]
+  [[Category:Images by Jynto]]

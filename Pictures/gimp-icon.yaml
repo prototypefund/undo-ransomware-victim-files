@@ -1,0 +1,17 @@
+source: commons.wikimedia.org
+file: GIMP_Icon.png
+date: 2019-07-01 13:28:10.782783
+text: |
+  {{Information
+  |Description={{en|This is the logo from [[:en:GIMP|GIMP]] (free Software). It’s from [http://www.openclipart.org/] and was licensed as PublicDomain there.}}
+  {{de|Dies ist das [[:de:GIMP|GIMP]]-Logo (GIMP ist freie Software). Es wurde auf [http://www.openclipart.org/] als PublicDomain freigegeben.}}
+  |Source=http://www.openclipart.org/
+  |Date=2005-08-09
+  |author={{unknown}} (GIMP)
+  |other versions= {{Vector version available|GIMP Icon.svg}}
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-OpenClipart}}
+  
+  [[Category:GIMP Wilber icons]]

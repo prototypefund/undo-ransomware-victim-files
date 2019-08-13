@@ -1,0 +1,20 @@
+source: commons.wikimedia.org
+file: Caslon sample.png
+date: 2019-06-27 14:04:34.692955
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+   |description = {{en|Picture shows an example of the font-face Caslon. Picture created by myself ([[User:Stalefish|Stalefish]] 13:48, 4 September 2005 (UTC))}}
+   |date = 
+   |source = {{own assumed}}
+   |author = {{Author assumed|[[User:Stalefish~commonswiki|Stalefish~commonswiki]]}}
+   |permission = 
+   |other_versions = {{SVG|text}}
+  }}
+  == {{int:license-header}} ==
+  {{PD-text}}
+  {{PD-font}}
+  
+  [[Category:Caslon]]
+  [[Category:Lorem ipsum]]
+  [[Category:Italics]]

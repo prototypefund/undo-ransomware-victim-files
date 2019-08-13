@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_1YR_S1001
+product-selection: ACS_10_1YR_S1001|table||||S1001|GRANDCHILDREN+CHARACTERISTICS+
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:38:30.179387

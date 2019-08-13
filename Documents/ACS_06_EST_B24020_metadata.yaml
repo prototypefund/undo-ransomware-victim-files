@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_06_EST_B24020
+product-selection: ACS_06_EST_B24020|table||||B24020|SEX+BY+OCCUPATION+FOR+THE+FULL-TIME%2C+YEAR-ROUND+CIVILIAN+EMPLOYED+POPULATION+16+YEARS+AND+OVER
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:48:04.740841

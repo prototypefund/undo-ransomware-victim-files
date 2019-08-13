@@ -1,0 +1,30 @@
+source: en.wikipedia.org
+file: Corporatocracy
+date: 2019-06-26 14:44:29.255742
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/903124204
+---
+source: commons.wikimedia.org
+file: 5-Bank_Asset_Concentration_in_U.S._1997-2012.png
+date: 2019-06-26 14:44:30.837955
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|Shows the percentage of bank assets held by largest five U.S. banks}}
+  |Source=FRED database
+  *World Bank, 5-Bank Asset Concentration for United States [DDOI06USA156NWDB], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/DDOI06USA156NWDB
+  |Date=2013-11-19
+  |Author=Federal Reserve Economic Database
+  |Permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{ImageNoteControl}}
+  {{PD-USGov}}
+  
+  == {{Original upload log}} ==
+  {{original description page|en.wikipedia|5-Bank_Asset_Concentration_in_U.S._1997-2012.png}}
+  * 2013-11-19 23:00 [[:en:User:Farcaster|Farcaster]] 632×381× (29963 bytes) ''<nowiki>Uploading a public-domain item using [[Wikipedia:File_Upload_Wizard|File Upload Wizard]]</nowiki>''
+  
+  [[Category:Banking in the United States]]
+  [[Category:FRED graphs]]

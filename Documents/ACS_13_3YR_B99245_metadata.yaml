@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_13_3YR_B99245
+product-selection: ACS_13_3YR_B99245|table||||B99245|IMPUTATION+OF+OCCUPATION+FOR+THE+FULL-TIME%2C+YEAR-ROUND+CIVILIAN+EMPLOYED+POPULATION+16+YEARS+AND+OVER
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:45:13.564438

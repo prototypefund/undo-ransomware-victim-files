@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_16_1YR_B25040
+product-selection: ACS_16_1YR_B25040|table||||B25040|HOUSE+HEATING+FUEL
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:55:05.395559

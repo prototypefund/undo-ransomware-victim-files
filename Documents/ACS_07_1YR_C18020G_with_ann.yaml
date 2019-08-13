@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_07_1YR_C18020G
+product-selection: ACS_07_1YR_C18020G|table||||C18020G|DISABILITY+STATUS+BY+EMPLOYMENT+STATUS+FOR+THE+CIVILIAN+NONINSTITUTIONALIZED+POPULATION+16+TO+64+YEARS+%28TWO+OR+MORE+RACES%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:47:59.734567

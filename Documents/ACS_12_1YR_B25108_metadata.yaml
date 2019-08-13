@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_12_1YR_B25108
+product-selection: ACS_12_1YR_B25108|table||||B25108|AGGREGATE+VALUE+%28DOLLARS%29+BY+YEAR+STRUCTURE+BUILT
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:43:05.886007

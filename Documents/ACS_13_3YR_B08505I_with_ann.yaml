@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_13_3YR_B08505I
+product-selection: ACS_13_3YR_B08505I|table||||B08505I|MEANS+OF+TRANSPORTATION+TO+WORK+FOR+WORKPLACE+GEOGRAPHY+%28HISPANIC+OR+LATINO%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:31:50.995596

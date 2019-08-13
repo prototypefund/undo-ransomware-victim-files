@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: DEC_00_SF3_HCT036B
+product-selection: DEC_00_SF3_HCT036B|table||||HCT036B|GROSS+RENT+%28BLACK+OR+AFRICAN+AMERICAN+ALONE+HOUSEHOLDER%29+%5B24%5D
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:50:17.592789

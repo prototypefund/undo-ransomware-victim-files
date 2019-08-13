@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_16_5YR_B07004GPR
+product-selection: ACS_16_5YR_B07004GPR|table||||B07004GPR|GEOGRAPHICAL+MOBILITY+IN+THE+PAST+YEAR+%28TWO+OR+MORE+RACES%29+FOR+CURRENT+RESIDENCE+IN+PUERTO+RICO
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:00:35.577652

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_17_5YR_B08534
+product-selection: ACS_17_5YR_B08534|table||||B08534|MEANS+OF+TRANSPORTATION+TO+WORK+BY+TRAVEL+TIME+TO+WORK+FOR+WORKPLACE+GEOGRAPHY
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:53:50.185850

@@ -1,0 +1,15 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HD01_VD02,Estimate; Median age -- - Total:
+HD02_VD02,Margin of Error; Median age -- - Total:
+HD01_VD03,Estimate; Median age -- - Total: - Same house 1 year ago
+HD02_VD03,Margin of Error; Median age -- - Total: - Same house 1 year ago
+HD01_VD04,Estimate; Median age -- - Total: - Moved within same county
+HD02_VD04,Margin of Error; Median age -- - Total: - Moved within same county
+HD01_VD05,Estimate; Median age -- - Total: - Moved from different county within same state
+HD02_VD05,Margin of Error; Median age -- - Total: - Moved from different county within same state
+HD01_VD06,Estimate; Median age -- - Total: - Moved from different state
+HD02_VD06,Margin of Error; Median age -- - Total: - Moved from different state
+HD01_VD07,Estimate; Median age -- - Total: - Moved from abroad
+HD02_VD07,Margin of Error; Median age -- - Total: - Moved from abroad

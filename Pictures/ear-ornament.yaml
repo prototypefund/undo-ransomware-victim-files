@@ -1,0 +1,64 @@
+source: commons.wikimedia.org
+file: Ear_ornament.jpg
+date: 2019-06-15 13:21:20.458807
+text: |
+  =={{int:filedesc}}==
+  
+  {{Artwork
+   | accession number = Europeana Fashion Thesaurus ID: 10157; AAT ID: 300211279
+   | artist = David Ring | author =  | credit line = Drawing made by David Ring for the Europeana Fashion project (www.europeanafashion.eu). The drawing was commissioned to represent a concept in Europeana Fashion’s visual fashion thesaurus which was developed under the coordination of the Royal Museums of Art and History, Brussels. David Ring created the drawings in the library of MoMu – Fashion Museum Province of Antwerp and this is also where they are currently kept.
+   | date = 2014
+   | demo = 
+   | department = 
+   | description = The description of the concept in this drawing is: Decorative items worn in, on, or about the ear. (AAT)
+   | dimensions = 
+   | exhibition history = 
+   | inscriptions = 
+   | institution = {{Institution:ModeMuseum Provincie Antwerpen}}
+   | medium = Ink on paper
+   | notes = 
+   | object history = 
+   | object type = 
+   | other_fields = 
+   | other_versions = 
+   | permission = This drawing is labelled CC0. You are not obliged to, but we do appreciate it when you mention the artist, Europeana Fashion and link back to the original file on Wikimedia Commons. For more information, please contact communication@europeanafashion.eu
+   | place of creation = 
+   | references = 
+   | source = Drawing made by David Ring, commissioned by Europeana Fashion, scanned by team of MoMu – Fashion Museum Province of Antwerp
+   | strict = 
+   | title = ear ornament
+   | wikidata = 
+  }}
+  
+  {{Uploaded with GWToolset
+   | gwtoolset-title = ear ornament
+   | gwtoolset-url-to-the-media-file = http://openfashion.momu.be/cc/imageproxy.aspx?server=localhost&port=5986&filename=image/GWToolset/thesaurusID_10157_earornament.jpg
+  }}
+  
+  
+  
+  <!-- <metadata_mapped_json>{"accession number":"Europeana Fashion Thesaurus ID: 10157; AAT ID: 300211279","artist":"David Ring","author":null,"credit line":"Drawing made by David Ring for the Europeana Fashion project (www.europeanafashion.eu). The drawing was commissioned to represent a concept in Europeana Fashion\u2019s visual fashion thesaurus which was developed under the coordination of the Royal Museums of Art and History, Brussels. David Ring created the drawings in the library of MoMu \u2013 Fashion Museum Province of Antwerp and this is also where they are currently kept.","date":"2014","demo":null,"department":null,"description":"The description of the concept in this drawing is: Decorative items worn in, on, or about the ear. (AAT)","dimensions":null,"exhibition history":null,"inscriptions":null,"institution":"ModeMuseum Provincie Antwerpen","medium":"Ink on paper","notes":null,"object history":null,"object type":null,"other_fields":null,"other_versions":null,"permission":"{{Cc-zero}} This drawing is labelled CC0. You are not obliged to, but we do appreciate it when you mention the artist, Europeana Fashion and link back to the original file on Wikimedia Commons. For more information, please contact communication@europeanafashion.eu","place of creation":null,"references":null,"source":"Drawing made by David Ring, commissioned by Europeana Fashion, scanned by team of MoMu \u2013 Fashion Museum Province of Antwerp","strict":null,"title":"ear ornament","wikidata":null,"gwtoolset-title":"ear ornament","gwtoolset-url-to-the-media-file":"http:\/\/openfashion.momu.be\/cc\/imageproxy.aspx?server=localhost&port=5986&filename=image\/GWToolset\/thesaurusID_10157_earornament.jpg"}</metadata_mapped_json> -->
+  
+  <!-- <metadata_raw>
+  &lt;record&gt;
+  		&lt;filename&gt;http://openfashion.momu.be/cc/imageproxy.aspx?server=localhost&amp;amp;port=5986&amp;amp;filename=image/GWToolset/thesaurusID_10157_earornament.jpg&lt;/filename&gt;
+  		&lt;artist&gt;David Ring&lt;/artist&gt;
+  		&lt;title&gt;ear ornament&lt;/title&gt;
+  		&lt;description&gt;The description of the concept in this drawing is: Decorative items worn in, on, or about the ear. (AAT)&lt;/description&gt;
+  		&lt;date&gt;2014&lt;/date&gt;
+  		&lt;medium&gt;Ink on paper&lt;/medium&gt;
+  		&lt;institution&gt;ModeMuseum Provincie Antwerpen&lt;/institution&gt;
+  		&lt;creditline&gt;Drawing made by David Ring for the Europeana Fashion project (www.europeanafashion.eu). The drawing was commissioned to represent a concept in Europeana Fashion’s visual fashion thesaurus which was developed under the coordination of the Royal Museums of Art and History, Brussels. David Ring created the drawings in the library of MoMu – Fashion Museum Province of Antwerp and this is also where they are currently kept.&lt;/creditline&gt;
+  		&lt;AccessionNumber&gt;Europeana Fashion Thesaurus ID: 10157; AAT ID: 300211279&lt;/AccessionNumber&gt;
+  		&lt;source&gt;Drawing made by David Ring, commissioned by Europeana Fashion, scanned by team of MoMu – Fashion Museum Province of Antwerp&lt;/source&gt;
+  		&lt;permission&gt;{{Cc-zero}} This drawing is labelled CC0. You are not obliged to, but we do appreciate it when you mention the artist, Europeana Fashion and link back to the original file on Wikimedia Commons. For more information, please contact communication@europeanafashion.eu&lt;/permission&gt;
+  	&lt;/record&gt;
+  </metadata_raw> -->
+  
+  
+  
+  == {{int:license-header}} ==
+  {{Cc-zero}}
+  {{PermissionOTRS|id=2014111910012888}}
+  
+  [[Category:Europeana Fashion - MoMu - thesaurus drawings]]

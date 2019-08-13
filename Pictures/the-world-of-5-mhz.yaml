@@ -1,0 +1,22 @@
+source: commons.wikimedia.org
+file: The World of 5 MHz.png
+date: 2019-06-13 16:52:33.439235
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=This map shows all the countries that currently have an official Amateur Radio presence on 5 MHz / 60m, whether it be by WRC-15, Article 4.4, Trial or any combination of these.}}
+  |date=2018-07-27
+  |source=From Wikimedia Commons File: A large blank world map with oceans marked in blue.svg
+  |author=Petr Dlouhy (original) 
+  Paul Gaskell (yellow colouration)
+  |permission=
+  |other versions=
+  }}
+  {{current}}
+  {{Convert to SVG |1=map |vectordata=[[:File:A large blank world map with oceans marked in blue.svg]]}}
+  
+  =={{int:license-header}}==
+  {{cc-zero}}
+  
+  [[Category:Amateur radio maps]]
+  [[Category:Communications maps of the world]]

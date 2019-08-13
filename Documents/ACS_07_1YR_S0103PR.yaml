@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_07_1YR_S0103PR
+product-selection: ACS_07_1YR_S0103PR|table||||S0103PR|Population+65+Years+and+Over+in+Puerto+Rico
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:14:07.650559

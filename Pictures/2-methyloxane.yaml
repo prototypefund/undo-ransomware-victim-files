@@ -1,0 +1,18 @@
+source: commons.wikimedia.org
+file: 2-methyloxane.png
+date: 2019-06-27 13:54:07.285567
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=2-methyloxane}}
+  |Source={{own}}
+  |Author=[[User:Vchorozopoulos|Vchorozopoulos]]
+  |Date=2010-09-12
+  |Permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-chem}}
+  
+  [[Category:Oxanes]]{{Convert to SVG|chemical}}

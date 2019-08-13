@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_1YR_B99012
+product-selection: ACS_10_1YR_B99012|table||||B99012|IMPUTATION+OF+AGE
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:55:35.981000

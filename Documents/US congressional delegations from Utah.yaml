@@ -1,0 +1,26 @@
+source: en.wikipedia.org
+file: United States congressional delegations from Utah
+date: 2019-06-26 21:33:43.642852
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/900151034
+---
+source: commons.wikimedia.org
+file: Utah_Congressional_Districts,_113th_Congress.tif
+date: 2019-06-26 21:33:44.766784
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Map of Congressional Districts in the state of Utah, reflecting district boundaries current to the 113th United States Congress.}}
+  |date=2014-02-01 22:39:33
+  |source=National Atlas of the United States (http://nationalatlas.gov/printable/congress.html)
+  |author=Department of the Interior
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-USGov}}
+  
+  [[Category:Congressional district maps of the 113th Congress|Utah]]
+  [[Category:Congressional district maps of Utah|113]]
+  [[Category:Maps of gerrymandering in the United States]]

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_06_EST_B06004I
+product-selection: ACS_06_EST_B06004I|table||||B06004I|PLACE+OF+BIRTH+BY+RACE+%28HISPANIC+OR+LATINO%29+IN+THE+UNITED+STATES
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:48:05.610646

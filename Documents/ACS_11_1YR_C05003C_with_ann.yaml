@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_11_1YR_C05003C
+product-selection: ACS_11_1YR_C05003C|table||||C05003C|SEX+BY+AGE+BY+NATIVITY+%28AMERICAN+INDIAN+AND+ALASKA+NATIVE+ALONE%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 10:38:27.989219

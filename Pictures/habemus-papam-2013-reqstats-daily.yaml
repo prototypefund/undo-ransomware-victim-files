@@ -1,0 +1,25 @@
+source: commons.wikimedia.org
+file: Habemus-papam-2013-reqstats-daily.png
+date: 2019-06-13 16:41:13.923346
+text: |
+  {{SVG|graph}}
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Wikipedia servers use between yesterday and today. From 50,000 to 70,000 requests per second with habemus papam.}}
+  {{es|1=Carga de los servidores de Wikipedia ayer y hoy. Pasa de 50.000 a 70.000 peticiones por segundo con el habemus papam.}}
+  |date=2013-03-13 23:27:12
+  |source=http://www.nedworks.org/~mark/reqstats//reqstats-daily.png
+  |author=mark
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  
+  =={{int:license-header}}==
+  {{cc-zero}}
+  
+  [[Category:March 2013]]
+  [[Category:Franciscus]]
+  [[Category:Habemus Papam]]
+  [[Category:Wikipedia statistics]]
+  [[Category:Papal conclave of 2013]]

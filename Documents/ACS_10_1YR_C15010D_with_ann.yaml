@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_1YR_C15010D
+product-selection: ACS_10_1YR_C15010D|table||||C15010D|FIELD+OF+BACHELOR%27S+DEGREE+FOR+FIRST+MAJOR+THE+POPULATION+25+YEARS+AND+OVER+%28ASIAN+ALONE%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:05:58.386942

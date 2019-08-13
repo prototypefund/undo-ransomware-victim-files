@@ -1,0 +1,22 @@
+source: commons.wikimedia.org
+file: Mapa-Candelária.png
+date: 2019-06-13 16:34:14.505063
+text: |
+  {{Convert to SVG|locator map}}
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=Location map of Candelária in Natal (Rio Grande do Norte), Brasil.
+  
+  }}
+  {{Pt|1=Mapa de localização do bairro Candelária em Natal (Rio Grande do Norte), Brasil.}}
+  |Source         =Adaptado de [[:File:Potengi.png]].
+  |Author         =[[User:MOC|MOC]]
+  |Date           =2011-09-28
+  |Permission     ={{PD-self}}
+  |other_versions =
+  }}
+  
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}
+  
+  [[Category:Maps of Natal (Rio Grande do Norte)]]

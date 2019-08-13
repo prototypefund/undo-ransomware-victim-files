@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_11_3YR_C11002I
+product-selection: ACS_11_3YR_C11002I|table||||C11002I|HOUSEHOLD+TYPE+FOR+POPULATION+IN+HOUSEHOLDS+%28HISPANIC+OR+LATINO%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:15:20.080260

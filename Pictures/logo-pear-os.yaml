@@ -1,0 +1,20 @@
+source: commons.wikimedia.org
+file: Logo-pear-os.png
+date: 2019-06-13 16:47:10.885172
+text: |
+  {{SVG|logo}}
+  =={{int:filedesc}}==
+  {{Information
+  |description={{nl|1=Pear OS logo}}{{en|1=Pear OS logo}}{{fr|1=logo de Pear OS}}
+  |date=2013-12-14 10:01:37
+  |source=http://www.clker.com/clipart-186796.html
+  |author=rhenabet
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  
+  =={{int:license-header}}==
+  {{cc-zero}}
+  
+  [[Category:Logos of Linux distributions]]

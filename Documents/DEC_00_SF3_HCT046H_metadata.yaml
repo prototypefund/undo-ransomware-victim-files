@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: DEC_00_SF3_HCT046H
+product-selection: DEC_00_SF3_HCT046H|table||||HCT046H|AGGREGATE+SELECTED+MONTHLY+OWNER+COSTS+%28DOLLARS%29+BY+MORTGAGE+STATUS+%28HISPANIC+OR+LATINO+HOUSEHOLDER%29+%5B3%5D
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:32:41.301229

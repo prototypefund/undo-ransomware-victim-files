@@ -1,0 +1,17 @@
+source: commons.wikimedia.org
+file: Ubuntu11-04BootScreen.png
+date: 2019-06-13 15:24:25.053287
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description= Ubuntu 11.04 Boot Screen
+  |Source= Ubuntu as running on machine
+  |Date=2011-04-21
+  |Author=<!-- software author / developer team -->
+  |Permission={{free screenshot|license={{GPL}}}}
+  |other_versions=
+  }}
+  [[Category:Screenshots]]
+  [[Category:Ubuntu 11.04]]
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}

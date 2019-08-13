@@ -1,0 +1,35 @@
+source: commons.wikimedia.org
+file: WGTZ.png
+date: 2019-06-27 13:54:02.128184
+text: |
+  {{BotMoveToCommons|en.wikipedia|2019|April|17}}
+  
+  
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|WGTZ logo}}
+  |Source=WGTZ
+  |Date={{original upload date|2018-04-25}}
+  |Author=WGTZ
+  |Permission=
+  |other_versions=
+  }}
+  
+  {{Convert to SVG|logo}}
+  
+  == {{int:license-header}} ==
+  {{PD-textlogo}}
+  {{Trademarked}}
+  
+  == {{Original upload log}} ==
+  {{original description|en.wikipedia|WGTZ.png}}
+  {| class="wikitable filehistory"
+  ! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+  |-
+  | 2018-04-25 22:08 || 481×207× (47876 bytes) || [[:en:User:DatBot|DatBot]] || ''<nowiki>Reduce size of non-free image ([[WP:BOT|BOT]] - [[User:DatBot/NonFreeImageResizer/Run|disable]])</nowiki>''
+  |-
+  | 2018-04-25 01:41 || 1024×442× (28322 bytes) || [[:en:User:Unknown User1234|Unknown User1234]] || ''<nowiki>{{Non-free use rationale logo|Article=WGTZ|Use=Infobox}} [[Category:Radio station logos]]</nowiki>''
+  |}
+  
+  
+  [[Category:FM radio station logos]]

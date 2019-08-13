@@ -1,0 +1,25 @@
+source: en.wikipedia.org
+file: Nola-Croce_del_Papa
+date: 2019-06-28 15:25:45.378598
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/895682243
+---
+source: commons.wikimedia.org
+file: SheridanVesuviusHut.jpg
+date: 2019-06-28 15:25:46.118307
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description=In Old Bronze Age (3800 BP) village of Nola, the mold of one of a group of huts found partially buried, its interior, including pottery, perfectly preserved.
+  |Source=''[[:en:Proceedings of the National Academy of Sciences|Proceedings of the National Academy of Sciences]]'' vol. 103
+  |Date=2006-03-21
+  |Author=Giuseppe Mastrolorenzo, Pierpaolo Petrone, Lucia Pappalardo, and Michael F. Sheridan
+  |Permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov}}
+  
+  [[Category:Vesuvius eruptions 3800 BP (Pomici di Avellino)]]
+  [[Category:Nola (ancient town)]]
+  [[Category:Footprints]]

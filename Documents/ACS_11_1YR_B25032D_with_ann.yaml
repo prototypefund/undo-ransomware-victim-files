@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_11_1YR_B25032D
+product-selection: ACS_11_1YR_B25032D|table||||B25032D|UNITS+IN+STRUCTURE+%28ASIAN+ALONE+HOUSEHOLDER%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:19:58.630911

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_05_EST_S0503
+product-selection: ACS_05_EST_S0503|table||||S0503|Selected+Characteristics+of+the+Foreign-Born+Population+by+Region+of+Birth%3A++Latin+America%2C+Asia%2C+and+Europe
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:36:11.011949

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_13_3YR_S0501
+product-selection: ACS_13_3YR_S0501|table||||S0501|SELECTED+CHARACTERISTICS+OF+THE+NATIVE+AND+FOREIGN-BORN+POPULATIONS+
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:13:14.947111

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_17_5YR_B17001F
+product-selection: ACS_17_5YR_B17001F|table||||B17001F|POVERTY+STATUS+IN+THE+PAST+12+MONTHS+BY+SEX+BY+AGE+%28SOME+OTHER+RACE+ALONE%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:13:56.695503

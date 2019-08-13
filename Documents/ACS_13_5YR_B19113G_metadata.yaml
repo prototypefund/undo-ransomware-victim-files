@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_13_5YR_B19113G
+product-selection: ACS_13_5YR_B19113G|table||||B19113G|MEDIAN+FAMILY+INCOME+IN+THE+PAST+12+MONTHS+%28IN+2013+INFLATION-ADJUSTED+DOLLARS%29+%28TWO+OR+MORE+RACES%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:41:18.002810

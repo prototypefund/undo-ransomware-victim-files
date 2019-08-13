@@ -1,0 +1,76 @@
+source: en.wikipedia.org
+file: Ion engines
+date: 2019-06-15 17:34:35.477314
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/898784413
+---
+source: commons.wikimedia.org
+file: Ion_Engine_Test_Firing_-_GPN-2000-000482.jpg
+date: 2019-06-15 17:34:37.000883
+text: |
+  {{Information
+  |Description={{en|1=This image of a xenon ion engine, photographed through a port of the vacuum chamber where it was being tested at NASA's Jet Propulsion Laboratory, shows the faint blue glow of charged atoms being emitted from the engine. 
+  
+  The ion propulsion engine is the first non-chemical propulsion to be used as the primary means of propelling a spacecraft. The first flight in NASA's New Millennium Program, Deep Space 1 is designed to validate 12 new technologies for scientific space missions of the next century. Ion propulsion was first proposed in the 1950s and NASA performed experiments on this highly efficient propulsion system in the 1960s, but it was not used aboard an American spacecraft until the 1990s.
+  
+  Deep Space 1 was launched in October 1998 as part of NASA's New Millennium Program, which is managed by JPL for NASA's Office of Space Science, Washington, DC. The California Institute of Technology in Pasadena manages JPL for NASA.
+  
+  The almost imperceptible thrust from the ion propulsion system is equivalent to the pressure exerted by a sheet of paper held in the palm of your hand. The ion engine is very slow to pick up speed, but over the long haul it can deliver 10 times as much thrust per pound of fuel as more traditional rockets.
+  
+  Unlike the fireworks of most chemical rockets using solid or liquid fuels, the ion drive emits only an eerie blue glow as ionized (electrically charged) atoms of xenon are pushed out of the engine. Xenon is the same gas found in photo flash tubes and many lighthouse bulbs.}}
+  |Source=[http://dayton.hq.nasa.gov/IMAGES/LARGE/GPN-2000-000482.jpg Great Images in NASA] [http://grin.hq.nasa.gov/ABSTRACTS/GPN-2000-000482.html Description]
+  |Date=1999-01-01
+  |Author=NASA
+  |Permission={{PD-USGov-NASA}}
+  |other_versions=
+  }}
+  {{NASA-image|id=GPN-2000-000482|alternateid=P49722BC|center=JPL}}
+  
+  [[Category:Great Images in NASA]]
+  [[Category:Vacuum chambers]]
+  [[Category:Ion propulsion]]
+---
+source: commons.wikimedia.org
+file: NEXIS_thruster_working.jpg
+date: 2019-06-15 17:34:37.781802
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=NEXIS DM1a ion engine}}
+  {{fr|1=Moteur ionique NEXIS DM1a}}
+  |Source=[http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20050041919_2005041732.pdf Electric Propulsion Technology Development for the Jupiter Icy Moons Orbiter Project]
+  |Author=Jet Propulsion Laboratory
+  |Date=2005
+  |Permission=PD-USGov-NASA
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:JIMO]]
+  [[Category:Ion propulsion]]
+---
+source: commons.wikimedia.org
+file: SERT-1_spacecraft.jpg
+date: 2019-06-15 17:34:38.165888
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=Raymond J. Rulis, SERT-1 Program Manager, is shown here examining the SERT-1 spacecraft after its arrival at the NASA Lewis Research Center for pre-flight testing. The Lewis built ion engine is in front of Mr. Rulis, and the Hughes engine, in its vacuum pod, is on the other side. Lewis is now known as the John H. Glenn Research Center.}}
+  |Source=[http://dayton.hq.nasa.gov/IMAGES/LARGE/GPN-2000-003007.jpg Great Images in NASA] [http://grin.hq.nasa.gov/ABSTRACTS/GPN-2000-003007.html Description]
+  |Date=1964-01-14
+  |Author=NASA
+  |Permission=
+  |other_versions=
+  }}
+  {{NASA-image|id=64-SERT-I-11|alternateid=GPN-2000-003007|center=HQ}}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Great Images in NASA]]
+  [[Category:Spacecraft of NASA]]
+  [[Category:Research satellites]]
+  [[Category:Ion propulsion]]
+  [[Category:Lewis Flight Propulsion Laboratory]]
+  [[Category:1964 in the United States]]

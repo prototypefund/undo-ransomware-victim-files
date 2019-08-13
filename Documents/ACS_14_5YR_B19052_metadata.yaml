@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_14_5YR_B19052
+product-selection: ACS_14_5YR_B19052|table||||B19052|WAGE+OR+SALARY+INCOME+IN+THE+PAST+12+MONTHS+FOR+HOUSEHOLDS
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 10:36:00.299841

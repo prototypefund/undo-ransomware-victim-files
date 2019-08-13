@@ -1,0 +1,140 @@
+source: en.wikipedia.org
+file: STS-61
+date: 2019-06-15 19:08:32.754991
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/901757716
+---
+source: commons.wikimedia.org
+file: 1993_sts61_liftoff.jpg
+date: 2019-06-15 19:08:34.335501
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Launch of the first Hubble Space Telescope servicing mission.}}
+  |date=1993-12
+  |source=National Aeronautics and Space Administration
+  |author=NASA
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Launch of STS-61]]
+---
+source: commons.wikimedia.org
+file: STS061-93-031_HST_rendezvous.jpg
+date: 2019-06-15 19:08:35.257516
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=The Hubble Space Telescope viewed from the approaching Endeavour.}}
+  |date=1993-12
+  |source=National Aeronautics and Space Administration
+  |author=NASA
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-USGov-NASA}}
+  
+  [[Category:STS-61]]
+---
+source: commons.wikimedia.org
+file: STS061-99-001_HST_new_arrays.jpg
+date: 2019-06-15 19:08:36.149010
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=The Hubble Telescope after the installation of new solar arrays during the second spacewalk of mission STS-61.}}
+  |date=1993-12
+  |source=National Aeronautics and Space Administration
+  |author=NASA
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-USGov-NASA}}
+  
+  [[Category:STS-61]]
+---
+source: commons.wikimedia.org
+file: STS061-105-004_EVA3.jpg
+date: 2019-06-15 19:08:37.161503
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Astronauts Hoffman and Musgrave prepare the Hubble Telescope for the installation of the second Wide Field and Planetary Camera.}}
+  |date=1993-12
+  |source=National Aeronautics and Space Administration
+  |author=NASA
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-USGov-NASA}}
+  
+  [[Category:STS-61 EVAs]]
+---
+source: commons.wikimedia.org
+file: Improvement_in_Hubble_images_after_SMM1.jpg
+date: 2019-06-15 19:08:38.249002
+text: |
+  == {{int:filedesc}} ==
+  {{information
+  |Description = 
+  {{en|1=This comparison image of the core of the galaxy M100 shows the dramatic improvement in Hubble Space Telescope's view of the universe after the first Hubble Servicing Mission in December 1993. The new image, taken with the second generation Wide Field and Planetary Camera (WFPC-2) installed during the STS-61 Hubble Servicing Mission, beautifully demonstrates that the camera's corrective optics compensate fully for the optical aberration in Hubble's primary mirror.  With the new camera, the Hubble explored the universe with unprecedented clarity and sensitivity, and fulfilled its most important scientific objectives for which the telescope was originally built.
+  
+  Image on right: The core of the grand design spiral glazy M100, as imaged by WFPC-2 in its high-resolution channel. WRPC-2's modified optics corrected Hubble's previously blurry vision, allowing the telescope for the first time to cleanly resolve faint structures as small as 30 light-years across in a galaxy tens of millions of light-years away. The image was taken on December 31, 1993.
+  
+  Image on left: For comparison, a picture taken with a WFPC-1 camera in wide-field mode on November 27, 1993, just a few days prior to the STS-61 servicing mission. The effects of optical aberration in HST's 2.4-meter primary mirror blur starlight, smear out fine detail, and limit the telescope's ability to see faint structure.
+  
+  Both Hubble images were "raw," they were not processed using computer image reconstruction techniques that improved aberrated images made before the servicing mission. The Wide Field and Planetary Camera-2 was developed by the Jet Propulsion Laboratory and managed by the Goddard Space Flight Center for NASA's Office of Space Science.}}
+  {{es|1=Imágenes de la [[:es:galaxia espiral|galaxia espiral]] [[:es:Messier_100|Messier 100]] demuestran la mejora en las capacidades de toma de imágenes del Hubble después que correctivos ópticos fueran instalados en la 1a Misión de Servicio en 1993. }}
+  {{pt|1=Imagens da [[:pt:galáxia em espiral|galáxia em espiral]] [[:pt:M100|M100]] demonstram a melhoria nas imagens do [[:pt:Telescópio Espacial Hubble|Telescópio Espacial Hubble]] após a instalação de ópticas correctivas durante a 1ª Missão de Serviço em 1993. Tirado de }}
+  {{it|1=Immagine della galassia a spirale [[:it:M100| M 100]] che dimostra i miglioramenti nelle immagini di Hubble dopo le correzioni ottiche installate durante la prima missione di manutenzione del 1993. }}
+  {{ru|1=Коррекция аберрации телескопа. Снимок галактики М100 до и после установки COSTAR.}}
+  {{de|1=Das Bild von [[:de:Messier 100|M 100]] zeigt die Verbesserung der Abbildungssleistung des Teleskopes von Hubbel vor und nach der Servicemission von 1993 }}
+  |Source =
+  From [http://grin.hq.nasa.gov/ABSTRACTS/GPN-2002-000064.html Hubble Images of M100 Before and After Mirror Repair].
+  |author = NASA
+  |other versions = {{retouched|cropped|orig=Hubble Images of M100 Before and After Mirror Repair - GPN-2002-000064.jpg}}
+  }}
+  {{NASA-image|id=GPN-2002-000064|alternateid=94-HC-2|center=GSFC}}
+  
+  == {{int:license-header}} ==
+  {{PD-Hubble}}
+  
+  [[Category:Hubble images of spiral galaxies]]
+  [[Category:Messier 100]]
+  [[Category:Before and after]]
+  [[Category:Wide Field and Planetary Camera]]
+  [[Category:Wide Field and Planetary Camera 2]]
+---
+source: commons.wikimedia.org
+file: STS061-105-019_Musgrave_EVA5.jpg
+date: 2019-06-15 19:08:39.677989
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=F. Story Musgrave near the top of the Hubble Space Telescope during the final EVA of STS-61.}}
+  |date=1993-12
+  |source=National Aeronautics and Space Administration
+  |author=NASA
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-USGov-NASA}}
+  
+  [[Category:STS-61 EVAs]]
+  [[Category:Story Musgrave]]

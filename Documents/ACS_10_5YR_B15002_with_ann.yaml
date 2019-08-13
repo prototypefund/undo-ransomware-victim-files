@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_5YR_B15002
+product-selection: ACS_10_5YR_B15002|table||||B15002|SEX+BY+EDUCATIONAL+ATTAINMENT+FOR+THE+POPULATION+25+YEARS+AND+OVER
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:46:13.533648

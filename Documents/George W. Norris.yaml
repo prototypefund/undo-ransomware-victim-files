@@ -1,0 +1,49 @@
+source: en.wikipedia.org
+file: George W. Norris
+date: 2019-06-26 15:32:37.155467
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/892340851
+---
+source: commons.wikimedia.org
+file: GeorgeWNorris.jpg
+date: 2019-06-26 15:32:38.351911
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1={{w|George W. Norris}}, US Representative from Nebraska}}
+  |Source=Library of Congress: http://loc.gov/pictures/resource/npcc.20915/ ([https://www.loc.gov/pictures/item/npc2008001415/ Photo data])
+  |Author=National Photo Company
+  |Date={{other date|between|1918|1921}}
+  |Permission=Public domain
+  |other_versions={{Derivative versions|NorrisLaGuardia.jpg}}
+  }}
+  {{LOC-image|npcc.20915}}
+  
+  == {{int:license-header}} ==
+  {{PD-National Photo Company}}
+  {{Retouched picture|Cropped and some other things}}
+  
+  [[Category:George W. Norris]]
+---
+source: commons.wikimedia.org
+file: FDRJohnRankin,GeorgeWNorris.jpg
+date: 2019-06-26 15:32:38.785234
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |description={{en|1=United States President {{w|Franklin D. Roosevelt}} (center) signs the {{w|Rural Electrification Act}} with Representative {{w|John E. Rankin}} (left) and Senator {{w|George W. Norris}} (right).}}
+  |date=1935-05-11
+  |source=http://www.cemc.org/general/electric%20cooperatives.asp ([http://www.cemc.org/graphics/FDR.jpg direct link])
+  |author=United States government
+  |permission=Public domain
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov}}
+  
+  [[Category:Franklin Roosevelt signing federal legislation|19350511]]
+  [[Category:George W. Norris]]
+  [[Category:Rural Electrification Administration]]
+  [[Category:1935 in politics]]
+  [[Category:1935 in the United States]]
+  [[Category:Franklin Delano Roosevelt in the Oval Office]]
+  [[Category:Franklin Delano Roosevelt in 1935]]

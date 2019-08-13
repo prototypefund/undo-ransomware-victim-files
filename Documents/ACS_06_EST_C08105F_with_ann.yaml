@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_06_EST_C08105F
+product-selection: ACS_06_EST_C08105F|table||||C08105F|MEANS+OF+TRANSPORTATION+TO+WORK+%28SOME+OTHER+RACE+ALONE%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:26:15.345524

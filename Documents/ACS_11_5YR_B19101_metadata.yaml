@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_11_5YR_B19101
+product-selection: ACS_11_5YR_B19101|table||||B19101|FAMILY+INCOME+IN+THE+PAST+12+MONTHS+%28IN+2011+INFLATION-ADJUSTED+DOLLARS%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:15:25.374253

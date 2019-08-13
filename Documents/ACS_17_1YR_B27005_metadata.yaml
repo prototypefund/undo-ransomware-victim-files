@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_17_1YR_B27005
+product-selection: ACS_17_1YR_B27005|table||||B27005|DIRECT-PURCHASE+HEALTH+INSURANCE+BY+SEX+BY+AGE
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:00:45.846857

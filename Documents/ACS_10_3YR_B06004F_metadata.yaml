@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_3YR_B06004F
+product-selection: ACS_10_3YR_B06004F|table||||B06004F|PLACE+OF+BIRTH+%28SOME+OTHER+RACE+ALONE%29+IN+THE+UNITED+STATES
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:36:10.144716

@@ -1,0 +1,20 @@
+source: commons.wikimedia.org
+file: GaWC World Cities.png
+date: 2019-06-13 16:33:10.389637
+text: |
+  {{Convert to SVG|map}}
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=A map showing the distribution of [[:en:Globalization and World Cities Research Network|GaWC]]-ranked "world cities."}}
+  |Source         ={{own}}
+  |Author         =[[User:Interchange88|Interchange88]]
+  |Date           =2011-07-26
+  |Permission     =
+  |other_versions =
+  }}
+  
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}
+  
+  [[Category:Maps showing cities]]
+  [[Category:PNG maps of the world]]

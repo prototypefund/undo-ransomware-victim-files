@@ -1,0 +1,34 @@
+source: en.wikipedia.org
+file: Mariner 5
+date: 2019-06-15 18:08:20.508142
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/894736568
+---
+source: commons.wikimedia.org
+file: KSC-67PC-0184.jpg
+date: 2019-06-15 18:08:21.527915
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  | description = 
+  {{en|Launch of an Atlas Agena D with Mariner 5.}}
+  {{fr|Lancement de Mariner 5 par une Atlas Agena D.}}
+  | date        = 1967-06-14
+  | source      = [http://images.ksc.nasa.gov/photos/1967/captions/KSC-67PC-0184.html Kennedy Space Center Photo Archive] ([http://images.ksc.nasa.gov/photos/1967/high/KSC-67PC-0184.jpg image link])
+  | author      = NASA
+  | permission  = 
+  }}
+  {{NASA-image|id=KSC-67PC-0184|center=KSC}}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:14 June]]
+  [[Category:1967 in Florida]]
+  [[Category:1967 photographs]]
+  [[Category:Atlas Agena]]
+  [[Category:Cape Canaveral Air Force Station Launch Complex 12]]
+  [[Category:Carrier rocket launches in the United States in the 1960s]]
+  [[Category:June 1967 in the United States]]
+  [[Category:Launch towers]]
+  [[Category:Mariner 5]]
+  [[Category:Night in Brevard County, Florida]]

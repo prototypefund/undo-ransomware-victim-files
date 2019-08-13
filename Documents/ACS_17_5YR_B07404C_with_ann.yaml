@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_17_5YR_B07404C
+product-selection: ACS_17_5YR_B07404C|table||||B07404C|GEOGRAPHICAL+MOBILITY+IN+THE+PAST+YEAR+%28AMERICAN+INDIAN+AND+ALASKA+NATIVE+ALONE%29+FOR+RESIDENCE+1+YEAR+AGO+IN+THE+UNITED+STATES
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:54:42.000602

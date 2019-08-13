@@ -1,0 +1,18 @@
+source: commons.wikimedia.org
+file: Basketball pic.png
+date: 2019-06-13 16:41:07.927326
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Generic basketball picture}}
+  |date=2013-10-04
+  |source=https://pixabay.com/en/basketball-sport-nba-ball-158875/ {{Wayback|url=http%3A//pixabay.com%3A80/en/basketball-sport-nba-ball-158875/|date=20131207072416}}
+  |author=Pixabay
+  |permission=
+  |other versions=
+  }}
+  {{svg|sport}}
+  
+  =={{int:license-header}}==
+  {{Pixabay|158875|status=confirmed|reviewer=KCVelaga|date=2019-05-04}}
+  [[Category:Basketball ball icons]]

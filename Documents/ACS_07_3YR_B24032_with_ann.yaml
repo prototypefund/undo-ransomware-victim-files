@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_07_3YR_B24032
+product-selection: ACS_07_3YR_B24032|table||||B24032|SEX+BY+INDUSTRY+AND+MEDIAN+EARNINGS+IN+THE+PAST+12+MONTHS+%28IN+2007+INFLATION-ADJUSTED+DOLLARS%29+FOR+THE+CIVILIAN+EMPLOYED+POPULATION+16+YEARS+AND+OVER
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 10:44:10.804419

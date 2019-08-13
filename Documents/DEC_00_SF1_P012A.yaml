@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: DEC_00_SF1_P012A
+product-selection: DEC_00_SF1_P012A|table||||P012A|SEX+BY+AGE+%28WHITE+ALONE%29+%5B49%5D
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:05:52.297807

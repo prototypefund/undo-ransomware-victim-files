@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_15_1YR_B99084
+product-selection: ACS_15_1YR_B99084|table||||B99084|IMPUTATION+OF+TRAVEL+TIME+TO+WORK
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:32:47.272128

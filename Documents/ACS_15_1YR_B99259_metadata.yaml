@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_15_1YR_B99259
+product-selection: ACS_15_1YR_B99259|table||||B99259|IMPUTATION+OF+PLUMBING+FACILITIES
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:52:32.749059

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_12_3YR_C05003H
+product-selection: ACS_12_3YR_C05003H|table||||C05003H|SEX+BY+AGE+BY+NATIVITY+%28WHITE+ALONE%2C+NOT+HISPANIC+OR+LATINO%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:25:38.224030

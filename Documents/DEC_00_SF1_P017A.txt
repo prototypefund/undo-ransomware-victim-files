@@ -1,0 +1,12 @@
+P017A
+AVERAGE HOUSEHOLD SIZE (WHITE ALONE HOUSEHOLDER) [1]
+
+Universe: Households with a householder who is White alone
+
+NOTE:  For information on confidentiality protection,
+nonsampling error, definitions, and count corrections see
+http://www.census.gov/prod/cen2000/doc/sf1.pdf
+
+
+
+

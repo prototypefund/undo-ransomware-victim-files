@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_08_1YR_C17010C
+product-selection: ACS_08_1YR_C17010C|table||||C17010C|POVERTY+STATUS+IN+THE+PAST+12+MONTHS+OF+FAMILIES+BY+FAMILY+TYPE+BY+PRESENCE+OF+RELATED+CHILDREN+UNDER+18+YEARS+%28AMERICAN+INDIAN+AND+ALASKA+NATIVE+ALONE%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:53:24.730577

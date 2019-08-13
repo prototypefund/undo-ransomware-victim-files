@@ -1,0 +1,29 @@
+source: commons.wikimedia.org
+file: Logo DieSparkasseInBremen.png
+date: 2019-06-27 14:03:36.190118
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{de|1=Historisches [[:de:Firmenlogo|Logo]] von "[[:de:Sparkasse Bremen|Die Sparkasse in Bremen]]"}}
+  |Source={{unknown|Source}}
+  |Date=
+  |Author={{unknown|author}}
+  |Permission=
+  |Other versions= 
+  }}
+  {{Convert to SVG|logo}}
+  
+  == {{int:license-header}} ==
+  {{PD-textlogo}}
+  {{Trademark}}
+  
+  == {{Original upload log}} ==
+  <div class="delh">
+  {{transferred from|de.wikipedia|Wdwdbot|script ''bot_filetrans.pl''}}
+  {{original description|de.wikipedia|Logo_DieSparkasseInBremen.png}}
+  * 2009-09-16 20:01:53  [[:de:User:GrößterZwergDerWelt|GrößterZwergDerWelt]] (31969 Bytes) ''<nowiki>{{Information |Beschreibung = Historisches [[Firmenlogo|Logo]] von "[[Sparkasse Bremen|Die Sparkasse in Bremen]]" |Quelle = unbekannt |Urheber = unbekannt |Datum = |Genehmigung = |Andere Versionen = |Anmerkungen = {{Logo-Geschichte}} }} {{Bild-LogoSH}}</nowiki>''
+  </div>
+  {{User:Wdwdbot/Files uploaded by Wdwdbot}}
+  
+  {{Check categories|year=2014|month=September|day=18}}
+  [[Category:Sparkasse, Am Brill, Bremen]]

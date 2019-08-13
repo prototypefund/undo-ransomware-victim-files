@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_15_5YR_S1701
+product-selection: ACS_15_5YR_S1701|table||||S1701|POVERTY+STATUS+IN+THE+PAST+12+MONTHS+
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:49:56.559643

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_14_5YR_B08124
+product-selection: ACS_14_5YR_B08124|table||||B08124|MEANS+OF+TRANSPORTATION+TO+WORK+BY+OCCUPATION
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:37:21.022729

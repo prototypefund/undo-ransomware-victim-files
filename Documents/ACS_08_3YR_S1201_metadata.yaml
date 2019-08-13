@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_08_3YR_S1201
+product-selection: ACS_08_3YR_S1201|table||||S1201|Marital+Status
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:28:48.160500

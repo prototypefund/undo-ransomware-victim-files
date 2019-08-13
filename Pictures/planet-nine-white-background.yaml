@@ -1,0 +1,24 @@
+source: commons.wikimedia.org
+file: Planet Nine - white background.png
+date: 2019-06-13 16:44:20.869650
+text: |
+  {{SVG|space}}
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=The unusually closely spaced orbits of six of the most distant objects in the Kuiper Belt indicate the existence of a ninth planet whose gravity affects these movements.}}
+  {{de|1=Die ungewöhnlich nahe beieinander liegenden Umlaufbahnen von sechs der am weitesten entfernten Objekte im Kuipergürtel deuten auf die Existenz eines neuten Planeten, dessen Gravitation diese Bewegungen beeinflusst.}}
+  {{fr|1=Les orbites inhabituellement étroitement espacés de six des objets les plus éloignés dans la ceinture de Kuiper indiquent l'existence d'une neuvième planète dont la gravité affecte ces mouvements.}}
+  |Source={{own}}, based on a [http://video.scientificamerican.com/services/player/bcpid73042993001?bckey=AQ~~,AAAAAFNl7zk~,OmXvgxJOvrFTWo2Mq0GFTD7z8674te1s&bctid=4713395328001 video released by Caltech]
+  |Date=2016-01
+  |Author=[[User:Nagualdesign|nagualdesign]]
+  |Permission={{self|cc-zero}}
+  |other_versions=<gallery>
+  File:Planet_Nine_-_black_background.png|Black background
+  File:Planet Nine - transparent background.png|Transparent background
+  </gallery>
+  }}
+  
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}
+  
+  [[Category:Planet Nine]]

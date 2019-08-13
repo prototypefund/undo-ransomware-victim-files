@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_08_1YR_C14007D
+product-selection: ACS_08_1YR_C14007D|table||||C14007D|SCHOOL+ENROLLMENT+BY+LEVEL+OF+SCHOOL+FOR+THE+POPULATION+3+YEARS+AND+OVER+%28ASIAN+ALONE%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 10:58:42.104787

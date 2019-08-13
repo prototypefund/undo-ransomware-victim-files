@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_12_1YR_B12002G
+product-selection: ACS_12_1YR_B12002G|table||||B12002G|SEX+BY+MARITAL+STATUS+FOR+THE+POPULATION+15+YEARS+AND+OVER+%28TWO+OR+MORE+RACES%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:41:13.274137

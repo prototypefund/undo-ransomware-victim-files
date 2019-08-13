@@ -1,0 +1,27 @@
+source: commons.wikimedia.org
+file: BBPS Logo.png
+date: 2019-06-14 14:33:45.551725
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|[[:en:Bharat Bill Payment System|Bharat Bill Payment System]] logo.}}
+  |Source=https://www.bharatbillpay.com/
+  |Date={{original upload date|2018-10-14}}
+  |Author=[[:en:National Payments Corporation of India|National Payments Corporation of India]]
+  |Permission=
+  |other_versions={{Should be SVG|logo}}
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-logo}}
+  {{Trademarked}}
+  
+  == {{Original upload log}} ==
+  {{original description|en.wikipedia|BBPS+Logo.png}}
+  {| class="wikitable filehistory"
+  ! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+  |-
+  | 2018-10-14 21:16 || 1200×398× (27206 bytes) || [[:en:User:Indospursfan|Indospursfan]] || ''<nowiki>=== Fair use in [[Bharat Bill Payment System]] ===</nowiki>''
+  |}
+  
+  [[Category:Logos]]

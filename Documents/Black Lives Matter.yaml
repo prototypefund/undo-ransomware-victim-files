@@ -1,0 +1,25 @@
+source: en.wikipedia.org
+file: Black Lives Matter
+date: 2019-06-26 14:08:44.444850
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/903271393
+---
+source: commons.wikimedia.org
+file: Don't_forget_Freddie_Gray.jpg
+date: 2019-06-26 14:08:50.259766
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=A demonstrator, wearing the uniform of the Orioles baseball team on the street in Baltimore. (VOA photo - Victoria Macchi).}}
+  |date=2015-04-29
+  |source=http://www.voanews.com/content/baltimore-orioles-chicago-white-sox-play-to-empty-stadium/2741865.html
+  |author=VOA
+  |permission=
+  |other versions=
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-USGov-VOA}}
+  
+  [[Category:2015 Baltimore riots]]
+  [[Category:2015 Baltimore Orioles season]]
+  [[Category:Freddie Gray]]

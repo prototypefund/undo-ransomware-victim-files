@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_16_1YR_B17008
+product-selection: ACS_16_1YR_B17008|table||||B17008|AGGREGATE+INCOME+DEFICIT+%28DOLLARS%29+IN+THE+PAST+12+MONTHS+OF+UNRELATED+INDIVIDUALS+BY+SEX
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 10:36:08.703920

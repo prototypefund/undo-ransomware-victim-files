@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_16_1YR_C08132
+product-selection: ACS_16_1YR_C08132|table||||C08132|MEANS+OF+TRANSPORTATION+TO+WORK+BY+TIME+LEAVING+HOME+TO+GO+TO+WORK
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:38:30.332576

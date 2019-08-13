@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_14_1YR_B25037
+product-selection: ACS_14_1YR_B25037|table||||B25037|MEDIAN+YEAR+STRUCTURE+BUILT+BY+TENURE
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:44:22.096531

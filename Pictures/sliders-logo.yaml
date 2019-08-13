@@ -1,0 +1,29 @@
+source: commons.wikimedia.org
+file: Sliders Logo.png
+date: 2019-06-27 13:56:38.005085
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{de|1=Logo der Fernsehserie [[:de:Sliders|Sliders]] in Originalfarbe}}
+  |Source=Bild gecaptured
+  |Date=2007-08-05
+  |Author={{unknown|author}}
+  |Permission=
+  |Other versions= 
+  |Other fields= {{Information field|Name=Remarks|Value={{de|1=hochgeladen von [[:de:Benutzer:Alexslider|Alexslider]]}}}}
+  }}
+  {{Convert to SVG|logo}}
+  
+  == {{int:license-header}} ==
+  {{PD-textlogo}}
+  {{Trademark}}
+  
+  == {{Original upload log}} ==
+  <div class="delh">
+  {{transferred from|de.wikipedia|Wdwdbot|script ''bot_filetrans.pl (r26M)''}}
+  {{original description|de.wikipedia|Sliders_Logo.png}}
+  * 2007-08-05 21:19:05  [[:de:User:Alexslider|Alexslider]] (93245 Bytes) ''<nowiki>{{Information |Beschreibung = Logo der Fernsehserie [[Sliders]] in Originalfarbe |Quelle = Bild gecaptured |Urheber = ~~~ |Datum = 05.08.2007 |Genehmigung = siehe unten |Andere Versionen = |Anmerkungen = }} {{Bild-CC-by-sa/2.0/de}} {{Logo}}</nowiki>''
+  </div>
+  {{User:Wdwdbot/Files uploaded by Wdwdbot}}
+  
+  [[Category:Unidentified logos]]

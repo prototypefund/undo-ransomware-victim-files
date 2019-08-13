@@ -1,0 +1,50 @@
+source: en.wikipedia.org
+file: Imperial_Royal_Austrian_State_Railways
+date: 2019-06-26 16:14:39.612651
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/839830553
+---
+source: commons.wikimedia.org
+file: Gustav_Jahn_-_Hohe_Tauern,_Grossglockner_(Werbeplakat).jpg
+date: 2019-06-26 16:14:40.914182
+text: |
+  == {{int:filedesc}} ==
+  {{artwork
+  |Artist={{Creator:Gustav Jahn}}
+  |title = {{title|lang=de|Hohe Tauern, Grossglockner}}
+  |Description= aus der K.K Hof- und Staatsdruckerei in Wien (Werbung für die K.K Österr. Staatsbahnen)
+  |Date={{other date|s|1900}}
+  |dimensions = {{size|cm|100|71}}
+  |medium = {{technique|color=color|lithograph}}
+  |Source={{christies online|ID=5764514|sale=5091|lot=75, London, 22 January 2014, page no more available}}
+  |Permission=
+  |other_versions=
+  }}
+  =={{int:license-header}}==
+  {{PD-art|PD-old-auto-1923|deathyear=1919}}
+  
+  [[Category:Gustav Jahn (painter)]]
+  [[Category:Advertising posters of Austria]]
+  [[Category:1900s posters]]
+---
+source: commons.wikimedia.org
+file: Westbahn_Haag_1900.jpg
+date: 2019-06-26 16:14:42.141254
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description=Passenger Train with class 206 engine passing the small town of Haag, Lower Austria
+  |Source=Public Domain
+  |Date={{other date|ca|1900}}
+  |Author={{unknown|author}}
+  |Permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-old}}
+  
+  [[Category:Trains of Austria]]
+  [[Category:KkStB 206]]
+  
+  [[Category:Black and white photographs of trains]]
+  [[Category:Haag (Niederösterreich)]]

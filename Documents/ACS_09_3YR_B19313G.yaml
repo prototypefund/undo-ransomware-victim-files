@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_09_3YR_B19313G
+product-selection: ACS_09_3YR_B19313G|table||||B19313G|AGGREGATE+INCOME+IN+THE+PAST+12+MONTHS+%28IN+2009+INFLATION-ADJUSTED+DOLLARS%29+FOR+THE+POPULATION+15+YEARS+AND+OVER+%28TWO+OR+MORE+RACES%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:44:21.582725

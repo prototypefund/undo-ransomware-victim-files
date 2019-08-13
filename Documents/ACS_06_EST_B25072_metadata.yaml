@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_06_EST_B25072
+product-selection: ACS_06_EST_B25072|table||||B25072|AGE+OF+HOUSEHOLDER+BY+GROSS+RENT+AS+A+PERCENTAGE+OF+HOUSEHOLD+INCOME+IN+THE+PAST+12+MONTHS
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 10:45:09.428994

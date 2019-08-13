@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: DEC_00_SF1_P017A
+product-selection: DEC_00_SF1_P017A|table||||P017A|AVERAGE+HOUSEHOLD+SIZE+%28WHITE+ALONE+HOUSEHOLDER%29+%5B1%5D
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:30:46.618940

@@ -1,0 +1,25 @@
+source: en.wikipedia.org
+file: Sally Ride
+date: 2019-06-15 19:09:04.359683
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/899258928
+---
+source: commons.wikimedia.org
+file: Ride_on_the_Middeck_-_GPN-2000-001081.jpg
+date: 2019-06-15 19:09:05.932936
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=On Challenger's middeck, Mission Specialist (MS) Sally Ride, wearing light blue flight coveralls and communications headset, floats alongside the middeck airlock hatch.}}
+  |Source=[http://dayton.hq.nasa.gov/IMAGES/LARGE/GPN-2000-001081.jpg Great Images in NASA] [http://grin.hq.nasa.gov/ABSTRACTS/GPN-2000-001081.html Description]
+  |Date=1983-06-24
+  |Author=NASA
+  |Permission={{PD-USGov-NASA}}
+  |other_versions=
+  }}
+  {{NASA-image|id=GPN-2000-001081|alternateid=S07-02-020|center=JSC}}
+  
+  [[Category:Great Images in NASA]]
+  [[Category:STS-7]]
+  [[Category:Sally Ride]]
+  [[Category:Overalls]]
+  [[Category:Astronauts in 1983]]

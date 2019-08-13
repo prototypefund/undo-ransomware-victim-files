@@ -1,0 +1,26 @@
+source: commons.wikimedia.org
+file: LOCC.png
+date: 2019-07-01 13:35:11.572209
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|Local Operations and Classical Communication (Quantumm Information). In LOCC the parties are not allowed to exchange particles coherently.}}
+  |Source=Created by original uploader, using clip art from openclipart.org
+  |Date=2008-09-11
+  |Author=Alvaro Feito ({{user at project|Boirac|wikipedia|en}}) (combining free images from tim99,freedo,jfmelero, michal pecyna)
+  |Permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-OpenClipart}}
+  
+  == {{Original upload log}} ==
+  {{original description|en.wikipedia|LOCC.png}}
+  {| class="wikitable"
+  ! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+  |-
+  | 2008-09-11 11:54 || 450&times;395&times; (96663 bytes) || [[:en:User:Boirac|Boirac]] || ''<nowiki>{{Information |Description= Local Operations and Classical Communication (Quantumm Information). In LOCC the parties are not allowed to exchange particles coherently.   |Source= openclipart.org |Date=Sept 2008 |Author= Alvaro Feito (Boirac) (combining fre</nowiki>''
+  |}
+  
+  {{Uncategorized|year=2015|month=August|day=3}}

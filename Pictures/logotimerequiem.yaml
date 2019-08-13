@@ -1,0 +1,30 @@
+source: commons.wikimedia.org
+file: Logotimerequiem.png
+date: 2019-06-14 14:40:55.057157
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{de|1=Logo der Band Time Requiem}}
+  |Source=http://regainrecords.com/media/timerequiem/logo.zip
+  |Date={{unknown|date}}
+  |Author=Time Requiem
+  |Permission=
+  |Other versions= 
+  }}
+  {{Convert to SVG|logo}}
+  
+  == {{int:license-header}} ==
+  {{PD-textlogo}}
+  {{Trademark}}
+  
+  == {{Original upload log}} ==
+  <div class="delh">
+  {{transferred from|de.wikipedia|Wdwdbot|script ''bot_filetrans.pl''}}
+  {{original description|de.wikipedia|Logotimerequiem.png}}
+  * 2008-02-16 05:51:02  [[:de:User:Azbycx|Azbycx]] (153583 Bytes) ''<nowiki>{{Information |Beschreibung = Logo der Band Time Requiem |Quelle = http://regainrecords.com/media/timerequiem/logo.zip |Urheber = Time Requiem |Datum = unbekannt |Genehmigung = {{LogoSH}} |Andere Versionen = |Anmerkungen = }}</nowiki>''
+  </div>
+  {{User:Wdwdbot/Files uploaded by Wdwdbot}}
+  
+  {{Check categories|year=2015|month=January|day=7}}
+  
+  [[Category:Logos of musical groups]]

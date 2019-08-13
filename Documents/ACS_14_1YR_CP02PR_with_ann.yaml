@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_14_1YR_CP02PR
+product-selection: ACS_14_1YR_CP02PR|table||||CP02PR|COMPARATIVE+SOCIAL+CHARACTERISTICS+IN+PUERTO+RICO
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:29:53.308451

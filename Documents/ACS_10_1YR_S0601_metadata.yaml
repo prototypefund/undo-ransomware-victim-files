@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_1YR_S0601
+product-selection: ACS_10_1YR_S0601|table||||S0601|SELECTED+CHARACTERISTICS+OF+THE+TOTAL+AND+NATIVE+POPULATIONS+IN+THE+UNITED+STATES+
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:40:39.425812

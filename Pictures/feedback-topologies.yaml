@@ -1,0 +1,18 @@
+source: commons.wikimedia.org
+file: Feedback topologies.png
+date: 2019-06-13 16:42:50.680156
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Various topologies for a negative feedback amplifier using two-ports}}
+  |date=2014-12-22
+  |source={{own}}
+  |author=[[User:Brews ohare|Brews ohare]]
+  |permission=
+  |other versions={{SVG|circuit}}
+  }}
+  
+  =={{int:license-header}}==
+  {{self|cc-zero}}
+  
+  [[Category:Electronic amplifiers]]

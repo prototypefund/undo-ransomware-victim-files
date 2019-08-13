@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_08_1YR_C25032C
+product-selection: ACS_08_1YR_C25032C|table||||C25032C|UNITS+IN+STRUCTURE+%28AMERICAN+INDIAN+AND+ALASKA+NATIVE+ALONE+HOUSEHOLDER%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:49:19.124232

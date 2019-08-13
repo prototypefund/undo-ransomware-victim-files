@@ -1,0 +1,13 @@
+﻿Contact microphone
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Contact_microphone
+Licensed under CC BY-SA 3.0:
+https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+
+Contact microphone
+    • This center disc is positively charged while the brass disc is negatively charged.
+    • Contact microphones based on piezo materials are passive and high-impedance, which can make them sound 'tinny' without a matching preamp.
+    • A contact microphone, also known as a piezo microphone, is a form of microphone that senses audio vibrations through contact with solid objects.
+A contact microphone, also known as a piezo microphone, is a form of microphone that senses audio vibrations through contact with solid objects. Unlike normal air microphones, contact microphones are almost completely insensitive to air vibrations but transduce only structure-borne sound. Often used as acoustic leakage probes, they also enjoy wide usage by noise music artists experimenting with sound. Contact microphones based on piezo materials are passive and high-impedance, which can make them sound 'tinny' without a matching preamp. 
+The most commonly available contact microphone element is made of a thin piezoelectric ceramic round glued to a thin brass or alloy metal disc. This center disc is positively charged while the brass disc is negatively charged. If the silver disc is cracked or scorched, the piezo will no longer function at full sensitivity. 
+References

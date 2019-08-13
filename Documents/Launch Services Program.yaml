@@ -1,0 +1,35 @@
+source: en.wikipedia.org
+file: Launch Services Program
+date: 2019-06-15 17:51:31.785717
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/892073021
+---
+source: commons.wikimedia.org
+file: ISS-38_SLOSH_full_assembly.jpg
+date: 2019-06-15 17:51:34.018208
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |description={{en|1=SLOSH in full assembly- SPHERES SLOSH hardware fully assembled getting ready to conduct fluid dynamics related experiments.}}
+  |date={{taken on|2014-01-22 15:48 UTC}}
+  |source={{cite web|title=SLOSH in full assembly|url=http://www.nasa.gov/content/slosh-in-full-assembly/|publisher=[[NASA]] Space Station|accessdate={{ISOdate|2015-01-10}}}}
+  |author=NASA
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  {{NASA-image|center=JSC|id=ISS038-E-033889}}
+  
+  =={{int:license-header}}==
+  {{PD-USGov-NASA}}
+  == {{Original upload log}} ==
+  {{original description|en.wikipedia|SLOSH+full+assembly+iss038e033889sideways.jpg}}
+  {| class="wikitable filehistory"
+  ! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+  |-
+  | 2015-01-10 11:11 || 946×628× (504049 bytes) || [[:en:User:Caleystaxi|Caleystaxi]] || ''<nowiki>SLOSH in full assembly SPHERES SLOSH hardware fully assembled getting ready to conduct fluid dynamics related experiments. <ref>{{cite web|title=SLOSH in full assembly|url=http://www.nasa.gov/content/slosh-in-full-assembly/|publisher=[[NASA]] Space Sta...</nowiki>''
+  |}
+  
+  [[Category:ISS Expedition 38]]
+  [[Category:SPHERES]]
+  [[Category:Interior of Kibo (ISS module)]]
+  [[Category:Taken with Nikon D2Xs]]

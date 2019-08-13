@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_07_3YR_C23007
+product-selection: ACS_07_3YR_C23007|table||||C23007|PRESENCE+OF+OWN+CHILDREN+UNDER+18+YEARS+BY+FAMILY+TYPE+BY+EMPLOYMENT+STATUS
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:48:07.334101

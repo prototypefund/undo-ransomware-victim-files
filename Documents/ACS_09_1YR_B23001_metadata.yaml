@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_09_1YR_B23001
+product-selection: ACS_09_1YR_B23001|table||||B23001|SEX+BY+AGE+BY+EMPLOYMENT+STATUS+FOR+THE+POPULATION+16+YEARS+AND+OVER
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:17:13.852342

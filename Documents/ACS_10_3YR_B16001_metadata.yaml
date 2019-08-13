@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_3YR_B16001
+product-selection: ACS_10_3YR_B16001|table||||B16001|LANGUAGE+SPOKEN+AT+HOME+BY+ABILITY+TO+SPEAK+ENGLISH+FOR+THE+POPULATION+5+YEARS+AND+OVER
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:37:21.170655

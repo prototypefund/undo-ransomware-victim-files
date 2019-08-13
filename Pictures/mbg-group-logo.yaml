@@ -1,0 +1,29 @@
+source: commons.wikimedia.org
+file: MBG Group Logo.png
+date: 2019-06-27 14:03:27.235933
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{de|1=Logo}}
+  |Source=http://www.mbgglobal.net/de/media/
+  |Date=
+  |Author={{unknown|Author}}
+  |Permission=
+  |Other versions= 
+  |Other fields=
+  }}
+  {{Convert to SVG|logo|vectordata=http://www.mbgglobal.net/de/media/}}
+  
+  == {{int:license-header}} ==
+  {{PD-textlogo}}
+  {{Trademark}}
+  
+  == {{Original upload log}} ==
+  <div class="delh">
+  {{transferred from|de.wikipedia|Wdwdbot|script ''bot_filetrans.pl (r106M)''}}
+  {{original description|de.wikipedia|MBG_Group_Logo.png}}
+  * 2017-11-17 17:40:13  [[:de:User:ZillertalerZitzenZuzler|ZillertalerZitzenZuzler]] (101041 Bytes) ''<nowiki>{{Information |Beschreibung = Logo |Quelle = http://www.mbgglobal.net/de/media/ |Urheber = unbekannt |Datum = |Genehmigung = {{Bild-LogoSH}} |Andere Versionen = |Anmerkungen = {{In SVG konvertieren|Logo|Vektordaten=http://www.mbgglobal.net/de/media/}}…</nowiki>''
+  </div>
+  {{User:Wdwdbot/Files uploaded by Wdwdbot}}
+  
+  {{Uncategorized|year=2018|month=February|day=17}} <!-- Remove this line once you have added categories -->

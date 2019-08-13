@@ -1,0 +1,23 @@
+source: en.wikipedia.org
+file: 1877 St. Louis general strike
+date: 2019-06-26 13:25:26.819163
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/893636671
+---
+source: commons.wikimedia.org
+file: Four_courts_building_(1907).jpg
+date: 2019-06-26 13:25:28.188028
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=The Four Courts building in St. Louis (1907)}}
+  |date=1907
+  |source=https://mohistory.org/collections/item/resource:370486
+  |author=Emil Boehl
+  |permission=
+  |other versions=
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-1923}}
+  
+  [[Category:St. Louis, Missouri in the 1900s]]

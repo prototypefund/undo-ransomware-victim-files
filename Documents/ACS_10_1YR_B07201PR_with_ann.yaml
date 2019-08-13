@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_1YR_B07201PR
+product-selection: ACS_10_1YR_B07201PR|table||||B07201PR|GEOGRAPHICAL+MOBILITY+IN+THE+PAST+YEAR+FOR+CURRENT+RESIDENCE--METROPOLITAN+STATISTICAL+AREA+LEVEL+IN+PUERTO+RICO
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:27:35.477137

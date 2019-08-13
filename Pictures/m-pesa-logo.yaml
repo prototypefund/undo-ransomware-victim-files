@@ -1,0 +1,23 @@
+source: commons.wikimedia.org
+file: M-pesa-logo.png
+date: 2019-06-14 14:37:31.223199
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Logo for M-Pesa, a mobile money service by Vodafone.}}
+  |date=2017
+  |source=https://www.vodafone.com/content/index/what/m-pesa.html<br>Upscaled to 2x the original resolution using waifu2x.
+  |author={{unknown|author}}
+  |permission=
+  |other versions=
+  }}
+  
+  =={{int:license-header}}==
+  
+  {{PD-textlogo}}{{trademarked}}
+  
+  [[Category:M-Pesa]]
+  [[Category:Smartphones in art]]
+  [[Category:Red logos]]
+  
+  {{Convert to SVG|logo}}

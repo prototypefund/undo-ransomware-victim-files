@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_13_1YR_B01001B
+product-selection: ACS_13_1YR_B01001B|table||||B01001B|SEX+BY+AGE+%28BLACK+OR+AFRICAN+AMERICAN+ALONE%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:26:50.576754

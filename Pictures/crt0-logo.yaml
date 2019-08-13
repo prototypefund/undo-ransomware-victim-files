@@ -1,0 +1,20 @@
+source: commons.wikimedia.org
+file: CRT0 Logo.png
+date: 2019-06-27 14:04:56.285034
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{zh-hans|1=重庆轨道交通环线Logo}}
+  |Source         ={{own}}
+  |Author         =[[User:云淡风轻|云淡风轻]]
+  |Date           =2012-04-24
+  |Permission     =
+  |other_versions =
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-textlogo}}
+  
+  [[Category:CRT icons]]
+  [[Category:Loop Line, Chongqing Rail Transit]]
+  {{Convert to SVG|logo}}

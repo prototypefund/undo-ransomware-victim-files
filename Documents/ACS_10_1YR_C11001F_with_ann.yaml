@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_1YR_C11001F
+product-selection: ACS_10_1YR_C11001F|table||||C11001F|HOUSEHOLD+TYPE+%28SOME+OTHER+RACE+ALONE%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:47:02.306929

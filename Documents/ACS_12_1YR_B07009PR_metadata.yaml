@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_12_1YR_B07009PR
+product-selection: ACS_12_1YR_B07009PR|table||||B07009PR|GEOGRAPHICAL+MOBILITY+IN+THE+PAST+YEAR+BY+EDUCATIONAL+ATTAINMENT+FOR+CURRENT+RESIDENCE+IN+PUERTO+RICO
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:15:08.758078

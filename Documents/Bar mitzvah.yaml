@@ -1,0 +1,31 @@
+source: en.wikipedia.org
+file: Bar mitzvah
+date: 2019-06-26 13:58:28.104791
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/903494523
+---
+source: commons.wikimedia.org
+file: Oscr_Rex_-_Bar_Mitzwa.jpg
+date: 2019-06-26 13:58:29.172850
+text: |
+  == {{int:filedesc}} ==
+  {{artwork
+  |wikidata = 
+  |Description    = {{de|1=Darstellung einer Bar Mitzwa in einer Synagoge.}}
+  |object type = painting 
+  |medium         = {{oil on canvas}}
+  |Source         = Fotografie von Original
+  |Author         = {{creator:Oscar Rex}}
+  |Date           = {{otherdate|b|1929}}
+  |Permission     =
+  |other_versions =
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-old}}
+  
+  [[Category:20th-century oil on canvas paintings]]
+  [[Category:Oscar Rex]]
+  [[Category:Bar Mitzvah]]
+  [[Category:Judaism in art]]
+  [[Category:1929 paintings]]
+  [[Category:20th-century paintings, location missing]]

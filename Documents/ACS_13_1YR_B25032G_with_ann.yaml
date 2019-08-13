@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_13_1YR_B25032G
+product-selection: ACS_13_1YR_B25032G|table||||B25032G|UNITS+IN+STRUCTURE+%28TWO+OR+MORE+RACES+HOUSEHOLDER%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:40:49.117905

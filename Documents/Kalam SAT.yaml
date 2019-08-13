@@ -1,0 +1,22 @@
+source: en.wikipedia.org
+file: Kalam SAT
+date: 2019-06-15 17:45:56.353066
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/897471453
+---
+source: commons.wikimedia.org
+file: Satel.630x360.jpg
+date: 2019-06-15 17:45:56.896614
+text: |
+  == {{int:filedesc}} ==
+  {{No source since|month=June|day=11|year=2019}}
+  {{Information
+  |author=[[NASA]]
+  |date=2017-05-17
+  |description={{it|1=Il Satellite Cubo.}}
+  |source=[[NASA]]  Work
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  [[Category:Satellites]]
+  [[Category:Space]]

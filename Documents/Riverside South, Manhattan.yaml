@@ -1,0 +1,96 @@
+source: en.wikipedia.org
+file: Riverside South, Manhattan
+date: 2019-06-26 19:19:22.366816
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/902409255
+---
+source: commons.wikimedia.org
+file: THE_WEST_SIDE_OF_MANHATTAN,_NEW_YORK._THE_NEW_YORK,_NEW_JERSEY_METROPOLITAN_REGION_IS_ONE_THE_MOST_CONGESTED_URBAN..._-_NARA_-_555742.jpg
+date: 2019-06-26 19:19:23.995070
+text: |
+  
+  == {{int:filedesc}} ==
+  {{NARA-image-full
+   | Title                   = THE WEST SIDE OF MANHATTAN, NEW YORK. THE NEW YORK, NEW JERSEY METROPOLITAN REGION IS ONE THE MOST CONGESTED URBAN AND INDUSTRIAL AREAS OF THE WORLD. IT CREATES STRESS FACTORS FOR THE BIGHT INCLUDING AIR AND WATER POLLUTION, DESTRUCTION OF WETLANDS WHICH ARE NURSERIES FOR MARINE LIFE, COASTAL OVERDEVELOPMENT, AND OCEAN DUMPING OF MUNICIPAL AND INDUSTRIAL WASTES
+   | Scope and content       = 
+   | General notes           = 
+   | ARC                     = 555742
+   | Local identifier        = 412-DA-13290
+   | Creator                 = Environmental Protection Agency.	(12/02/1970 - )
+   | Author                  = {{NARA-Author|Alexander, Hope, Photographer|8452212}}<br />
+   | Place                   = {{NARA-Place|New York (New York state, United States, North and Central America) inhabited place|4191644|40.79|-74}}<br />
+   | Location                = Still Picture Records Section, Special Media Archives Services Division (NWCS-S), National Archives at College Park, 8601 Adelphi Road, College Park, MD, 20740-6001.
+   | Date                    = 1974-06
+   | Record group            = Record Group 412: Records of the Environmental Protection Agency, 1944 - 2006
+   | Record group ARC        = 708
+   | Series                  = DOCUMERICA: The Environmental Protection Agency's Program to Photographically Document Subjects of Environmental Concern, compiled 1972 - 1977
+   | Series ARC              = 542493
+   | File unit               = 
+   | File unit ARC           = 
+   | Variant control numbers = Agency-Assigned Identifier: 222/30/013290<br />
+  NAIL Control Number: NWDNS-412-DA-13290
+   | TIFF                    =
+   | Other versions          = <gallery>
+  File:THE_WEST_SIDE_OF_MANHATTAN,_NEW_YORK._THE_NEW_YORK,_NEW_JERSEY_METROPOLITAN_REGION_IS_ONE_THE_MOST_CONGESTED_URBAN..._-_NARA_-_555742.tif|.tif
+  File:THE_WEST_SIDE_OF_MANHATTAN,_NEW_YORK._THE_NEW_YORK,_NEW_JERSEY_METROPOLITAN_REGION_IS_ONE_THE_MOST_CONGESTED_URBAN..._-_NARA_-_555742.jpg|.jpg
+  </gallery>
+  }}
+  
+  == {{int:license-header}} ==
+  {{NARA-cooperation}}
+  {{PD-USGov-EPA}}
+  
+  [[Category:Hope Alexander]]
+  [[Category:Aerial photographs of Manhattan, New York City]]
+  [[Category:West Side Line]]
+  [[Category:Upper West Side]]
+  [[Category:Air pollution in New York (state)]]
+  [[Category:Rail yards in New York City]]
+  [[Category:1974 in New York City]]
+  [[Category:Riverside South, Manhattan]]
+  {{ImageNote|id=1|x=1868|y=630|w=416|h=210|dimx=3000|dimy=2022|style=2}}
+  The New York Times West Side Plant, built 1959. Between 64th & 65th streets, west of West End Avenue. Not sure when it was demolished, but it's no longer there 2014.
+  {{object location dec|40.7754|-73.9884|type:landmark_region:US-NY}}
+  {{ImageNoteEnd|id=1}}
+  {{ImageNote|id=2|x=143|y=428|w=1466|h=491|dimx=3000|dimy=2022|style=2}}
+  This complex is still there, between 66th and 70th Streets west of West End Avenue. The street to its west is now Freedom Place, and there is another row of buildings west of that, between that and Riverside Boulevard.
+  {{ImageNoteEnd|id=2}}
+---
+source: commons.wikimedia.org
+file: RSP_South_stonework_jeh.jpg
+date: 2019-06-26 19:19:25.980647
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=Looking south at stone piers for NY Central, south of [[:en:New York Central Railroad 69th Street Transfer Bridge]] in the southern panhandle of the park.  
+  }}
+  |Source={{own}}
+  |Author=[[User:Jim.henderson|Jim.henderson]]
+  |Date=2010-06-24
+  |Permission=
+  |other_versions=
+  }}
+  {{Location|40|46|32.1|N|73|59|31.9|W|alt:0_source:exif_heading:SbW}}
+  == {{int:license-header}} ==
+  {{cc-zero}}
+  
+  [[Category:Riverside Park (Manhattan)]]
+  [[Category:Former railway lines in New York (state)]]
+---
+source: commons.wikimedia.org
+file: Trump_Place_street_jeh.JPG
+date: 2019-06-26 19:19:28.053656
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=Looking south along Riverside Boulevard at buildings of [[:en:Trump Place]] on a partly cloudy afternoon.}}
+  |Source={{Own}}
+  |Author=[[User:Jim.henderson|Jim.henderson]]
+  |Date=2009-01-23
+  |Permission=
+  |other_versions=
+  }}
+  {{Location|40|46.67|0|N|73|59.32|0|W|heading:SbW}}
+  == {{int:license-header}} ==
+  {{PD-self}}
+  
+  [[Category:Riverside South, Manhattan]]

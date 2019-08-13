@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_16_5YR_B19121
+product-selection: ACS_16_5YR_B19121|table||||B19121|MEDIAN+FAMILY+INCOME+IN+THE+PAST+12+MONTHS+%28IN+2016+INFLATION-ADJUSTED+DOLLARS%29+BY+NUMBER+OF+EARNERS+IN+FAMILY
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:14:57.191034

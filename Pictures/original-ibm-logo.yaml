@@ -1,0 +1,21 @@
+source: commons.wikimedia.org
+file: Original IBM Logo.png
+date: 2019-06-27 13:57:46.014930
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=IBM's original logo, used from 1924 to 1946.}}
+  {{fr|1=Logo original d'IBM, utilisé de 1924 à 1946.}}
+  |Source={{own}}
+  |Author=[[User:OgilvyOne|OgilvyOne]]
+  |Date={{upload date|2009-11-10}}
+  |Permission=
+  |other_versions={{DerivativeVersions|IBM logo history.PNG}}
+  }}
+  {{SVG|logo}}
+  
+  == {{int:license-header}} ==
+  {{PD-textlogo}}
+  {{Trademarked}}
+  
+  [[Category:IBM logos]]

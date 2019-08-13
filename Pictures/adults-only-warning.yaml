@@ -1,0 +1,27 @@
+source: commons.wikimedia.org
+file: Adults only warning.png
+date: 2019-06-27 13:54:18.045566
+text: |
+  {{Convert to SVG|text}}
+  
+  == {{int:filedesc}} ==
+  {{Information
+  |Description=
+  |Source={{Own}}
+  |Date=2007
+  |Author= [[User:N2v435w|N2v435w]]
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-text}}
+  
+  [[Category:Age limitation markings]]
+  [[Category:Black, red, white signs]]
+  
+  == {{Original upload log}} ==
+  {| class="wikitable"
+  |-
+  ! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+  |-
+  | {{ISOdate|2007-05-11 19:55:12}} || 1600 × 1200 (76564 bytes) || {{User|N2v435w}} || ''<nowiki>{{Information&#10;|Description=&#10;|Source=self-made&#10;|Date=2007&#10;|Author= [[User:N2v435w|]]&#10;}}&#10;</nowiki>''
+  |}

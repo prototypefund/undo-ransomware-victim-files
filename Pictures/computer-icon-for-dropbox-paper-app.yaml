@@ -1,0 +1,32 @@
+source: commons.wikimedia.org
+file: Computer icon for Dropbox Paper app.png
+date: 2019-06-27 13:57:53.214169
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description=This image is the computer icon for the client {{w|mobile app}} of the {{w|Dropbox Paper}} service.
+  |Source=https://www.dropbox.com/branding#apps
+  |Date={{unknown|date}}
+  |Author={{Author|original|Dropbox Inc.}}
+  |Permission=
+  |other_versions=
+  }}
+  {{SVG|logo}}
+  
+  == {{int:license-header}} ==
+  {{PD-ineligible}}
+  <!-- Templates "Template:Delink", were used in the original description page as well , but do not appear to exist on commons. -->
+  
+  == {{Original upload log}} ==
+  {{original description|en.wikipedia|Dropbox+Paper+logo.png}}
+  {| class="wikitable"
+  ! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+  |-
+  | 2017-05-05 14:56 || 300×300× (12243 bytes) || [[:en:User:Hayman30|Hayman30]] || ''<nowiki>Uploaded wrong file</nowiki>''
+  |-
+  | 2017-05-05 14:53 || 236×37× (3712 bytes) || [[:en:User:Hayman30|Hayman30]] || ''<nowiki>Uploading a non-free logo using [[Wikipedia:File_Upload_Wizard|File Upload Wizard]]</nowiki>''
+  |}
+  
+  
+  
+  [[Category:Dropbox logos]]

@@ -1,0 +1,35 @@
+source: commons.wikimedia.org
+file: Adobe Illustrator .AI File Icon.png
+date: 2019-06-14 14:32:22.292221
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|This is the icon for an Adobe Illustrator .ai file.}}
+  |Source={{transferred from|en.wikipedia}}
+  |Date={{original upload date|2012-03-14}}
+  |Author={{Original uploader|Yugiohdan6|wikipedia|en}}
+  |Permission=
+  |other_versions=
+  }}
+  
+  {{convert to SVG|logo}}
+  
+  == {{int:license-header}} ==
+  {{PD-logo}}
+  {{Trademark}}
+  
+  == {{Original upload log}} ==
+  {{original description|en.wikipedia|Adobe+Illustrator+.AI+File+Icon.png}}
+  {| class="wikitable filehistory"
+  ! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+  |-
+  | 2019-01-18 01:37 || 315×315× (23009 bytes) || [[:en:User:Mxdanger|Mxdanger]] || ''<nowiki>Reduced size</nowiki>''
+  |-
+  | 2019-01-17 03:02 || 1024×1024× (40525 bytes) || [[:en:User:Mxdanger|Mxdanger]] || ''<nowiki></nowiki>''
+  |-
+  | 2017-05-30 00:59 || 316×316× (31659 bytes) || [[:en:User:DatBot|DatBot]] || ''<nowiki>Reduce size of non-free image ([[WP:BOT|BOT]] - [[User:DatBot/NonFreeImageResizer/Run|disable]])</nowiki>''
+  |-
+  | 2012-03-14 22:01 || 512×512× (63871 bytes) || [[:en:User:Yugiohdan6|Yugiohdan6]] || ''<nowiki>Uploading a non-free logo using [[Wikipedia:File_Upload_Wizard|File Upload Wizard]]</nowiki>''
+  |}
+  
+  [[Category:Adobe software logos]]

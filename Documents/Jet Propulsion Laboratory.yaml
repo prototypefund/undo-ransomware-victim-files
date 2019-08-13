@@ -1,0 +1,47 @@
+source: en.wikipedia.org
+file: Jet Propulsion Laboratory
+date: 2019-06-15 17:40:20.740978
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/894444552
+---
+source: commons.wikimedia.org
+file: Mars_Science_Laboratory_mockup_comparison.jpg
+date: 2019-06-15 17:40:22.398773
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description	= 
+  {{de|1=Eine Attrappe des [[:de:Mars Science Laboratory|Mars Science Laboratory]] (rechts) im Vergleich mit dem [[:de:Mars_Exploration_Rover|Mars Exploration Rover]] (links) und [[:de:Mars_Pathfinder|Mars Pathfinder]] (mitte) vor dem [[:de:Jet_Propulsion_Laboratory|Jet Propulsion Laboratory]] in Kalifornien}}
+  {{en|1=[[w:Mars Science Laboratory|Mars Science Laboratory]] mockup (right) compared with the [[w:Mars Exploration Rover|Mars Exploration Rover]] (left) and [[w:Mars Pathfinder|Sojourner rover]] (center) by the [[w:Jet Propulsion Laboratory|Jet Propulsion Laboratory]].}}
+  {{sk|1=Model vozidla [[:sk:Mars Science Laboratory|Mars Science Laboratory]] (vpravo) v porovnaní s [[:sk:Mars Exploration Rover|Mars Exploration Rover]] (vľavo) a vozidlom [[:sk:Mars Pathfinder|Sojourner]] (v strede) pred [[:sk:Laboratórium prúdového pohonu|Laboratóriom prúdového pohonu]] v Kalifornii.}}
+  |Source		= http://appel.nasa.gov/2009/03/01/mars-science-laboratory-integrating-science-and-engineering-teams/ ([http://appel.nasa.gov/wp-content/uploads/sites/2/2009/03/D2008_0416_R2426.jpg image link])
+  |Date		= 2008-04-11 14:58
+  |Author		= NASA/JPL/Thomas “Dutch” Slager
+  |Permission	=
+  |other_versions	=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Curiosity rover]]
+  [[Category:Models of the Mars Exploration Rovers]]
+  [[Category:Mars Pathfinder (rover)]]
+  [[Category:Taken with Nikon D2X]]
+  [[Category:Photographs taken on 2008-04-11]]
+  [[Category:Mars rovers comparisons]]
+---
+source: commons.wikimedia.org
+file: 2007_jpl_open_house.jpg
+date: 2019-06-15 17:40:25.000564
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description=Picture of a full-size mockup of a Voyager space probe at the 2007 JPL Open House event.  
+  |Source=[https://www.flickr.com/photos/franksvalli/sets/72157600305805936/ A FranksValli Photo]
+  |Date=2007-05-19
+  |Author= [[User:FranksValli|FranksValli]]
+  |Permission={{PD-self}}
+  }}
+  This is Voyager. Not Pioneer. (Paul Van Velzer)
+  
+  [[Category:Voyager spacecraft]]

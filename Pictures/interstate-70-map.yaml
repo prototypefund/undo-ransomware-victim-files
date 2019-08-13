@@ -1,0 +1,19 @@
+source: commons.wikimedia.org
+file: Interstate 70 map.png
+date: 2019-06-13 16:43:27.185862
+text: |
+  {{Convert to SVG|road map}}
+  == {{int:filedesc}} ==
+  {{Information
+  |Description=Map of Interstate 70
+  |Source={{Own}}
+  |Date=2006-07-15
+  |Author=[[w:User:Stratosphere|Nick Nolte]]
+  |Permission=Public Domain
+  }}
+  == {{int:license-header}} ==
+  {{StratosphereMap}}
+  
+  
+  [[Category:Road maps of Interstate Highways]]
+  [[Category:Interstate 70]]

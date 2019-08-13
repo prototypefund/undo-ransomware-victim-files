@@ -1,0 +1,25 @@
+source: en.wikipedia.org
+file: Tim Scott
+date: 2019-06-26 21:24:03.802755
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/903576213
+---
+source: commons.wikimedia.org
+file: Tim_Scott,_official_portrait,_112th_Congress_crop.jpg
+date: 2019-06-26 21:24:05.873690
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description=Official portrait of Congressman {{w|Tim Scott (politician)|Tim Scott}} (R-SC).
+  |Source=http://timscott.house.gov/sites/timscott.house.gov/files/Tim%20Scott%20official%20photo.jpg
+  |Date=2011-02-16
+  |Author=United States Congress
+  |Permission={{PD-USGov-Congress}}
+  |other_versions=
+  }}
+  {{RetouchedPicture|cropped, brightness/contrast|editor=Gage|orig=Tim Scott official photo.jpg}}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-Congress}}
+  
+  [[Category:Tim Scott]]
+  [[Category:Members of the 112th United States Congress|Scott, Tim]]

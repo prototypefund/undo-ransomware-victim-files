@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_09_1YR_B992515
+product-selection: ACS_09_1YR_B992515|table||||B992515|IMPUTATION+OF+CONTRACT+RENT
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:12:03.101366

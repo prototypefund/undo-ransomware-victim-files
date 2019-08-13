@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_07_3YR_B19215
+product-selection: ACS_07_3YR_B19215|table||||B19215|MEDIAN+NONFAMILY+HOUSEHOLD+INCOME+IN+THE+PAST+12+MONTHS+%28IN+2007+INFLATION-ADJUSTED+DOLLARS%29+BY+SEX+OF+HOUSEHOLDER+BY+LIVING+ALONE+BY+AGE+OF+HOUSEHOLDER
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:54:08.940289

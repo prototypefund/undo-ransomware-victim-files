@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_11_5YR_B24080
+product-selection: ACS_11_5YR_B24080|table||||B24080|SEX+BY+CLASS+OF+WORKER+FOR+THE+CIVILIAN+EMPLOYED+POPULATION+16+YEARS+AND+OVER
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:09:59.948185

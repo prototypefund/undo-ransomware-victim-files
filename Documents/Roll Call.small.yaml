@@ -1,0 +1,25 @@
+source: en.wikipedia.org
+file: Roll Call
+date: 2019-06-26 19:20:36.851491
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/895213084
+---
+source: commons.wikimedia.org
+file: Senator_Tim_Wirth_reading_Roll_Call.jpg
+date: 2019-06-26 19:20:38.173112
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Senator Tim Wirth, half-length portrait, seated on couch reading an issue of Roll Call newspaper}}
+  |date=1991-07-18
+  |source=https://www.loc.gov/item/2015646950/
+  |author = {{Creator:Maureen Keating}}
+  |permission=
+  |other versions=
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-CQ Roll Call}}
+  
+  [[Category:Tim Wirth]]
+  [[Category:Newspapers of Washington, D.C.]]
+  [[Category:Newspapers of the United States, 1991]]

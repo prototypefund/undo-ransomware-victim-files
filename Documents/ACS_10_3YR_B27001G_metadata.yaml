@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_3YR_B27001G
+product-selection: ACS_10_3YR_B27001G|table||||B27001G|HEALTH+INSURANCE+COVERAGE+STATUS+BY+AGE+%28TWO+OR+MORE+RACES%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:25:28.470592

@@ -1,0 +1,36 @@
+source: commons.wikimedia.org
+file: Qing_Dynasty_Shoe_of_Queen_Marysieńka_02.jpg
+date: 2019-06-13 15:59:05.574665
+text: |
+  == {{int:filedesc}} ==
+  {{Artwork
+   |artist           = {{Anonymous|Qing Dynasty}}
+   |title            = {{title|en=Chinese shoe of Queen Marysieńka Sobieska.
+                              |fr=Chaussure chinoise de la reine Marysieńka Sobieska.
+                              |pl=Chiński bucik królowej Marysieńki Sobieskiej.}}
+   |description      = 
+   |date             = {{other date|4quarter|{{other date|century|17}}}}
+   |medium           = {{Technique|silk|and=damask|and2=satin|cloth|mounted=cardboard}}  
+   |dimensions       = 
+   |institution      = {{Institution:District Museum in Tarnów}}
+   |location         = Town Hall
+   |accession number = 
+   |object history   = {{ProvenanceEvent|time={{other date|ca|1683}}|type=gift|newowner=Marie Casimire Sobieska, {{Warsaw}}|oldowner=Eleonor Magdalene of Neuburg, {{Vienna}}}}
+  {{ProvenanceEvent|time={{other date|>|1683}}|type=transfer|newowner=Olesko Castle}}
+  {{ProvenanceEvent|time=1754|type=transfer|newowner=Podhorce Palace}}
+  {{ProvenanceEvent|time=1945|type=transfer|newowner=District Museum, {{city|Tarnów}}}}
+   |credit line      =
+   |inscriptions     = 
+   |notes            = Chinese lady's shoe (one of a pair), possibly given by the King John III Sobieski or Empress Eleonor Magdalene of Neuburg to Marysieńka, was found in the Turkish camp after the battle of Vienna (1683). 
+   |references       = [http://www.it.tarnow.pl/index.php/pol/Atrakcje/TARNOW/Zabytki-i-atrakcje/Skarby-muzeow www.it.tarnow.pl]
+   |source           = {{own}}
+   |permission       =
+   |other_versions   =
+  }}
+  
+  == {{int:license-header}} ==
+  {{self|cc-zero}}
+  
+  {{DEFAULTSORT:1675-1700; Shoe of Queen Marysieńka}}
+  
+  [[Category:Chinese shoe of Queen Marysieńka Sobieska]]

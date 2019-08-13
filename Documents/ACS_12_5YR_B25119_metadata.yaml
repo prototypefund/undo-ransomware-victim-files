@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_12_5YR_B25119
+product-selection: ACS_12_5YR_B25119|table||||B25119|MEDIAN+HOUSEHOLD+INCOME+THE+PAST+12+MONTHS+%28IN+2012+INFLATION-ADJUSTED+DOLLARS%29+BY+TENURE
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:09:08.232795

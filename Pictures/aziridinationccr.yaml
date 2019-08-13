@@ -1,0 +1,19 @@
+source: commons.wikimedia.org
+file: AziridinationCCR.png
+date: 2019-06-13 16:36:29.271131
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=Aziridination with the CCR}}
+  |Source=Li, Jack Jie (2005). Named Reactions in Heterocyclic Chemistry. Hoboken, New Jersey: John Wiley & Sons, Inc.. pp. 2-14.
+  |Author=selfmade by [[User:mdlevin | mdlevin]]
+  |Date=2011-01-01
+  |Permission=Public Domain
+  |other_versions=
+  }}
+  {{Convert to SVG|chemical}}
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}
+  
+  [[Category:Johnson-Corey-Chaykovsky reaction]]
+  [[Category:Aziridines]]

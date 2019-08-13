@@ -1,0 +1,19 @@
+source: commons.wikimedia.org
+file: QR_Version_14_Layout.svg
+date: 2019-06-15 12:48:21.520170
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=QR code layout showing codeword locations.}}
+  |date=2013-04-15 12:43:19
+  |source={{own}}
+  |author=[[User:Bobmath|Bobmath]]
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  
+  =={{int:license-header}}==
+  {{self|cc-zero}}
+  
+  [[Category:QR Code Diagrams]]

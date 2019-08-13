@@ -1,0 +1,25 @@
+source: commons.wikimedia.org
+file: R rotunda in different fonts.png
+date: 2019-06-13 16:35:38.338547
+text: |
+  {{Convert to SVG|text}}
+  
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=The Unicode letter pair U+A75A//U+A75B LATIN CAPITAL/SMALL LETTER R ROTUNDA as used in the Unicode charts and additionally in six different fonts: Roman Cyrillic, Quivira, Cardo, Leeds Uni, Andron Mega Corpus, Everson Mono}}
+  |date=2012-07-16
+  |source={{own}}
+  |author=[[User:Karl432|Karl432]]
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  
+  =={{int:license-header}}==
+  {{self|cc-zero}}
+  
+  [[Category:R rotunda]]
+  [[Category:RR letter combinations]]
+  [[Category:Font comparisons (Raster)]]
+  [[Category:Quivira (typeface)]]
+  [[Category:Everson Mono]]

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_5YR_B06003PR
+product-selection: ACS_10_5YR_B06003PR|table||||B06003PR|PLACE+OF+BIRTH+BY+SEX+IN+PUERTO+RICO
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 10:44:56.092864

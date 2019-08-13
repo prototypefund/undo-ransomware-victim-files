@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_15_5YR_B19025H
+product-selection: ACS_15_5YR_B19025H|table||||B19025H|AGGREGATE+HOUSEHOLD+INCOME+IN+THE+PAST+12+MONTHS+%28IN+2015+INFLATION-ADJUSTED+DOLLARS%29+%28WHITE+ALONE%2C+NOT+HISPANIC+OR+LATINO+HOUSEHOLDER%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:26:39.711273

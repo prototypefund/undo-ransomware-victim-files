@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_15_1YR_C27012
+product-selection: ACS_15_1YR_C27012|table||||C27012|HEALTH+INSURANCE+COVERAGE+STATUS+AND+TYPE+BY+WORK+EXPERIENCE+BY+AGE
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:51:58.972752

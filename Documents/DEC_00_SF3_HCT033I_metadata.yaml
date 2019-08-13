@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: DEC_00_SF3_HCT033I
+product-selection: DEC_00_SF3_HCT033I|table||||HCT033I|VEHICLES+AVAILABLE+%28WHITE+ALONE%2C+NOT+HISPANIC+OR+LATINO+HOUSEHOLDER%29+%5B3%5D
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:42:48.524512

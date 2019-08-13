@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_16_1YR_B99102
+product-selection: ACS_16_1YR_B99102|table||||B99102|ALLOCATION+OF+GRANDPARENTS+LIVING+WITH+GRANDCHILDREN+UNDER+18+YEARS
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 11:37:33.598772

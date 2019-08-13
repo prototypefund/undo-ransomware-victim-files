@@ -1,0 +1,40 @@
+source: en.wikipedia.org
+file: Solar Dynamics Observatory
+date: 2019-06-15 19:16:47.496336
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/892785863
+---
+source: commons.wikimedia.org
+file: Getting_NASA's_SDO_into_Focus.jpg
+date: 2019-06-15 19:16:48.826037
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=Comparison of HMI Continuum images immediately after an eclipse, and then after the sensor has re-warmed.}}
+  |Source         =[http://svs.gsfc.nasa.gov/goto?11111 Goddard Multimedia]
+  |Author         =NASA/Goddard Space Flight Center
+  |Date           =2012-10-04
+  |Permission     =
+  |other_versions =
+  }}
+  
+  [[Category:Solar Dynamics Observatory images]]
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+---
+source: commons.wikimedia.org
+file: SDO_Launch.jpg
+date: 2019-06-15 19:16:49.851758
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=[[NASA|NASA's]] Solar Dynamics Observatory, SDO, launched aboard a United Launch Alliance [[Atlas V]] from Space Launch Complex-41 at 10:23 a.m. EST on Thursday, Feb. 11, 2010. SDO is the first satellite of NASA's Living with a Star (LWS) program. From its geosynchronous orbit, SDO will point its instruments at the [[sun]], conducting ground-breaking research that is expected to reveal the sun's inner workings by constantly taking high resolution images, collecting readings from inside the sun and measuring its magnetic field activity. This data is expected to give researchers the insight they need to eventually predict solar storms and other activity on the sun that can affect [[:Category:Spacecraft|spacecraft]] in orbit, astronauts on the [[International Space Station]] and electronic and other systems on [[Earth]].}}
+  |Source=[http://www.nasa.gov/multimedia/imagegallery/image_feature_1589.html NASA Image of the Day]
+  |Author=Pat Corkery/United Launch Alliance
+  |Date=2010-02-11
+  |Permission=
+  |other_versions=
+  }}
+  
+  [[Category:AV-021]]
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}

@@ -1,0 +1,25 @@
+source: commons.wikimedia.org
+file: Mass Balance Change over India from GRACE.ogv
+date: 2019-06-15 15:50:04.400771
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=This animation shows the average yearly change in mass, in cm of [[water]], during 2003-2010, over the [[:en:Indian subcontinent|Indian subcontinent]]. The yellow circles mark locations of glaciers. There is significant mass loss in this region (denoted by the blue and purple colors), but it is concentrated over the plains south of the glaciers, and is caused by groundwater depletion. A colorbar overlay shows the range of values displayed. }}
+  |Source         =[http://svs.gsfc.nasa.gov/vis/a000000/a003900/a003911/ Goddard Multimedia]
+  |Author         =NASA/Goddard Space Flight Center
+  |Date           =2012-02-06
+  |Permission     =
+  |other_versions =<gallery>
+  File:Ice Sheet Mass Balance from GRACE.ogv
+  File:Global Mass Balance from GRACE.ogv
+  </gallery>
+  }}
+  
+  [[Category:Weather maps of India]]
+  [[Category:Videos of 2012 from India]]
+  [[Category:Glacier mass balance]]
+  [[Category:Gravity Recovery And Climate Experiment]]
+  [[Category:Videos from NASA]]
+  [[Category:Glaciology of Asia]]
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}

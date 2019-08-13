@@ -1,0 +1,160 @@
+**From Wikipedia, the free encyclopedia**
+
+https://en.wikipedia.org/wiki/Nationwide%20opinion%20polling%20for%20the%20United%20States%20presidential%20election%2C%202016\
+Licensed under CC BY-SA 3.0:\
+https://en.wikipedia.org/wiki/Wikipedia:Text\_of\_Creative\_Commons\_Attribution-ShareAlike\_3.0\_Unported\_License
+
+Nationwide opinion polling for the 2016 United States presidential election
+===========================================================================
+
+-   *Donald Trump won the general election of Tuesday, November 8, 2016,
+    despite losing the popular vote while winning the electoral
+    college.*
+
+-   *This page lists nationwide public opinion polls that have been
+    conducted relating to the 2016 United States presidential election.*
+
+-   *The two major party candidates were chosen at the Democratic
+    National Convention and Republican National Convention in
+    July 2016.*
+
+This page lists nationwide public opinion polls that have been conducted
+relating to the 2016 United States presidential election. The two major
+party candidates were chosen at the Democratic National Convention and
+Republican National Convention in July 2016.
+
+Donald Trump won the general election of Tuesday, November 8, 2016,
+despite losing the popular vote while winning the electoral college.
+Media analysts differ as to why the polling industry was unable to
+correctly forecast the result. Two daily tracking polls, the UPI/CVoter
+poll and the University of Southern California/Los Angeles Times poll
+were the only polls that often predicted a Trump popular vote victory or
+showed a nearly tied election.
+
+Aggregate polls
+===============
+
+-   *Poll numbers verified as of November 8, 2016\[update\].*
+
+Poll numbers verified as of November 8, 2016\[update\].
+
+Individual polls
+================
+
+Two-way race
+============
+
+Since convention nominations
+============================
+
+Graphical summaries
+===================
+
+Polls conducted in 2016
+=======================
+
+Polls conducted in 2015
+=======================
+
+Polls conducted in 2014
+=======================
+
+Polls conducted in 2013
+=======================
+
+Three-way race
+==============
+
+Four-way race
+=============
+
+Five-way race
+=============
+
+Post election analysis
+======================
+
+-   *A particular case was the USC/Los Angeles Times Daybreak tracking
+    poll, which was different from other polls as it had Donald Trump in
+    the lead more often than not.*
+
+-   *Siegel compared the 2016 election to the failure of prognosticator
+    Arthur Henning in the "Dewey Defeats Truman" incident from the 1948
+    presidential election.*
+
+BBC News questioned whether polling should be abandoned due to its
+abject failure. Forbes magazine contributor astrophysicist Ethan Siegel
+performed a scientific analysis and raised whether the statistical
+population sampled for the polling was inaccurate, and cited the
+cautionary adage "Garbage in, garbage out". He concluded there may have
+been sampling bias on the part of the pollsters. Siegel compared the
+2016 election to the failure of prognosticator Arthur Henning in the
+"Dewey Defeats Truman" incident from the 1948 presidential election.
+Despite all this, however, nationwide polling was not far off from the
+actual popular vote result, and in fact very few states had results that
+deviated from the margin of error in the polling average.
+
+A particular case was the USC/Los Angeles Times Daybreak tracking poll,
+which was different from other polls as it had Donald Trump in the lead
+more often than not. The poll’s findings caused skepticism, especially
+from Democrats, who have denounced it and often criticized the LA Times
+for running it. Before the election, Nate Silver deemed as positive the
+poll allowed people to assign themselves a probability of voting for
+either candidate instead of saying they’re 100 percent sure and stated
+that if people are "going to browbeat a pollster, \[let's\] do it to a
+pollster who is doing things cheaply—some of the robopolls qualify—and
+not one that’s trying to move the ball forward, like the LA Times poll."
+The LA Times concluded after the preliminary results of the election
+were published: "That doesn't necessarily mean that a poll conducted
+online, the way the Daybreak poll is, necessarily will be more accurate
+than polls conducted by phone. But it is yet another indication that
+polling needs more, diverse ways to look at public opinion, not fewer."
+
+See also
+========
+
+-   *Statewide opinion polling for the Democratic Party presidential
+    primaries, 2016*
+
+-   *Statewide opinion polling for the United States presidential
+    election, 2016*
+
+-   *International opinion polling for the United States presidential
+    election, 2016*
+
+-   *Nationwide opinion polling for the Democratic Party 2016
+    presidential primaries*
+
+General election polling
+
+Nationwide opinion polling for the United States presidential election
+by demographics, 2016
+
+Statewide opinion polling for the United States presidential election,
+2016
+
+International opinion polling for the United States presidential
+election, 2016
+
+Democratic primary polling
+
+Nationwide opinion polling for the Democratic Party 2016 presidential
+primaries
+
+Statewide opinion polling for the Democratic Party presidential
+primaries, 2016
+
+Republican primary polling
+
+Nationwide opinion polling for the Republican Party 2016 presidential
+primaries
+
+Statewide opinion polling for the Republican Party presidential
+primaries, 2016
+
+After the election
+
+Opinion polling on the Donald Trump administration
+
+References
+==========

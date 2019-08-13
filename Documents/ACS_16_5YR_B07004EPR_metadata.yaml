@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_16_5YR_B07004EPR
+product-selection: ACS_16_5YR_B07004EPR|table||||B07004EPR|GEOGRAPHICAL+MOBILITY+IN+THE+PAST+YEAR+%28NATIVE+HAWAIIAN+AND+OTHER+PACIFIC+ISLANDER+ALONE%29+FOR+CURRENT+RESIDENCE+IN+PUERTO+RICO
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:21:15.978660

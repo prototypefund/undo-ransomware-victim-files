@@ -1,0 +1,27 @@
+source: commons.wikimedia.org
+file: Krazy Ivan Logo.png
+date: 2019-06-27 13:53:48.602082
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{de|1=Logo des Computerspiels [[:de:Krazy Ivan|Krazy Ivan]]}}
+  |Source=[http://www.mobygames.com/game/krazy-ivan/cover-art/gameCoverId,12408/ MobyGames]
+  |Date=
+  |Author=[[:de:Psygnosis|Psygnosis]] / [[:de:Sony|Sony]]
+  |Permission=
+  |Other versions= 
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-textlogo}}
+  {{Trademark}}
+  {{SVG|logo}}
+  == {{Original upload log}} ==
+  <div class="delh">
+  {{transferred from|de.wikipedia|Wdwdbot|script ''bot_filetrans.pl''}}
+  {{original description|de.wikipedia|Krazy_Ivan_Logo.png}}
+  * 2013-10-11 13:49:57 [[:de:User:Qafgbxvghnx|Qafgbxvghnx]] (64438 Bytes) ''<nowiki>{{Information | Beschreibung = Logo des Computerspiels [[Krazy Ivan]] | Quelle = [http://www.mobygames.com/game/krazy-ivan/cover-art/gameCoverId,12408/ MobyGames] | Urheber = [[Psygnosis]] / [[Sony]] | Datum = | Geneh…</nowiki>''
+  </div>
+  
+  [[Category:1996 video games]]
+  [[Category:Video game logos]]

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_11_5YR_B06004DPR
+product-selection: ACS_11_5YR_B06004DPR|table||||B06004DPR|PLACE+OF+BIRTH+%28ASIAN+ALONE%29+IN+PUERTO+RICO
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 10:58:04.584431

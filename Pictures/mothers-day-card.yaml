@@ -1,0 +1,21 @@
+source: commons.wikimedia.org
+file: Mothers Day card.png
+date: 2019-06-13 16:39:28.758746
+text: |
+  == {{int:filedesc}} ==
+  
+  {{Information
+  |Description    ={{en|1=Mother's Day card}}
+  |Source         ={{own}}
+  |Author         =[[User:Urbanphase|Urbanphase]]
+  |Date           =2011-05-08
+  |Permission     =
+  |other_versions =
+  }}
+  
+  {{convert to SVG|art}}
+  
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}
+  
+  [[Category:Mother's Day cards]]

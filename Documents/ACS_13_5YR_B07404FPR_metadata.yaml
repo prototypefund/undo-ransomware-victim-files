@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_13_5YR_B07404FPR
+product-selection: ACS_13_5YR_B07404FPR|table||||B07404FPR|GEOGRAPHICAL+MOBILITY+IN+THE+PAST+YEAR+%28SOME+OTHER+RACE+ALONE%29+FOR+RESIDENCE+1+YEAR+AGO+IN+PUERTO+RICO
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:47:05.857513

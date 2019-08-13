@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: DEC_00_SF1_P032D
+product-selection: DEC_00_SF1_P032D|table||||P032D|POPULATION+IN+FAMILIES+%28ASIAN+ALONE+HOUSEHOLDER%29+%5B1%5D
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:32:31.311977

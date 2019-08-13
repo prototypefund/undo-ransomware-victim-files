@@ -1,0 +1,28 @@
+source: en.wikipedia.org
+file: NPR
+date: 2019-06-26 19:07:01.156013
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/900104864
+---
+source: commons.wikimedia.org
+file: NPR_News_logo.png
+date: 2019-06-26 19:07:04.366968
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|Logo of NPR News.}}
+  |Source={{transferred from|en.wikipedia|Blurpeace|CommonsHelper}}
+  |Date={{original upload date|2007-02-07}}
+  |Author={{original uploader|Remember the dot|wikipedia|en}}
+  |Permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-textlogo}}
+  {{Trademarked}}
+  
+  == {{original upload log}} ==
+  {{original description page|en.wikipedia|NPR_News_logo.png}}
+  * 2007-02-07 20:42 [[:en:User:Remember the dot|Remember the dot]] 134×91× (1331 bytes) ''<nowiki>NPR News logo. I cropped this image from Nprnews.gif and re-saved it in the more efficient [[PNG]] format.</nowiki>''
+  
+  [[Category:National Public Radio]]

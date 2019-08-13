@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_16_5YR_B99183
+product-selection: ACS_16_5YR_B99183|table||||B99183|ALLOCATION+OF+VISION+DIFFICULTY+FOR+THE+CIVILIAN+NONINSTITUTIONALIZED+POPULATION
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:47:44.682426

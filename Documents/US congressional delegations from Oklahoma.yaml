@@ -1,0 +1,24 @@
+source: en.wikipedia.org
+file: United States congressional delegations from Oklahoma
+date: 2019-06-26 21:33:09.217722
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/889005673
+---
+source: commons.wikimedia.org
+file: Oklahoma_Congressional_Districts,_113th_Congress.tif
+date: 2019-06-26 21:33:10.758864
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Map of Congressional Districts in the state of Oklahoma, reflecting district boundaries current to the 113th United States Congress.}}
+  |date=2014-02-01 22:39:11
+  |source=National Atlas of the United States (http://nationalatlas.gov/printable/congress.html)
+  |author=Department of the Interior
+  |permission=
+  |other_versions=
+  |other_fields=
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-USGov}}
+  
+  [[Category:Congressional district maps of Oklahoma]]

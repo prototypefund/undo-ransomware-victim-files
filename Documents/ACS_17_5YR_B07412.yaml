@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_17_5YR_B07412
+product-selection: ACS_17_5YR_B07412|table||||B07412|GEOGRAPHICAL+MOBILITY+IN+THE+PAST+YEAR+BY+POVERTY+STATUS+IN+THE+PAST+12+MONTHS+FOR+RESIDENCE+1+YEAR+AGO+IN+THE+UNITED+STATES
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:42:55.340577

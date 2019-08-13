@@ -1,0 +1,20 @@
+source: commons.wikimedia.org
+file: CCRoxetane.png
+date: 2019-06-13 16:36:34.255202
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=oxetane synthesis with Corey-Chaykovsky}}
+  |Source=https://books.google.com/books?id=4k0jI7Sf6iwC&pg=PA2
+  |Author=selfmade by [[User:mdlevin | mdlevin]]
+  |Date=2011-01-01
+  |Permission=Public Domain
+  |other_versions=
+  }}
+  {{ConvertToSVG|chemical}}
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}
+  
+  [[Category:Johnson-Corey-Chaykovsky reaction]]
+  [[Category:Oxetanes]]
+  [[Category:Azetidines]]

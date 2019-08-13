@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_09_1YR_C07202
+product-selection: ACS_09_1YR_C07202|table||||C07202|GEOGRAPHICAL+MOBILITY+IN+THE+PAST+YEAR+FOR+CURRENT+RESIDENCE--MICROPOLITAN+STATISTICAL+AREA+LEVEL+IN+THE+UNITED+STATES
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 14:39:45.658113

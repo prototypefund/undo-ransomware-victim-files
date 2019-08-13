@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_13_1YR_B25106
+product-selection: ACS_13_1YR_B25106|table||||B25106|TENURE+BY+HOUSING+COSTS+AS+A+PERCENTAGE+OF+HOUSEHOLD+INCOME+IN+THE+PAST+12+MONTHS
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:44:38.424101

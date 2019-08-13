@@ -1,0 +1,58 @@
+source: en.wikipedia.org
+file: Elizabeth Trump
+date: 2019-06-26 18:26:49.088924
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/902873284
+---
+source: commons.wikimedia.org
+file: Elisabeth_Christ_&_Friedrich_Trump.jpg
+date: 2019-06-26 18:26:49.636341
+text: |
+  {{delete|reason=Author "unknown", date "circa 1918" isn't enough to ascertain the copyright status of this presumably U.S. work, I think (date of creation isn't necessarily date of first publication). [[COM:PRP]]?|subpage=File:Elisabeth Christ & Friedrich Trump.jpg|year=2019|month=June|day=21}}
+  =={{int:filedesc}}==
+  {{Information
+  |description=This image is believed to be of Elisabeth and Friedrich Trump, who emigrated to the United States and would become Donald Trump's grandparents. They are pictured here in 1902.
+  |date=1902
+  |source=https://www.spiegel.de/fotostrecke/photo-gallery-the-trump-family-fotostrecke-133807.html
+  |author=Max Lederle (Lederle & Flocken company) [http://www.fotorevers.eu/de/fotograf/Lederle/4445/]
+  |permission={{PD-Old}}
+  |other versions=
+  [[File:Elisabeth Christ.jpg|150px]]
+  [[File:Friedrich Trump.jpg|150px]]
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-old-70-1923}}
+  
+  [[Category:Frederick Trump]]
+  [[Category:Elizabeth Christ Trump]]
+---
+source: commons.wikimedia.org
+file: Friedrich_Trump_Family_(retouched).jpg
+date: 2019-06-26 18:26:50.153288
+text: |
+  {{delete|reason=Various versions of the same image. Author "unknown", date "circa 1915" isn't enough to ascertain the copyright status of this presumably U.S. work, I think (date of creation isn't necessarily date of first publication). [[COM:PRP]]?|subpage=Files in Category:Frederick Trump|year=2019|month=June|day=21}}
+  =={{int:filedesc}}==
+  {{Information
+  |description={{de|1=Porträt von [[:de:Frederick Trump|Friedrich Trumps]] und [[:de:Elizabeth Christ Trump|Elizabeth Christ Trumps]] Familie; der ältere Sohn (links) ist [[:de:Frederick Trump Jr.|Fred Trump]]}}
+  {{en|1=Portrait of [[:en:Frederick Trump|Friedrich Trump's]] and [[:en:Elizabeth Christ Trump|Elizabeth Christ Trump's]] Family; the oldest son (left) is [[:en:Fred Trump|Fred Trump]]}}
+  {{fr|1=Portrait de la famille de [[:fr:Frederick Trump|Friedrich Trump]]; le fils aîné (à gauche) est [[:fr:Fred Trump|Fred Trump]]}}
+  {{es|1=Foto de la familia de [[:es:Frederick Trump|Friedrich Trump]]; el hijo mayor (izquierda) es [[:es:Fred Trump|Fred Trump]]}}
+  |date={{circa|1915}}
+  |source={{Derived from|Friedrich Trump Family.jpg|display=50}}
+  |author={{unknown|author}}
+  |permission=
+  |other versions=
+  }}
+  
+  {{RetouchedPicture|Helligkeit angepasst; Kontrastverbesserung; Umwandlung in Graustufen; Bildzuschnitt (Vielfaches von 8 px), Photoshop Speicheroptionen: Qualität 12|editor=MagentaGreen}}
+  
+  =={{int:license-header}}==
+  {{PD-old-70-1923}}
+  
+  [[Category:Frederick Trump]]
+  [[Category:Elizabeth Christ Trump]]
+  [[Category:John G. Trump]]
+  [[Category:Fred Trump]]
+  [[Category:Elizabeth Trump]]
+  
+  {{Crop for Wikidata|Q1576675}}

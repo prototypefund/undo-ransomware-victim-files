@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_14_1YR_B17020B
+product-selection: ACS_14_1YR_B17020B|table||||B17020B|POVERTY+STATUS+IN+THE+PAST+12+MONTHS+BY+AGE+%28BLACK+OR+AFRICAN+AMERICAN+ALONE%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:07:03.990496

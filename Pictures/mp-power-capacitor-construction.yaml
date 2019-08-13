@@ -1,0 +1,20 @@
+source: commons.wikimedia.org
+file: MP-Power-Capacitor-Construction.png
+date: 2019-06-13 16:47:39.061137
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=MP-Power-Film Capacitor-Construction}}
+  |Source         ={{own}}
+  |Author         =[[User:Elcap|Elcap]]
+  |Date           =2012-03-11
+  |Permission     =CC0 1.0
+  |other_versions =
+  }}
+  
+  {{svg|technology}}
+  
+  [[Category:Capacitor schemas]]
+  [[Category:Film capacitors]]
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}

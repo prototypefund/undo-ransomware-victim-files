@@ -1,0 +1,130 @@
+source: en.wikipedia.org
+file: Drop test
+date: 2019-06-15 16:57:44.987810
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/901231195
+---
+source: commons.wikimedia.org
+file: Orion_Drop_Test_on_Feb_29.jpg
+date: 2019-06-15 16:57:45.758378
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description = {{en|1=A test model of the Orion spacecraft with its parachutes was tested the skies high above the U.S. Army's Proving Grounds in Yuma, Ariz. on Feb. 29, 2012. This particular drop test examined the wake - or the disturbance of the air flow behind Orion - that is caused by the spacecraft.
+  
+  The Orion spacecraft will replace the space shuttle as NASA's vehicle for human space exploration and is designed to accommodate four to six astronauts on deep space missions. It also could supplement commercial and international partner transportation services to the International Space Station.
+  
+  The Space Launch System, or SLS, is the heavy lift rocket that will carry the Orion spacecraft into space providing an entirely new capability for human exploration beyond low-Earth orbit.}}
+  |Source = http://www.nasa.gov/multimedia/imagegallery/image_feature_2224.html ([http://www.nasa.gov/sites/default/files/images/638886main_jsc2012e031882_full_full.jpg image link])
+  |Date = 2012-02-29
+  |Author = NASA
+  }}
+  {{NASA-image|center=JSC|id=JSC2012-E-031882}}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  == {{Original upload log}} ==
+  
+  {{transferred from|en.wikipedia||ftcg}} {{original description page|en.wikipedia|Orion_Drop_Test_on_Feb_29.jpg}}
+  
+  {| class="wikitable"
+  ! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+  |-
+  | 05:59, 20 April 2012 || 1,800 × 1,200 (319,368 bytes) || {{uv|Mir Almaat 1 S1|w:en:}} || <nowiki>Uploading a public-domain item using [[Wikipedia:File_Upload_Wizard|File Upload Wizard]]</nowiki>
+  |}
+  
+  [[Category:Orion (spacecraft)]]
+  [[Category:Airdropping from Lockheed C-130 Hercules]]
+  [[Category:Photographs taken on 2012-02-29]]
+  [[Category:Taken with Nikon D2Xs]]
+  [[Category:Parachute testing]]
+---
+source: commons.wikimedia.org
+file: X-38_Ship_-2_Release_from_B-52_-_GPN-2000-000196.jpg
+date: 2019-06-15 16:57:47.245689
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |Description={{en|1=The X-38 research vehicle drops away from NASA's B-52 mothership immediately after being released from the B-52's wing pylon.
+  
+  More than 30 years earlier, this same B-52 launched the original lifting-body vehicles flight tested by NASA and the Air Force at what is now called the Dryden Flight Research Center and the Air Force Flight Test Center. NASA B-52 Tail Number 008 is an air launch carrier aircraft "mothership," as well as a research aircraft platform that has been used on a variety of research projects.}}
+  |Source=* {{web source
+   |site=Armstrong Photo Gallery
+   |home=http://www.nasa.gov/centers/armstrong/multimedia/imagegallery/index.html
+   |info=http://www.nasa.gov/centers/dryden/multimedia/imagegallery/X-38/EC99-45080-25.html
+   |pic=http://www.nasa.gov/sites/default/files/images/355902main_EC99-45080-25_full.jpg}}
+  * {{web source
+   |site=Great Images in NASA
+   |home=http://grin.hq.nasa.gov/
+   |info=http://grin.hq.nasa.gov/ABSTRACTS/GPN-2000-000196.html
+   |pic=http://grin.hq.nasa.gov/IMAGES/LARGE/GPN-2000-000196.jpg}}
+  |Date=1999-07
+  |Author=NASA / DFRC / Carla Thomas
+  |Permission=
+  |other_versions=
+  }}
+  {{NASA-image|center=DFRC|id=EC99-45080-25}}
+  {{NASA-image|center=GRIN|id=GPN-2000-000196}}
+  
+  =={{int:license-header}}==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Great Images in NASA|GPN-2000-000196]]
+  [[Category:NASA X-38]]
+  [[Category:NASA NB-52B]]
+  [[Category:Aircraft wing pylons]]
+  [[Category:Photographs by Carla Thomas]]
+---
+source: commons.wikimedia.org
+file: OV-101_first_flight.jpg
+date: 2019-06-15 16:57:49.238284
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{de|ALT Freier Flug mit Verkleidung}}
+  {{en|The Space Shuttle prototype Enterprise flies free of NASA's 747 Shuttle Carrier Aircraft (SCA) during one of five free flights carried out at the Dryden Flight Research Facility, Edwards, California in 1977 as part of the Shuttle program's Approach and Landing Tests (ALT). The tests were conducted to verify orbiter aerodynamics and handling characteristics in preparation for orbital flights with the Space Shuttle Columbia. A tail cone over the main engine area of Enterprise smoothed out turbulent airflow during flight. It was removed on the two last free flights to accurately check approach and landing characteristics.}}
+  |Source=http://www.dfrc.nasa.gov/Gallery/Photo/ALT/HTML/ECN77-8608.html ([http://www.dfrc.nasa.gov/Gallery/Photo/ALT/Large/ECN77-8608.jpg direct link])
+  |Date=1977-09-26
+  |Author=NASA/Dryden Flight Research Center
+  |Permission=
+  |other_versions=
+  }}
+  {{NASA-image|center=DFRC|id=ECN77-8608}}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Aerodynamic condensation]]
+  [[Category:Approach and Landing Tests (Space Shuttle Enterprise)]]
+  [[Category:N905NA (aircraft)]]
+---
+source: commons.wikimedia.org
+file: Orion_parachute_test_Dec_20_2011.jpg
+date: 2019-06-15 16:57:50.807747
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description = {{en|1=An Orion test vehicle is dropped from the back of a C-130 cargo aircraft during a [[:en:drop test|drop test]] on Dec. 20, 2011.  The test successfully demonstrated the Orion capsule's ability to deploy its parachutes and slow its descent to a safe landing speed.}}
+  |Source = http://www.nasa.gov/exploration/systems/mpcv/gallery/parachute_testing/jsc2011e217271.html ([http://www.nasa.gov/sites/default/files/images/612406main_jsc2011e217271_full.jpg image link])
+  |Date = 2011-12-20
+  |Author = NASA
+  }}
+  {{NASA-image|center=JSC|id=JSC2011-E-217271}}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  == {{Original upload log}} ==
+  
+  {{transferred from|en.wikipedia||ftcg}} {{original description page|en.wikipedia|Orion_parachute_test_Dec_20_2011.jpg}}
+  
+  {| class="wikitable"
+  ! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+  |-
+  | 18:54, 25 March 2013 || 3,000 × 2,400 (538,858 bytes) || {{uv|Shelbystripes|w:en:}} || <nowiki>Uploading a public-domain item using [[Wikipedia:File_Upload_Wizard|File Upload Wizard]]</nowiki>
+  |}
+  
+  [[Category:Orion (spacecraft)]]
+  [[Category:Airdropping from Lockheed C-130 Hercules]]
+  [[Category:Photographs taken on 2011-12-20]]
+  [[Category:Parachute testing]]

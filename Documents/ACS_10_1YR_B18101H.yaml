@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_1YR_B18101H
+product-selection: ACS_10_1YR_B18101H|table||||B18101H|AGE+BY+DISABILITY+STATUS+%28WHITE+ALONE%2C+NOT+HISPANIC+OR+LATINO%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:48:04.518612

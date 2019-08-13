@@ -1,0 +1,118 @@
+source: en.wikipedia.org
+file: Magellan (spacecraft)
+date: 2019-06-15 18:04:59.690604
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/887262560
+---
+source: commons.wikimedia.org
+file: Magellan_-_spacecraft_bus.png
+date: 2019-06-15 18:05:00.987647
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=Diagram of the spacecraft bus that formed the main body of Magellan.}}
+  |Source         =Magellan: Mission to Venus [https://archive.org/details/nasa_techdoc_19900067357], pg. 11
+  |Author         =NASA / JPL
+  |Date           =1989-02-01
+  |Permission     =
+  |other_versions =
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Magellan (spacecraft)]]
+---
+source: commons.wikimedia.org
+file: Magellan_-_attitude_and_propulsion.png
+date: 2019-06-15 18:05:01.395534
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=Diagram showing the thrusters, the Star 48 booster and the internal components of the Forward Equipment Module.}}
+  |Source         =Magellan: Mission to Venus [https://archive.org/details/nasa_techdoc_19900067357], pg. 10 / 12
+  |Author         =NASA / JPL
+  |Date           =1989-02-01
+  |Permission     =
+  |other_versions =
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Magellan (spacecraft)]]
+---
+source: commons.wikimedia.org
+file: Magellan_-_antennas.png
+date: 2019-06-15 18:05:01.780500
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=Diagram of noting the positions of the three antennas on Magellan.}}
+  |Source         =Magellan: Mission to Venus [https://archive.org/details/nasa_techdoc_19900067357], pg. 8
+  |Author         =NASA / JPL
+  |Date           =1989-02-01
+  |Permission     =
+  |other_versions =
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Magellan (spacecraft)]]
+---
+source: commons.wikimedia.org
+file: Magellan_-_cycle_1_map_-_1298972763463430062.580622.jpg
+date: 2019-06-15 18:05:03.144525
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{en|1=Map produced by the USGS of the Magellan images.}}
+  |Source         =http://www.mapaplanet.org/explorer/maps/1298972763463430062.580622.jpg
+  |Author         =NASA / USGS
+  |Date           =
+  |Permission     =
+  |other_versions =
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-USGS}}
+  
+  [[Category:Magellan radar images of Venus]]
+---
+source: commons.wikimedia.org
+file: Magellan_-_cycle_2_map_-_1299005988110004007.109767.jpg
+date: 2019-06-15 18:05:04.227863
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description=Map of Venus acquired during cycle 2 of the Magellan mission.
+  |Source=http://www.mapaplanet.org/explorer/maps/1299005988110004007.109767.jpg
+  |Date=
+  |Author=NASA / USGS
+  |Permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-USGS}}
+  
+  [[Category:Magellan radar images of Venus]]
+---
+source: commons.wikimedia.org
+file: Magellan_Venus_globes.jpg
+date: 2019-06-15 18:05:05.371441
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Five global views of [[wikipedia:Venus|Venus]] by ''[[wikipedia:Magellan (spacecraft)|Magellan]]''.}}
+  |date=1990
+  |source=http://solarviews.com/cap/venus/venview.htm ([http://solarviews.com/raw/venus/venview.gif image link])
+  |author=NASA/JPL
+  |permission=
+  |other versions=
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-USGov-NASA}}
+  
+  [[Category:Magellan radar images of Venus]]

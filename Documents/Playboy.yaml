@@ -1,0 +1,28 @@
+source: en.wikipedia.org
+file: Playboy
+date: 2019-06-26 19:14:05.469740
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/903456569
+---
+source: commons.wikimedia.org
+file: Clinton_Trump_2000_08.jpg
+date: 2019-06-26 19:14:07.681250
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=Bill Clinton and Donald Trump at the U.S. Open in 2000, Flushing, New York}}
+  |date=2000-09-09
+  |source=Clinton Presidential Library
+  |author=William Vasta, Office of the President
+  |permission=
+  |other versions={{Image extracted|Clinton Trump 2000 08 (cropped1).jpg}}
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-USGov-POTUS}}
+  
+  [[Category:2000 US Open (tennis)]]
+  [[Category:Luxury box]]
+  [[Category:Bill Clinton and Donald Trump]]
+  [[Category:Bill Clinton in 2000]]
+  [[Category:Donald Trump in 2000]]
+  [[Category:Donald and Melania Trump before 2016]]

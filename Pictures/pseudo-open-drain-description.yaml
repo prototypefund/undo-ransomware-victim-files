@@ -1,0 +1,18 @@
+source: commons.wikimedia.org
+file: Pseudo Open Drain description.png
+date: 2019-06-27 14:04:02.229453
+text: |
+  {{Uploaded with en.wp UW marker|year=2013|month=07|day=16}}
+  == {{int:filedesc}} ==
+  {{Information
+  |Description = {{en|Short electronics diagrams with structure, operation when driving high and operation when driving low}}
+  |Source = http://www.kuroda.elec.keio.ac.jp/education/class/file/2011/2011syslsi/20111118.pdf
+  |Date = 2011
+  |Author = S.J. BAE
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-shape}}
+  {{Convert to SVG|diagram}}
+  
+  [[Category:Electronic schemas]]

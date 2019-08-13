@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_16_1YR_DP04
+product-selection: ACS_16_1YR_DP04|table||||DP04|SELECTED+HOUSING+CHARACTERISTICS
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:17:01.788227

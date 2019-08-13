@@ -1,0 +1,26 @@
+source: en.wikipedia.org
+file: NASA Railroad
+date: 2019-06-15 18:22:18.187170
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/899413963
+---
+source: commons.wikimedia.org
+file: NASA_Railroad_locomotive_3.jpg
+date: 2019-06-15 18:22:19.331541
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=At NASA's Kennedy Space Center in Florida, NASA Railroad locomotive 3 has been repainted. The Railroad Operation and Maintenance Team at Kennedy completed the refurbishment of locomotive 3 in October. The 15-month process, including a new paint scheme, dealt with extensive corrosion to the locomotive because of Kennedy's proximity to the Atlantic Ocean. Locomotives 1 and 2 also will be refurbished eventually. The NASA Railroad locomotives are SW-1500 switch engines built by Electro Motive Diesel (EMD).}}
+  |Source=http://mediaarchive.ksc.nasa.gov/detail.cfm?mediaid=38368 ([http://www-pao.ksc.nasa.gov/kscpao/images/large/08pd3587.jpg direct link])
+  |Date=2008-10-15
+  |Author=NASA/Amanda Diller
+  |Permission=Public domain
+  |other_versions=
+  }}
+  {{NASA-image|center=KSC|id=KSC-08PD-3587}}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-NASA}}
+  
+  [[Category:EMD SW1500 locomotives of the NASA Railroad]]
+  [[Category:Blue and white locomotives]]
+  [[Category:Number 3 on rail vehicles]]

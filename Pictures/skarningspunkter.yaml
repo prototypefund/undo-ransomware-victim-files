@@ -1,0 +1,19 @@
+source: commons.wikimedia.org
+file: Skärningspunkter.png
+date: 2019-06-13 16:44:42.382304
+text: |
+  {{Convert to SVG|graph}}
+  == {{int:filedesc}} ==
+  {{Information
+  |Description    ={{sv|1=Grafer över två funktioner, med deras skärningspunkter markerade.}}
+  |Source         ={{own}}
+  |Author         =[[User:Itangalo|Itangalo]]
+  |Date           =2013-08-29
+  |Permission     =
+  |other_versions =
+  }}
+  
+  == {{int:license-header}} ==
+  {{self|Cc-zero}}
+  
+  [[Category:Polynomial functions]]

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_06_EST_B06004B
+product-selection: ACS_06_EST_B06004B|table||||B06004B|PLACE+OF+BIRTH+BY+RACE+%28BLACK+OR+AFRICAN+AMERICAN+ALONE%29+IN+THE+UNITED+STATES
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:24:44.337589

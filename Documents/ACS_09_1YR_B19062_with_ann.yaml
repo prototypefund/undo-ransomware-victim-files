@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_09_1YR_B19062
+product-selection: ACS_09_1YR_B19062|table||||B19062|AGGREGATE+WAGE+OR+SALARY+INCOME+IN+THE+PAST+12+MONTHS+%28IN+2009+INFLATION-ADJUSTED+DOLLARS%29+FOR+HOUSEHOLDS
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 10:44:53.316837

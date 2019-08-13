@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: DEC_00_SF3_QTP25
+product-selection: DEC_00_SF3_QTP25|table||||QT-P25|Class+of+Worker+by+Sex%2C+Place+of+Work%2C+and+Veteran+Status%3A+2000
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 13:14:44.417862

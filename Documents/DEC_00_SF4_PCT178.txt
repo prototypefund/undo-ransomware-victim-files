@@ -1,0 +1,13 @@
+PCT178
+IMPUTATION OF LANGUAGE SPOKEN AT HOME FOR THE POPULATION 5 YEARS AND OVER [7]
+
+Universe: Population 5 years and over
+
+NOTE: Data based on a sample. For information on confidentiality
+protection, sampling error, nonsampling error, definitions, and
+count corrections see
+http://www.census.gov/prod/cen2000/doc/sf4.pdf
+
+
+
+

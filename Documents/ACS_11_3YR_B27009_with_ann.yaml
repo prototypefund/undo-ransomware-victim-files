@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_11_3YR_B27009
+product-selection: ACS_11_3YR_B27009|table||||B27009|VA+HEALTH+CARE+BY+SEX+BY+AGE
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:04:17.264894

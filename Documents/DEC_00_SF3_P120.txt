@@ -1,0 +1,13 @@
+P120
+IMPUTATION OF SENSORY DISABILITY FOR THE CIVILIAN NONINSTITUTIONALIZED POPULATION 5 YEARS AND OVER [3]
+
+Universe: Civilian noninstitutionalized population 5 years and over
+
+NOTE: Data based on a sample except in P3, P4, H3, and H4. For
+information on confidentiality protection, sampling error,
+nonsampling error, definitions, and count corrections see
+http://www.census.gov/prod/cen2000/doc/sf3.pdf
+
+
+
+

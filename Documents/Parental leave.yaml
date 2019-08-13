@@ -1,0 +1,63 @@
+source: en.wikipedia.org
+file: Parental leave
+date: 2019-06-26 20:52:16.245713
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/903520032
+---
+source: commons.wikimedia.org
+file: "WORKING_MOTHERS_-_YOUR_SCHOOLS_CAN_HELP"_-_NARA_-_516193.jpg
+date: 2019-06-26 20:52:19.871073
+text: |
+  
+  == {{int:filedesc}} ==
+  {{NARA-image-full
+   | Title                   = "WORKING MOTHERS - YOUR SCHOOLS CAN HELP"
+   | Scope and content       = 
+   | General notes           = 
+   | ARC                     = 516193
+   | Local identifier        = 44-PA-2466
+   | Creator                 = Office for Emergency Management. Office of War Information. Domestic Operations Branch. Bureau of Special Services.	 (03/09/1943 - 09/15/1945)
+   | Author                  = 
+   | Place                   = 
+   | Location                = Still Picture Records Section, Special Media Archives Services Division (NWCS-S), National Archives at College Park, 8601 Adelphi Road, College Park, MD, 20740-6001.
+   | Date                    =  {{other date|between|1941|1945}}
+   | Record group            = Record Group 44: Records of the Office of Government Reports, 1932 - 1947
+   | Record group ARC        = 373
+   | Series                  = World War II Posters, compiled 1942 - 1945
+   | Series ARC              = 513498
+   | File unit               = 
+   | File unit ARC           = 
+   | Variant control numbers = NAIL Control Number: NWDNS-44-PA-2466
+   | TIFF                    =
+   | Other versions          = <gallery>
+  File:"WORKING_MOTHERS_-_YOUR_SCHOOLS_CAN_HELP"_-_NARA_-_516193.tif|.tif
+  File:"WORKING_MOTHERS_-_YOUR_SCHOOLS_CAN_HELP"_-_NARA_-_516193.jpg|.jpg
+  </gallery>
+  }}
+  
+  == {{int:license-header}} ==
+  {{NARA-cooperation}}
+  {{PD-USGov-Treasury}}
+  
+  [[Category:World War II posters from the United States]]
+  [[Category:Working mothers]]
+---
+source: commons.wikimedia.org
+file: Gender_equality_symbol_(clipart).png
+date: 2019-06-26 20:52:20.800687
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{pl|1=symbol równości płciowej}}
+  |date=2016-07-09
+  |source=https://openclipart.org/detail/254893/gender-equality-symbol
+  |author=https://openclipart.org/user-detail/worker
+  |permission=
+  |other versions={{vva|Igualtat de sexes.svg}}
+  }}
+  
+  =={{int:license-header}}==
+  {{PD-OpenClipart|url=[https://openclipart.org/detail/254893/gender-equality-symbol]}}
+  
+  [[Category:Feminism symbols]]
+  [[Category:Equality symbols]]
+  [[Category:Gender equality]]

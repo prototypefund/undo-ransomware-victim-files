@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_15_1YR_C17001D
+product-selection: ACS_15_1YR_C17001D|table||||C17001D|POVERTY+STATUS+IN+THE+PAST+12+MONTHS+BY+SEX+BY+AGE+%28ASIAN+ALONE%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:41:20.759676

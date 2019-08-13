@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_10_3YR_B10051I
+product-selection: ACS_10_3YR_B10051I|table||||B10051I|GRANDPARENTS+LIVING+WITH+OWN+GRANDCHILDREN+UNDER+18+YEARS+BY+RESPONSIBILITY+FOR+OWN+GRANDCHILDREN+AND+AGE+OF+GRANDPARENT+%28HISPANIC+OR+LATINO%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 12:01:32.512414

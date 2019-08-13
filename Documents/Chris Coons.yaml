@@ -1,0 +1,23 @@
+source: en.wikipedia.org
+file: Chris Coons
+date: 2019-06-26 14:29:59.954356
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/901065861
+---
+source: commons.wikimedia.org
+file: Chris_Coons_press_conference.jpg
+date: 2019-06-26 14:30:01.990757
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|1=United States Senator Chris Coons of Delaware}}
+  |Source=http://coons.senate.gov/
+  |Author=United States Senate
+  |Date=2011
+  |Permission=
+  |other_versions=
+  }}
+  
+  == {{int:license-header}} ==
+  {{PD-USGov-Congress}}
+  
+  [[Category:Chris Coons]]

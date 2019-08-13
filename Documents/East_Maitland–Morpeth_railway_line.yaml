@@ -1,0 +1,40 @@
+source: en.wikipedia.org
+file: East_Maitland–Morpeth_railway_line
+date: 2019-06-26 16:47:05.750472
+version: http://en.wikipedia.org/wiki/Special:Redirect/revision/879447509
+---
+source: commons.wikimedia.org
+file: Morpeth_railway_station_plan.jpg
+date: 2019-06-26 16:47:06.525444
+text: |
+  {{Information
+  |Description={{en|1=Layout of railway tracks at Morpeth station}}
+  |Source=Aust. Rail. Hist. Soc. Bulletin 9/53
+  |Author=Singleton, C.C.
+  |Date=1953
+  |Permission=
+  |other_versions=
+  }}
+  == {{int:license-header}} ==
+  {{PD-Australia}}
+  
+  [[Category:Morpeth, New South Wales]]
+  [[Category:Morpeth railway line, New South Wales]]
+---
+source: commons.wikimedia.org
+file: Morpeth_railway_map.jpg
+date: 2019-06-26 16:47:07.020304
+text: |
+  {{Information
+  |Description={{en|1=Map of Morpeth, NSW, railway}}
+  |Source=Aust. Rail. Hist. Soc. Bulletin 9/1953
+  |Author=Singleton, C.C.
+  |Date=1953
+  |Permission=
+  |other_versions=
+  }}
+  == {{int:license-header}} ==
+  {{PD-Australia}}
+  
+  [[Category:Maps of New South Wales railways]]
+  [[Category:Morpeth railway line, New South Wales]]

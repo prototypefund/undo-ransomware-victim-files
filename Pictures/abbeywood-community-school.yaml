@@ -1,0 +1,33 @@
+source: commons.wikimedia.org
+file: Abbeywood Community School.png
+date: 2019-06-14 14:35:33.467120
+text: |
+  == {{int:filedesc}} ==
+  {{Information
+  |Description={{en|Abbeywood Community School logo}}
+  |Source=http://www.abbeywoodschool.com/
+  |Date={{Original upload date|2015-08-18}}
+  |Author=Abbeywood Community School
+  |Permission=
+  |other_versions=
+  }}
+  
+  {{Convert to SVG|logo}}
+  
+  {{Opaque}}
+  
+  == {{int:license-header}} ==
+  {{PD-logo}}
+  <!-- Templates "Template:Template link with parameters" were used in the original description page as well , but do not appear to exist on commons. -->
+  
+  == {{Original upload log}} ==
+  {{original description|en.wikipedia|Abbeywood+Community+School.png}}
+  {| class="wikitable"
+  ! {{int:filehist-datetime}} !! {{int:filehist-dimensions}} !! {{int:filehist-user}} !! {{int:filehist-comment}}
+  |-
+  | 2015-08-18 20:32 || 594×46× (30748 bytes) || [[:en:User:Mark999|Mark999]] || ''<nowiki>Uploading a non-free logo using [[Wikipedia:File_Upload_Wizard|File Upload Wizard]]</nowiki>''
+  |}
+  
+  
+  
+  [[Category:Secondary schools in England]]

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_16_5YR_B07008
+product-selection: ACS_16_5YR_B07008|table||||B07008|GEOGRAPHICAL+MOBILITY+IN+THE+PAST+YEAR+BY+MARITAL+STATUS+FOR+CURRENT+RESIDENCE+IN+THE+UNITED+STATES
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 12:33:21.435107

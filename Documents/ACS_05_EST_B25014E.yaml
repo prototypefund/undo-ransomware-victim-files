@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_05_EST_B25014E
+product-selection: ACS_05_EST_B25014E|table||||B25014E|OCCUPANTS+PER+ROOM+%28NATIVE+HAWAIIAN+AND+OTHER+PACIFIC+ISLANDER+ALONE+HOUSEHOLDER%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:15:54.587584

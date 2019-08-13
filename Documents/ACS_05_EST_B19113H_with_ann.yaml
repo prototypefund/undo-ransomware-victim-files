@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_05_EST_B19113H
+product-selection: ACS_05_EST_B19113H|table||||B19113H|MEDIAN+FAMILY+INCOME+IN+THE+PAST+12+MONTHS+%28IN+2005+INFLATION-ADJUSTED+DOLLARS%29+%28WHITE+ALONE%2C+NOT+HISPANIC+OR+LATINO+HOUSEHOLDER%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-17 13:07:13.206584

@@ -1,0 +1,5 @@
+source: https://factfinder.census.gov
+file: ACS_08_1YR_B18101C
+product-selection: ACS_08_1YR_B18101C|table||||B18101C|AGE+BY+DISABILITY+STATUS+%28AMERICAN+INDIAN+AND+ALASKA+NATIVE+ALONE%29
+geo-selection: All Counties within United States and Puerto Rico~County~050~2018
+date: 2019-06-27 10:53:20.269730

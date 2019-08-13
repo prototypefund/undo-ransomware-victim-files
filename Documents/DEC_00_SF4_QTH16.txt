@@ -1,0 +1,21 @@
+QT-H16
+Selected Monthly Owner Costs as a Percentage of Household Income in 1999: 2000
+
+NOTE: Data based on a sample. For information on confidentiality
+protection, sampling error, nonsampling error, definitions, and
+count corrections see
+http://www.census.gov/prod/cen2000/doc/sf4.pdf
+
+
+
+
+Source: U.S. Census Bureau, Census 2000 Summary File 4, Matrix
+HCT82.
+
+
+
+
+(X) Not applicable.
+
+
+

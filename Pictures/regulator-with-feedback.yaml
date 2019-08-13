@@ -1,0 +1,23 @@
+source: commons.wikimedia.org
+file: Regulator with feedback.png
+date: 2019-06-13 16:52:04.776432
+text: |
+  =={{int:filedesc}}==
+  {{Information
+  |description={{en|1=A regulator ''R'' adjusts the input to a system ''T'' so the monitored essential variables ''E'' are held to set-point values ''S'' that result in the desired system output despite disturbances ''D''}}
+  |date=2014-06-20 09:54:03
+  |source={{own}}
+  |author=[[User:Brews ohare|Brews ohare]]
+  |permission=
+  |other_versions={{SVG|diagram}}
+  }}
+  
+  =={{int:license-header}}==
+  {{self|cc-zero}}
+  
+  [[Category:Control systems]]
+  [[Category:Cybernetics]]
+  [[Category:Control theory block diagrams]]
+  [[Category:Negative feedback]]
+  [[Category:Positive feedback]]
+  [[Category:Feedback loops]]
