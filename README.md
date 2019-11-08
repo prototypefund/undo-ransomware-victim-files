@@ -38,3 +38,13 @@ That is, they represent a user just placing files where Windows suggests
 placing them, and doing so without exception. Since Windows 7, these paths
 are identical on localized copies of Windows – only the name displayed in
 the UI is different.
+
+# Acknowledgements
+
+This dataset was created for the
+[Undo Ransomware](https://prototypefund.de/project/undo-von-ransomware-mittels-machine-learning/)
+Prototype Fund project.
+
+![Sponsored by the Federal Ministry of Education and Research](bmbf.png)
+![A Prototype Fund Project](ptf.png)
+![Prototype Fund is an Open Knowledge Foundation Project](okfn.png)
